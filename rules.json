@@ -317,6 +317,11 @@
       "label": "腾讯推送 SDK"
     },
     {
+      "domain": "accnin.fun",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
+    },
+    {
       "domain": "acg.lol",
       "match": "suffix",
       "label": "ACG.LOL 二次元图床"
@@ -390,6 +395,11 @@
       "domain": "afafb.com",
       "match": "suffix",
       "label": "出海休闲游戏聚合服务"
+    },
+    {
+      "domain": "ahrefs.com",
+      "match": "suffix",
+      "label": "Ahrefs SEO 分析"
     },
     {
       "domain": "aixxycode.id",
@@ -592,6 +602,11 @@
       "label": "DevPlay游戏"
     },
     {
+      "domain": "bizible.com",
+      "match": "suffix",
+      "label": "Adobe Marketo (Bizible)"
+    },
+    {
       "domain": "bluetracktor.com",
       "match": "suffix",
       "label": "灰产推广 / 流量拦截"
@@ -752,6 +767,11 @@
       "label": "Mailchimp 邮件营销"
     },
     {
+      "domain": "cili01.top",
+      "match": "suffix",
+      "label": "盗版影视 / 磁力资源站"
+    },
+    {
       "domain": "cilimao.im",
       "match": "suffix",
       "label": "磁力猫 BT 搜索"
@@ -782,6 +802,11 @@
       "label": "微软云配置服务"
     },
     {
+      "domain": "cloudflareinsights.com",
+      "match": "suffix",
+      "label": "Cloudflare Web 分析"
+    },
+    {
       "domain": "cmctelecom.vn",
       "match": "suffix",
       "label": "CMC Telecom 越南测速"
@@ -792,6 +817,26 @@
       "label": "流氓弹窗 / 广告推广"
     },
     {
+      "domain": "comic18-ms4.space",
+      "match": "suffix",
+      "label": "18-Comic 禁漫天堂"
+    },
+    {
+      "domain": "comic18-ss2.space",
+      "match": "suffix",
+      "label": "18-Comic 禁漫天堂"
+    },
+    {
+      "domain": "comic18-ss4.space",
+      "match": "suffix",
+      "label": "18-Comic 禁漫天堂"
+    },
+    {
+      "domain": "comic18j-hbd.space",
+      "match": "suffix",
+      "label": "18-Comic 禁漫天堂"
+    },
+    {
       "domain": "company-target.com",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
@@ -800,6 +845,11 @@
       "domain": "consumer.cloud.gist.build",
       "match": "exact",
       "label": "Statsig-SaaS工具"
+    },
+    {
+      "domain": "contentsquare.net",
+      "match": "suffix",
+      "label": "Contentsquare 数字体验分析"
     },
     {
       "domain": "cookiebot.com",
@@ -942,6 +992,11 @@
       "label": "游戏新闻"
     },
     {
+      "domain": "doushouy.com",
+      "match": "suffix",
+      "label": "盗版网络小说图床"
+    },
+    {
       "domain": "dr44kkm.com",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
@@ -1057,6 +1112,11 @@
       "label": "ExoClick 广告联盟"
     },
     {
+      "domain": "f1cprts.com",
+      "match": "suffix",
+      "label": "灰产推广 / 流量拦截"
+    },
+    {
       "domain": "f7z7y6.top",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
@@ -1080,6 +1140,16 @@
       "domain": "faro-collector-prod-us-west-0.grafana.net",
       "match": "exact",
       "label": "商业广告"
+    },
+    {
+      "domain": "fast09.com",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
+    },
+    {
+      "domain": "fe13cprts.com",
+      "match": "suffix",
+      "label": "灰产推广 / 流量拦截"
     },
     {
       "domain": "featureassets.org",
@@ -1180,6 +1250,11 @@
       "domain": "geck883.space",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
+    },
+    {
+      "domain": "getdailyart.com",
+      "match": "suffix",
+      "label": "DailyArt 每日艺术"
     },
     {
       "domain": "getyourguide.com",
@@ -1312,6 +1387,11 @@
       "label": "盗版影视 CDN"
     },
     {
+      "domain": "heapanalytics.com",
+      "match": "suffix",
+      "label": "Heap 全自动用户分析"
+    },
+    {
       "domain": "hembed.com",
       "match": "suffix",
       "label": "Hembed 视频解析下载"
@@ -1420,6 +1500,11 @@
       "domain": "huangguo.com",
       "match": "suffix",
       "label": "黄果影视"
+    },
+    {
+      "domain": "huitu.com",
+      "match": "suffix",
+      "label": "汇图网"
     },
     {
       "domain": "i.jads.co",
@@ -1775,6 +1860,11 @@
       "domain": "midjourney.ghost.io",
       "match": "exact",
       "label": "Midjourney 官方博客"
+    },
+    {
+      "domain": "mitecdn.com",
+      "match": "suffix",
+      "label": "成人流媒体 CDN"
     },
     {
       "domain": "mixpanel.com",
@@ -2247,7 +2337,17 @@
       "label": "成人流媒体"
     },
     {
+      "domain": "s8cprts.com",
+      "match": "suffix",
+      "label": "灰产推广 / 流量拦截"
+    },
+    {
       "domain": "saawsedge.com",
+      "match": "suffix",
+      "label": "成人在线直播平台"
+    },
+    {
+      "domain": "sacdnssedge.com",
       "match": "suffix",
       "label": "成人在线直播平台"
     },
@@ -2290,6 +2390,11 @@
       "domain": "sda1.dev",
       "match": "suffix",
       "label": "流浪图床 (sda1.dev)"
+    },
+    {
+      "domain": "se15cprts.com",
+      "match": "suffix",
+      "label": "灰产推广 / 流量拦截"
     },
     {
       "domain": "sehu136.cc",
@@ -2335,6 +2440,16 @@
       "domain": "smartadserver.com",
       "match": "suffix",
       "label": "Equativ (SmartAd) 广告"
+    },
+    {
+      "domain": "smooch.io",
+      "match": "suffix",
+      "label": "Zendesk Sunshine (Smooch)"
+    },
+    {
+      "domain": "snapchat.com",
+      "match": "suffix",
+      "label": "Snapchat"
     },
     {
       "domain": "snapkit.com",
@@ -2423,6 +2538,11 @@
     },
     {
       "domain": "stripchat.be",
+      "match": "suffix",
+      "label": "成人在线直播平台"
+    },
+    {
+      "domain": "stripchat.cam",
       "match": "suffix",
       "label": "成人在线直播平台"
     },
@@ -2612,6 +2732,11 @@
       "label": "Ticketlink 韩国票务"
     },
     {
+      "domain": "tiktok.com",
+      "match": "suffix",
+      "label": "TikTok"
+    },
+    {
       "domain": "tiktokpangle.us",
       "match": "suffix",
       "label": "商业广告网络"
@@ -2675,6 +2800,16 @@
       "domain": "tremorhub.com",
       "match": "suffix",
       "label": "Nexxen (Tremor) 视频广告"
+    },
+    {
+      "domain": "trustarc.com",
+      "match": "suffix",
+      "label": "TrustArc (TRUSTe) 隐私认证"
+    },
+    {
+      "domain": "truste.com",
+      "match": "suffix",
+      "label": "TrustArc (TRUSTe) 隐私认证"
     },
     {
       "domain": "tsyndicate.com",
@@ -2797,6 +2932,11 @@
       "label": "在线盗版影视"
     },
     {
+      "domain": "web-fastlab.sbs",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
+    },
+    {
       "domain": "web.readest.com",
       "match": "exact",
       "label": "电子书"
@@ -2825,6 +2965,11 @@
       "domain": "whiteboard.ms",
       "match": "suffix",
       "label": "微软协作白板 (Whiteboard)"
+    },
+    {
+      "domain": "wikimedia.org",
+      "match": "suffix",
+      "label": "维基媒体 (Wikimedia)"
     },
     {
       "domain": "wmzfylgdsz.com",
@@ -2922,6 +3067,11 @@
       "label": "黑灰产导航 / 资源导流"
     },
     {
+      "domain": "xiaoheihe.cn",
+      "match": "suffix",
+      "label": "小黑盒游戏社区"
+    },
+    {
       "domain": "xingjushidai.cn",
       "match": "suffix",
       "label": "星聚时代推广中继"
@@ -2950,6 +3100,11 @@
       "domain": "xr71.cc",
       "match": "suffix",
       "label": "盗版影视 / 成人视频"
+    },
+    {
+      "domain": "xunkan010.top",
+      "match": "suffix",
+      "label": "盗版影视 / 磁力资源站"
     },
     {
       "domain": "xx9.com",
