@@ -2,6 +2,11 @@
   "version": 1,
   "rules": [
     {
+      "domain": "00api-agy5u.com",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
+    },
+    {
       "domain": "0325api.f38khx.com",
       "match": "suffix",
       "label": "博彩"
@@ -25,6 +30,11 @@
       "domain": "103.4.96.0/22",
       "match": "cidr",
       "label": "Meta-CDN"
+    },
+    {
+      "domain": "1031.academy",
+      "match": "suffix",
+      "label": "商业广告 / 埋点追踪"
     },
     {
       "domain": "1083.city",
@@ -107,6 +117,11 @@
       "label": "RhythmOne (1Rx) 广告"
     },
     {
+      "domain": "2026copy.com",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
+    },
+    {
       "domain": "204.15.20.0/22",
       "match": "cidr",
       "label": "Meta-CDN"
@@ -115,6 +130,11 @@
       "domain": "2401:db00::/32",
       "match": "cidr",
       "label": "Meta-CDN"
+    },
+    {
+      "domain": "254y.com",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
     },
     {
       "domain": "2620:0:1c00::/40",
@@ -212,6 +232,11 @@
       "label": "51吃瓜 / 黑料社区"
     },
     {
+      "domain": "52jxb8f5upemnbbe1ygu.com",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
+    },
+    {
       "domain": "56tvc.com",
       "match": "suffix",
       "label": "盗版影视 / 视频分发 CDN"
@@ -237,9 +262,24 @@
       "label": "Meta-CDN"
     },
     {
+      "domain": "57555e.com",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
+    },
+    {
       "domain": "57duanju.net",
       "match": "suffix",
       "label": "57短剧 / 在线短剧"
+    },
+    {
+      "domain": "5g42.top",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
+    },
+    {
+      "domain": "5jttx.com",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
     },
     {
       "domain": "5rx.vh1acxsv.com",
@@ -287,6 +327,11 @@
       "label": "灰产弹窗 / 流量中继"
     },
     {
+      "domain": "6qamzr1d2.com",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
+    },
+    {
       "domain": "74.119.76.0/22",
       "match": "cidr",
       "label": "Meta-CDN"
@@ -312,6 +357,11 @@
       "label": "盗版影视 / IPTV 切片"
     },
     {
+      "domain": "8egf73csh.com",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
+    },
+    {
       "domain": "91cg1.com",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
@@ -322,12 +372,22 @@
       "label": "成人流媒体"
     },
     {
+      "domain": "91porny.com",
+      "match": "suffix",
+      "label": "91 成人视频"
+    },
+    {
       "domain": "91splt.app",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
     },
     {
       "domain": "97img.com",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
+    },
+    {
+      "domain": "97vh8h19.com",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
     },
@@ -377,7 +437,17 @@
       "label": "移动归因"
     },
     {
+      "domain": "abtasty.com",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
+    },
+    {
       "domain": "access-zh-edges.com",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
+    },
+    {
+      "domain": "access-zh-edges.net",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
     },
@@ -447,6 +517,11 @@
       "label": "商业广告 / 埋点追踪"
     },
     {
+      "domain": "adrta.com",
+      "match": "suffix",
+      "label": "Pixalate 广告反作弊"
+    },
+    {
       "domain": "adsafeprotected.com",
       "match": "suffix",
       "label": "商业广告 / 埋点追踪"
@@ -460,6 +535,21 @@
       "domain": "adsdk1.cc",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
+    },
+    {
+      "domain": "adsdk3.cc",
+      "match": "suffix",
+      "label": "商业广告 / 埋点追踪"
+    },
+    {
+      "domain": "adsdk4.cc",
+      "match": "suffix",
+      "label": "商业广告 / 埋点追踪"
+    },
+    {
+      "domain": "adsdk5.cc",
+      "match": "suffix",
+      "label": "商业广告 / 埋点追踪"
     },
     {
       "domain": "adsgateway.net",
@@ -502,6 +592,21 @@
       "label": "出海休闲游戏聚合服务"
     },
     {
+      "domain": "afengyue.com",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
+    },
+    {
+      "domain": "agoda.com",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
+    },
+    {
+      "domain": "agoda.net",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
+    },
+    {
       "domain": "ahrefs.com",
       "match": "suffix",
       "label": "Ahrefs SEO 分析"
@@ -510,6 +615,11 @@
       "domain": "aigirlfriendnetwork.com",
       "match": "suffix",
       "label": "流氓弹窗 / 诱导推广"
+    },
+    {
+      "domain": "airav.live",
+      "match": "suffix",
+      "label": "AIRAV 成人在线直播"
     },
     {
       "domain": "airbridge.io",
@@ -522,6 +632,16 @@
       "label": "节点测速 / Speedtest"
     },
     {
+      "domain": "aj1987.online",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
+    },
+    {
+      "domain": "alcmpn.com",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
+    },
+    {
       "domain": "alexametrics.com",
       "match": "suffix",
       "label": "商业广告 / 埋点追踪"
@@ -530,6 +650,11 @@
       "domain": "algolianet.com",
       "match": "suffix",
       "label": "Algolia 搜索引擎"
+    },
+    {
+      "domain": "allpher.com",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
     },
     {
       "domain": "allstarcluster.com",
@@ -547,6 +672,11 @@
       "label": "灰产弹窗 / 流量中继"
     },
     {
+      "domain": "amplitudeexperiment.com",
+      "match": "suffix",
+      "label": "Amplitude 行为分析/实验"
+    },
+    {
       "domain": "and.ymkvwilp.com",
       "match": "suffix",
       "label": "黑料吃瓜"
@@ -555,6 +685,16 @@
       "domain": "androidplatform.net",
       "match": "suffix",
       "label": "Android 系统服务"
+    },
+    {
+      "domain": "anime-sharing.com",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
+    },
+    {
+      "domain": "animeapp.org",
+      "match": "suffix",
+      "label": "动漫播放应用"
     },
     {
       "domain": "announcekit.app",
@@ -647,6 +787,11 @@
       "label": "商业广告"
     },
     {
+      "domain": "appvillis.com",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
+    },
+    {
       "domain": "aralego.com",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
@@ -660,6 +805,11 @@
       "domain": "as6453.net",
       "match": "suffix",
       "label": "Tata Communications 骨干网测速"
+    },
+    {
+      "domain": "asianfanfics.com",
+      "match": "suffix",
+      "label": "Asianfanfics 亚洲同人小说"
     },
     {
       "domain": "assets.apollo.io",
@@ -695,6 +845,11 @@
       "domain": "avast.com",
       "match": "suffix",
       "label": "Avast杀毒软件"
+    },
+    {
+      "domain": "avfan.com",
+      "match": "suffix",
+      "label": "AVFan 成人视频"
     },
     {
       "domain": "avking.xyz",
@@ -747,9 +902,34 @@
       "label": "巴塞罗那市政厅"
     },
     {
+      "domain": "beatport.com",
+      "match": "suffix",
+      "label": "Beatport 电子音乐平台"
+    },
+    {
+      "domain": "bestcontentfood.top",
+      "match": "suffix",
+      "label": "流氓弹窗 / 流量中继"
+    },
+    {
+      "domain": "bestcontentindustry.top",
+      "match": "suffix",
+      "label": "流氓弹窗 / 流量中继"
+    },
+    {
+      "domain": "bestcontentsystem.top",
+      "match": "suffix",
+      "label": "流氓弹窗 / 流量中继"
+    },
+    {
       "domain": "beyondwickedmapping.org",
       "match": "suffix",
       "label": "流氓弹窗 / 诱导推广"
+    },
+    {
+      "domain": "bfmio.com",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
     },
     {
       "domain": "bgi1993uht.vip",
@@ -762,7 +942,17 @@
       "label": "灰产弹窗 / 流量中继"
     },
     {
+      "domain": "bidobido.xyz",
+      "match": "suffix",
+      "label": "成人动漫 / 影视"
+    },
+    {
       "domain": "bidr.io",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
+    },
+    {
+      "domain": "bidswitch.com",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
     },
@@ -787,6 +977,11 @@
       "label": "Adobe Marketo (Bizible)"
     },
     {
+      "domain": "bjdxs.cc",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
+    },
+    {
       "domain": "bluetracktor.com",
       "match": "suffix",
       "label": "灰产推广 / 流量拦截"
@@ -800,6 +995,16 @@
       "domain": "bmtrcs.com",
       "match": "suffix",
       "label": "商业广告网络"
+    },
+    {
+      "domain": "bngprm.com",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
+    },
+    {
+      "domain": "bngpst.com",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
     },
     {
       "domain": "bnw3w.com",
@@ -822,14 +1027,29 @@
       "label": "灰产弹窗 / 流量中继"
     },
     {
+      "domain": "bomtoon.com",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
+    },
+    {
       "domain": "boyfriendtv.com",
       "match": "suffix",
       "label": "BoyfriendTV 同志影视"
     },
     {
+      "domain": "bq9.net",
+      "match": "suffix",
+      "label": "盗版网络小说阅读"
+    },
+    {
       "domain": "branch.io",
       "match": "suffix",
       "label": "Branch 深度链接"
+    },
+    {
+      "domain": "braze-images.com",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
     },
     {
       "domain": "browser-intake-us5-datadoghq.com",
@@ -840,6 +1060,11 @@
       "domain": "bstage.in",
       "match": "suffix",
       "label": "b.stage 粉丝社区"
+    },
+    {
+      "domain": "btzero.net",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
     },
     {
       "domain": "bugsnag.com",
@@ -872,9 +1097,19 @@
       "label": "灰产弹窗 / 流量中继"
     },
     {
+      "domain": "byzixibyvusagi.com",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
+    },
+    {
       "domain": "c.go-mpulse.net",
       "match": "exact",
       "label": "商业广告"
+    },
+    {
+      "domain": "cambaddies.com",
+      "match": "suffix",
+      "label": "商业广告 / 埋点追踪"
     },
     {
       "domain": "campfirecroutondecorator.com",
@@ -892,6 +1127,11 @@
       "label": "AI 虚拟伴侣"
     },
     {
+      "domain": "cardinalcommerce.com",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
+    },
+    {
       "domain": "casalemedia.com",
       "match": "suffix",
       "label": "Index Exchange (Casale) 广告"
@@ -900,6 +1140,11 @@
       "domain": "castbox.fm",
       "match": "suffix",
       "label": "Castbox 播客"
+    },
+    {
+      "domain": "catai.wiki",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
     },
     {
       "domain": "catbox.moe",
@@ -992,6 +1237,11 @@
       "label": "流氓弹窗"
     },
     {
+      "domain": "change.org",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
+    },
+    {
       "domain": "chaos.com",
       "match": "suffix",
       "label": "Chaos (V-Ray)"
@@ -1000,6 +1250,11 @@
       "domain": "chapturist.com",
       "match": "suffix",
       "label": "成人在线直播平台"
+    },
+    {
+      "domain": "chaturbate.com",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
     },
     {
       "domain": "chengren18.com",
@@ -1015,6 +1270,21 @@
       "domain": "chimpstatic.com",
       "match": "suffix",
       "label": "Mailchimp 邮件营销"
+    },
+    {
+      "domain": "chmsrv.com",
+      "match": "suffix",
+      "label": "ExoClick 广告联盟"
+    },
+    {
+      "domain": "chnsrv.com",
+      "match": "suffix",
+      "label": "ExoClick 广告联盟"
+    },
+    {
+      "domain": "cili001.com",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
     },
     {
       "domain": "cili01.top",
@@ -1050,6 +1320,21 @@
       "domain": "cmctelecom.vn",
       "match": "suffix",
       "label": "CMC Telecom 越南测速"
+    },
+    {
+      "domain": "cn5566.com",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
+    },
+    {
+      "domain": "cnouyi.pizza",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
+    },
+    {
+      "domain": "cococut.net",
+      "match": "suffix",
+      "label": "CoCoCut 视频下载器"
     },
     {
       "domain": "coconts.com",
@@ -1102,6 +1387,11 @@
       "label": "Contentsquare 数字体验分析"
     },
     {
+      "domain": "contentstack.io",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
+    },
+    {
       "domain": "cookiebot.com",
       "match": "suffix",
       "label": "Cookiebot 隐私合规"
@@ -1152,12 +1442,22 @@
       "label": "灰产弹窗 / 流量中继"
     },
     {
+      "domain": "crwdcntrl.net",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
+    },
+    {
       "domain": "cutwater39.com",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
     },
     {
       "domain": "cyapi.cn",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
+    },
+    {
+      "domain": "cycani.org",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
     },
@@ -1202,6 +1502,11 @@
       "label": "Dark Reader"
     },
     {
+      "domain": "darmowy-torrent.pl",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
+    },
+    {
       "domain": "data-feed.flightradar24.com",
       "match": "suffix",
       "label": "航班雷达"
@@ -1220,6 +1525,11 @@
       "domain": "datadome.co",
       "match": "suffix",
       "label": "DataDome 机器人防御"
+    },
+    {
+      "domain": "datagrail.io",
+      "match": "suffix",
+      "label": "DataGrail 隐私合规"
     },
     {
       "domain": "dciwx.com",
@@ -1252,9 +1562,24 @@
       "label": "灰产弹窗 / 流量中继"
     },
     {
+      "domain": "dkckktcl.cc",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
+    },
+    {
       "domain": "dl1.wn01.download",
       "match": "suffix",
       "label": "绅士漫画"
+    },
+    {
+      "domain": "dm539.com",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
+    },
+    {
+      "domain": "dm569.com",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
     },
     {
       "domain": "doceree.com",
@@ -1265,6 +1590,11 @@
       "domain": "docstorio.com",
       "match": "suffix",
       "label": "DocStorio 文档管理"
+    },
+    {
+      "domain": "donmai.us",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
     },
     {
       "domain": "doppiocdn.com",
@@ -1300,6 +1630,11 @@
       "domain": "dotesports.com",
       "match": "suffix",
       "label": "游戏新闻"
+    },
+    {
+      "domain": "dotomi.com",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
     },
     {
       "domain": "doubleverify.com",
@@ -1357,14 +1692,14 @@
       "label": "灰产短链 / 诱导跳转"
     },
     {
+      "domain": "ec766.com",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
+    },
+    {
       "domain": "ecosia.org",
       "match": "suffix",
       "label": "搜索引擎"
-    },
-    {
-      "domain": "edge-hls.growcdnssedge.com",
-      "match": "suffix",
-      "label": "成人流媒体"
     },
     {
       "domain": "edgeoneimg.cdn.sn",
@@ -1397,12 +1732,42 @@
       "label": "灰产弹窗 / 流量中继"
     },
     {
+      "domain": "emoyilab.com",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
+    },
+    {
+      "domain": "engagelab.cc",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
+    },
+    {
+      "domain": "enwwlcrxi.com",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
+    },
+    {
       "domain": "ero-labs.services",
       "match": "suffix",
       "label": "成人R18手游"
     },
     {
+      "domain": "eroarcade.com",
+      "match": "suffix",
+      "label": "商业广告 / 埋点追踪"
+    },
+    {
+      "domain": "errortrace.dev",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
+    },
+    {
       "domain": "etahub.com",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
+    },
+    {
+      "domain": "eth3af7b.com",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
     },
@@ -1427,6 +1792,11 @@
       "label": "ExoClick 广告联盟"
     },
     {
+      "domain": "exelator.com",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
+    },
+    {
       "domain": "exlibrisgroup.com",
       "match": "suffix",
       "label": "Ex Libris 高校图书馆系统"
@@ -1440,6 +1810,11 @@
       "domain": "exosrv.com",
       "match": "suffix",
       "label": "ExoClick 广告联盟"
+    },
+    {
+      "domain": "eyeo.com",
+      "match": "suffix",
+      "label": "Adblock Plus (Eyeo)"
     },
     {
       "domain": "f1cprts.com",
@@ -1518,6 +1893,11 @@
     },
     {
       "domain": "fast24.xyz",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
+    },
+    {
+      "domain": "fastcloud-tr-jd.com",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
     },
@@ -1602,12 +1982,27 @@
       "label": "成人图床 / 影视图床"
     },
     {
+      "domain": "files.fm",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
+    },
+    {
       "domain": "filesmonster.com",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
     },
     {
       "domain": "filesusr.com",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
+    },
+    {
+      "domain": "filetracker.xyz",
+      "match": "suffix",
+      "label": "商业广告 / 埋点追踪"
+    },
+    {
+      "domain": "fk392.top",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
     },
@@ -1627,6 +2022,16 @@
       "label": "Fluct (Adingo) 日本广告"
     },
     {
+      "domain": "flux-cdn.com",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
+    },
+    {
+      "domain": "flux.jp",
+      "match": "suffix",
+      "label": "FLUX 日本程序化广告"
+    },
+    {
       "domain": "fluxtrck.site",
       "match": "suffix",
       "label": "推广联盟追踪"
@@ -1635,6 +2040,11 @@
       "domain": "flyscoot.com",
       "match": "suffix",
       "label": "酷航 (Scoot)"
+    },
+    {
+      "domain": "foresee.com",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
     },
     {
       "domain": "forter.com",
@@ -1677,12 +2087,32 @@
       "label": "灰产弹窗 / 流量中继"
     },
     {
+      "domain": "fyber.com",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
+    },
+    {
       "domain": "g123.jp",
       "match": "suffix",
       "label": "G123 游戏平台"
     },
     {
       "domain": "gagdgi.bar",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
+    },
+    {
+      "domain": "gameanalytics.com",
+      "match": "suffix",
+      "label": "GameAnalytics 游戏数据分析"
+    },
+    {
+      "domain": "gamesir.com",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
+    },
+    {
+      "domain": "gaoqingw.com",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
     },
@@ -1695,6 +2125,11 @@
       "domain": "gay69.stream",
       "match": "suffix",
       "label": "成人垂直类"
+    },
+    {
+      "domain": "gbitt.info",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
     },
     {
       "domain": "geck883.space",
@@ -1737,6 +2172,16 @@
       "label": "Giphy 动图"
     },
     {
+      "domain": "girls-h.info",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
+    },
+    {
+      "domain": "girls.chat",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
+    },
+    {
       "domain": "gist.build",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
@@ -1755,11 +2200,6 @@
       "domain": "go.greentrafsa.com",
       "match": "suffix",
       "label": "流氓弹窗"
-    },
-    {
-      "domain": "go.janusaent.com",
-      "match": "suffix",
-      "label": "色情弹窗广告"
     },
     {
       "domain": "go.marzaent.com",
@@ -1812,6 +2252,11 @@
       "label": "灰产弹窗 / 流量中继"
     },
     {
+      "domain": "gos-gsp.io",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
+    },
+    {
       "domain": "gotinder.com",
       "match": "suffix",
       "label": "Tinder"
@@ -1847,12 +2292,22 @@
       "label": "灰产弹窗 / 流量中继"
     },
     {
+      "domain": "gregariousstretch.com",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
+    },
+    {
       "domain": "grindr.com",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
     },
     {
       "domain": "grindr.mobi",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
+    },
+    {
+      "domain": "growcdnssedge.com",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
     },
@@ -1865,6 +2320,11 @@
       "domain": "guidepaparazzisurface.com",
       "match": "suffix",
       "label": "流氓弹窗 / 恶意诱导"
+    },
+    {
+      "domain": "guilfordjournals.com",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
     },
     {
       "domain": "hamp4.com",
@@ -1902,6 +2362,11 @@
       "label": "Hembed 视频解析下载"
     },
     {
+      "domain": "hentaiclub.net",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
+    },
+    {
       "domain": "hervo.top",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
@@ -1920,6 +2385,11 @@
       "domain": "hgtv002.com",
       "match": "suffix",
       "label": "成人漫剧"
+    },
+    {
+      "domain": "hibaowen.com",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
     },
     {
       "domain": "hihl36.xyz",
@@ -1997,6 +2467,11 @@
       "label": "Hotjar 用户行为热力图"
     },
     {
+      "domain": "howemilitary.com",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
+    },
+    {
       "domain": "hr86a.com",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
@@ -2027,6 +2502,11 @@
       "label": "黄果影视"
     },
     {
+      "domain": "huangguo.top",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
+    },
+    {
       "domain": "huangguoai.com",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
@@ -2055,6 +2535,11 @@
       "domain": "i18n-pglstatp.com",
       "match": "suffix",
       "label": "商业广告素材"
+    },
+    {
+      "domain": "ibgzqylx.cc",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
     },
     {
       "domain": "icanhazip.com",
@@ -2092,6 +2577,11 @@
       "label": "灰产弹窗 / 流量中继"
     },
     {
+      "domain": "iiooxx.rocks",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
+    },
+    {
       "domain": "ijdesign.org",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
@@ -2100,6 +2590,11 @@
       "domain": "ilearn.ust.hk",
       "match": "exact",
       "label": "香港科技大学"
+    },
+    {
+      "domain": "img-e.com",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
     },
     {
       "domain": "img.lvv2.com",
@@ -2132,6 +2627,11 @@
       "label": "ImmoScout24 德国房产"
     },
     {
+      "domain": "impactcdn.com",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
+    },
+    {
       "domain": "impression.link",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
@@ -2153,6 +2653,11 @@
     },
     {
       "domain": "ingage.tech",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
+    },
+    {
+      "domain": "inmobicdn.net",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
     },
@@ -2197,6 +2702,11 @@
       "label": "灰产弹窗 / 流量中继"
     },
     {
+      "domain": "ipv6tracker.ru",
+      "match": "suffix",
+      "label": "商业广告 / 埋点追踪"
+    },
+    {
       "domain": "ipwho.is",
       "match": "suffix",
       "label": "IP检测"
@@ -2207,7 +2717,22 @@
       "label": "流氓弹窗 / 动态中继"
     },
     {
+      "domain": "iyoudui.cn",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
+    },
+    {
       "domain": "j03og.cc",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
+    },
+    {
+      "domain": "j1931xxx.cc",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
+    },
+    {
+      "domain": "janusaent.com",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
     },
@@ -2267,6 +2792,11 @@
       "label": "原创自拍成人色情"
     },
     {
+      "domain": "jjzdsq.com",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
+    },
+    {
       "domain": "jlmaster.online",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
@@ -2302,6 +2832,11 @@
       "label": "黑灰产动态流量分发"
     },
     {
+      "domain": "jsayx926.vip",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
+    },
+    {
       "domain": "jsllqzj.com",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
@@ -2315,6 +2850,16 @@
       "domain": "juicyads.com",
       "match": "suffix",
       "label": "成人广告联盟"
+    },
+    {
+      "domain": "juicyads.me",
+      "match": "suffix",
+      "label": "JuicyAds 成人广告联盟"
+    },
+    {
+      "domain": "junglefrog.com",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
     },
     {
       "domain": "jy-kexin.com",
@@ -2343,6 +2888,11 @@
     },
     {
       "domain": "kanunu8.com",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
+    },
+    {
+      "domain": "karing.app",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
     },
@@ -2377,7 +2927,17 @@
       "label": "灰产弹窗 / 流量中继"
     },
     {
+      "domain": "kodif.io",
+      "match": "suffix",
+      "label": "Kodif 自动化客服 AI"
+    },
+    {
       "domain": "ktgyslaux8.com",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
+    },
+    {
+      "domain": "kvk9ddtbapple.com",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
     },
@@ -2447,6 +3007,11 @@
       "label": "灰产社区"
     },
     {
+      "domain": "linksynergy.com",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
+    },
+    {
       "domain": "listdl.com",
       "match": "suffix",
       "label": "ListDL 下载服务"
@@ -2470,6 +3035,11 @@
       "domain": "logging.devsisters.cloud",
       "match": "suffix",
       "label": "Devsisters游戏"
+    },
+    {
+      "domain": "loggly.com",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
     },
     {
       "domain": "loo3laej.com",
@@ -2552,9 +3122,19 @@
       "label": "漫蛙 Manwa 漫画"
     },
     {
+      "domain": "manwa.one",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
+    },
+    {
       "domain": "martted.com",
       "match": "suffix",
       "label": "成人广告"
+    },
+    {
+      "domain": "maticooads.com",
+      "match": "suffix",
+      "label": "Matico 移动广告联盟"
     },
     {
       "domain": "mayzaent.com",
@@ -2570,11 +3150,6 @@
       "domain": "mcafee.com",
       "match": "suffix",
       "label": "McAfee 杀毒软件"
-    },
-    {
-      "domain": "media-hls.growcdnssedge.com",
-      "match": "suffix",
-      "label": "成人视频图床"
     },
     {
       "domain": "media.net",
@@ -2677,6 +3252,26 @@
       "label": "MarketMetrics 广告追踪"
     },
     {
+      "domain": "mseeowpm.pro",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
+    },
+    {
+      "domain": "mseeowpm1.xyz",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
+    },
+    {
+      "domain": "mseeowpm2.cc",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
+    },
+    {
+      "domain": "mseeowpma.cc",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
+    },
+    {
       "domain": "mtgglobals.com",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
@@ -2735,6 +3330,11 @@
       "domain": "myip.com",
       "match": "suffix",
       "label": "IP检测"
+    },
+    {
+      "domain": "myreadingmanga.info",
+      "match": "suffix",
+      "label": "商业广告 / 埋点追踪"
     },
     {
       "domain": "mywebcamroom.com",
@@ -2797,7 +3397,22 @@
       "label": "博彩"
     },
     {
+      "domain": "niaopic.com",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
+    },
+    {
+      "domain": "njk6.vip",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
+    },
+    {
       "domain": "nktrdr.com",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
+    },
+    {
+      "domain": "nnpic.xyz",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
     },
@@ -2820,6 +3435,16 @@
       "domain": "novage.com.ua",
       "match": "suffix",
       "label": "盗版 P2P 源"
+    },
+    {
+      "domain": "noxiaohao.com",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
+    },
+    {
+      "domain": "npr.org",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
     },
     {
       "domain": "nr-data.net",
@@ -2862,12 +3487,32 @@
       "label": "灰产弹窗 / 流量中继"
     },
     {
+      "domain": "oaeyitak.cc",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
+    },
+    {
+      "domain": "obsidian.md",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
+    },
+    {
+      "domain": "ojrq.net",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
+    },
+    {
       "domain": "okex.org",
       "match": "suffix",
       "label": "OKX 欧易钱包"
     },
     {
       "domain": "okx-httpdns.com",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
+    },
+    {
+      "domain": "olaexbiz.com",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
     },
@@ -2882,9 +3527,24 @@
       "label": "灰产弹窗 / 流量中继"
     },
     {
+      "domain": "onesignal.com",
+      "match": "suffix",
+      "label": "OneSignal 移动消息推送"
+    },
+    {
       "domain": "onetag-sys.com",
       "match": "suffix",
       "label": "OneTag 智能程序化广告"
+    },
+    {
+      "domain": "online-metrix.net",
+      "match": "suffix",
+      "label": "ThreatMetrix 银行级反欺诈"
+    },
+    {
+      "domain": "opentracker.xyz",
+      "match": "suffix",
+      "label": "商业广告 / 埋点追踪"
     },
     {
       "domain": "opnavi.com",
@@ -2930,6 +3590,16 @@
       "domain": "ouxyi.cash",
       "match": "suffix",
       "label": "欧易分流钱包"
+    },
+    {
+      "domain": "overleaf.com",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
+    },
+    {
+      "domain": "overleafusercontent.com",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
     },
     {
       "domain": "p3k8i8.com",
@@ -3017,6 +3687,11 @@
       "label": "影视 / 成人图床"
     },
     {
+      "domain": "pikpak.site",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
+    },
+    {
       "domain": "ping.chartbeat.net",
       "match": "exact",
       "label": "商业广告"
@@ -3047,6 +3722,11 @@
       "label": "盗版影视 / 视频解析"
     },
     {
+      "domain": "playerlib.com",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
+    },
+    {
       "domain": "playhubconnect.com",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
@@ -3067,12 +3747,27 @@
       "label": "PO18 脸红心跳"
     },
     {
+      "domain": "pobeer.com",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
+    },
+    {
       "domain": "pornhubc.om",
       "match": "suffix",
       "label": "钓鱼 / 仿冒网站"
     },
     {
       "domain": "pornlulu.net",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
+    },
+    {
+      "domain": "postaffiliatepro.com",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
+    },
+    {
+      "domain": "postgen.com",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
     },
@@ -3097,6 +3792,16 @@
       "label": "灰产弹窗 / 流量中继"
     },
     {
+      "domain": "privatter.me",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
+    },
+    {
+      "domain": "pro-market.net",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
+    },
+    {
       "domain": "prod.us-east-1.auth.desktop.kiro.dev",
       "match": "exact",
       "label": "AI 编码"
@@ -3112,6 +3817,11 @@
       "label": "灰产弹窗 / 流量中继"
     },
     {
+      "domain": "promgr.com",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
+    },
+    {
       "domain": "protechts.net",
       "match": "suffix",
       "label": "HUMAN (PerimeterX) 风控"
@@ -3123,6 +3833,11 @@
     },
     {
       "domain": "pttptt.cc",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
+    },
+    {
+      "domain": "pure.cloud",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
     },
@@ -3182,9 +3897,24 @@
       "label": "灰产弹窗 / 流量中继"
     },
     {
+      "domain": "qonversion.io",
+      "match": "suffix",
+      "label": "Qonversion 应用内购买分析"
+    },
+    {
+      "domain": "qoupower-tech.com",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
+    },
+    {
       "domain": "qpic.ws",
       "match": "suffix",
       "label": "QPic 图床"
+    },
+    {
+      "domain": "qqjar.ru",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
     },
     {
       "domain": "qrtuv.com",
@@ -3222,14 +3952,39 @@
       "label": "灰产弹窗 / 流量中继"
     },
     {
+      "domain": "qy0.ru",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
+    },
+    {
       "domain": "r.msftstatic.com",
       "match": "suffix",
       "label": "微软官方前端"
     },
     {
+      "domain": "r11cc.com",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
+    },
+    {
       "domain": "r2.visualwebsiteoptimizer.com",
       "match": "exact",
       "label": "商业广告"
+    },
+    {
+      "domain": "r9zvm9uk.com",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
+    },
+    {
+      "domain": "railway.app",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
+    },
+    {
+      "domain": "rayjump.com",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
     },
     {
       "domain": "rc-backup.com",
@@ -3252,6 +4007,11 @@
       "label": "灰产弹窗 / 流量中继"
     },
     {
+      "domain": "recurly.com",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
+    },
+    {
       "domain": "reedunpack.com",
       "match": "suffix",
       "label": "钓鱼广告"
@@ -3262,9 +4022,19 @@
       "label": "西班牙国铁 (Renfe)"
     },
     {
+      "domain": "res.res",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
+    },
+    {
       "domain": "revive-adserver.net",
       "match": "suffix",
       "label": "Revive 广告托管"
+    },
+    {
+      "domain": "rfa.org",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
     },
     {
       "domain": "ridibooks.com",
@@ -3277,14 +4047,34 @@
       "label": "灰产弹窗 / 流量中继"
     },
     {
+      "domain": "riskified.com",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
+    },
+    {
       "domain": "rlcdn.com",
       "match": "suffix",
       "label": "LiveRamp 身份解析"
     },
     {
+      "domain": "rlocn.com",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
+    },
+    {
       "domain": "rmishe.com",
       "match": "suffix",
       "label": "灰产推广 / 流量拦截"
+    },
+    {
+      "domain": "rmtag.com",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
+    },
+    {
+      "domain": "rmtt5.com",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
     },
     {
       "domain": "roundprincemusic.com",
@@ -3302,19 +4092,14 @@
       "label": "Magnite (Rubicon) 广告"
     },
     {
+      "domain": "rule34video.com",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
+    },
+    {
       "domain": "russtv.net",
       "match": "suffix",
       "label": "盗版影视 / IPTV 切片"
-    },
-    {
-      "domain": "s.chmsrv.com",
-      "match": "exact",
-      "label": "广告联盟"
-    },
-    {
-      "domain": "s.chnsrv.com",
-      "match": "suffix",
-      "label": "成人流媒体"
     },
     {
       "domain": "s8cprts.com",
@@ -3330,6 +4115,11 @@
       "domain": "sacdnssedge.com",
       "match": "suffix",
       "label": "成人在线直播平台"
+    },
+    {
+      "domain": "safa88.com",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
     },
     {
       "domain": "safedataplj.com",
@@ -3350,6 +4140,16 @@
       "domain": "samsungapis.com",
       "match": "suffix",
       "label": "三星系统服务"
+    },
+    {
+      "domain": "sanity.io",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
+    },
+    {
+      "domain": "satencedge.com",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
     },
     {
       "domain": "saucenao.com",
@@ -3432,9 +4232,29 @@
       "label": "网站访问计数器"
     },
     {
+      "domain": "sift.com",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
+    },
+    {
+      "domain": "siftscience.com",
+      "match": "suffix",
+      "label": "Sift 反欺诈风控"
+    },
+    {
       "domain": "silent-basis.pro",
       "match": "suffix",
       "label": "灰产影视 / 视频切片"
+    },
+    {
+      "domain": "simpleanalyticscdn.com",
+      "match": "suffix",
+      "label": "商业广告 / 埋点追踪"
+    },
+    {
+      "domain": "simpli.fi",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
     },
     {
       "domain": "singular.net",
@@ -3487,7 +4307,17 @@
       "label": "灰产弹窗 / 流量中继"
     },
     {
+      "domain": "sleepcycle.com",
+      "match": "suffix",
+      "label": "Sleep Cycle 睡眠追踪"
+    },
+    {
       "domain": "slim01.jp",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
+    },
+    {
+      "domain": "smaato.net",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
     },
@@ -3495,6 +4325,11 @@
       "domain": "smadex.com",
       "match": "suffix",
       "label": "移动广告素材"
+    },
+    {
+      "domain": "smallpdf.com",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
     },
     {
       "domain": "smartadserver.com",
@@ -3537,6 +4372,11 @@
       "label": "灰产弹窗 / 流量中继"
     },
     {
+      "domain": "someacg.top",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
+    },
+    {
       "domain": "souavimg.com",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
@@ -3562,12 +4402,27 @@
       "label": "博彩"
     },
     {
+      "domain": "spotxchange.com",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
+    },
+    {
       "domain": "sprig.com",
       "match": "suffix",
       "label": "Sprig 用户体验反馈"
     },
     {
       "domain": "ssg01.com",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
+    },
+    {
+      "domain": "sshs.pw",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
+    },
+    {
+      "domain": "sshs.rip",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
     },
@@ -3597,9 +4452,19 @@
       "label": "亚太开发者 CDN"
     },
     {
+      "domain": "static.microsoft",
+      "match": "suffix",
+      "label": "商业广告 / 埋点追踪"
+    },
+    {
       "domain": "static.soundgasm.net",
       "match": "suffix",
       "label": "ASMR平台"
+    },
+    {
+      "domain": "stbuttons.click",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
     },
     {
       "domain": "stickyadstv.com",
@@ -3647,7 +4512,17 @@
       "label": "成人在线直播平台"
     },
     {
+      "domain": "strip-chat.live",
+      "match": "suffix",
+      "label": "成人在线直播平台"
+    },
+    {
       "domain": "strip-chat.me",
+      "match": "suffix",
+      "label": "成人在线直播平台"
+    },
+    {
+      "domain": "strip-chat.pro",
       "match": "suffix",
       "label": "成人在线直播平台"
     },
@@ -3702,6 +4577,11 @@
       "label": "成人在线直播平台"
     },
     {
+      "domain": "stripchat.direct",
+      "match": "suffix",
+      "label": "成人在线直播平台"
+    },
+    {
       "domain": "stripchat.dk",
       "match": "suffix",
       "label": "成人在线直播平台"
@@ -3713,6 +4593,11 @@
     },
     {
       "domain": "stripchat.org",
+      "match": "suffix",
+      "label": "成人在线直播平台"
+    },
+    {
+      "domain": "stripchat.porn",
       "match": "suffix",
       "label": "成人在线直播平台"
     },
@@ -3732,6 +4617,11 @@
       "label": "成人在线直播平台"
     },
     {
+      "domain": "stripchat2.com",
+      "match": "suffix",
+      "label": "成人在线直播平台"
+    },
+    {
       "domain": "stripchatgirls.com",
       "match": "suffix",
       "label": "成人在线直播平台"
@@ -3743,6 +4633,11 @@
     },
     {
       "domain": "stripchatnow.com",
+      "match": "suffix",
+      "label": "成人在线直播平台"
+    },
+    {
+      "domain": "stripchats.app",
       "match": "suffix",
       "label": "成人在线直播平台"
     },
@@ -3763,6 +4658,11 @@
     },
     {
       "domain": "stripchats.info",
+      "match": "suffix",
+      "label": "成人在线直播平台"
+    },
+    {
+      "domain": "stripchats.io",
       "match": "suffix",
       "label": "成人在线直播平台"
     },
@@ -3797,6 +4697,11 @@
       "label": "灰产弹窗 / 流量中继"
     },
     {
+      "domain": "strpssts-ana.com",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
+    },
+    {
       "domain": "strpst.com",
       "match": "suffix",
       "label": "成人在线直播平台"
@@ -3822,9 +4727,9 @@
       "label": "灰产弹窗 / 流量中继"
     },
     {
-      "domain": "supply.inmobicdn.net",
-      "match": "exact",
-      "label": "商业广告"
+      "domain": "superpowered.com",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
     },
     {
       "domain": "surrit.com",
@@ -3835,6 +4740,16 @@
       "domain": "susercontent.com",
       "match": "suffix",
       "label": "Shopee 虾皮电商图床"
+    },
+    {
+      "domain": "svlqgh.com",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
+    },
+    {
+      "domain": "sweettooth.io",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
     },
     {
       "domain": "syndicatedsearch.goog",
@@ -3862,14 +4777,14 @@
       "label": "广告联盟"
     },
     {
-      "domain": "t4.qy0.ru",
+      "domain": "t9zj9.com",
       "match": "suffix",
-      "label": "绅士漫画"
+      "label": "灰产弹窗 / 流量中继"
     },
     {
-      "domain": "tags.crwdcntrl.net",
+      "domain": "tace.ru",
       "match": "suffix",
-      "label": "广告受众追踪"
+      "label": "灰产弹窗 / 流量中继"
     },
     {
       "domain": "taiav.com",
@@ -3917,6 +4832,11 @@
       "label": "灰产弹窗 / 流量中继"
     },
     {
+      "domain": "tcvtuezpd26.pro",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
+    },
+    {
       "domain": "teads.tv",
       "match": "suffix",
       "label": "Teads 视频广告"
@@ -3952,6 +4872,11 @@
       "label": "Traffic Factory 广告联盟"
     },
     {
+      "domain": "tfile.co",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
+    },
+    {
       "domain": "theadex.com",
       "match": "suffix",
       "label": "商业广告 / 埋点追踪"
@@ -3972,12 +4897,32 @@
       "label": "灰产弹窗 / 流量中继"
     },
     {
+      "domain": "this-url-does-not-exist-56fc3753-4486-4536-b99f-659ad858d45d.invalid",
+      "match": "suffix",
+      "label": "商业广告 / 埋点追踪"
+    },
+    {
+      "domain": "this-url-does-not-exist-61813949-8dba-47e0-9200-dda08c2fef2c.invalid",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
+    },
+    {
       "domain": "this-url-does-not-exist-805e2965-0014-4055-ba91-21556bb5a269.invalid",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
     },
     {
       "domain": "this-url-does-not-exist-a9833a84-0755-43a3-9588-3cd03a37eaef.invalid",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
+    },
+    {
+      "domain": "this-url-does-not-exist-b3c3fa87-c9dd-4134-a091-8d61e10c27e4.invalid",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
+    },
+    {
+      "domain": "this-url-does-not-exist-dec12d19-5c03-40d1-8e61-066926b45fe3.invalid",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
     },
@@ -4032,6 +4977,11 @@
       "label": "灰产弹窗 / 流量中继"
     },
     {
+      "domain": "tmbid.com",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
+    },
+    {
       "domain": "toast.com",
       "match": "suffix",
       "label": "NHN Cloud (Toast)"
@@ -4052,6 +5002,16 @@
       "label": "灰产弹窗 / 流量中继"
     },
     {
+      "domain": "topps.com",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
+    },
+    {
+      "domain": "trackerfix.com",
+      "match": "suffix",
+      "label": "商业广告 / 埋点追踪"
+    },
+    {
       "domain": "trackora.space",
       "match": "suffix",
       "label": "商业广告 / 埋点追踪"
@@ -4070,6 +5030,11 @@
       "domain": "trafficjunky.net",
       "match": "suffix",
       "label": "成人广告平台"
+    },
+    {
+      "domain": "trancy.org",
+      "match": "suffix",
+      "label": "Trancy 双语字幕翻译"
     },
     {
       "domain": "transcend-cdn.com",
@@ -4112,6 +5077,11 @@
       "label": "灰产弹窗 / 流量中继"
     },
     {
+      "domain": "tscprts.com",
+      "match": "suffix",
+      "label": "灰产推广 / 流量拦截"
+    },
+    {
       "domain": "tsyndicate.com",
       "match": "suffix",
       "label": "成人流媒体"
@@ -4122,12 +5092,22 @@
       "label": "灰产弹窗 / 流量中继"
     },
     {
+      "domain": "tu-berlin.de",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
+    },
+    {
       "domain": "tutu1.space",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
     },
     {
       "domain": "tvmoderne.ca",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
+    },
+    {
+      "domain": "tvsquared.com",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
     },
@@ -4152,6 +5132,11 @@
       "label": "Txxx 成人视频"
     },
     {
+      "domain": "ucloud164.xyz",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
+    },
+    {
       "domain": "uhdnow.online",
       "match": "suffix",
       "label": "涉黄流媒体"
@@ -4160,6 +5145,16 @@
       "domain": "union.dplayerstatic.com",
       "match": "suffix",
       "label": "盗版视频"
+    },
+    {
+      "domain": "untitled.stream",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
+    },
+    {
+      "domain": "uqn83ea8q.cc",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
     },
     {
       "domain": "ureca-lab.com",
@@ -4197,7 +5192,32 @@
       "label": "成人图床"
     },
     {
+      "domain": "v2ex.com",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
+    },
+    {
+      "domain": "vcaptions.com",
+      "match": "suffix",
+      "label": "Trancy 双语字幕翻译"
+    },
+    {
+      "domain": "vctranscode-ac48db18.com",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
+    },
+    {
+      "domain": "vercel-scripts.com",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
+    },
+    {
       "domain": "vervegroupinc.net",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
+    },
+    {
+      "domain": "verybin.com",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
     },
@@ -4217,6 +5237,26 @@
       "label": "VideoXX 成人影视"
     },
     {
+      "domain": "vigloo.com",
+      "match": "suffix",
+      "label": "Vigloo 海外短剧平台"
+    },
+    {
+      "domain": "vipwm.cc",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
+    },
+    {
+      "domain": "volsuidne.site",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
+    },
+    {
+      "domain": "vprtrfc.com",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
+    },
+    {
       "domain": "vstserv.com",
       "match": "suffix",
       "label": "VAST 视频贴片广告"
@@ -4227,6 +5267,11 @@
       "label": "成人视频图床"
     },
     {
+      "domain": "vultrobjects.com",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
+    },
+    {
       "domain": "vungle.com",
       "match": "suffix",
       "label": "营销"
@@ -4235,6 +5280,16 @@
       "domain": "vv2.jehih2z.xyz",
       "match": "suffix",
       "label": "博彩"
+    },
+    {
+      "domain": "vwvyfnjubclxzs.com",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
+    },
+    {
+      "domain": "walletconnect.com",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
     },
     {
       "domain": "wanbenku.com",
@@ -4257,6 +5312,11 @@
       "label": "灰产弹窗 / 流量中继"
     },
     {
+      "domain": "weatheroffer.com",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
+    },
+    {
       "domain": "web-fastlab.sbs",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
@@ -4265,6 +5325,11 @@
       "domain": "web.readest.com",
       "match": "exact",
       "label": "电子书"
+    },
+    {
+      "domain": "website-files.com",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
     },
     {
       "domain": "websocket-extensions-v6.sc-apps.com",
@@ -4323,6 +5388,11 @@
     },
     {
       "domain": "wn10.cfd",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
+    },
+    {
+      "domain": "wnacg.com",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
     },
@@ -4407,9 +5477,14 @@
       "label": "在线教育"
     },
     {
-      "domain": "www.wnacg.com",
+      "domain": "www.x",
       "match": "suffix",
-      "label": "绅士漫画"
+      "label": "灰产弹窗 / 流量中继"
+    },
+    {
+      "domain": "x15aeuk455x558a.com",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
     },
     {
       "domain": "x6ns9.com",
@@ -4445,6 +5520,11 @@
       "domain": "xhamsterlive.stream",
       "match": "suffix",
       "label": "成人在线直播平台"
+    },
+    {
+      "domain": "xhlive.cam",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
     },
     {
       "domain": "xhlive.net",
@@ -4492,9 +5572,19 @@
       "label": "灰产弹窗 / 流量中继"
     },
     {
+      "domain": "xide2.cc",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
+    },
+    {
       "domain": "xingjushidai.cn",
       "match": "suffix",
       "label": "星聚时代推广中继"
+    },
+    {
+      "domain": "xixih.cc",
+      "match": "suffix",
+      "label": "盗版网络小说阅读"
     },
     {
       "domain": "xlivesex.com",
@@ -4510,6 +5600,11 @@
       "domain": "xn--pxtr7m5ny.com",
       "match": "suffix",
       "label": "漫蛙 Manwa 漫画"
+    },
+    {
+      "domain": "xn--xhq326aj6yqpw.com",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
     },
     {
       "domain": "xn--ykq321c.com",
@@ -4592,6 +5687,11 @@
       "label": "程序化广告交易平台"
     },
     {
+      "domain": "yinpinwenxue.cc",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
+    },
+    {
       "domain": "yitongcs.com",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
@@ -4610,6 +5710,11 @@
       "domain": "yomeno.xyz",
       "match": "suffix",
       "label": "VAST 视频贴片广告"
+    },
+    {
+      "domain": "yvr78.cc",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
     },
     {
       "domain": "z6v2p9a8.bkcdn.net",
