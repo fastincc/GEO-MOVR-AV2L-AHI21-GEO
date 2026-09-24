@@ -292,6 +292,11 @@
       "label": "移动广告网络"
     },
     {
+      "domain": "adbestnet.com",
+      "match": "suffix",
+      "label": "AdBest 广告网络"
+    },
+    {
       "domain": "adpon.jp",
       "match": "suffix",
       "label": "广告投放"
@@ -330,6 +335,11 @@
       "domain": "allstarcluster.com",
       "match": "suffix",
       "label": "短剧媒体图床"
+    },
+    {
+      "domain": "amazon-corp.com",
+      "match": "suffix",
+      "label": "亚马逊企业内部服务"
     },
     {
       "domain": "and.ymkvwilp.com",
@@ -617,6 +627,11 @@
       "label": "商业广告"
     },
     {
+      "domain": "datadoghq.com",
+      "match": "suffix",
+      "label": "Datadog 监控平台"
+    },
+    {
       "domain": "dcj2gr.inapps.appsflyersdk.com",
       "match": "suffix",
       "label": "AppsFlyer营销"
@@ -682,9 +697,19 @@
       "label": "灰产弹窗 / 流量中继"
     },
     {
+      "domain": "dtscout.com",
+      "match": "suffix",
+      "label": "DTScout 受众分析"
+    },
+    {
       "domain": "dynamic.criteo.com",
       "match": "suffix",
       "label": "广告"
+    },
+    {
+      "domain": "ec424.com",
+      "match": "suffix",
+      "label": "灰产短链 / 诱导跳转"
     },
     {
       "domain": "ecosia.org",
@@ -715,6 +740,11 @@
       "domain": "ero-labs.services",
       "match": "suffix",
       "label": "成人R18手游"
+    },
+    {
+      "domain": "etahub.com",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
     },
     {
       "domain": "exchat.co",
@@ -937,6 +967,11 @@
       "label": "VAST 视频贴片广告"
     },
     {
+      "domain": "hotaifrree.com",
+      "match": "suffix",
+      "label": "AI 诱导 / 灰产推广"
+    },
+    {
       "domain": "hr86a.com",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
@@ -1042,6 +1077,11 @@
       "label": "IP检测"
     },
     {
+      "domain": "irresponsible-smoke.com",
+      "match": "suffix",
+      "label": "流氓弹窗 / 动态中继"
+    },
+    {
       "domain": "javhdporn.live",
       "match": "suffix",
       "label": "JAV 成人视频"
@@ -1055,6 +1095,11 @@
       "domain": "jiuse.io",
       "match": "suffix",
       "label": "原创自拍成人色情"
+    },
+    {
+      "domain": "jlmaster.online",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
     },
     {
       "domain": "jokerlu-dj.buzz",
@@ -1085,6 +1130,11 @@
       "domain": "juicyads.com",
       "match": "suffix",
       "label": "成人广告联盟"
+    },
+    {
+      "domain": "k7v4x8.com",
+      "match": "suffix",
+      "label": "灰产跳板 / 动态防封"
     },
     {
       "domain": "kinescope.io",
@@ -1192,6 +1242,11 @@
       "label": "WebPush 浏览器推送"
     },
     {
+      "domain": "midasplayer.cloud",
+      "match": "suffix",
+      "label": "糖果传奇 (Candy Crush)"
+    },
+    {
       "domain": "midjourney.com",
       "match": "suffix",
       "label": "Midjourney"
@@ -1225,6 +1280,11 @@
       "domain": "motv.app",
       "match": "exact",
       "label": "成人流媒体"
+    },
+    {
+      "domain": "mrktmtrcs.net",
+      "match": "suffix",
+      "label": "MarketMetrics 广告追踪"
     },
     {
       "domain": "mufy.ai",
@@ -1330,6 +1390,11 @@
       "domain": "nuc-cdp.voskhod.ru",
       "match": "exact",
       "label": "俄罗斯国家科技研究所"
+    },
+    {
+      "domain": "o1l2v.com",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
     },
     {
       "domain": "onclckbn.net",
@@ -1440,6 +1505,16 @@
       "domain": "protechts.net",
       "match": "suffix",
       "label": "HUMAN (PerimeterX) 风控"
+    },
+    {
+      "domain": "ptgncdn.com",
+      "match": "suffix",
+      "label": "盗版影视 / 广告切片 CDN"
+    },
+    {
+      "domain": "pxltag.com",
+      "match": "suffix",
+      "label": "PixelTag 埋点回传"
     },
     {
       "domain": "q.hhrfqeeth.cc",
@@ -1572,6 +1647,11 @@
       "label": "网站访问计数器"
     },
     {
+      "domain": "silent-basis.pro",
+      "match": "suffix",
+      "label": "灰产影视 / 视频切片"
+    },
+    {
       "domain": "sjxgcjhdq.icu",
       "match": "suffix",
       "label": "AI 换脸/福利视频"
@@ -1628,6 +1708,11 @@
     },
     {
       "domain": "strip-chat.direct",
+      "match": "suffix",
+      "label": "成人在线直播平台"
+    },
+    {
+      "domain": "strip-chat.io",
       "match": "suffix",
       "label": "成人在线直播平台"
     },
@@ -1732,6 +1817,11 @@
       "label": "广告受众追踪"
     },
     {
+      "domain": "tawk.to",
+      "match": "suffix",
+      "label": "tawk.to 在线客服"
+    },
+    {
       "domain": "teams.cloud.microsoft",
       "match": "suffix",
       "label": "Microsoft Teams"
@@ -1755,6 +1845,16 @@
       "domain": "threat.api.mcafee.com",
       "match": "suffix",
       "label": "McAfee 杀毒软件"
+    },
+    {
+      "domain": "thscprts.com",
+      "match": "suffix",
+      "label": "灰产推广 / 流量拦截"
+    },
+    {
+      "domain": "ticketlink.co.kr",
+      "match": "suffix",
+      "label": "Ticketlink 韩国票务"
     },
     {
       "domain": "tiktokpangle.us",
@@ -1807,6 +1907,11 @@
       "label": "成人流媒体"
     },
     {
+      "domain": "twinrdengine.com",
+      "match": "suffix",
+      "label": "TwinRed 广告联盟"
+    },
+    {
       "domain": "twrank.com",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
@@ -1840,6 +1945,11 @@
       "domain": "usmartsg.com",
       "match": "suffix",
       "label": "盈立证券"
+    },
+    {
+      "domain": "uuidksinc.net",
+      "match": "suffix",
+      "label": "用户设备唯一指纹"
     },
     {
       "domain": "v.hersav.me",
@@ -1990,6 +2100,16 @@
       "domain": "www.wnacg.com",
       "match": "suffix",
       "label": "绅士漫画"
+    },
+    {
+      "domain": "xhname.com",
+      "match": "suffix",
+      "label": "黑灰产导航 / 资源导流"
+    },
+    {
+      "domain": "xingjushidai.cn",
+      "match": "suffix",
+      "label": "星聚时代推广中继"
     },
     {
       "domain": "xn--ykq321c.com",
