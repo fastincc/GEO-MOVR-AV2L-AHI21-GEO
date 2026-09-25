@@ -417,11 +417,6 @@
       "label": "Meta-CDN"
     },
     {
-      "domain": "102.51.0.0/19",
-      "match": "cidr",
-      "label": "摩洛哥电信 Maroc Telecom"
-    },
-    {
       "domain": "102.85.0.0/17",
       "match": "cidr",
       "label": "Airtel Uganda Limited 网络"
