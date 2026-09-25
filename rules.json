@@ -4009,17 +4009,17 @@
     {
       "domain": "fast08.net",
       "match": "suffix",
-      "label": "灰产推广 / 流量拦截"
+      "label": "代理服务 / 机场订阅"
     },
     {
       "domain": "fast08.online",
       "match": "suffix",
-      "label": "灰产推广 / 流量拦截"
+      "label": "代理服务 / 机场订阅"
     },
     {
       "domain": "fast09.com",
       "match": "suffix",
-      "label": "灰产弹窗 / 流量中继"
+      "label": "代理服务 / 机场订阅"
     },
     {
       "domain": "fast24.info",
@@ -4054,17 +4054,17 @@
     {
       "domain": "fastlab.com",
       "match": "suffix",
-      "label": "灰产推广 / 流量拦截"
+      "label": "代理服务 / 机场订阅"
     },
     {
       "domain": "fastlab.pro",
       "match": "suffix",
-      "label": "灰产推广 / 流量拦截"
+      "label": "代理服务 / 机场订阅"
     },
     {
       "domain": "fastlab.shop",
       "match": "suffix",
-      "label": "灰产推广 / 流量拦截"
+      "label": "代理服务 / 机场订阅"
     },
     {
       "domain": "fastlab2026.sbs",
@@ -4079,7 +4079,7 @@
     {
       "domain": "fastsub.net",
       "match": "suffix",
-      "label": "灰产弹窗 / 流量中继"
+      "label": "代理服务 / 机场订阅"
     },
     {
       "domain": "fc2.com",
@@ -9864,7 +9864,7 @@
     {
       "domain": "tavu.cc",
       "match": "suffix",
-      "label": "灰产弹窗 / 流量中继"
+      "label": "代理服务 / 机场订阅"
     },
     {
       "domain": "tawk.to",
@@ -10469,7 +10469,7 @@
     {
       "domain": "ttiikk.com",
       "match": "suffix",
-      "label": "灰产弹窗 / 流量中继"
+      "label": "代理服务 / 机场订阅"
     },
     {
       "domain": "tu-berlin.de",
@@ -10989,7 +10989,7 @@
     {
       "domain": "web-fastlab.sbs",
       "match": "suffix",
-      "label": "灰产弹窗 / 流量中继"
+      "label": "代理服务 / 机场订阅"
     },
     {
       "domain": "web.readest.com",
@@ -11614,7 +11614,7 @@
     {
       "domain": "yeno.cc",
       "match": "suffix",
-      "label": "灰产弹窗 / 流量中继"
+      "label": "代理服务 / 机场订阅"
     },
     {
       "domain": "yescumplease.com",
