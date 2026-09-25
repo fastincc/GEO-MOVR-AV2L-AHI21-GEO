@@ -7,6 +7,76 @@
       "label": "RFC 1122 本地网络与默认路由"
     },
     {
+      "domain": "0:0:0:7125::/64",
+      "match": "cidr",
+      "label": "RFC 4291 IPv6 未指定网段"
+    },
+    {
+      "domain": "0:0:0:85::/64",
+      "match": "cidr",
+      "label": "中国电信骨干网"
+    },
+    {
+      "domain": "0:0:0:9ff5::/64",
+      "match": "cidr",
+      "label": "RFC 4291 IPv6 未指定网段"
+    },
+    {
+      "domain": "0:0:0:d1a9::/64",
+      "match": "cidr",
+      "label": "RFC 4291 IPv6 未指定网段"
+    },
+    {
+      "domain": "0:0:0:d3::/64",
+      "match": "cidr",
+      "label": "RFC 4291 IPv6 未指定网段"
+    },
+    {
+      "domain": "0:0:1:17c::/64",
+      "match": "cidr",
+      "label": "IPv6 国际中继网络"
+    },
+    {
+      "domain": "0:0:1:3421::/64",
+      "match": "cidr",
+      "label": "IPv6 国际中继网络"
+    },
+    {
+      "domain": "0:128::/64",
+      "match": "cidr",
+      "label": "IPv6 国际中继网络"
+    },
+    {
+      "domain": "0:18e:26c1:2605::/64",
+      "match": "cidr",
+      "label": "IPv6 国际中继网络"
+    },
+    {
+      "domain": "0:2409:8a20:36b1::/64",
+      "match": "cidr",
+      "label": "中国移动骨干网"
+    },
+    {
+      "domain": "0:2409:8a55:52bf::/64",
+      "match": "cidr",
+      "label": "中国移动骨干网"
+    },
+    {
+      "domain": "0:33:25d1::/64",
+      "match": "cidr",
+      "label": "IPv6 国际中继网络"
+    },
+    {
+      "domain": "0:424:25d1:2605::/64",
+      "match": "cidr",
+      "label": "IPv6 国际中继网络"
+    },
+    {
+      "domain": "0:fdc2:75c7:cbce::/64",
+      "match": "cidr",
+      "label": "IPv6 国际中继网络"
+    },
+    {
       "domain": "1.13.0.0/18",
       "match": "cidr",
       "label": "腾讯云骨干节点"
@@ -62,9 +132,24 @@
       "label": "CTGSERVERLIMITED 网络"
     },
     {
+      "domain": "1.52.120.0/23",
+      "match": "cidr",
+      "label": "越南 FPT 电信"
+    },
+    {
       "domain": "1.52.33.0/24",
       "match": "cidr",
       "label": "FPT 网络"
+    },
+    {
+      "domain": "1.53.204.0/23",
+      "match": "cidr",
+      "label": "越南 FPT 电信"
+    },
+    {
+      "domain": "1.53.4.0/23",
+      "match": "cidr",
+      "label": "越南 FPT 电信"
     },
     {
       "domain": "1.56.0.0/13",
@@ -215,6 +300,21 @@
       "domain": "100.9.0.0/16",
       "match": "cidr",
       "label": "DISH Network 宽带通信"
+    },
+    {
+      "domain": "100:101:8000::/64",
+      "match": "cidr",
+      "label": "IPv6 国际中继网络"
+    },
+    {
+      "domain": "100:2202:7100::/64",
+      "match": "cidr",
+      "label": "IPv6 国际中继网络"
+    },
+    {
+      "domain": "100::/64",
+      "match": "cidr",
+      "label": "RFC 6666 丢弃测试网段"
     },
     {
       "domain": "101.1.7.0/24",
@@ -812,6 +912,11 @@
       "label": "Akamai 全球 CDN"
     },
     {
+      "domain": "104:2400::/64",
+      "match": "cidr",
+      "label": "IPv6 国际中继网络"
+    },
+    {
       "domain": "106.11.0.0/19",
       "match": "cidr",
       "label": "阿里云骨干网"
@@ -820,6 +925,11 @@
       "domain": "106.11.224.0/19",
       "match": "cidr",
       "label": "阿里云骨干网"
+    },
+    {
+      "domain": "106.11.40.0/21",
+      "match": "cidr",
+      "label": "阿里安全 / 淘宝 CDN"
     },
     {
       "domain": "106.116.0.0/16",
@@ -1107,6 +1217,11 @@
       "label": "中国电信骨干网"
     },
     {
+      "domain": "111.174.0.0/20",
+      "match": "cidr",
+      "label": "中国电信湖北 IDC"
+    },
+    {
       "domain": "111.2.64.0/19",
       "match": "cidr",
       "label": "中国移动骨干网"
@@ -1207,6 +1322,11 @@
       "label": "中国移动骨干网"
     },
     {
+      "domain": "111.31.48.0/20",
+      "match": "cidr",
+      "label": "中国移动骨干网"
+    },
+    {
       "domain": "111.31.96.0/20",
       "match": "cidr",
       "label": "中国移动骨干网"
@@ -1278,6 +1398,11 @@
     },
     {
       "domain": "111.49.68.0/24",
+      "match": "cidr",
+      "label": "中国移动骨干网"
+    },
+    {
+      "domain": "111.51.128.0/20",
       "match": "cidr",
       "label": "中国移动骨干网"
     },
@@ -1712,6 +1837,11 @@
       "label": "中国电信骨干网"
     },
     {
+      "domain": "1131:730:7526:c126::/64",
+      "match": "cidr",
+      "label": "IPv6 国际中继网络"
+    },
+    {
       "domain": "114.110.96.0/22",
       "match": "cidr",
       "label": "中国电信骨干网"
@@ -1845,6 +1975,11 @@
       "domain": "115.190.112.0/21",
       "match": "cidr",
       "label": "VOLCANO 网络"
+    },
+    {
+      "domain": "115.190.136.0/21",
+      "match": "cidr",
+      "label": "字节跳动 火山引擎"
     },
     {
       "domain": "115.220.0.0/20",
@@ -2070,6 +2205,11 @@
       "domain": "116.95.0.0/16",
       "match": "cidr",
       "label": "中国联通骨干网"
+    },
+    {
+      "domain": "117.126.128.0/24",
+      "match": "cidr",
+      "label": "中国广电骨干网"
     },
     {
       "domain": "117.129.0.0/16",
@@ -2582,6 +2722,11 @@
       "label": "中国移动骨干网"
     },
     {
+      "domain": "120.221.192.0/18",
+      "match": "cidr",
+      "label": "中国移动骨干网"
+    },
+    {
       "domain": "120.221.64.0/18",
       "match": "cidr",
       "label": "中国移动骨干网"
@@ -2592,7 +2737,17 @@
       "label": "中国移动骨干网"
     },
     {
+      "domain": "120.222.134.0/23",
+      "match": "cidr",
+      "label": "中国移动骨干网"
+    },
+    {
       "domain": "120.223.192.0/19",
+      "match": "cidr",
+      "label": "中国移动骨干网"
+    },
+    {
+      "domain": "120.223.224.0/20",
       "match": "cidr",
       "label": "中国移动骨干网"
     },
@@ -2945,6 +3100,11 @@
       "domain": "123.60.0.0/17",
       "match": "cidr",
       "label": "HWCSNET 网络"
+    },
+    {
+      "domain": "1231:730:7526:c126::/64",
+      "match": "cidr",
+      "label": "IPv6 国际中继网络"
     },
     {
       "domain": "124.106.176.0/20",
@@ -3577,9 +3737,9 @@
       "label": "中国电信骨干网"
     },
     {
-      "domain": "140.249.62.0/23",
+      "domain": "140.249.32.0/19",
       "match": "cidr",
-      "label": "CHINATELECOM 网络"
+      "label": "中国电信青岛 IDC"
     },
     {
       "domain": "140.249.64.0/19",
@@ -3645,6 +3805,11 @@
       "domain": "143.107.0.0/16",
       "match": "cidr",
       "label": "AS28571 网络"
+    },
+    {
+      "domain": "143.110.240.0/20",
+      "match": "cidr",
+      "label": "DigitalOcean 云服务"
     },
     {
       "domain": "143.125.0.0/17",
@@ -3865,6 +4030,11 @@
       "domain": "152.69.208.0/20",
       "match": "cidr",
       "label": "ORACLE 网络"
+    },
+    {
+      "domain": "1524:98a:60:9111::/64",
+      "match": "cidr",
+      "label": "IPv6 国际中继网络"
     },
     {
       "domain": "153.192.0.0/11",
@@ -4477,6 +4647,11 @@
       "label": "Apple 全球 CDN / 边缘"
     },
     {
+      "domain": "17.137.0.0/16",
+      "match": "cidr",
+      "label": "Apple 全球云服务"
+    },
+    {
       "domain": "17.168.0.0/14",
       "match": "cidr",
       "label": "Apple 全球 CDN / 边缘"
@@ -4570,6 +4745,11 @@
       "domain": "171.43.155.0/24",
       "match": "cidr",
       "label": "中国电信骨干网"
+    },
+    {
+      "domain": "171.43.164.0/22",
+      "match": "cidr",
+      "label": "中国电信湖北 IDC"
     },
     {
       "domain": "171.43.246.0/23",
@@ -5697,6 +5877,26 @@
       "label": "Twitter 基础网络"
     },
     {
+      "domain": "1a30:0:100::/64",
+      "match": "cidr",
+      "label": "IPv6 国际中继网络"
+    },
+    {
+      "domain": "1a60:1003:200::/64",
+      "match": "cidr",
+      "label": "IPv6 国际中继网络"
+    },
+    {
+      "domain": "1b24:989:2900:7a05::/64",
+      "match": "cidr",
+      "label": "IPv6 国际中继网络"
+    },
+    {
+      "domain": "1fa:100::/64",
+      "match": "cidr",
+      "label": "IPv6 国际中继网络"
+    },
+    {
       "domain": "2.17.106.0/24",
       "match": "cidr",
       "label": "Akamai 全球 CDN"
@@ -5755,6 +5955,11 @@
       "domain": "2001:2::/48",
       "match": "cidr",
       "label": "RFC 7459 IPv6 基准性能测试网段"
+    },
+    {
+      "domain": "2001:3::/64",
+      "match": "cidr",
+      "label": "RFC 5156 基准测试 IPv6"
     },
     {
       "domain": "2001:418:149b::/48",
@@ -6457,6 +6662,11 @@
       "label": "LEASEWEB 网络"
     },
     {
+      "domain": "212:300::/64",
+      "match": "cidr",
+      "label": "IPv6 国际中继网络"
+    },
+    {
       "domain": "213.157.40.0/24",
       "match": "cidr",
       "label": "ASTEL 网络"
@@ -6552,6 +6762,51 @@
       "label": "Zenlayer 全球边缘云加速"
     },
     {
+      "domain": "2171:1124:887:1a60::/64",
+      "match": "cidr",
+      "label": "IPv6 国际中继网络"
+    },
+    {
+      "domain": "2171:2408:872f:d00::/64",
+      "match": "cidr",
+      "label": "中国联通骨干网"
+    },
+    {
+      "domain": "2177:1224:887:2620::/64",
+      "match": "cidr",
+      "label": "IPv6 国际中继网络"
+    },
+    {
+      "domain": "2177:1224:98c:410::/64",
+      "match": "cidr",
+      "label": "IPv6 国际中继网络"
+    },
+    {
+      "domain": "2177:2408:890c:102::/64",
+      "match": "cidr",
+      "label": "中国联通骨干网"
+    },
+    {
+      "domain": "217d:1124:887:1a60::/64",
+      "match": "cidr",
+      "label": "IPv6 国际中继网络"
+    },
+    {
+      "domain": "217d:2408:8719:64::/64",
+      "match": "cidr",
+      "label": "中国联通骨干网"
+    },
+    {
+      "domain": "217f:1124:887:1a60::/64",
+      "match": "cidr",
+      "label": "IPv6 国际中继网络"
+    },
+    {
+      "domain": "217f:2408:8719:64::/64",
+      "match": "cidr",
+      "label": "中国联通骨干网"
+    },
+    {
       "domain": "218.102.96.0/19",
       "match": "cidr",
       "label": "HKT 香港电讯 / PCCW"
@@ -6615,6 +6870,21 @@
       "domain": "218.94.231.0/24",
       "match": "cidr",
       "label": "中国电信骨干网"
+    },
+    {
+      "domain": "2185:1124:887:1a60::/64",
+      "match": "cidr",
+      "label": "IPv6 国际中继网络"
+    },
+    {
+      "domain": "2185:2408:872f:d00::/64",
+      "match": "cidr",
+      "label": "中国联通骨干网"
+    },
+    {
+      "domain": "218e:2a04:394b:218e::/64",
+      "match": "cidr",
+      "label": "IPv6 国际中继网络"
     },
     {
       "domain": "219.104.0.0/16",
@@ -7052,6 +7322,21 @@
       "label": "中国移动骨干网"
     },
     {
+      "domain": "224a:6b6e:e91b:c70::/64",
+      "match": "cidr",
+      "label": "IPv6 国际中继网络"
+    },
+    {
+      "domain": "2257:2409:8a3c:8852::/64",
+      "match": "cidr",
+      "label": "中国移动骨干网"
+    },
+    {
+      "domain": "2257:24:98c:410::/64",
+      "match": "cidr",
+      "label": "IPv6 国际中继网络"
+    },
+    {
       "domain": "23.100.0.0/15",
       "match": "cidr",
       "label": "微软 Azure 骨干网络"
@@ -7230,6 +7515,11 @@
       "domain": "23.213.26.0/24",
       "match": "cidr",
       "label": "Akamai 全球 CDN"
+    },
+    {
+      "domain": "23.214.168.0/24",
+      "match": "cidr",
+      "label": "Akamai 边缘加速"
     },
     {
       "domain": "23.215.188.0/22",
@@ -7465,6 +7755,21 @@
       "domain": "23.91.96.0/24",
       "match": "cidr",
       "label": "UCloud 优刻得云计算"
+    },
+    {
+      "domain": "230b:ff3a:49cb:61df::/64",
+      "match": "cidr",
+      "label": "IPv6 国际中继网络"
+    },
+    {
+      "domain": "2344:ad16:70d:41b4::/64",
+      "match": "cidr",
+      "label": "IPv6 国际中继网络"
+    },
+    {
+      "domain": "23d5:4d92:25d1::/64",
+      "match": "cidr",
+      "label": "IPv6 国际中继网络"
     },
     {
       "domain": "24.69.132.0/22",
@@ -8037,6 +8342,21 @@
       "label": "Hamachi 虚拟局域网 / 预留段"
     },
     {
+      "domain": "25d2:201:fa01::/64",
+      "match": "cidr",
+      "label": "IPv6 国际中继网络"
+    },
+    {
+      "domain": "25d2:203:fa01::/64",
+      "match": "cidr",
+      "label": "IPv6 国际中继网络"
+    },
+    {
+      "domain": "25d2:401:fa01::/64",
+      "match": "cidr",
+      "label": "IPv6 国际中继网络"
+    },
+    {
       "domain": "26.0.0.0/8",
       "match": "cidr",
       "label": "DNIC 网络"
@@ -8090,6 +8410,26 @@
       "domain": "2620:149::/36",
       "match": "cidr",
       "label": "Apple 全球 CDN / 边缘网络"
+    },
+    {
+      "domain": "26:461::/64",
+      "match": "cidr",
+      "label": "IPv6 国际中继网络"
+    },
+    {
+      "domain": "26c1:2605:340:cd51::/64",
+      "match": "cidr",
+      "label": "IPv6 国际中继网络"
+    },
+    {
+      "domain": "26c1:fdbd:dc01:a::/64",
+      "match": "cidr",
+      "label": "IPv6 国际中继网络"
+    },
+    {
+      "domain": "26c1:fdbd:dc03:f::/64",
+      "match": "cidr",
+      "label": "IPv6 国际中继网络"
     },
     {
       "domain": "26c2:2605:340:cd51::/64",
@@ -8192,6 +8532,11 @@
       "label": "Meta-CDN"
     },
     {
+      "domain": "2a38:4a99:2139:116e::/64",
+      "match": "cidr",
+      "label": "IPv6 国际中继网络"
+    },
+    {
       "domain": "2adc:9b0c:78ef:4e6f::/64",
       "match": "cidr",
       "label": "IPv6 国际中继网络"
@@ -8200,6 +8545,11 @@
       "domain": "2c0f:ef78::/47",
       "match": "cidr",
       "label": "Meta-CDN"
+    },
+    {
+      "domain": "2f00:1000:800::/64",
+      "match": "cidr",
+      "label": "IPv6 国际中继网络"
     },
     {
       "domain": "3.112.0.0/14",
@@ -8232,6 +8582,11 @@
       "label": "AWS 全球节点"
     },
     {
+      "domain": "3.8.0.0/14",
+      "match": "cidr",
+      "label": "亚马逊 AWS 云服务"
+    },
+    {
       "domain": "30.0.0.0/8",
       "match": "cidr",
       "label": "美国国防部网络信息中心 DoD"
@@ -8262,6 +8617,11 @@
       "label": "AT&T 全球商业网络"
     },
     {
+      "domain": "329c:15ec:d818:b580::/64",
+      "match": "cidr",
+      "label": "IPv6 国际中继网络"
+    },
+    {
       "domain": "34.192.0.0/12",
       "match": "cidr",
       "label": "AWS 全球节点"
@@ -8273,6 +8633,11 @@
     },
     {
       "domain": "36.103.166.0/24",
+      "match": "cidr",
+      "label": "中国电信骨干网"
+    },
+    {
+      "domain": "36.104.0.0/16",
       "match": "cidr",
       "label": "中国电信骨干网"
     },
@@ -8542,6 +8907,11 @@
       "label": "中国电信骨干网"
     },
     {
+      "domain": "366a:87c5:28f0:378::/64",
+      "match": "cidr",
+      "label": "IPv6 国际中继网络"
+    },
+    {
       "domain": "37.110.0.0/17",
       "match": "cidr",
       "label": "NCNET 网络"
@@ -8565,6 +8935,11 @@
       "domain": "38.0.0.0/8",
       "match": "cidr",
       "label": "COGENT 网络"
+    },
+    {
+      "domain": "39.100.0.0/14",
+      "match": "cidr",
+      "label": "阿里云计算"
     },
     {
       "domain": "39.106.0.0/15",
@@ -8882,6 +9257,11 @@
       "label": "阿里云骨干网"
     },
     {
+      "domain": "3d4a:de03:6f37:984c::/64",
+      "match": "cidr",
+      "label": "IPv6 国际中继网络"
+    },
+    {
       "domain": "4.0.0.0/9",
       "match": "cidr",
       "label": "LEVEL3 网络"
@@ -8932,6 +9312,26 @@
       "label": "微软 Azure 骨干网络"
     },
     {
+      "domain": "40.152.204.0/24",
+      "match": "cidr",
+      "label": "礼来制药 企业医疗云"
+    },
+    {
+      "domain": "40.152.99.0/24",
+      "match": "cidr",
+      "label": "礼来制药 企业医疗云"
+    },
+    {
+      "domain": "40.154.93.0/24",
+      "match": "cidr",
+      "label": "礼来制药 企业医疗云"
+    },
+    {
+      "domain": "40.157.42.0/24",
+      "match": "cidr",
+      "label": "礼来制药 企业医疗云"
+    },
+    {
       "domain": "40.16.184.0/24",
       "match": "cidr",
       "label": "Eli Lilly 礼来制药企业专网"
@@ -8945,6 +9345,11 @@
       "domain": "40.2.0.0/15",
       "match": "cidr",
       "label": "LILLY 网络"
+    },
+    {
+      "domain": "40.20.239.0/24",
+      "match": "cidr",
+      "label": "礼来制药 企业医疗云"
     },
     {
       "domain": "40.33.0.0/16",
@@ -8982,6 +9387,11 @@
       "label": "LILLY 网络"
     },
     {
+      "domain": "40.5.97.0/24",
+      "match": "cidr",
+      "label": "礼来制药 企业医疗云"
+    },
+    {
       "domain": "40.51.0.0/16",
       "match": "cidr",
       "label": "LILLY 网络"
@@ -9005,6 +9415,21 @@
       "domain": "41.96.0.0/16",
       "match": "cidr",
       "label": "Telecom Algeria 网络"
+    },
+    {
+      "domain": "410:200:800::/64",
+      "match": "cidr",
+      "label": "IPv6 国际中继网络"
+    },
+    {
+      "domain": "410:400:a00::/64",
+      "match": "cidr",
+      "label": "IPv6 国际中继网络"
+    },
+    {
+      "domain": "4178:f103:75a2:87d2::/64",
+      "match": "cidr",
+      "label": "IPv6 局域网/NAT64 映射"
     },
     {
       "domain": "42.108.172.0/22",
@@ -9140,6 +9565,11 @@
       "domain": "42.81.0.0/16",
       "match": "cidr",
       "label": "CHINATELECOM 网络"
+    },
+    {
+      "domain": "4242:fb3d:bf97:e8b0::/64",
+      "match": "cidr",
+      "label": "IPv6 国际中继网络"
     },
     {
       "domain": "43.109.100.0/24",
@@ -9917,6 +10347,11 @@
       "label": "CHINATELECOM 网络"
     },
     {
+      "domain": "43.37.210.0/24",
+      "match": "cidr",
+      "label": "阿里云海外 (新加坡)"
+    },
+    {
       "domain": "44.190.5.0/24",
       "match": "cidr",
       "label": "MOJO 网络"
@@ -10077,9 +10512,19 @@
       "label": "DTAG 网络"
     },
     {
+      "domain": "46:9562:4e49:296c::/64",
+      "match": "cidr",
+      "label": "IPv6 国际中继网络"
+    },
+    {
       "domain": "47.100.0.0/15",
       "match": "cidr",
       "label": "阿里云骨干网"
+    },
+    {
+      "domain": "47.107.0.0/16",
+      "match": "cidr",
+      "label": "阿里云计算"
     },
     {
       "domain": "47.110.0.0/16",
@@ -10337,6 +10782,31 @@
       "label": "中国电信骨干网"
     },
     {
+      "domain": "49c4:f6b0:c321:7711::/64",
+      "match": "cidr",
+      "label": "IPv6 国际中继网络"
+    },
+    {
+      "domain": "49c4:f6b0:c321:7724::/64",
+      "match": "cidr",
+      "label": "IPv6 国际中继网络"
+    },
+    {
+      "domain": "4a0b:100:600::/64",
+      "match": "cidr",
+      "label": "IPv6 国际中继网络"
+    },
+    {
+      "domain": "4db0:bfb7:2177:1206::/64",
+      "match": "cidr",
+      "label": "IPv6 国际中继网络"
+    },
+    {
+      "domain": "4df6:4a91:18:6712::/64",
+      "match": "cidr",
+      "label": "IPv6 国际中继网络"
+    },
+    {
       "domain": "5.1.73.0/24",
       "match": "cidr",
       "label": "CREOLINE 网络"
@@ -10395,6 +10865,11 @@
       "domain": "50.87.64.0/19",
       "match": "cidr",
       "label": "ORACLE 网络"
+    },
+    {
+      "domain": "502:1503::/64",
+      "match": "cidr",
+      "label": "IPv6 国际中继网络"
     },
     {
       "domain": "51.79.128.0/17",
@@ -10677,6 +11152,11 @@
       "label": "中国电信骨干网"
     },
     {
+      "domain": "59.80.32.0/19",
+      "match": "cidr",
+      "label": "中国联通骨干网"
+    },
+    {
       "domain": "59.82.112.0/21",
       "match": "cidr",
       "label": "阿里云骨干网"
@@ -10725,6 +11205,16 @@
       "domain": "59.82.98.0/23",
       "match": "cidr",
       "label": "阿里云骨干网"
+    },
+    {
+      "domain": "599a:508b:ce0c:6ae3::/64",
+      "match": "cidr",
+      "label": "IPv6 国际中继网络"
+    },
+    {
+      "domain": "5fca:b59c:5167:c70::/64",
+      "match": "cidr",
+      "label": "中国联通骨干网"
     },
     {
       "domain": "60.0.0.0/13",
@@ -10790,6 +11280,11 @@
       "domain": "60.53.0.0/18",
       "match": "cidr",
       "label": "TTSSB 网络"
+    },
+    {
+      "domain": "6010:302::/64",
+      "match": "cidr",
+      "label": "IPv6 国际中继网络"
     },
     {
       "domain": "61.135.210.0/24",
@@ -10925,6 +11420,11 @@
       "domain": "63.140.48.0/23",
       "match": "cidr",
       "label": "AWS 全球节点"
+    },
+    {
+      "domain": "63a2:dc9b:634d:1209::/64",
+      "match": "cidr",
+      "label": "IPv6 国际中继网络"
     },
     {
       "domain": "64.13.192.0/18",
@@ -11117,6 +11617,16 @@
       "label": "WIKTEL 网络"
     },
     {
+      "domain": "6a47:1f7d:1c03:2790::/64",
+      "match": "cidr",
+      "label": "IPv6 国际中继网络"
+    },
+    {
+      "domain": "6ca3:c5d2:6514:cb4d::/64",
+      "match": "cidr",
+      "label": "IPv6 国际中继网络"
+    },
+    {
       "domain": "70.106.192.0/18",
       "match": "cidr",
       "label": "UUNET 网络"
@@ -11260,6 +11770,16 @@
       "domain": "77.88.44.0/24",
       "match": "cidr",
       "label": "YANDEX 网络"
+    },
+    {
+      "domain": "7724:884:228a:1388::/64",
+      "match": "cidr",
+      "label": "IPv6 国际中继网络"
+    },
+    {
+      "domain": "7724:889:c01:2dd::/64",
+      "match": "cidr",
+      "label": "IPv6 国际中继网络"
     },
     {
       "domain": "78.209.0.0/17",
@@ -11417,6 +11937,16 @@
       "label": "RU 网络"
     },
     {
+      "domain": "809c:f0ca:d182:4584::/64",
+      "match": "cidr",
+      "label": "IPv6 国际中继网络"
+    },
+    {
+      "domain": "80c:9600:c14:bc43::/64",
+      "match": "cidr",
+      "label": "IPv6 国际中继网络"
+    },
+    {
       "domain": "81.182.0.0/15",
       "match": "cidr",
       "label": "MAGYAR 网络"
@@ -11430,6 +11960,11 @@
       "domain": "81.69.64.0/18",
       "match": "cidr",
       "label": "腾讯云广州 / 华南节点"
+    },
+    {
+      "domain": "81.85.93.0/24",
+      "match": "cidr",
+      "label": "ITGLOBAL 阿联酋机房"
     },
     {
       "domain": "82.16.0.0/15",
@@ -11457,6 +11992,11 @@
       "label": "Vodafone / One NZ 国际宽带"
     },
     {
+      "domain": "8342:9a94:263:436::/64",
+      "match": "cidr",
+      "label": "IPv6 国际中继网络"
+    },
+    {
       "domain": "84.16.64.0/19",
       "match": "cidr",
       "label": "Infomaniak 网络"
@@ -11475,6 +12015,11 @@
       "domain": "84.64.0.0/13",
       "match": "cidr",
       "label": "unspecified 网络"
+    },
+    {
+      "domain": "844d:b0bf:b721:7724::/64",
+      "match": "cidr",
+      "label": "IPv6 国际中继网络"
     },
     {
       "domain": "85.121.122.0/24",
@@ -11517,6 +12062,11 @@
       "label": "OVHcloud 数据中心"
     },
     {
+      "domain": "87fa:4f19:f72a:770c::/64",
+      "match": "cidr",
+      "label": "IPv6 国际中继网络"
+    },
+    {
       "domain": "88.191.224.0/19",
       "match": "cidr",
       "label": "Free SAS 法国电信"
@@ -11530,6 +12080,11 @@
       "domain": "88.44.0.0/15",
       "match": "cidr",
       "label": "ASN 网络"
+    },
+    {
+      "domain": "8818:8ff9:124c:b3d2::/64",
+      "match": "cidr",
+      "label": "IPv6 国际中继网络"
     },
     {
       "domain": "89.0.0.0/15",
@@ -11555,6 +12110,21 @@
       "domain": "89.39.104.0/22",
       "match": "cidr",
       "label": "WorldStream 网络"
+    },
+    {
+      "domain": "8915:2158:1131:730::/64",
+      "match": "cidr",
+      "label": "IPv6 国际中继网络"
+    },
+    {
+      "domain": "8a13:886e:318c:8180::/64",
+      "match": "cidr",
+      "label": "IPv6 国际中继网络"
+    },
+    {
+      "domain": "8c04:1002:8::/64",
+      "match": "cidr",
+      "label": "IPv6 国际中继网络"
     },
     {
       "domain": "91.110.128.0/17",
@@ -11742,9 +12312,89 @@
       "label": "Zenlayer 全球边缘云加速"
     },
     {
-      "domain": "::/128",
+      "domain": "::/64",
       "match": "cidr",
-      "label": "RFC 4291 IPv6 未指定地址"
+      "label": "RFC 4291 IPv6 未指定网段"
+    },
+    {
+      "domain": "a0a:1ff3:2177:1b24::/64",
+      "match": "cidr",
+      "label": "IPv6 国际中继网络"
+    },
+    {
+      "domain": "a16a:471f:7d1c:327::/64",
+      "match": "cidr",
+      "label": "IPv6 国际中继网络"
+    },
+    {
+      "domain": "a40:e9e0:a5c3:8e78::/64",
+      "match": "cidr",
+      "label": "IPv6 国际中继网络"
+    },
+    {
+      "domain": "a4af:6f91:24e:c0a8::/64",
+      "match": "cidr",
+      "label": "IPv6 局域网/NAT64 映射"
+    },
+    {
+      "domain": "a63:6f60:2177:1a6f::/64",
+      "match": "cidr",
+      "label": "IPv6 国际中继网络"
+    },
+    {
+      "domain": "a87:1d31:2177:1a24::/64",
+      "match": "cidr",
+      "label": "IPv6 国际中继网络"
+    },
+    {
+      "domain": "a9b3:4d0c:8ccf:5f32::/64",
+      "match": "cidr",
+      "label": "IPv6 局域网/NAT64 映射"
+    },
+    {
+      "domain": "a:239::/64",
+      "match": "cidr",
+      "label": "IPv6 国际中继网络"
+    },
+    {
+      "domain": "ab94:5bc0:4fb0:ccdb::/64",
+      "match": "cidr",
+      "label": "IPv6 国际中继网络"
+    },
+    {
+      "domain": "b01:6::/64",
+      "match": "cidr",
+      "label": "IPv6 国际中继网络"
+    },
+    {
+      "domain": "b864:7652:99c3:39c7::/64",
+      "match": "cidr",
+      "label": "IPv6 国际中继网络"
+    },
+    {
+      "domain": "ba12:243d:e9c1:193b::/64",
+      "match": "cidr",
+      "label": "IPv6 国际中继网络"
+    },
+    {
+      "domain": "bddc:200:1704:8100::/64",
+      "match": "cidr",
+      "label": "IPv6 国际中继网络"
+    },
+    {
+      "domain": "c0a8:103:2177:1524::/64",
+      "match": "cidr",
+      "label": "IPv6 局域网/NAT64 映射"
+    },
+    {
+      "domain": "c0a8:64:2177:1b79::/64",
+      "match": "cidr",
+      "label": "IPv6 局域网/NAT64 映射"
+    },
+    {
+      "domain": "c0a8:64:2177:24::/64",
+      "match": "cidr",
+      "label": "IPv6 局域网/NAT64 映射"
     },
     {
       "domain": "c226:503:40cd:513d::/64",
@@ -11757,12 +12407,72 @@
       "label": "IPv6 国际中继网络"
     },
     {
+      "domain": "c823:105b:e78e:be0e::/64",
+      "match": "cidr",
+      "label": "中国移动骨干网"
+    },
+    {
+      "domain": "c:775::/64",
+      "match": "cidr",
+      "label": "IPv6 国际中继网络"
+    },
+    {
+      "domain": "cd51:4e00:b1ef:9c1c::/64",
+      "match": "cidr",
+      "label": "IPv6 国际中继网络"
+    },
+    {
+      "domain": "d100::/64",
+      "match": "cidr",
+      "label": "IPv6 国际中继网络"
+    },
+    {
+      "domain": "d1fd:bddc:200:1704::/64",
+      "match": "cidr",
+      "label": "IPv6 国际中继网络"
+    },
+    {
+      "domain": "d1fd:bddc:200:2504::/64",
+      "match": "cidr",
+      "label": "IPv6 国际中继网络"
+    },
+    {
       "domain": "d200:24:98a:550e::/64",
       "match": "cidr",
       "label": "IPv6 国际中继网络"
     },
     {
+      "domain": "d224:884:228a:1388::/64",
+      "match": "cidr",
+      "label": "IPv6 国际中继网络"
+    },
+    {
+      "domain": "d224:889:c01:2dd::/64",
+      "match": "cidr",
+      "label": "IPv6 国际中继网络"
+    },
+    {
       "domain": "dc01:27:330::/64",
+      "match": "cidr",
+      "label": "IPv6 国际中继网络"
+    },
+    {
+      "domain": "dc02:d:662::/64",
+      "match": "cidr",
+      "label": "IPv6 国际中继网络"
+    },
+    {
+      "domain": "dd36:fb5c:8d60:c835::/64",
+      "match": "cidr",
+      "label": "IPv6 国际中继网络"
+    },
+    {
+      "domain": "dd3d:ad7f:f4f0:a6c9::/64",
+      "match": "cidr",
+      "label": "中国联通骨干网"
+    },
+    {
+      "domain": "e0bb:7960:a9f2:2177::/64",
       "match": "cidr",
       "label": "IPv6 国际中继网络"
     },
@@ -11773,6 +12483,21 @@
     },
     {
       "domain": "e24:e03:7982:aa3e::/64",
+      "match": "cidr",
+      "label": "IPv6 国际中继网络"
+    },
+    {
+      "domain": "f02c:4599:ec21:7724::/64",
+      "match": "cidr",
+      "label": "IPv6 国际中继网络"
+    },
+    {
+      "domain": "f44:1b98:ee2c:e0f7::/64",
+      "match": "cidr",
+      "label": "IPv6 国际中继网络"
+    },
+    {
+      "domain": "fc01:0:0:9f2c::/64",
       "match": "cidr",
       "label": "IPv6 国际中继网络"
     },
@@ -13037,6 +13762,11 @@
       "label": "灰产弹窗 / 流量中继"
     },
     {
+      "domain": "634.tv",
+      "match": "suffix",
+      "label": "634影视 在线点播网"
+    },
+    {
       "domain": "63xs.cc",
       "match": "suffix",
       "label": "盗版在线小说阅读"
@@ -13100,6 +13830,11 @@
       "domain": "6lherfa.com",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
+    },
+    {
+      "domain": "6ppxs.com",
+      "match": "suffix",
+      "label": "6pp小说 盗版网文"
     },
     {
       "domain": "6q1uylv.cc",
@@ -13222,6 +13957,11 @@
       "label": "灰产弹窗 / 流量中继"
     },
     {
+      "domain": "84ge.top",
+      "match": "suffix",
+      "label": "84哥 灰产图床外链"
+    },
+    {
       "domain": "852851.xyz",
       "match": "suffix",
       "label": "盗版影视 / IPTV 切片"
@@ -13337,6 +14077,16 @@
       "label": "91 成人视频 / 社区"
     },
     {
+      "domain": "91rb.com",
+      "match": "suffix",
+      "label": "91热爆 成人影视点播"
+    },
+    {
+      "domain": "91rb.net",
+      "match": "suffix",
+      "label": "91热爆 成人自拍影院"
+    },
+    {
       "domain": "91selfie.com",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
@@ -13380,6 +14130,11 @@
       "domain": "95q2uv6e3v.com",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
+    },
+    {
+      "domain": "968463.coupons",
+      "match": "suffix",
+      "label": "灰产诱导 / 优惠券中继"
     },
     {
       "domain": "97img.com",
@@ -13745,6 +14500,11 @@
       "domain": "aditude.cloud",
       "match": "suffix",
       "label": "商业广告 / 埋点追踪"
+    },
+    {
+      "domain": "adjust.cn",
+      "match": "suffix",
+      "label": "Adjust 移动归因分析"
     },
     {
       "domain": "adkernel.com",
@@ -15447,6 +16207,11 @@
       "label": "灰产弹窗 / 流量中继"
     },
     {
+      "domain": "bgi5412uht.vip",
+      "match": "suffix",
+      "label": "博彩娱乐 / 灰产跳转"
+    },
+    {
       "domain": "bgi5514uht.vip",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
@@ -15550,6 +16315,11 @@
       "domain": "biquge.tw",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
+    },
+    {
+      "domain": "biquge345.com",
+      "match": "suffix",
+      "label": "笔趣阁 盗版小说阅读"
     },
     {
       "domain": "biquge365.net",
@@ -18887,6 +19657,11 @@
       "label": "灰产弹窗 / 流量中继"
     },
     {
+      "domain": "eet-china.com",
+      "match": "suffix",
+      "label": "电子工程专辑 行业媒体"
+    },
+    {
       "domain": "egogayx.xyz",
       "match": "suffix",
       "label": "EgoGayX 男同同志成人视频"
@@ -21152,6 +21927,11 @@
       "label": "流氓弹窗 / 恶意诱导"
     },
     {
+      "domain": "guihutech.com",
+      "match": "suffix",
+      "label": "归狐科技 软件开发"
+    },
+    {
       "domain": "guilfordjournals.com",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
@@ -22417,6 +23197,11 @@
       "label": "Lvv2"
     },
     {
+      "domain": "img599.net",
+      "match": "suffix",
+      "label": "卡耐基教育 培训门户"
+    },
+    {
       "domain": "imganalytics.com",
       "match": "suffix",
       "label": "商业广告 / 埋点追踪"
@@ -22470,6 +23255,11 @@
       "domain": "imgly.net",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
+    },
+    {
+      "domain": "imglyh.top",
+      "match": "suffix",
+      "label": "灰产网络 盗版图床"
     },
     {
       "domain": "imgpoi.com",
@@ -23522,6 +24312,11 @@
       "label": "灰产弹窗 / 流量中继"
     },
     {
+      "domain": "juxiae.com",
+      "match": "suffix",
+      "label": "巨虾网络 科技资讯博客"
+    },
+    {
       "domain": "jxny3.lat",
       "match": "suffix",
       "label": "流氓弹窗 / 诱导推广"
@@ -24107,6 +24902,11 @@
       "label": "灰产弹窗 / 流量中继"
     },
     {
+      "domain": "lbv3lb2025.com",
+      "match": "suffix",
+      "label": "灰产诱导 / 流量中继"
+    },
+    {
       "domain": "ldrws.com",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
@@ -24467,9 +25267,24 @@
       "label": "灰产弹窗 / 流量中继"
     },
     {
+      "domain": "long4book.com",
+      "match": "suffix",
+      "label": "新龙小说 盗版网文"
+    },
+    {
+      "domain": "longshuwu.com",
+      "match": "suffix",
+      "label": "龙书屋 盗版小说阅读"
+    },
+    {
       "domain": "longtengxiaoshuo.org",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
+    },
+    {
+      "domain": "longtimebook.com",
+      "match": "suffix",
+      "label": "新龙小说 盗版网文"
     },
     {
       "domain": "loo3laej.com",
@@ -24555,6 +25370,21 @@
       "domain": "lsbzytp.com",
       "match": "suffix",
       "label": "成人影视 / 切片分发 CDN"
+    },
+    {
+      "domain": "lsptu1.com",
+      "match": "suffix",
+      "label": "知花社 福利写真门户"
+    },
+    {
+      "domain": "lsptu42.com",
+      "match": "suffix",
+      "label": "宅领域 二次元性感社区"
+    },
+    {
+      "domain": "lssp023.pics",
+      "match": "suffix",
+      "label": "老司机 宅领域二次元"
     },
     {
       "domain": "ltbook.net",
@@ -25630,6 +26460,11 @@
       "domain": "mozilla1.com",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
+    },
+    {
+      "domain": "mparticle.com",
+      "match": "suffix",
+      "label": "mParticle 客户数据平台"
     },
     {
       "domain": "mqgjlvgw.cc",
@@ -27192,9 +28027,19 @@
       "label": "成人广告联盟"
     },
     {
+      "domain": "pencn.cc",
+      "match": "suffix",
+      "label": "pencn 盗版影视"
+    },
+    {
       "domain": "pendo.io",
       "match": "suffix",
       "label": "商业 SaaS"
+    },
+    {
+      "domain": "pengv15.cc",
+      "match": "suffix",
+      "label": "灰产盗版 在线影院"
     },
     {
       "domain": "people.com",
@@ -27265,6 +28110,11 @@
       "domain": "picel48.com",
       "match": "suffix",
       "label": "影视 / 成人图床"
+    },
+    {
+      "domain": "picnew.org",
+      "match": "suffix",
+      "label": "域名停放 / 灰产导流"
     },
     {
       "domain": "picrew.me",
@@ -27507,6 +28357,11 @@
       "label": "破看书 盗版网络小说阅读"
     },
     {
+      "domain": "pokanwen.com",
+      "match": "suffix",
+      "label": "破看文 盗版小说阅读"
+    },
+    {
       "domain": "pokeapi.co",
       "match": "suffix",
       "label": "PokéAPI 宝可梦数据 API"
@@ -27525,6 +28380,11 @@
       "domain": "poloptrex.com",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
+    },
+    {
+      "domain": "polyfill.io",
+      "match": "suffix",
+      "label": "Polyfill 前端补丁库"
     },
     {
       "domain": "pomowxw.com",
@@ -28907,6 +29767,16 @@
       "label": "ROIPLUS AD 效果广告联盟"
     },
     {
+      "domain": "rokt-api.com",
+      "match": "suffix",
+      "label": "Rokt API 数据网关"
+    },
+    {
+      "domain": "rokt.com",
+      "match": "suffix",
+      "label": "Rokt 电商结账推荐引擎"
+    },
+    {
       "domain": "rollbar.com",
       "match": "suffix",
       "label": "Rollbar 实时错误监控平台"
@@ -29572,6 +30442,11 @@
       "label": "灰产弹窗 / 流量中继"
     },
     {
+      "domain": "sese677.info",
+      "match": "suffix",
+      "label": "成人小说 / 诱导色流"
+    },
+    {
       "domain": "seseporn.com",
       "match": "suffix",
       "label": "色色视频在线流媒体"
@@ -29940,6 +30815,11 @@
       "domain": "skimresources.com",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
+    },
+    {
+      "domain": "skuimg.com",
+      "match": "suffix",
+      "label": "电商 SKU 图片媒体分发"
     },
     {
       "domain": "skynetworkcdn.com",
@@ -30370,6 +31250,11 @@
       "domain": "spst2.com",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
+    },
+    {
+      "domain": "sqa17.shop",
+      "match": "suffix",
+      "label": "灰产电商 / 诱导商城"
     },
     {
       "domain": "squadbook.com",
@@ -31502,6 +32387,11 @@
       "label": "Traffic Factory 广告联盟"
     },
     {
+      "domain": "tfent.cncdnfile",
+      "match": "suffix",
+      "label": "专有 CDN 静态资源回源"
+    },
+    {
       "domain": "tfile.co",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
@@ -31925,6 +32815,11 @@
       "domain": "tjucp.top",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
+    },
+    {
+      "domain": "tjyrckj.com",
+      "match": "suffix",
+      "label": "联美配资 股票金融"
     },
     {
       "domain": "tk0x1.com",
@@ -32372,6 +33267,11 @@
       "label": "灰产弹窗 / 流量中继"
     },
     {
+      "domain": "ttbfp2.com",
+      "match": "suffix",
+      "label": "天天播放器 视频解析"
+    },
+    {
       "domain": "ttcache.com",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
@@ -32387,9 +33287,24 @@
       "label": "灰产弹窗 / 流量中继"
     },
     {
+      "domain": "ttkxny.com",
+      "match": "suffix",
+      "label": "天天开心农业 企业官网"
+    },
+    {
       "domain": "ttongji9.in",
       "match": "suffix",
       "label": "TTongji 网站灰产统计埋点"
+    },
+    {
+      "domain": "ttzytp2.com",
+      "match": "suffix",
+      "label": "天天影视 视频切片图床"
+    },
+    {
+      "domain": "ttzytp4.com",
+      "match": "suffix",
+      "label": "天天影视 视频图床节点"
     },
     {
       "domain": "tu-berlin.de",
@@ -32565,6 +33480,11 @@
       "domain": "tzce699.vip",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
+    },
+    {
+      "domain": "tzwxs.com",
+      "match": "suffix",
+      "label": "天资文学 盗版小说网"
     },
     {
       "domain": "u-language.com",
@@ -33617,6 +34537,11 @@
       "label": "灰产弹窗 / 流量中继"
     },
     {
+      "domain": "welove520.com",
+      "match": "suffix",
+      "label": "微爱礼物 礼品电商"
+    },
+    {
       "domain": "wemember.io",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
@@ -33650,6 +34575,11 @@
       "domain": "whitetrafsa.com",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
+    },
+    {
+      "domain": "whjbsm.com",
+      "match": "suffix",
+      "label": "灰产导航 / 广告中继"
     },
     {
       "domain": "whtcwl.com",
@@ -33730,6 +34660,11 @@
       "domain": "wmccd.com",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
+    },
+    {
+      "domain": "wmetxqhs.com",
+      "match": "suffix",
+      "label": "KISSAV 日本成人在线"
     },
     {
       "domain": "wmjgkema.cc",
@@ -33967,6 +34902,11 @@
       "label": "灰产弹窗 / 流量中继"
     },
     {
+      "domain": "x9f8d7s6a5q.buzz",
+      "match": "suffix",
+      "label": "DGA 动态生成跳转域"
+    },
+    {
       "domain": "x9x88.com",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
@@ -34095,6 +35035,11 @@
       "domain": "xdrig.com",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
+    },
+    {
+      "domain": "xen-us-10-1.bdic",
+      "match": "suffix",
+      "label": "内部虚拟化测试通信标识"
     },
     {
       "domain": "xfantazy.com",
@@ -34750,6 +35695,11 @@
       "domain": "yetansd.com",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
+    },
+    {
+      "domain": "yfanads.com",
+      "match": "suffix",
+      "label": "亿帆广告 移动广告联盟"
     },
     {
       "domain": "yfantasy.me",
