@@ -1747,6 +1747,11 @@
       "label": "巴塞罗那市政厅"
     },
     {
+      "domain": "beaconbank.jp",
+      "match": "suffix",
+      "label": "Beacon Bank 日本位置智能"
+    },
+    {
       "domain": "beatport.com",
       "match": "suffix",
       "label": "Beatport 电子音乐平台"
@@ -3637,6 +3642,11 @@
       "label": "灰产弹窗 / 流量中继"
     },
     {
+      "domain": "exemplarfederallithe.com",
+      "match": "suffix",
+      "label": "流氓弹窗 / 诱导推广"
+    },
+    {
       "domain": "exlibrisgroup.com",
       "match": "suffix",
       "label": "Ex Libris 高校图书馆系统"
@@ -4752,6 +4762,11 @@
       "label": "灰产弹窗 / 流量中继"
     },
     {
+      "domain": "hidns.vip",
+      "match": "suffix",
+      "label": "动态 DNS / 节点调度"
+    },
+    {
       "domain": "hihl36.xyz",
       "match": "suffix",
       "label": "灰产社区"
@@ -5770,6 +5785,11 @@
       "domain": "karte.io",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
+    },
+    {
+      "domain": "kazmazpaz.ru",
+      "match": "suffix",
+      "label": "网络电视 / 影视流媒体"
     },
     {
       "domain": "kelv47.xyz",
@@ -7257,6 +7277,11 @@
       "label": "商业广告 / 埋点追踪"
     },
     {
+      "domain": "otcnet.ru",
+      "match": "suffix",
+      "label": "网络电视 / 影视流媒体"
+    },
+    {
       "domain": "othyinw.cc",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
@@ -7710,6 +7735,11 @@
       "domain": "protechts.net",
       "match": "suffix",
       "label": "HUMAN (PerimeterX) 风控"
+    },
+    {
+      "domain": "protrafficinspector.com",
+      "match": "suffix",
+      "label": "广告流量质量检测"
     },
     {
       "domain": "prreqcroab.icu",
@@ -8202,6 +8232,11 @@
       "label": "灰产弹窗 / 流量中继"
     },
     {
+      "domain": "rr.kg",
+      "match": "suffix",
+      "label": "吉尔吉斯防封短链 / 调度"
+    },
+    {
       "domain": "rtbbtr.com",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
@@ -8248,6 +8283,11 @@
     },
     {
       "domain": "rule34video.com",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
+    },
+    {
+      "domain": "runlongtc.com",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
     },
@@ -8757,6 +8797,11 @@
       "label": "成人流媒体"
     },
     {
+      "domain": "solidgate.com",
+      "match": "suffix",
+      "label": "Solidgate 国际跨境支付"
+    },
+    {
       "domain": "solseed.cn",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
@@ -8953,6 +8998,11 @@
     },
     {
       "domain": "stbuttons.click",
+      "match": "suffix",
+      "label": "灰产弹窗 / 流量中继"
+    },
+    {
+      "domain": "stealthsafeweb.com",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
     },
@@ -10447,6 +10497,11 @@
       "label": "灰产弹窗 / 流量中继"
     },
     {
+      "domain": "vpnapptoggle.com",
+      "match": "suffix",
+      "label": "VPN 节点状态配置"
+    },
+    {
       "domain": "vprtrfc.com",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
@@ -10700,6 +10755,11 @@
       "domain": "workbuddy.cn",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
+    },
+    {
+      "domain": "workdeadlinededicate.com",
+      "match": "suffix",
+      "label": "流氓弹窗 / 诱导推广"
     },
     {
       "domain": "workos.com",
