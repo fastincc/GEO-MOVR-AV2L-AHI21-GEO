@@ -419,7 +419,7 @@
     {
       "domain": "102.51.0.0/19",
       "match": "cidr",
-      "label": "Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM 网络"
+      "label": "摩洛哥电信 Maroc Telecom"
     },
     {
       "domain": "102.85.0.0/17",
@@ -2839,7 +2839,7 @@
     {
       "domain": "1403:0:0:d22a::/64",
       "match": "cidr",
-      "label": "Global Transit IPv6 /64 Subnet 网络"
+      "label": "IPv6 国际中继网络"
     },
     {
       "domain": "141.11.77.0/24",
@@ -5249,7 +5249,7 @@
     {
       "domain": "213f:1224:e00:8302::/64",
       "match": "cidr",
-      "label": "Global Transit IPv6 /64 Subnet 网络"
+      "label": "IPv6 国际中继网络"
     },
     {
       "domain": "213f:240e:3a3:3a3c::/64",
@@ -5259,7 +5259,7 @@
     {
       "domain": "214e:24:98c:410::/64",
       "match": "cidr",
-      "label": "Global Transit IPv6 /64 Subnet 网络"
+      "label": "IPv6 国际中继网络"
     },
     {
       "domain": "216.144.228.0/24",
@@ -6204,12 +6204,12 @@
     {
       "domain": "26c2:2605:340:cd51::/64",
       "match": "cidr",
-      "label": "Global Transit IPv6 /64 Subnet 网络"
+      "label": "IPv6 国际中继网络"
     },
     {
       "domain": "26c2:fdbd:dc01:18::/64",
       "match": "cidr",
-      "label": "Global Transit IPv6 /64 Subnet 网络"
+      "label": "IPv6 国际中继网络"
     },
     {
       "domain": "27.124.24.0/24",
@@ -6309,7 +6309,7 @@
     {
       "domain": "2adc:9b0c:78ef:4e6f::/64",
       "match": "cidr",
-      "label": "Global Transit IPv6 /64 Subnet 网络"
+      "label": "IPv6 国际中继网络"
     },
     {
       "domain": "2b43k5.com",
@@ -12439,7 +12439,7 @@
     {
       "domain": "c226:503:40cd:513d::/64",
       "match": "cidr",
-      "label": "Global Transit IPv6 /64 Subnet 网络"
+      "label": "IPv6 国际中继网络"
     },
     {
       "domain": "c2v2.com",
@@ -12459,7 +12459,7 @@
     {
       "domain": "c78:e645:9a31:87c0::/64",
       "match": "cidr",
-      "label": "Global Transit IPv6 /64 Subnet 网络"
+      "label": "IPv6 国际中继网络"
     },
     {
       "domain": "c7a91e3b-84d2-4c6f-9b71-2e8d4a6f3c11.com",
@@ -13939,7 +13939,7 @@
     {
       "domain": "d200:24:98a:550e::/64",
       "match": "cidr",
-      "label": "Global Transit IPv6 /64 Subnet 网络"
+      "label": "IPv6 国际中继网络"
     },
     {
       "domain": "d2pass.com",
@@ -14184,7 +14184,7 @@
     {
       "domain": "dc01:27:330::/64",
       "match": "cidr",
-      "label": "Global Transit IPv6 /64 Subnet 网络"
+      "label": "IPv6 国际中继网络"
     },
     {
       "domain": "dc12lkjd1lkf.xyz",
@@ -14789,7 +14789,7 @@
     {
       "domain": "e24:e03:7982:aa3e::/64",
       "match": "cidr",
-      "label": "Global Transit IPv6 /64 Subnet 网络"
+      "label": "IPv6 国际中继网络"
     },
     {
       "domain": "e4vgdsy.cc",
