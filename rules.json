@@ -212,6 +212,11 @@
       "label": "HINET Data C BGP网段"
     },
     {
+      "domain": "1.171.0.0/16",
+      "match": "cidr",
+      "label": "HINET Data C BGP网段"
+    },
+    {
       "domain": "1.173.0.0/16",
       "match": "cidr",
       "label": "中华电信 HiNet"
@@ -1132,6 +1137,11 @@
       "label": "CHINANET SHANG BGP网段"
     },
     {
+      "domain": "101.227.94.0/23",
+      "match": "cidr",
+      "label": "CHINANET SHANG BGP网段"
+    },
+    {
       "domain": "101.235.0.0/17",
       "match": "cidr",
       "label": "CNM AS KR KR BGP网段"
@@ -1472,9 +1482,19 @@
       "label": "The Computer H BGP网段"
     },
     {
+      "domain": "102.212.230.0/24",
+      "match": "cidr",
+      "label": "Xcobean System BGP网段"
+    },
+    {
       "domain": "102.214.48.0/22",
       "match": "cidr",
       "label": "Wananchi Group BGP网段"
+    },
+    {
+      "domain": "102.216.76.0/22",
+      "match": "cidr",
+      "label": "Atomic (Pty) L BGP网段"
     },
     {
       "domain": "102.218.85.0/24",
@@ -1927,6 +1947,11 @@
       "label": "靠谱云 香港数据中心"
     },
     {
+      "domain": "103.20.63.0/24",
+      "match": "cidr",
+      "label": "LAYER AS Lay BGP网段"
+    },
+    {
       "domain": "103.20.83.0/24",
       "match": "cidr",
       "label": "MEGATRUENET 网络"
@@ -1980,6 +2005,11 @@
       "domain": "103.216.137.0/24",
       "match": "cidr",
       "label": "JSYinsuyun 网络"
+    },
+    {
+      "domain": "103.216.158.0/24",
+      "match": "cidr",
+      "label": "BANGMODENTERPR BGP网段"
     },
     {
       "domain": "103.218.242.0/24",
@@ -2047,6 +2077,11 @@
       "label": "GTCL 网络"
     },
     {
+      "domain": "103.233.96.0/24",
+      "match": "cidr",
+      "label": "DNC AS Dimen BGP网段"
+    },
+    {
       "domain": "103.235.45.0/24",
       "match": "cidr",
       "label": "百度云服务"
@@ -2072,6 +2107,11 @@
       "label": "中国电信骨干网"
     },
     {
+      "domain": "103.237.100.0/24",
+      "match": "cidr",
+      "label": "ZEN ECN Zenl BGP网段"
+    },
+    {
       "domain": "103.238.66.0/24",
       "match": "cidr",
       "label": "MSPACL 网络"
@@ -2090,6 +2130,11 @@
       "domain": "103.240.56.0/23",
       "match": "cidr",
       "label": "MUST AS AP M BGP网段"
+    },
+    {
+      "domain": "103.242.68.0/22",
+      "match": "cidr",
+      "label": "TELESMARTLIMIT BGP网段"
     },
     {
       "domain": "103.246.244.0/22",
@@ -2180,6 +2225,11 @@
       "domain": "103.41.2.0/23",
       "match": "cidr",
       "label": "ChinaNet Hebei BGP网段"
+    },
+    {
+      "domain": "103.42.146.0/23",
+      "match": "cidr",
+      "label": "SKYCLOUD NET BGP网段"
     },
     {
       "domain": "103.42.176.0/24",
@@ -2482,6 +2532,11 @@
       "label": "ZEN DPS Zenl BGP网段"
     },
     {
+      "domain": "104.218.234.0/24",
+      "match": "cidr",
+      "label": "SPARTANHOST BGP网段"
+    },
+    {
       "domain": "104.218.235.0/24",
       "match": "cidr",
       "label": "SPARTANHOST BGP网段"
@@ -2682,6 +2737,11 @@
       "label": "SEEDNET Digi BGP网段"
     },
     {
+      "domain": "106.104.96.0/19",
+      "match": "cidr",
+      "label": "SEEDNET Digi BGP网段"
+    },
+    {
       "domain": "106.107.144.0/22",
       "match": "cidr",
       "label": "TINP TW Taiw BGP网段"
@@ -2710,6 +2770,11 @@
       "domain": "106.11.160.0/20",
       "match": "cidr",
       "label": "阿里云计算"
+    },
+    {
+      "domain": "106.11.208.0/21",
+      "match": "cidr",
+      "label": "ALIBABA CN NET BGP网段"
     },
     {
       "domain": "106.11.224.0/19",
@@ -2818,6 +2883,11 @@
     },
     {
       "domain": "106.168.0.0/16",
+      "match": "cidr",
+      "label": "KDDI KDDI CO BGP网段"
+    },
+    {
+      "domain": "106.179.0.0/16",
       "match": "cidr",
       "label": "KDDI KDDI CO BGP网段"
     },
@@ -2977,9 +3047,19 @@
       "label": "公网主机 骨干接入段"
     },
     {
+      "domain": "107.148.196.0/23",
+      "match": "cidr",
+      "label": "PEG SV PEG T BGP网段"
+    },
+    {
       "domain": "107.148.32.0/23",
       "match": "cidr",
       "label": "PEG SG PEG T BGP网段"
+    },
+    {
+      "domain": "107.149.160.0/23",
+      "match": "cidr",
+      "label": "PEG LA PEG T BGP网段"
     },
     {
       "domain": "107.149.72.0/21",
@@ -3217,6 +3297,11 @@
       "label": "Glide Glide BGP网段"
     },
     {
+      "domain": "109.206.244.0/23",
+      "match": "cidr",
+      "label": "CLOUDIE AS AP BGP网段"
+    },
+    {
       "domain": "109.221.128.0/17",
       "match": "cidr",
       "label": "AS3215 Orang BGP网段"
@@ -3382,6 +3467,11 @@
       "label": "MPX AS Micro BGP网段"
     },
     {
+      "domain": "110.228.0.0/14",
+      "match": "cidr",
+      "label": "CHINA169 Backb BGP网段"
+    },
+    {
       "domain": "110.232.112.0/22",
       "match": "cidr",
       "label": "Mammoth Media 广告"
@@ -3483,6 +3573,11 @@
     },
     {
       "domain": "110.52.0.0/15",
+      "match": "cidr",
+      "label": "CHINA169 Backb BGP网段"
+    },
+    {
+      "domain": "110.72.0.0/15",
       "match": "cidr",
       "label": "CHINA169 Backb BGP网段"
     },
@@ -3653,6 +3748,11 @@
     },
     {
       "domain": "111.199.64.0/18",
+      "match": "cidr",
+      "label": "CHINA169 BJ BGP网段"
+    },
+    {
+      "domain": "111.201.144.0/22",
       "match": "cidr",
       "label": "CHINA169 BJ BGP网段"
     },
@@ -3908,6 +4008,11 @@
     },
     {
       "domain": "112.118.64.0/19",
+      "match": "cidr",
+      "label": "HKTIMS AP HK BGP网段"
+    },
+    {
+      "domain": "112.119.192.0/19",
       "match": "cidr",
       "label": "HKTIMS AP HK BGP网段"
     },
@@ -4247,6 +4352,11 @@
       "label": "CHINAMOBILE CN BGP网段"
     },
     {
+      "domain": "112.44.216.0/21",
+      "match": "cidr",
+      "label": "CHINAMOBILE CN BGP网段"
+    },
+    {
       "domain": "112.45.112.0/20",
       "match": "cidr",
       "label": "中国移动骨干网"
@@ -4255,6 +4365,11 @@
       "domain": "112.45.128.0/19",
       "match": "cidr",
       "label": "中国移动骨干网"
+    },
+    {
+      "domain": "112.45.216.0/21",
+      "match": "cidr",
+      "label": "CHINAMOBILE CN BGP网段"
     },
     {
       "domain": "112.45.32.0/20",
@@ -4582,6 +4697,11 @@
       "label": "MAXIS 网络"
     },
     {
+      "domain": "113.213.192.0/19",
+      "match": "cidr",
+      "label": "NCV Newmedia BGP网段"
+    },
+    {
       "domain": "113.214.160.0/19",
       "match": "cidr",
       "label": "WASUHZ 骨干网"
@@ -4750,6 +4870,11 @@
       "domain": "114.10.137.0/24",
       "match": "cidr",
       "label": "INDOSAT 骨干网"
+    },
+    {
+      "domain": "114.10.245.0/24",
+      "match": "cidr",
+      "label": "INDOSAT INP AP BGP网段"
     },
     {
       "domain": "114.10.42.0/24",
@@ -5227,6 +5352,11 @@
       "label": "VOLCANO ENGINE BGP网段"
     },
     {
+      "domain": "115.191.16.0/21",
+      "match": "cidr",
+      "label": "VOLCANO ENGINE BGP网段"
+    },
+    {
       "domain": "115.192.0.0/11",
       "match": "cidr",
       "label": "CHINANET BACKB BGP网段"
@@ -5250,6 +5380,11 @@
       "domain": "115.43.128.0/17",
       "match": "cidr",
       "label": "MULTIMEDIA AS BGP网段"
+    },
+    {
+      "domain": "115.46.0.0/16",
+      "match": "cidr",
+      "label": "CHINA169 Backb BGP网段"
     },
     {
       "domain": "115.48.0.0/12",
@@ -5502,6 +5637,11 @@
       "label": "中国联通骨干网"
     },
     {
+      "domain": "116.179.0.0/16",
+      "match": "cidr",
+      "label": "CHINA169 Backb BGP网段"
+    },
+    {
       "domain": "116.181.0.0/16",
       "match": "cidr",
       "label": "中国联通骨干网"
@@ -5518,6 +5658,11 @@
     },
     {
       "domain": "116.196.140.0/22",
+      "match": "cidr",
+      "label": "JHWA Jinhua BGP网段"
+    },
+    {
+      "domain": "116.196.144.0/22",
       "match": "cidr",
       "label": "JHWA Jinhua BGP网段"
     },
@@ -5655,6 +5800,11 @@
       "domain": "116.40.0.0/13",
       "match": "cidr",
       "label": "POWERVIS 网络"
+    },
+    {
+      "domain": "116.49.128.0/19",
+      "match": "cidr",
+      "label": "HKTIMS AP HK BGP网段"
     },
     {
       "domain": "116.49.64.0/19",
@@ -6112,6 +6262,11 @@
       "label": "中国移动骨干网"
     },
     {
+      "domain": "117.175.144.0/21",
+      "match": "cidr",
+      "label": "CHINAMOBILE CN BGP网段"
+    },
+    {
       "domain": "117.175.176.0/20",
       "match": "cidr",
       "label": "CHINAMOBILE CN BGP网段"
@@ -6338,6 +6493,11 @@
     },
     {
       "domain": "117.33.128.0/18",
+      "match": "cidr",
+      "label": "CHINANET SHAAN BGP网段"
+    },
+    {
+      "domain": "117.34.84.0/23",
       "match": "cidr",
       "label": "CHINANET SHAAN BGP网段"
     },
@@ -6757,6 +6917,11 @@
       "label": "HWCLOUDS AS AP BGP网段"
     },
     {
+      "domain": "119.14.128.0/17",
+      "match": "cidr",
+      "label": "MULTIMEDIA AS BGP网段"
+    },
+    {
       "domain": "119.144.0.0/14",
       "match": "cidr",
       "label": "中国电信骨干网"
@@ -6928,6 +7093,11 @@
     },
     {
       "domain": "119.237.224.0/19",
+      "match": "cidr",
+      "label": "HKTIMS AP HK BGP网段"
+    },
+    {
+      "domain": "119.237.96.0/19",
       "match": "cidr",
       "label": "HKTIMS AP HK BGP网段"
     },
@@ -7252,6 +7422,11 @@
       "label": "ATT 网络"
     },
     {
+      "domain": "120.0.0.0/12",
+      "match": "cidr",
+      "label": "CHINA169 Backb BGP网段"
+    },
+    {
       "domain": "120.131.12.0/23",
       "match": "cidr",
       "label": "BJKSCNET Bei BGP网段"
@@ -7395,6 +7570,11 @@
       "domain": "120.210.80.0/21",
       "match": "cidr",
       "label": "CHINAMOBILE CN BGP网段"
+    },
+    {
+      "domain": "120.213.128.0/19",
+      "match": "cidr",
+      "label": "CMNET V4henan BGP网段"
     },
     {
       "domain": "120.216.160.0/19",
@@ -7692,9 +7872,19 @@
       "label": "中国移动骨干网"
     },
     {
+      "domain": "120.236.12.0/22",
+      "match": "cidr",
+      "label": "CHINAMOBILE CN BGP网段"
+    },
+    {
       "domain": "120.237.21.0/24",
       "match": "cidr",
       "label": "中国移动骨干网"
+    },
+    {
+      "domain": "120.238.92.0/23",
+      "match": "cidr",
+      "label": "CHINAMOBILE CN BGP网段"
     },
     {
       "domain": "120.239.32.0/21",
@@ -7760,6 +7950,11 @@
       "domain": "120.255.48.0/21",
       "match": "cidr",
       "label": "中国移动骨干网"
+    },
+    {
+      "domain": "120.255.64.0/19",
+      "match": "cidr",
+      "label": "CMNET V4TIANJI BGP网段"
     },
     {
       "domain": "120.26.0.0/16",
@@ -8637,6 +8832,11 @@
       "label": "BROADBANDSOLUT BGP网段"
     },
     {
+      "domain": "123.255.32.0/19",
+      "match": "cidr",
+      "label": "TWODEGREES NZ BGP网段"
+    },
+    {
       "domain": "123.4.0.0/14",
       "match": "cidr",
       "label": "中国联通骨干网"
@@ -9105,6 +9305,11 @@
       "domain": "125.192.0.0/13",
       "match": "cidr",
       "label": "BIGLOBE BIGL BGP网段"
+    },
+    {
+      "domain": "125.200.0.0/13",
+      "match": "cidr",
+      "label": "OCN NTT DOCO BGP网段"
     },
     {
       "domain": "125.209.232.0/22",
@@ -9582,6 +9787,11 @@
       "label": "DigitalOcean 云服务"
     },
     {
+      "domain": "128.22.0.0/16",
+      "match": "cidr",
+      "label": "OPTAGE OPTAG BGP网段"
+    },
+    {
       "domain": "128.242.240.0/24",
       "match": "cidr",
       "label": "HostRoyale 节点直连"
@@ -9752,6 +9962,11 @@
       "label": "AMAZON 02 Am BGP网段"
     },
     {
+      "domain": "13.124.0.0/16",
+      "match": "cidr",
+      "label": "AMAZON 02 Am BGP网段"
+    },
+    {
       "domain": "13.125.0.0/16",
       "match": "cidr",
       "label": "AMAZON 02 Am BGP网段"
@@ -9865,6 +10080,11 @@
       "domain": "130.15.224.0/20",
       "match": "cidr",
       "label": "QUEENSU KINGST BGP网段"
+    },
+    {
+      "domain": "130.162.128.0/19",
+      "match": "cidr",
+      "label": "ORACLE BMC 318 BGP网段"
     },
     {
       "domain": "130.182.0.0/16",
@@ -10437,6 +10657,11 @@
       "label": "NPL MANG LTD BGP网段"
     },
     {
+      "domain": "139.150.5.0/24",
+      "match": "cidr",
+      "label": "KAKAO 10158 AS BGP网段"
+    },
+    {
       "domain": "139.159.110.0/24",
       "match": "cidr",
       "label": "中国电信 上海城域网"
@@ -10445,6 +10670,11 @@
       "domain": "139.159.144.0/20",
       "match": "cidr",
       "label": "华为云服务"
+    },
+    {
+      "domain": "139.162.160.0/19",
+      "match": "cidr",
+      "label": "AKAMAI LINODE BGP网段"
     },
     {
       "domain": "139.162.224.0/19",
@@ -10532,7 +10762,7 @@
       "label": "阿里云骨干网"
     },
     {
-      "domain": "139.226.96.0/19",
+      "domain": "139.226.0.0/16",
       "match": "cidr",
       "label": "CNCGROUP SH BGP网段"
     },
@@ -10842,6 +11072,11 @@
       "label": "KIXS AS KR KR BGP网段"
     },
     {
+      "domain": "14.64.0.0/12",
+      "match": "cidr",
+      "label": "KIXS AS KR KR BGP网段"
+    },
+    {
       "domain": "14.8.0.0/15",
       "match": "cidr",
       "label": "KDDI 日本骨干网"
@@ -10883,6 +11118,16 @@
     },
     {
       "domain": "140.150.22.0/24",
+      "match": "cidr",
+      "label": "ML 1432 54994 BGP网段"
+    },
+    {
+      "domain": "140.150.236.0/24",
+      "match": "cidr",
+      "label": "Zouter ZOUTE BGP网段"
+    },
+    {
+      "domain": "140.150.28.0/24",
       "match": "cidr",
       "label": "ML 1432 54994 BGP网段"
     },
@@ -10935,6 +11180,11 @@
       "domain": "140.238.0.0/19",
       "match": "cidr",
       "label": "ORACLE 网络"
+    },
+    {
+      "domain": "140.238.32.0/20",
+      "match": "cidr",
+      "label": "ORACLE BMC 318 BGP网段"
     },
     {
       "domain": "140.238.48.0/20",
@@ -10997,6 +11247,11 @@
       "label": "GITHUB GitHu BGP网段"
     },
     {
+      "domain": "140.83.32.0/21",
+      "match": "cidr",
+      "label": "ORACLE BMC 318 BGP网段"
+    },
+    {
       "domain": "140.83.48.0/20",
       "match": "cidr",
       "label": "ORACLE BMC 318 BGP网段"
@@ -11045,6 +11300,11 @@
       "domain": "141.95.0.0/17",
       "match": "cidr",
       "label": "OVH OVH SAS, BGP网段"
+    },
+    {
+      "domain": "141.98.198.0/24",
+      "match": "cidr",
+      "label": "XTOM JAPAN x BGP网段"
     },
     {
       "domain": "142.0.128.0/20",
@@ -11120,6 +11380,11 @@
       "domain": "142.4.192.0/19",
       "match": "cidr",
       "label": "OVHcloud 法国机房"
+    },
+    {
+      "domain": "142.4.96.0/19",
+      "match": "cidr",
+      "label": "PEG SV PEG T BGP网段"
     },
     {
       "domain": "142.91.100.0/23",
@@ -11410,6 +11675,11 @@
       "domain": "145.190.68.0/24",
       "match": "cidr",
       "label": "MICROSOFT CORP BGP网段"
+    },
+    {
+      "domain": "145.40.128.0/18",
+      "match": "cidr",
+      "label": "TOOB toob li BGP网段"
     },
     {
       "domain": "146.103.82.0/24",
@@ -11742,6 +12012,11 @@
       "label": "mth networks BGP网段"
     },
     {
+      "domain": "15.160.0.0/16",
+      "match": "cidr",
+      "label": "AMAZON 02 Am BGP网段"
+    },
+    {
       "domain": "15.161.0.0/16",
       "match": "cidr",
       "label": "AMAZON 02 Am BGP网段"
@@ -11778,6 +12053,11 @@
     },
     {
       "domain": "15.204.0.0/17",
+      "match": "cidr",
+      "label": "OVH OVH SAS, BGP网段"
+    },
+    {
+      "domain": "15.204.128.0/17",
       "match": "cidr",
       "label": "OVH OVH SAS, BGP网段"
     },
@@ -12452,9 +12732,19 @@
       "label": "NETLAB SDN N BGP网段"
     },
     {
+      "domain": "154.36.180.0/24",
+      "match": "cidr",
+      "label": "NETLAB SDN N BGP网段"
+    },
+    {
       "domain": "154.5.0.0/16",
       "match": "cidr",
       "label": "ASN852 TELUS BGP网段"
+    },
+    {
+      "domain": "154.8.160.0/19",
+      "match": "cidr",
+      "label": "TENCENT NET AP BGP网段"
     },
     {
       "domain": "154.80.108.0/24",
@@ -12622,6 +12912,11 @@
       "label": "AkileCloud A BGP网段"
     },
     {
+      "domain": "156.248.10.0/24",
+      "match": "cidr",
+      "label": "HNSL AS AP H BGP网段"
+    },
+    {
       "domain": "156.250.128.0/17",
       "match": "cidr",
       "label": "香港宽频企业方案 HKBN"
@@ -12697,14 +12992,9 @@
       "label": "Chensukj 骨干网"
     },
     {
-      "domain": "157.122.208.0/21",
+      "domain": "157.122.0.0/16",
       "match": "cidr",
-      "label": "UNICOM GuangZh BGP网段"
-    },
-    {
-      "domain": "157.122.88.0/21",
-      "match": "cidr",
-      "label": "CNCGROUP GZ BGP网段"
+      "label": "CHINA169 GZ BGP网段"
     },
     {
       "domain": "157.148.118.0/24",
@@ -12877,6 +13167,11 @@
       "label": "UNICOM ShenZhe BGP网段"
     },
     {
+      "domain": "157.255.240.0/24",
+      "match": "cidr",
+      "label": "UNICOM ShenZhe BGP网段"
+    },
+    {
       "domain": "157.255.34.0/24",
       "match": "cidr",
       "label": "中国联通骨干网"
@@ -12958,6 +13253,11 @@
     },
     {
       "domain": "158.178.224.0/20",
+      "match": "cidr",
+      "label": "ORACLE BMC 318 BGP网段"
+    },
+    {
+      "domain": "158.179.176.0/20",
       "match": "cidr",
       "label": "ORACLE BMC 318 BGP网段"
     },
@@ -13172,6 +13472,11 @@
       "label": "GMO 骨干网"
     },
     {
+      "domain": "160.251.96.0/19",
+      "match": "cidr",
+      "label": "GMO I R1 GMO BGP网段"
+    },
+    {
       "domain": "160.30.138.0/24",
       "match": "cidr",
       "label": "HOST AS AP H BGP网段"
@@ -13215,6 +13520,11 @@
       "domain": "161.153.0.0/17",
       "match": "cidr",
       "label": "ORACLE BMC 318 BGP网段"
+    },
+    {
+      "domain": "161.248.63.0/24",
+      "match": "cidr",
+      "label": "AliceNetwork BGP网段"
     },
     {
       "domain": "161.253.0.0/17",
@@ -13330,6 +13640,11 @@
       "domain": "162.14.0.0/22",
       "match": "cidr",
       "label": "腾讯云骨干节点"
+    },
+    {
+      "domain": "162.14.12.0/22",
+      "match": "cidr",
+      "label": "TENCENT NET AP BGP网段"
     },
     {
       "domain": "162.14.128.0/20",
@@ -13475,6 +13790,16 @@
       "domain": "163.142.0.0/16",
       "match": "cidr",
       "label": "CHINA169 GZ BGP网段"
+    },
+    {
+      "domain": "163.171.109.0/24",
+      "match": "cidr",
+      "label": "ML 1432 54994 BGP网段"
+    },
+    {
+      "domain": "163.171.198.0/24",
+      "match": "cidr",
+      "label": "ML 1432 54994 BGP网段"
     },
     {
       "domain": "163.171.202.0/24",
@@ -13717,6 +14042,11 @@
       "label": "OVH OVH SAS, BGP网段"
     },
     {
+      "domain": "167.148.120.0/23",
+      "match": "cidr",
+      "label": "ZEN DPS Zenl BGP网段"
+    },
+    {
       "domain": "167.160.187.0/24",
       "match": "cidr",
       "label": "AS 网络"
@@ -13735,6 +14065,11 @@
       "domain": "167.179.64.0/18",
       "match": "cidr",
       "label": "Vultr 云计算节点"
+    },
+    {
+      "domain": "167.235.0.0/16",
+      "match": "cidr",
+      "label": "HETZNER AS H BGP网段"
     },
     {
       "domain": "167.248.0.0/18",
@@ -13780,6 +14115,11 @@
       "domain": "168.107.0.0/18",
       "match": "cidr",
       "label": "Oracle 云服务"
+    },
+    {
+      "domain": "168.107.64.0/19",
+      "match": "cidr",
+      "label": "ORACLE BMC 318 BGP网段"
     },
     {
       "domain": "168.138.0.0/19",
@@ -14050,6 +14390,11 @@
       "domain": "171.111.156.0/24",
       "match": "cidr",
       "label": "中国电信骨干网"
+    },
+    {
+      "domain": "171.13.0.0/16",
+      "match": "cidr",
+      "label": "CHINANET BACKB BGP网段"
     },
     {
       "domain": "171.14.0.0/16",
@@ -14342,6 +14687,11 @@
       "label": "Akamai 边缘加速"
     },
     {
+      "domain": "172.232.128.0/19",
+      "match": "cidr",
+      "label": "AKAMAI LINODE BGP网段"
+    },
+    {
       "domain": "172.232.192.0/19",
       "match": "cidr",
       "label": "Akamai 全球 CDN"
@@ -14487,6 +14837,11 @@
       "label": "SPARTANHOST BGP网段"
     },
     {
+      "domain": "172.83.158.0/24",
+      "match": "cidr",
+      "label": "SPARTANHOST BGP网段"
+    },
+    {
       "domain": "172.83.224.0/20",
       "match": "cidr",
       "label": "OACYS 骨干网"
@@ -14495,6 +14850,11 @@
       "domain": "172.88.0.0/14",
       "match": "cidr",
       "label": "TWC 骨干网"
+    },
+    {
+      "domain": "172.93.220.0/23",
+      "match": "cidr",
+      "label": "XTOM JAPAN x BGP网段"
     },
     {
       "domain": "172.96.112.0/22",
@@ -14585,6 +14945,11 @@
       "domain": "173.244.192.0/19",
       "match": "cidr",
       "label": "Highwinds / StackPath CDN"
+    },
+    {
+      "domain": "173.245.64.0/19",
+      "match": "cidr",
+      "label": "EGIHOSTING E BGP网段"
     },
     {
       "domain": "173.249.203.0/24",
@@ -15125,6 +15490,11 @@
       "domain": "176.77.128.0/17",
       "match": "cidr",
       "label": "YETTEL HU Ye BGP网段"
+    },
+    {
+      "domain": "176.9.0.0/16",
+      "match": "cidr",
+      "label": "HETZNER AS H BGP网段"
     },
     {
       "domain": "176.96.0.0/19",
@@ -15713,6 +16083,11 @@
     },
     {
       "domain": "180.76.160.0/19",
+      "match": "cidr",
+      "label": "Baidu Beijin BGP网段"
+    },
+    {
+      "domain": "180.76.5.0/24",
       "match": "cidr",
       "label": "Baidu Beijin BGP网段"
     },
@@ -16377,6 +16752,11 @@
       "label": "中国移动骨干网"
     },
     {
+      "domain": "183.230.105.0/24",
+      "match": "cidr",
+      "label": "CHINAMOBILE CN BGP网段"
+    },
+    {
       "domain": "183.230.59.0/24",
       "match": "cidr",
       "label": "CHINAMOBILE CN BGP网段"
@@ -16408,6 +16788,11 @@
     },
     {
       "domain": "183.237.40.0/22",
+      "match": "cidr",
+      "label": "CHINAMOBILE CN BGP网段"
+    },
+    {
+      "domain": "183.237.92.0/22",
       "match": "cidr",
       "label": "CHINAMOBILE CN BGP网段"
     },
@@ -16742,6 +17127,11 @@
       "label": "NFORCE NForc BGP网段"
     },
     {
+      "domain": "185.111.204.0/22",
+      "match": "cidr",
+      "label": "AS UNIXSOLUTIO BGP网段"
+    },
+    {
       "domain": "185.125.88.0/24",
       "match": "cidr",
       "label": "Hoster ALM L BGP网段"
@@ -16837,6 +17227,11 @@
       "label": "netcup 骨干网"
     },
     {
+      "domain": "185.177.150.0/24",
+      "match": "cidr",
+      "label": "IST AS UAB B BGP网段"
+    },
+    {
       "domain": "185.18.207.0/24",
       "match": "cidr",
       "label": "INTERHOST 网络"
@@ -16875,6 +17270,11 @@
       "domain": "185.194.53.0/24",
       "match": "cidr",
       "label": "XTOM xTom Gm BGP网段"
+    },
+    {
+      "domain": "185.194.92.0/22",
+      "match": "cidr",
+      "label": "CIRCL Luxemb BGP网段"
     },
     {
       "domain": "185.2.104.0/22",
@@ -17025,6 +17425,11 @@
       "domain": "185.7.84.0/24",
       "match": "cidr",
       "label": "LOGOS 骨干网"
+    },
+    {
+      "domain": "185.76.10.0/24",
+      "match": "cidr",
+      "label": "CDN77 Dataca BGP网段"
     },
     {
       "domain": "185.88.56.0/22",
@@ -17682,6 +18087,11 @@
       "label": "公网主机 骨干接入段"
     },
     {
+      "domain": "192.170.3.0/24",
+      "match": "cidr",
+      "label": "公网主机 骨干接入段"
+    },
+    {
       "domain": "192.171.128.0/18",
       "match": "cidr",
       "label": "JANET Jisc S BGP网段"
@@ -17785,6 +18195,11 @@
       "domain": "192.254.1.0/24",
       "match": "cidr",
       "label": "ASN GHC Kais BGP网段"
+    },
+    {
+      "domain": "192.254.84.0/22",
+      "match": "cidr",
+      "label": "ZEN ECN Zenl BGP网段"
     },
     {
       "domain": "192.254.88.0/22",
@@ -17922,6 +18337,11 @@
       "label": "CT eSurfingClo BGP网段"
     },
     {
+      "domain": "193.119.28.0/24",
+      "match": "cidr",
+      "label": "CT eSurfingClo BGP网段"
+    },
+    {
       "domain": "193.119.96.0/22",
       "match": "cidr",
       "label": "TPG INTERNET A BGP网段"
@@ -17935,6 +18355,11 @@
       "domain": "193.123.176.0/20",
       "match": "cidr",
       "label": "Oracle 云服务"
+    },
+    {
+      "domain": "193.123.224.0/19",
+      "match": "cidr",
+      "label": "ORACLE BMC 318 BGP网段"
     },
     {
       "domain": "193.142.58.0/24",
@@ -18005,6 +18430,11 @@
       "domain": "193.23.250.0/24",
       "match": "cidr",
       "label": "LEASEWEB NL AM BGP网段"
+    },
+    {
+      "domain": "193.237.0.0/16",
+      "match": "cidr",
+      "label": "unspecified BGP网段"
     },
     {
       "domain": "193.32.23.0/24",
@@ -18170,6 +18600,11 @@
       "domain": "195.133.195.0/24",
       "match": "cidr",
       "label": "HOSTOFF LLC BGP网段"
+    },
+    {
+      "domain": "195.148.0.0/16",
+      "match": "cidr",
+      "label": "FUNETAS CSC BGP网段"
     },
     {
       "domain": "195.154.0.0/16",
@@ -18438,6 +18873,11 @@
     },
     {
       "domain": "198.2.192.0/18",
+      "match": "cidr",
+      "label": "PEG SV PEG T BGP网段"
+    },
+    {
+      "domain": "198.200.32.0/19",
       "match": "cidr",
       "label": "PEG SV PEG T BGP网段"
     },
@@ -19487,6 +19927,11 @@
       "label": "OPTUSCOM AS01 BGP网段"
     },
     {
+      "domain": "202.142.132.0/22",
+      "match": "cidr",
+      "label": "WIDEBAND AS AP BGP网段"
+    },
+    {
       "domain": "202.143.128.0/18",
       "match": "cidr",
       "label": "MOE 骨干网"
@@ -19552,6 +19997,11 @@
       "label": "INDONET 骨干网"
     },
     {
+      "domain": "202.154.224.0/20",
+      "match": "cidr",
+      "label": "LDN AS PK LI BGP网段"
+    },
+    {
       "domain": "202.154.56.0/24",
       "match": "cidr",
       "label": "ERX RADNET1 AS BGP网段"
@@ -19615,6 +20065,11 @@
       "domain": "202.166.128.0/19",
       "match": "cidr",
       "label": "SINGTEL FIBRE BGP网段"
+    },
+    {
+      "domain": "202.166.176.0/21",
+      "match": "cidr",
+      "label": "OFFRATEL AS AP BGP网段"
     },
     {
       "domain": "202.168.116.0/24",
@@ -19837,6 +20292,11 @@
       "label": "日本互联网 综合骨干"
     },
     {
+      "domain": "202.238.192.0/18",
+      "match": "cidr",
+      "label": "IIJ Internet BGP网段"
+    },
+    {
       "domain": "202.238.64.0/18",
       "match": "cidr",
       "label": "So 网络"
@@ -19867,6 +20327,11 @@
       "label": "日本互联网 综合骨干"
     },
     {
+      "domain": "202.247.192.0/18",
+      "match": "cidr",
+      "label": "AVISNET Dens BGP网段"
+    },
+    {
       "domain": "202.25.216.0/24",
       "match": "cidr",
       "label": "日本 JPNIC 接入网段"
@@ -19875,6 +20340,11 @@
       "domain": "202.250.120.0/21",
       "match": "cidr",
       "label": "SINET AS Res BGP网段"
+    },
+    {
+      "domain": "202.255.205.0/24",
+      "match": "cidr",
+      "label": "公网主机 骨干接入段"
     },
     {
       "domain": "202.255.44.0/22",
@@ -20317,6 +20787,11 @@
       "label": "AS18160 AS KR BGP网段"
     },
     {
+      "domain": "203.133.189.0/24",
+      "match": "cidr",
+      "label": "AS18160 AS KR BGP网段"
+    },
+    {
       "domain": "203.133.191.0/24",
       "match": "cidr",
       "label": "AS18160 AS KR BGP网段"
@@ -20627,6 +21102,11 @@
       "label": "AS 网络"
     },
     {
+      "domain": "204.57.24.0/21",
+      "match": "cidr",
+      "label": "BAM BAM Broa BGP网段"
+    },
+    {
       "domain": "204.79.197.0/24",
       "match": "cidr",
       "label": "微软 Azure 骨干网络"
@@ -20670,6 +21150,11 @@
       "domain": "205.234.175.0/24",
       "match": "cidr",
       "label": "CACHENETWORKS 骨干网"
+    },
+    {
+      "domain": "206.108.0.0/24",
+      "match": "cidr",
+      "label": "AS TORIX SVC BGP网段"
     },
     {
       "domain": "206.109.197.0/24",
@@ -20725,6 +21210,11 @@
       "domain": "206.237.119.0/24",
       "match": "cidr",
       "label": "radishcloud BGP网段"
+    },
+    {
+      "domain": "206.237.5.0/24",
+      "match": "cidr",
+      "label": "VH GLOBAL VH BGP网段"
     },
     {
       "domain": "206.71.224.0/19",
@@ -20937,6 +21427,11 @@
       "label": "RICAWEBSERVICE BGP网段"
     },
     {
+      "domain": "209.227.128.0/19",
+      "match": "cidr",
+      "label": "DISTRIBUTEL AS BGP网段"
+    },
+    {
       "domain": "209.240.28.0/23",
       "match": "cidr",
       "label": "AVEN AS AVEN BGP网段"
@@ -21122,6 +21617,11 @@
       "label": "ERX CERNET BKB BGP网段"
     },
     {
+      "domain": "210.38.0.0/16",
+      "match": "cidr",
+      "label": "ERX CERNET BKB BGP网段"
+    },
+    {
       "domain": "210.42.72.0/21",
       "match": "cidr",
       "label": "ERX 骨干网"
@@ -21257,6 +21757,11 @@
       "label": "中国移动 移动通信网络"
     },
     {
+      "domain": "211.148.192.0/19",
+      "match": "cidr",
+      "label": "Topway Net S BGP网段"
+    },
+    {
       "domain": "211.151.0.0/19",
       "match": "cidr",
       "label": "CHINA ABITCOOL BGP网段"
@@ -21300,6 +21805,11 @@
       "domain": "211.183.216.0/24",
       "match": "cidr",
       "label": "KAKAOCORP AS K BGP网段"
+    },
+    {
+      "domain": "211.183.222.0/24",
+      "match": "cidr",
+      "label": "DAUM AS KR K BGP网段"
     },
     {
       "domain": "211.184.0.0/15",
@@ -21350,6 +21860,11 @@
       "domain": "211.241.0.0/17",
       "match": "cidr",
       "label": "DACOM PUBNETPL BGP网段"
+    },
+    {
+      "domain": "211.242.11.0/24",
+      "match": "cidr",
+      "label": "KAKAOCORP AS K BGP网段"
     },
     {
       "domain": "211.242.12.0/24",
@@ -21480,6 +21995,11 @@
       "domain": "211.93.24.0/21",
       "match": "cidr",
       "label": "CHINA169 Backb BGP网段"
+    },
+    {
+      "domain": "211.94.64.0/18",
+      "match": "cidr",
+      "label": "CHINA169 BJ BGP网段"
     },
     {
       "domain": "211.95.34.0/24",
@@ -21622,14 +22142,29 @@
       "label": "Leaseweb 托管网络"
     },
     {
+      "domain": "212.34.149.0/24",
+      "match": "cidr",
+      "label": "VDSINA SERVE BGP网段"
+    },
+    {
       "domain": "212.42.32.0/19",
       "match": "cidr",
       "label": "TESLATEL AS BGP网段"
     },
     {
+      "domain": "212.47.224.0/19",
+      "match": "cidr",
+      "label": "AS12876 Scal BGP网段"
+    },
+    {
       "domain": "212.57.64.0/20",
       "match": "cidr",
       "label": "UNI2 AS Oran BGP网段"
+    },
+    {
+      "domain": "212.59.0.0/24",
+      "match": "cidr",
+      "label": "Telia Lietuva BGP网段"
     },
     {
       "domain": "212.64.112.0/20",
@@ -21645,6 +22180,11 @@
       "domain": "212.7.192.0/20",
       "match": "cidr",
       "label": "LEASEWEB NL AM BGP网段"
+    },
+    {
+      "domain": "212.71.232.0/21",
+      "match": "cidr",
+      "label": "AKAMAI LINODE BGP网段"
     },
     {
       "domain": "212.73.86.0/24",
@@ -21725,6 +22265,11 @@
       "domain": "213.209.64.0/18",
       "match": "cidr",
       "label": "WTNET 骨干网"
+    },
+    {
+      "domain": "213.210.39.0/24",
+      "match": "cidr",
+      "label": "ABOVEBAR Abo BGP网段"
     },
     {
       "domain": "213.211.32.0/19",
@@ -21952,6 +22497,11 @@
       "label": "ASN7806 骨干网"
     },
     {
+      "domain": "216.23.121.0/24",
+      "match": "cidr",
+      "label": "Zouter ZOUTE BGP网段"
+    },
+    {
       "domain": "216.230.224.0/20",
       "match": "cidr",
       "label": "THEOPT 网络"
@@ -21995,6 +22545,11 @@
       "domain": "216.236.32.0/19",
       "match": "cidr",
       "label": "EDCL 网络"
+    },
+    {
+      "domain": "216.238.96.0/19",
+      "match": "cidr",
+      "label": "AS VULTR The BGP网段"
     },
     {
       "domain": "216.24.180.0/22",
@@ -22317,6 +22872,11 @@
       "label": "HKT 香港电讯 / PCCW"
     },
     {
+      "domain": "218.104.224.0/19",
+      "match": "cidr",
+      "label": "CHINA169 Backb BGP网段"
+    },
+    {
       "domain": "218.11.0.0/16",
       "match": "cidr",
       "label": "中国联通骨干网"
@@ -22453,6 +23013,11 @@
     },
     {
       "domain": "218.252.112.0/20",
+      "match": "cidr",
+      "label": "HKCABLE2 HK AP BGP网段"
+    },
+    {
+      "domain": "218.252.16.0/20",
       "match": "cidr",
       "label": "HKCABLE2 HK AP BGP网段"
     },
@@ -22632,6 +23197,11 @@
       "label": "CHINANET BACKB BGP网段"
     },
     {
+      "domain": "219.151.0.0/19",
+      "match": "cidr",
+      "label": "CHINANET BACKB BGP网段"
+    },
+    {
       "domain": "219.151.128.0/21",
       "match": "cidr",
       "label": "中国电信骨干网"
@@ -22687,6 +23257,11 @@
       "label": "MULTIMEDIA AS BGP网段"
     },
     {
+      "domain": "219.73.32.0/19",
+      "match": "cidr",
+      "label": "HKTIMS AP HK BGP网段"
+    },
+    {
       "domain": "219.74.0.0/16",
       "match": "cidr",
       "label": "SINGTEL FIBRE BGP网段"
@@ -22695,6 +23270,11 @@
       "domain": "219.75.0.0/17",
       "match": "cidr",
       "label": "SINGTEL FIBRE BGP网段"
+    },
+    {
+      "domain": "219.77.32.0/19",
+      "match": "cidr",
+      "label": "HKTIMS AP HK BGP网段"
     },
     {
       "domain": "219.78.160.0/19",
@@ -22827,6 +23407,11 @@
       "label": "KIXS AS KR KR BGP网段"
     },
     {
+      "domain": "220.132.0.0/16",
+      "match": "cidr",
+      "label": "HINET Data C BGP网段"
+    },
+    {
       "domain": "220.133.0.0/16",
       "match": "cidr",
       "label": "HINET Data C BGP网段"
@@ -22838,6 +23423,11 @@
     },
     {
       "domain": "220.135.0.0/16",
+      "match": "cidr",
+      "label": "HINET Data C BGP网段"
+    },
+    {
+      "domain": "220.137.0.0/16",
       "match": "cidr",
       "label": "HINET Data C BGP网段"
     },
@@ -23247,6 +23837,11 @@
       "label": "中国联通骨干网"
     },
     {
+      "domain": "221.219.0.0/18",
+      "match": "cidr",
+      "label": "CHINA169 BJ BGP网段"
+    },
+    {
       "domain": "221.219.64.0/18",
       "match": "cidr",
       "label": "中国联通骨干网"
@@ -23437,6 +24032,11 @@
       "label": "中国电信骨干网"
     },
     {
+      "domain": "222.222.0.0/15",
+      "match": "cidr",
+      "label": "CHINANET BACKB BGP网段"
+    },
+    {
       "domain": "222.224.128.0/17",
       "match": "cidr",
       "label": "NTT DOCOMO / OCN"
@@ -23572,6 +24172,11 @@
       "label": "HUTCHISON AS A BGP网段"
     },
     {
+      "domain": "223.16.64.0/18",
+      "match": "cidr",
+      "label": "HUTCHISON AS A BGP网段"
+    },
+    {
       "domain": "223.160.172.0/23",
       "match": "cidr",
       "label": "CHINAMOBILE CN BGP网段"
@@ -23598,6 +24203,11 @@
     },
     {
       "domain": "223.19.192.0/18",
+      "match": "cidr",
+      "label": "HUTCHISON AS A BGP网段"
+    },
+    {
+      "domain": "223.19.64.0/18",
       "match": "cidr",
       "label": "HUTCHISON AS A BGP网段"
     },
@@ -23725,6 +24335,11 @@
       "domain": "23.103.128.0/17",
       "match": "cidr",
       "label": "微软 Azure 骨干网络"
+    },
+    {
+      "domain": "23.106.128.0/22",
+      "match": "cidr",
+      "label": "IT7NET IT7 N BGP网段"
     },
     {
       "domain": "23.106.248.0/22",
@@ -24427,6 +25042,11 @@
       "label": "AS COLOCROSSIN BGP网段"
     },
     {
+      "domain": "23.238.31.0/24",
+      "match": "cidr",
+      "label": "AS COLOCROSSIN BGP网段"
+    },
+    {
       "domain": "23.239.104.0/21",
       "match": "cidr",
       "label": "GORILLASERVERS BGP网段"
@@ -24947,6 +25567,11 @@
       "label": "HETZNER AS H BGP网段"
     },
     {
+      "domain": "23.89.64.0/20",
+      "match": "cidr",
+      "label": "WEBEX Cisco BGP网段"
+    },
+    {
       "domain": "23.90.180.0/22",
       "match": "cidr",
       "label": "ZEN ECN Zenl BGP网段"
@@ -25020,6 +25645,11 @@
       "domain": "24.142.0.0/18",
       "match": "cidr",
       "label": "EASTLINK HSI BGP网段"
+    },
+    {
+      "domain": "24.152.59.0/24",
+      "match": "cidr",
+      "label": "AS270003 CAL BGP网段"
     },
     {
       "domain": "24.16.0.0/13",
@@ -25170,6 +25800,11 @@
       "domain": "2400:dcc0:a302:b2a6::/64",
       "match": "cidr",
       "label": "全球 IPv6 骨干路由段"
+    },
+    {
+      "domain": "2401:3800:4002:800::/64",
+      "match": "cidr",
+      "label": "亚太 APNIC 骨干网"
     },
     {
       "domain": "2401:4900:4ff2:458b::/64",
@@ -25867,6 +26502,11 @@
       "label": "中国联通骨干网"
     },
     {
+      "domain": "2408:8206:30e0:26c4::/64",
+      "match": "cidr",
+      "label": "中国联通骨干网"
+    },
+    {
       "domain": "2408:8206:482d:ab20::/64",
       "match": "cidr",
       "label": "中国联通骨干网"
@@ -25917,7 +26557,27 @@
       "label": "中国联通骨干网"
     },
     {
+      "domain": "2408:8207:7880:3d00::/64",
+      "match": "cidr",
+      "label": "中国联通骨干网"
+    },
+    {
+      "domain": "2408:8207:78a0:f300::/64",
+      "match": "cidr",
+      "label": "中国联通骨干网"
+    },
+    {
+      "domain": "2408:820c:1a20:9306::/64",
+      "match": "cidr",
+      "label": "中国联通骨干网"
+    },
+    {
       "domain": "2408:820c:8208:c00::/64",
+      "match": "cidr",
+      "label": "中国联通骨干网"
+    },
+    {
+      "domain": "2408:820c:a91c:d4c0::/64",
       "match": "cidr",
       "label": "中国联通骨干网"
     },
@@ -25937,7 +26597,32 @@
       "label": "中国联通骨干网"
     },
     {
+      "domain": "2408:821b:5a18:ab10::/64",
+      "match": "cidr",
+      "label": "中国联通骨干网"
+    },
+    {
+      "domain": "2408:821b:8b20:b5e0::/64",
+      "match": "cidr",
+      "label": "中国联通骨干网"
+    },
+    {
+      "domain": "2408:8220:4015:6070::/64",
+      "match": "cidr",
+      "label": "中国联通骨干网"
+    },
+    {
       "domain": "2408:8220:4a:5a10::/64",
+      "match": "cidr",
+      "label": "中国联通骨干网"
+    },
+    {
+      "domain": "2408:8221:1f12:9070::/64",
+      "match": "cidr",
+      "label": "中国联通骨干网"
+    },
+    {
+      "domain": "2408:8221:523:3e80::/64",
       "match": "cidr",
       "label": "中国联通骨干网"
     },
@@ -25987,7 +26672,17 @@
       "label": "中国联通骨干网"
     },
     {
+      "domain": "2408:8249:400:4e01::/64",
+      "match": "cidr",
+      "label": "中国联通骨干网"
+    },
+    {
       "domain": "2408:824c:2a19:43c0::/64",
+      "match": "cidr",
+      "label": "中国联通骨干网"
+    },
+    {
+      "domain": "2408:824c:3a10:9040::/64",
       "match": "cidr",
       "label": "中国联通骨干网"
     },
@@ -26007,6 +26702,41 @@
       "label": "中国联通骨干网"
     },
     {
+      "domain": "2408:824c:5c13:d670::/64",
+      "match": "cidr",
+      "label": "中国联通骨干网"
+    },
+    {
+      "domain": "2408:824c:6610:bdc0::/64",
+      "match": "cidr",
+      "label": "中国联通骨干网"
+    },
+    {
+      "domain": "2408:824c:9a25:73e0::/64",
+      "match": "cidr",
+      "label": "中国联通骨干网"
+    },
+    {
+      "domain": "2408:824e:147:ce20::/64",
+      "match": "cidr",
+      "label": "中国联通骨干网"
+    },
+    {
+      "domain": "2408:824e:2915:b7c1::/64",
+      "match": "cidr",
+      "label": "中国联通骨干网"
+    },
+    {
+      "domain": "2408:824e:4105:5d21::/64",
+      "match": "cidr",
+      "label": "中国联通骨干网"
+    },
+    {
+      "domain": "2408:824e:8314:d900::/64",
+      "match": "cidr",
+      "label": "中国联通骨干网"
+    },
+    {
       "domain": "2408:8252:840:2b87::/64",
       "match": "cidr",
       "label": "中国联通骨干网"
@@ -26017,7 +26747,17 @@
       "label": "中国联通骨干网"
     },
     {
+      "domain": "2408:8256:271:1a9e::/64",
+      "match": "cidr",
+      "label": "中国联通骨干网"
+    },
+    {
       "domain": "2408:8256:2c00::/39",
+      "match": "cidr",
+      "label": "中国联通骨干网"
+    },
+    {
+      "domain": "2408:8256:338a:335::/64",
       "match": "cidr",
       "label": "中国联通骨干网"
     },
@@ -26033,6 +26773,21 @@
     },
     {
       "domain": "2408:8256:688:8334::/64",
+      "match": "cidr",
+      "label": "中国联通骨干网"
+    },
+    {
+      "domain": "2408:8256:d28b:2002::/64",
+      "match": "cidr",
+      "label": "中国联通骨干网"
+    },
+    {
+      "domain": "2408:8256:d28e:9028::/64",
+      "match": "cidr",
+      "label": "中国联通骨干网"
+    },
+    {
+      "domain": "2408:8256:e80:bb35::/64",
       "match": "cidr",
       "label": "中国联通骨干网"
     },
@@ -26063,6 +26818,11 @@
     },
     {
       "domain": "2408:825c:6e1:1c7e::/64",
+      "match": "cidr",
+      "label": "中国联通骨干网"
+    },
+    {
+      "domain": "2408:825c:a620:a15::/64",
       "match": "cidr",
       "label": "中国联通骨干网"
     },
@@ -26127,7 +26887,27 @@
       "label": "中国联通骨干网"
     },
     {
+      "domain": "2408:827a:601:6a83::/64",
+      "match": "cidr",
+      "label": "中国联通骨干网"
+    },
+    {
+      "domain": "2408:827a:601:6ba3::/64",
+      "match": "cidr",
+      "label": "中国联通骨干网"
+    },
+    {
       "domain": "2408:827a:601:6ddb::/64",
+      "match": "cidr",
+      "label": "中国联通骨干网"
+    },
+    {
+      "domain": "2408:827a:601:6f5a::/64",
+      "match": "cidr",
+      "label": "中国联通骨干网"
+    },
+    {
+      "domain": "2408:827a:941d:e0a0::/64",
       "match": "cidr",
       "label": "中国联通骨干网"
     },
@@ -26147,12 +26927,27 @@
       "label": "中国联通骨干网"
     },
     {
+      "domain": "2408:8340:6640:c4e0::/64",
+      "match": "cidr",
+      "label": "中国联通骨干网"
+    },
+    {
       "domain": "2408:8340:e40:a940::/64",
       "match": "cidr",
       "label": "中国联通骨干网"
     },
     {
       "domain": "2408:8352:1c00:416::/64",
+      "match": "cidr",
+      "label": "中国联通骨干网"
+    },
+    {
+      "domain": "2408:8361:1421:1e10::/64",
+      "match": "cidr",
+      "label": "中国联通骨干网"
+    },
+    {
+      "domain": "2408:8361:1e21:f411::/64",
       "match": "cidr",
       "label": "中国联通骨干网"
     },
@@ -26292,6 +27087,11 @@
       "label": "中国联通骨干网"
     },
     {
+      "domain": "2408:8719:2201:500::/64",
+      "match": "cidr",
+      "label": "中国联通骨干网"
+    },
+    {
       "domain": "2408:8719:2201:502::/64",
       "match": "cidr",
       "label": "中国联通骨干网"
@@ -26337,6 +27137,16 @@
       "label": "中国联通骨干网"
     },
     {
+      "domain": "2408:871a:3001:800::/64",
+      "match": "cidr",
+      "label": "中国联通骨干网"
+    },
+    {
+      "domain": "2408:871a:3001:801::/64",
+      "match": "cidr",
+      "label": "中国联通骨干网"
+    },
+    {
       "domain": "2408:871a:6010:302::/64",
       "match": "cidr",
       "label": "中国联通骨干网"
@@ -26368,6 +27178,11 @@
     },
     {
       "domain": "2408:8722:6900:1::/64",
+      "match": "cidr",
+      "label": "中国联通骨干网"
+    },
+    {
+      "domain": "2408:8722:a000:1::/64",
       "match": "cidr",
       "label": "中国联通骨干网"
     },
@@ -26417,7 +27232,17 @@
       "label": "中国联通骨干网"
     },
     {
+      "domain": "2408:872f:d00:48::/64",
+      "match": "cidr",
+      "label": "中国联通骨干网"
+    },
+    {
       "domain": "2408:872f:d00:4::/64",
+      "match": "cidr",
+      "label": "中国联通骨干网"
+    },
+    {
+      "domain": "2408:873c:7a00:5201::/64",
       "match": "cidr",
       "label": "中国联通骨干网"
     },
@@ -26497,6 +27322,11 @@
       "label": "中国联通骨干网"
     },
     {
+      "domain": "2408:874e:5002:1000::/64",
+      "match": "cidr",
+      "label": "中国联通骨干网"
+    },
+    {
       "domain": "2408:874f:4000:2::/64",
       "match": "cidr",
       "label": "中国联通骨干网"
@@ -26528,6 +27358,11 @@
     },
     {
       "domain": "2408:8752:e00:a16::/64",
+      "match": "cidr",
+      "label": "中国联通骨干网"
+    },
+    {
+      "domain": "2408:8756:18ff:f001::/64",
       "match": "cidr",
       "label": "中国联通骨干网"
     },
@@ -26598,6 +27433,11 @@
     },
     {
       "domain": "2408:876c:240:118::/64",
+      "match": "cidr",
+      "label": "中国联通骨干网"
+    },
+    {
+      "domain": "2408:8916:10:fe2f::/64",
       "match": "cidr",
       "label": "中国联通骨干网"
     },
@@ -27462,6 +28302,11 @@
       "label": "中国移动骨干网"
     },
     {
+      "domain": "2409:8a55:d4c5:9fa0::/64",
+      "match": "cidr",
+      "label": "中国移动骨干网"
+    },
+    {
       "domain": "2409:8a55:d861:4290::/64",
       "match": "cidr",
       "label": "中国移动骨干网"
@@ -27762,6 +28607,11 @@
       "label": "中国移动骨干网"
     },
     {
+      "domain": "2409:8c1e:68e0:a11::/64",
+      "match": "cidr",
+      "label": "中国移动骨干网"
+    },
+    {
       "domain": "2409:8c1e:75b0:1120::/64",
       "match": "cidr",
       "label": "中国移动骨干网"
@@ -27798,6 +28648,11 @@
     },
     {
       "domain": "2409:8c20:5022:2000::/64",
+      "match": "cidr",
+      "label": "中国移动骨干网"
+    },
+    {
+      "domain": "2409:8c20:5624::/64",
       "match": "cidr",
       "label": "中国移动骨干网"
     },
@@ -27842,7 +28697,17 @@
       "label": "中国移动骨干网"
     },
     {
+      "domain": "2409:8c20:9c71:113::/64",
+      "match": "cidr",
+      "label": "中国移动骨干网"
+    },
+    {
       "domain": "2409:8c20:a17:10a::/64",
+      "match": "cidr",
+      "label": "中国移动骨干网"
+    },
+    {
+      "domain": "2409:8c28:202:8::/64",
       "match": "cidr",
       "label": "中国移动骨干网"
     },
@@ -27962,6 +28827,11 @@
       "label": "中国移动骨干网"
     },
     {
+      "domain": "2409:8c4c:c00:9::/64",
+      "match": "cidr",
+      "label": "中国移动骨干网"
+    },
+    {
       "domain": "2409:8c4c:e00:210::/64",
       "match": "cidr",
       "label": "中国移动骨干网"
@@ -28052,12 +28922,22 @@
       "label": "中国移动骨干网"
     },
     {
+      "domain": "2409:8c54:1841:2002::/64",
+      "match": "cidr",
+      "label": "中国移动骨干网"
+    },
+    {
       "domain": "2409:8c54:2000:602::/64",
       "match": "cidr",
       "label": "中国移动骨干网"
     },
     {
       "domain": "2409:8c54:3810:c::/64",
+      "match": "cidr",
+      "label": "中国移动骨干网"
+    },
+    {
+      "domain": "2409:8c54:4840:700::/64",
       "match": "cidr",
       "label": "中国移动骨干网"
     },
@@ -29102,29 +29982,9 @@
       "label": "CHINA169 GZ BGP网段"
     },
     {
-      "domain": "27.44.120.0/21",
+      "domain": "27.40.0.0/13",
       "match": "cidr",
-      "label": "中国联通骨干网"
-    },
-    {
-      "domain": "27.44.132.0/24",
-      "match": "cidr",
-      "label": "UNICOM DongGua BGP网段"
-    },
-    {
-      "domain": "27.44.143.0/24",
-      "match": "cidr",
-      "label": "UNICOM DongGua BGP网段"
-    },
-    {
-      "domain": "27.44.153.0/24",
-      "match": "cidr",
-      "label": "UNICOM DongGua BGP网段"
-    },
-    {
-      "domain": "27.44.204.0/24",
-      "match": "cidr",
-      "label": "中国联通骨干网"
+      "label": "CHINA169 GZ BGP网段"
     },
     {
       "domain": "27.51.0.0/16",
@@ -29370,6 +30230,11 @@
       "domain": "2a02:6b6f:f56b:300::/64",
       "match": "cidr",
       "label": "全球 IPv6 骨干路由段"
+    },
+    {
+      "domain": "2a02:6ea0:c800::/64",
+      "match": "cidr",
+      "label": "欧洲 RIPE 骨干网"
     },
     {
       "domain": "2a02:8084:43e1:c880::/64",
@@ -29927,6 +30792,11 @@
       "label": "CHINAMOBILE CN BGP网段"
     },
     {
+      "domain": "36.131.160.0/20",
+      "match": "cidr",
+      "label": "CHINAMOBILE CN BGP网段"
+    },
+    {
       "domain": "36.131.192.0/19",
       "match": "cidr",
       "label": "中国移动骨干网"
@@ -30123,6 +30993,11 @@
     },
     {
       "domain": "36.140.96.0/24",
+      "match": "cidr",
+      "label": "CMNET Zhejiang BGP网段"
+    },
+    {
+      "domain": "36.140.98.0/24",
       "match": "cidr",
       "label": "CMNET Zhejiang BGP网段"
     },
@@ -30452,6 +31327,11 @@
       "label": "CHINA169 Backb BGP网段"
     },
     {
+      "domain": "36.36.0.0/16",
+      "match": "cidr",
+      "label": "Topway Net S BGP网段"
+    },
+    {
       "domain": "36.37.169.0/24",
       "match": "cidr",
       "label": "VIETTELCAMBODI BGP网段"
@@ -30777,6 +31657,11 @@
       "label": "YISUCLOUDLTD 骨干网"
     },
     {
+      "domain": "39.110.0.0/15",
+      "match": "cidr",
+      "label": "So net Sony BGP网段"
+    },
+    {
       "domain": "39.112.0.0/14",
       "match": "cidr",
       "label": "SKB AS KR SK BGP网段"
@@ -30828,6 +31713,11 @@
     },
     {
       "domain": "39.128.240.0/22",
+      "match": "cidr",
+      "label": "CHINAMOBILE CN BGP网段"
+    },
+    {
+      "domain": "39.129.209.0/24",
       "match": "cidr",
       "label": "CHINAMOBILE CN BGP网段"
     },
@@ -30922,6 +31812,11 @@
       "label": "中国移动骨干网"
     },
     {
+      "domain": "39.134.222.0/24",
+      "match": "cidr",
+      "label": "CMNET V4henan BGP网段"
+    },
+    {
       "domain": "39.134.31.0/24",
       "match": "cidr",
       "label": "CMNET Shanxi A BGP网段"
@@ -30943,6 +31838,11 @@
     },
     {
       "domain": "39.134.80.0/22",
+      "match": "cidr",
+      "label": "CMNET Jiangsu BGP网段"
+    },
+    {
+      "domain": "39.134.84.0/24",
       "match": "cidr",
       "label": "CMNET Jiangsu BGP网段"
     },
@@ -30970,6 +31870,11 @@
       "domain": "39.135.144.0/22",
       "match": "cidr",
       "label": "中国移动骨干网"
+    },
+    {
+      "domain": "39.135.200.0/21",
+      "match": "cidr",
+      "label": "CHINAMOBILE CN BGP网段"
     },
     {
       "domain": "39.135.218.0/23",
@@ -31137,6 +32042,11 @@
       "label": "中国移动骨干网"
     },
     {
+      "domain": "39.136.89.0/24",
+      "match": "cidr",
+      "label": "CMNET V4henan BGP网段"
+    },
+    {
       "domain": "39.136.90.0/23",
       "match": "cidr",
       "label": "CMNET V4henan BGP网段"
@@ -31255,6 +32165,11 @@
       "domain": "39.137.243.0/24",
       "match": "cidr",
       "label": "CHINAMOBILE CN BGP网段"
+    },
+    {
+      "domain": "39.137.28.0/22",
+      "match": "cidr",
+      "label": "CMNET V4henan BGP网段"
     },
     {
       "domain": "39.137.35.0/24",
@@ -32562,6 +33477,11 @@
       "label": "香港电讯 PCCW"
     },
     {
+      "domain": "42.2.240.0/20",
+      "match": "cidr",
+      "label": "HKTIMS AP HK BGP网段"
+    },
+    {
       "domain": "42.2.32.0/20",
       "match": "cidr",
       "label": "HKT 香港电讯 / PCCW"
@@ -32797,6 +33717,11 @@
       "label": "CHINA169 Backb BGP网段"
     },
     {
+      "domain": "42.98.96.0/20",
+      "match": "cidr",
+      "label": "HKTIMS AP HK BGP网段"
+    },
+    {
       "domain": "4242:fb3d:bf97:e8b0::/64",
       "match": "cidr",
       "label": "IPv6 国际中继网络"
@@ -32855,6 +33780,11 @@
       "domain": "43.109.186.0/24",
       "match": "cidr",
       "label": "阿里云海外节点"
+    },
+    {
+      "domain": "43.109.37.0/24",
+      "match": "cidr",
+      "label": "Taobao Zheji BGP网段"
     },
     {
       "domain": "43.109.38.0/24",
@@ -33377,6 +34307,11 @@
       "label": "腾讯云亚太海外节点"
     },
     {
+      "domain": "43.159.16.0/24",
+      "match": "cidr",
+      "label": "TENCENT NET AP BGP网段"
+    },
+    {
       "domain": "43.159.160.0/19",
       "match": "cidr",
       "label": "TENCENT NET AP BGP网段"
@@ -33707,6 +34642,16 @@
       "label": "公网主机 骨干接入段"
     },
     {
+      "domain": "43.171.66.0/24",
+      "match": "cidr",
+      "label": "公网主机 骨干接入段"
+    },
+    {
+      "domain": "43.171.70.0/24",
+      "match": "cidr",
+      "label": "公网主机 骨干接入段"
+    },
+    {
       "domain": "43.171.80.0/20",
       "match": "cidr",
       "label": "腾讯云海外 / Aceville CDN"
@@ -33955,6 +34900,11 @@
       "domain": "43.174.96.0/24",
       "match": "cidr",
       "label": "腾讯云海外 / Aceville CDN"
+    },
+    {
+      "domain": "43.174.99.0/24",
+      "match": "cidr",
+      "label": "ACE AS AP AC BGP网段"
     },
     {
       "domain": "43.175.108.0/24",
@@ -34352,6 +35302,11 @@
       "label": "ONEBROADBAND BGP网段"
     },
     {
+      "domain": "45.119.155.0/24",
+      "match": "cidr",
+      "label": "MYREPUBLIC SG BGP网段"
+    },
+    {
       "domain": "45.119.29.0/24",
       "match": "cidr",
       "label": "TATAPLAYBROADB BGP网段"
@@ -34440,6 +35395,11 @@
       "domain": "45.138.52.0/22",
       "match": "cidr",
       "label": "FREEDOMINTERNET 网络"
+    },
+    {
+      "domain": "45.139.163.0/24",
+      "match": "cidr",
+      "label": "BAKKER IT AS BGP网段"
     },
     {
       "domain": "45.139.196.0/23",
@@ -36182,6 +37142,11 @@
       "label": "BOUYGTEL ISP BGP网段"
     },
     {
+      "domain": "5.57.11.0/24",
+      "match": "cidr",
+      "label": "AS8449 ELCAT BGP网段"
+    },
+    {
       "domain": "5.61.209.0/24",
       "match": "cidr",
       "label": "AMARUTU TECHNO BGP网段"
@@ -36877,6 +37842,11 @@
       "label": "AIS Fibre AS A BGP网段"
     },
     {
+      "domain": "58.136.83.0/24",
+      "match": "cidr",
+      "label": "AIS Fibre AS A BGP网段"
+    },
+    {
       "domain": "58.142.80.0/20",
       "match": "cidr",
       "label": "CNM AS KR KR BGP网段"
@@ -36930,6 +37900,11 @@
       "domain": "58.176.0.0/18",
       "match": "cidr",
       "label": "香港宽频 HKBN"
+    },
+    {
+      "domain": "58.177.0.0/18",
+      "match": "cidr",
+      "label": "HKBN AS AP H BGP网段"
     },
     {
       "domain": "58.19.0.0/16",
@@ -37492,6 +38467,11 @@
       "label": "TPG 网络"
     },
     {
+      "domain": "60.246.160.0/19",
+      "match": "cidr",
+      "label": "CTM MO Compa BGP网段"
+    },
+    {
       "domain": "60.246.224.0/19",
       "match": "cidr",
       "label": "CTM MO Compa BGP网段"
@@ -37525,6 +38505,11 @@
       "domain": "60.28.0.0/15",
       "match": "cidr",
       "label": "中国联通骨干网"
+    },
+    {
+      "domain": "60.31.0.0/16",
+      "match": "cidr",
+      "label": "CHINA169 Backb BGP网段"
     },
     {
       "domain": "60.32.0.0/12",
@@ -38117,6 +39102,11 @@
       "label": "Cyberzonehub BGP网段"
     },
     {
+      "domain": "62.204.54.0/24",
+      "match": "cidr",
+      "label": "SPARTANHOST BGP网段"
+    },
+    {
       "domain": "62.210.0.0/16",
       "match": "cidr",
       "label": "AS12876 骨干网"
@@ -38192,6 +39182,11 @@
       "label": "EDCL AS AP E BGP网段"
     },
     {
+      "domain": "64.120.88.0/23",
+      "match": "cidr",
+      "label": "LEASEWEB APAC BGP网段"
+    },
+    {
       "domain": "64.120.92.0/22",
       "match": "cidr",
       "label": "LEASEWEB APAC BGP网段"
@@ -38207,9 +39202,19 @@
       "label": "AS 网络"
     },
     {
+      "domain": "64.176.0.0/19",
+      "match": "cidr",
+      "label": "AS VULTR The BGP网段"
+    },
+    {
       "domain": "64.176.160.0/20",
       "match": "cidr",
       "label": "AS 骨干网"
+    },
+    {
+      "domain": "64.176.32.0/19",
+      "match": "cidr",
+      "label": "AS VULTR The BGP网段"
     },
     {
       "domain": "64.187.128.0/20",
@@ -38243,6 +39248,11 @@
     },
     {
       "domain": "64.32.13.0/24",
+      "match": "cidr",
+      "label": "SHARKTECH Sh BGP网段"
+    },
+    {
+      "domain": "64.32.8.0/24",
       "match": "cidr",
       "label": "SHARKTECH Sh BGP网段"
     },
@@ -38847,6 +39857,11 @@
       "label": "AMAZON 02 Am BGP网段"
     },
     {
+      "domain": "70.224.224.0/19",
+      "match": "cidr",
+      "label": "AMAZON 02 Am BGP网段"
+    },
+    {
       "domain": "70.39.206.0/24",
       "match": "cidr",
       "label": "NETLAB 骨干网"
@@ -38908,6 +39923,11 @@
     },
     {
       "domain": "71.18.118.0/24",
+      "match": "cidr",
+      "label": "BYTEDANCE By BGP网段"
+    },
+    {
+      "domain": "71.18.122.0/24",
       "match": "cidr",
       "label": "BYTEDANCE By BGP网段"
     },
@@ -39080,6 +40100,11 @@
       "domain": "71.18.74.0/24",
       "match": "cidr",
       "label": "字节跳动 / TikTok 骨干网"
+    },
+    {
+      "domain": "71.18.8.0/24",
+      "match": "cidr",
+      "label": "TIKTOK USDS BGP网段"
     },
     {
       "domain": "71.18.92.0/24",
@@ -39377,6 +40402,11 @@
       "label": "COMCAST 7922 BGP网段"
     },
     {
+      "domain": "76.164.232.0/24",
+      "match": "cidr",
+      "label": "TRADINGVIEW IN BGP网段"
+    },
+    {
       "domain": "76.191.128.0/18",
       "match": "cidr",
       "label": "AS SONICTELECO BGP网段"
@@ -39530,6 +40560,11 @@
       "domain": "77.82.96.0/20",
       "match": "cidr",
       "label": "ROSTELECOM AS BGP网段"
+    },
+    {
+      "domain": "77.83.241.0/24",
+      "match": "cidr",
+      "label": "SPEEDYPAGELTD BGP网段"
     },
     {
       "domain": "77.88.0.0/18",
@@ -40092,6 +41127,11 @@
       "label": "WTNET AS wil BGP网段"
     },
     {
+      "domain": "81.3.0.0/18",
+      "match": "cidr",
+      "label": "SSERV AS kyb BGP网段"
+    },
+    {
       "domain": "81.61.64.0/18",
       "match": "cidr",
       "label": "ONO AS VODAF BGP网段"
@@ -40182,6 +41222,11 @@
       "label": "AS Hytron Hy BGP网段"
     },
     {
+      "domain": "82.152.167.0/24",
+      "match": "cidr",
+      "label": "AS Hytron Hy BGP网段"
+    },
+    {
       "domain": "82.154.0.0/15",
       "match": "cidr",
       "label": "MEO RESIDENCIA BGP网段"
@@ -40210,6 +41255,11 @@
       "domain": "82.162.48.0/21",
       "match": "cidr",
       "label": "ROSTELECOM AS BGP网段"
+    },
+    {
+      "domain": "82.165.0.0/16",
+      "match": "cidr",
+      "label": "IONOS AS ION BGP网段"
     },
     {
       "domain": "82.167.8.0/22",
@@ -40257,6 +41307,16 @@
       "label": "HOSTEONS 网络"
     },
     {
+      "domain": "82.47.33.0/24",
+      "match": "cidr",
+      "label": "HNSL AS AP H BGP网段"
+    },
+    {
+      "domain": "82.47.34.0/24",
+      "match": "cidr",
+      "label": "HNSL AS AP H BGP网段"
+    },
+    {
       "domain": "82.59.0.0/16",
       "match": "cidr",
       "label": "ASN IBSNAZ T BGP网段"
@@ -40267,6 +41327,11 @@
       "label": "PROXAD 网络"
     },
     {
+      "domain": "82.8.0.0/14",
+      "match": "cidr",
+      "label": "NTL Virgin M BGP网段"
+    },
+    {
       "domain": "83.137.144.0/21",
       "match": "cidr",
       "label": "DUOCAST 骨干网"
@@ -40275,6 +41340,11 @@
       "domain": "83.144.128.0/18",
       "match": "cidr",
       "label": "NOSCOMUNICACOES 骨干网"
+    },
+    {
+      "domain": "83.147.61.0/24",
+      "match": "cidr",
+      "label": "AS Hytron Hy BGP网段"
     },
     {
       "domain": "83.149.64.0/18",
@@ -40395,6 +41465,11 @@
       "domain": "84.238.0.0/17",
       "match": "cidr",
       "label": "BNAA AS BOLI BGP网段"
+    },
+    {
+      "domain": "84.247.144.0/21",
+      "match": "cidr",
+      "label": "CAPL AS AP C BGP网段"
     },
     {
       "domain": "84.247.152.0/21",
@@ -40612,6 +41687,11 @@
       "label": "MAGYAR TELEKOM BGP网段"
     },
     {
+      "domain": "86.99.192.0/19",
+      "match": "cidr",
+      "label": "EMIRATES INTER BGP网段"
+    },
+    {
       "domain": "87.10.0.0/15",
       "match": "cidr",
       "label": "ASN IBSNAZ T BGP网段"
@@ -40722,6 +41802,11 @@
       "label": "SAKURA AS SA BGP网段"
     },
     {
+      "domain": "87.84.81.0/24",
+      "match": "cidr",
+      "label": "ADPL AS AP A BGP网段"
+    },
+    {
       "domain": "87.92.0.0/14",
       "match": "cidr",
       "label": "DNA DNA Oyj, BGP网段"
@@ -40785,6 +41870,11 @@
       "domain": "88.213.224.0/19",
       "match": "cidr",
       "label": "SEWAN FR SEW BGP网段"
+    },
+    {
+      "domain": "88.214.22.0/24",
+      "match": "cidr",
+      "label": "XTOM JAPAN x BGP网段"
     },
     {
       "domain": "88.220.0.0/17",
@@ -40962,6 +42052,11 @@
       "label": "KAZTELECOM AS BGP网段"
     },
     {
+      "domain": "89.222.116.0/24",
+      "match": "cidr",
+      "label": "CDN77 Dataca BGP网段"
+    },
+    {
       "domain": "89.222.127.0/24",
       "match": "cidr",
       "label": "CDN77 Dataca BGP网段"
@@ -41040,6 +42135,11 @@
       "domain": "90.160.106.0/24",
       "match": "cidr",
       "label": "UNI2 AS Oran BGP网段"
+    },
+    {
+      "domain": "90.187.0.0/16",
+      "match": "cidr",
+      "label": "VODANET Voda BGP网段"
     },
     {
       "domain": "90.188.241.0/24",
@@ -41323,6 +42423,11 @@
     },
     {
       "domain": "92.40.176.0/23",
+      "match": "cidr",
+      "label": "H3GUK Hutchi BGP网段"
+    },
+    {
+      "domain": "92.40.248.0/21",
       "match": "cidr",
       "label": "H3GUK Hutchi BGP网段"
     },
@@ -41907,6 +43012,11 @@
       "label": "SHAW 网络"
     },
     {
+      "domain": "96.60.0.0/15",
+      "match": "cidr",
+      "label": "TDS AS TDS T BGP网段"
+    },
+    {
       "domain": "96.7.181.0/24",
       "match": "cidr",
       "label": "Akamai 边缘加速"
@@ -42110,6 +43220,11 @@
       "domain": "98.98.254.0/24",
       "match": "cidr",
       "label": "Zenlayer 边缘加速"
+    },
+    {
+      "domain": "98.98.46.0/23",
+      "match": "cidr",
+      "label": "ZEN ECN Zenl BGP网段"
     },
     {
       "domain": "98.98.64.0/23",
@@ -42527,6 +43642,36 @@
       "label": "自动化探针 / 随机测试"
     },
     {
+      "domain": "1188dha924.0149a25.app",
+      "match": "exact",
+      "label": "移动端测试 / 本地回环映射"
+    },
+    {
+      "domain": "1188dha924.0149z51.app",
+      "match": "exact",
+      "label": "移动端测试 / 本地回环映射"
+    },
+    {
+      "domain": "1188dha929.0149a62.app",
+      "match": "exact",
+      "label": "移动端测试 / 本地回环映射"
+    },
+    {
+      "domain": "1188dha929.0149a80.app",
+      "match": "exact",
+      "label": "移动端测试 / 本地回环映射"
+    },
+    {
+      "domain": "1188dha929.0149a86.app",
+      "match": "exact",
+      "label": "移动端测试 / 本地回环映射"
+    },
+    {
+      "domain": "1188dha929.0149z51.app",
+      "match": "exact",
+      "label": "移动端测试 / 本地回环映射"
+    },
+    {
       "domain": "128737.cc",
       "match": "exact",
       "label": "自动化探针 / 随机测试"
@@ -42697,6 +43842,11 @@
       "label": "腾讯游戏海外出海业务"
     },
     {
+      "domain": "a1vi4deo.diy",
+      "match": "exact",
+      "label": "内部测试 / 本地服务配置"
+    },
+    {
       "domain": "a79ab95c1589a13f8a4cab612bc71f9f7.com",
       "match": "exact",
       "label": "自动化探针 / 随机测试"
@@ -42845,6 +43995,11 @@
       "domain": "kj1234com.app",
       "match": "exact",
       "label": "移动端测试 / 本地回环映射"
+    },
+    {
+      "domain": "mi.srv",
+      "match": "exact",
+      "label": "内部测试 / 本地服务配置"
     },
     {
       "domain": "mkoirhqbrucluvskyhdytnilfk.com",
@@ -43057,6 +44212,11 @@
       "label": "测试探针 / 无效域名"
     },
     {
+      "domain": "this-url-does-not-exist-0578b7fe-be98-41d1-a384-1997a9fbe43e.invalid",
+      "match": "exact",
+      "label": "测试探针 / 无效域名"
+    },
+    {
       "domain": "this-url-does-not-exist-05a4b7bc-7c06-4133-8666-c161bb534b45.invalid",
       "match": "exact",
       "label": "测试探针 / 无效域名"
@@ -43238,6 +44398,11 @@
     },
     {
       "domain": "this-url-does-not-exist-1063a8b1-8860-47ef-9db0-422920c6a60a.invalid",
+      "match": "exact",
+      "label": "测试探针 / 无效域名"
+    },
+    {
+      "domain": "this-url-does-not-exist-1093540a-c728-4044-afa4-9e8b1bc16ef1.invalid",
       "match": "exact",
       "label": "测试探针 / 无效域名"
     },
@@ -43787,6 +44952,11 @@
       "label": "测试探针 / 无效域名"
     },
     {
+      "domain": "this-url-does-not-exist-3a122a4a-4032-401a-a716-e7853eec6026.invalid",
+      "match": "exact",
+      "label": "测试探针 / 无效域名"
+    },
+    {
       "domain": "this-url-does-not-exist-3a34bdeb-af55-4585-a924-6e2f6730d854.invalid",
       "match": "exact",
       "label": "测试探针 / 无效域名"
@@ -43992,6 +45162,11 @@
       "label": "测试探针 / 无效域名"
     },
     {
+      "domain": "this-url-does-not-exist-4490617c-4a06-48fa-8261-114f06027963.invalid",
+      "match": "exact",
+      "label": "测试探针 / 无效域名"
+    },
+    {
       "domain": "this-url-does-not-exist-44acb964-2002-45e5-b2c1-effff7874c6e.invalid",
       "match": "exact",
       "label": "测试探针 / 无效域名"
@@ -44022,6 +45197,11 @@
       "label": "RFC 2606 保留测试标识"
     },
     {
+      "domain": "this-url-does-not-exist-45e9e938-33f6-4234-b860-ffab14c75d03.invalid",
+      "match": "exact",
+      "label": "测试探针 / 无效域名"
+    },
+    {
       "domain": "this-url-does-not-exist-46af6d72-1159-4bc2-8a30-2ac8d46d8819.invalid",
       "match": "exact",
       "label": "测试探针 / 无效域名"
@@ -44038,6 +45218,11 @@
     },
     {
       "domain": "this-url-does-not-exist-47df1c73-1285-4005-b185-21a0ec76bbff.invalid",
+      "match": "exact",
+      "label": "测试探针 / 无效域名"
+    },
+    {
+      "domain": "this-url-does-not-exist-49030134-a480-4b35-b240-2d1444d0e363.invalid",
       "match": "exact",
       "label": "测试探针 / 无效域名"
     },
@@ -44332,6 +45517,11 @@
       "label": "测试探针 / 无效域名"
     },
     {
+      "domain": "this-url-does-not-exist-5a9601ae-8d64-433e-b7e7-30a1505ded4c.invalid",
+      "match": "exact",
+      "label": "测试探针 / 无效域名"
+    },
+    {
       "domain": "this-url-does-not-exist-5afe0216-89f4-462f-8f71-331e1b376b8d.invalid",
       "match": "exact",
       "label": "测试探针 / 无效域名"
@@ -44467,6 +45657,11 @@
       "label": "测试探针 / 无效域名"
     },
     {
+      "domain": "this-url-does-not-exist-611f31be-f9b2-4321-ab7b-a74ad57f3e02.invalid",
+      "match": "exact",
+      "label": "测试探针 / 无效域名"
+    },
+    {
       "domain": "this-url-does-not-exist-615981f6-97fc-4bcc-894c-b7bcffa28e56.invalid",
       "match": "exact",
       "label": "RFC 2606 保留测试标识"
@@ -44548,6 +45743,11 @@
     },
     {
       "domain": "this-url-does-not-exist-64f5ab6e-69e9-46cc-99e4-322f340b56e0.invalid",
+      "match": "exact",
+      "label": "测试探针 / 无效域名"
+    },
+    {
+      "domain": "this-url-does-not-exist-6546e9c5-2520-486d-873e-89ecb2d42a28.invalid",
       "match": "exact",
       "label": "测试探针 / 无效域名"
     },
@@ -44642,6 +45842,11 @@
       "label": "测试探针 / 无效域名"
     },
     {
+      "domain": "this-url-does-not-exist-6b9324c2-b9b4-4aa1-9b7e-f8d2cdefa414.invalid",
+      "match": "exact",
+      "label": "测试探针 / 无效域名"
+    },
+    {
       "domain": "this-url-does-not-exist-6bc1923e-700c-4c14-b6e0-345d286993d0.invalid",
       "match": "exact",
       "label": "测试探针 / 无效域名"
@@ -44653,6 +45858,11 @@
     },
     {
       "domain": "this-url-does-not-exist-6c7b624a-b248-40a6-a767-96b453c9e9c6.invalid",
+      "match": "exact",
+      "label": "测试探针 / 无效域名"
+    },
+    {
+      "domain": "this-url-does-not-exist-6ca6720d-fc11-4e79-9811-a164051b7d29.invalid",
       "match": "exact",
       "label": "测试探针 / 无效域名"
     },
@@ -44673,6 +45883,16 @@
     },
     {
       "domain": "this-url-does-not-exist-6e91cc17-f961-4911-bb17-13b7d4d2bc6e.invalid",
+      "match": "exact",
+      "label": "测试探针 / 无效域名"
+    },
+    {
+      "domain": "this-url-does-not-exist-6eecc672-3253-45ff-bfca-a34f4317bfe6.invalid",
+      "match": "exact",
+      "label": "测试探针 / 无效域名"
+    },
+    {
+      "domain": "this-url-does-not-exist-6efb64e9-6c48-4e8a-b393-1172b54408c7.invalid",
       "match": "exact",
       "label": "测试探针 / 无效域名"
     },
@@ -44752,6 +45972,11 @@
       "label": "测试探针 / 无效域名"
     },
     {
+      "domain": "this-url-does-not-exist-737a84d1-8ebd-47b3-85fd-f7c1d7b5cde0.invalid",
+      "match": "exact",
+      "label": "测试探针 / 无效域名"
+    },
+    {
       "domain": "this-url-does-not-exist-73992c34-48dd-42b3-8a84-a3de23c86e51.invalid",
       "match": "exact",
       "label": "测试探针 / 无效域名"
@@ -44782,6 +46007,11 @@
       "label": "测试探针 / 无效域名"
     },
     {
+      "domain": "this-url-does-not-exist-74b5a585-0261-4564-a127-16fe73ffb49f.invalid",
+      "match": "exact",
+      "label": "测试探针 / 无效域名"
+    },
+    {
       "domain": "this-url-does-not-exist-7541fcd9-87cc-4ff4-8e87-ca57efd7da77.invalid",
       "match": "exact",
       "label": "RFC 2606 保留示例域名"
@@ -44793,6 +46023,16 @@
     },
     {
       "domain": "this-url-does-not-exist-7645f595-60db-4f14-8e49-41f3169b1b06.invalid",
+      "match": "exact",
+      "label": "测试探针 / 无效域名"
+    },
+    {
+      "domain": "this-url-does-not-exist-76bd0394-64bd-48f3-a427-28ab43567fd9.invalid",
+      "match": "exact",
+      "label": "测试探针 / 无效域名"
+    },
+    {
+      "domain": "this-url-does-not-exist-77546d56-c00b-4155-83cb-5cdd4a48f826.invalid",
       "match": "exact",
       "label": "测试探针 / 无效域名"
     },
@@ -45052,6 +46292,11 @@
       "label": "测试探针 / 无效域名"
     },
     {
+      "domain": "this-url-does-not-exist-89ddd207-5309-4d82-89a3-887e6d5a129e.invalid",
+      "match": "exact",
+      "label": "测试探针 / 无效域名"
+    },
+    {
       "domain": "this-url-does-not-exist-8a564d1f-4f0d-4039-acc4-a9c1e361c3b2.invalid",
       "match": "exact",
       "label": "测试探针 / 无效域名"
@@ -45088,6 +46333,11 @@
     },
     {
       "domain": "this-url-does-not-exist-8cf8e2c3-bf47-46d9-82eb-4d390a92d393.invalid",
+      "match": "exact",
+      "label": "测试探针 / 无效域名"
+    },
+    {
+      "domain": "this-url-does-not-exist-8d3c17bf-dbd8-4bdb-93ce-753950bc38bf.invalid",
       "match": "exact",
       "label": "测试探针 / 无效域名"
     },
@@ -45212,6 +46462,11 @@
       "label": "测试探针 / 无效域名"
     },
     {
+      "domain": "this-url-does-not-exist-994c1f9b-c395-4e5e-8676-3adb0559fa66.invalid",
+      "match": "exact",
+      "label": "测试探针 / 无效域名"
+    },
+    {
       "domain": "this-url-does-not-exist-9970f7e2-6bf6-4174-9a2d-4ae5ffb2d99c.invalid",
       "match": "exact",
       "label": "测试探针 / 无效域名"
@@ -45307,6 +46562,11 @@
       "label": "测试探针 / 无效域名"
     },
     {
+      "domain": "this-url-does-not-exist-a10b008e-e1db-4aa9-a4c7-86452229338f.invalid",
+      "match": "exact",
+      "label": "测试探针 / 无效域名"
+    },
+    {
       "domain": "this-url-does-not-exist-a160bdff-1fec-4b23-b8a8-bc75b8a1cf5d.invalid",
       "match": "exact",
       "label": "测试探针 / 无效域名"
@@ -45355,6 +46615,16 @@
       "domain": "this-url-does-not-exist-a3483e4e-d047-4256-ad28-d2e0850988f4.invalid",
       "match": "exact",
       "label": "浏览器 DNS 防劫持探测域名"
+    },
+    {
+      "domain": "this-url-does-not-exist-a45d2f56-8aa7-4e35-8e18-e462854cefc5.invalid",
+      "match": "exact",
+      "label": "测试探针 / 无效域名"
+    },
+    {
+      "domain": "this-url-does-not-exist-a522e385-04c2-468e-a74e-76db2454daca.invalid",
+      "match": "exact",
+      "label": "测试探针 / 无效域名"
     },
     {
       "domain": "this-url-does-not-exist-a5e2cdd1-bb45-4d13-b744-26bab45ad876.invalid",
@@ -45462,6 +46732,11 @@
       "label": "测试探针 / 无效域名"
     },
     {
+      "domain": "this-url-does-not-exist-aced42c5-d2cc-4b0b-a38a-9f1cd1bc9acd.invalid",
+      "match": "exact",
+      "label": "测试探针 / 无效域名"
+    },
+    {
       "domain": "this-url-does-not-exist-ad30d576-00ec-4cc9-8326-1c7f8f46a91c.invalid",
       "match": "exact",
       "label": "测试探针 / 无效域名"
@@ -45492,6 +46767,11 @@
       "label": "RFC 2606 保留测试标识"
     },
     {
+      "domain": "this-url-does-not-exist-aee6d438-81d8-4430-9f88-4d669515ad23.invalid",
+      "match": "exact",
+      "label": "测试探针 / 无效域名"
+    },
+    {
       "domain": "this-url-does-not-exist-aeed4854-9d66-4643-a68b-d8aaac75aba0.invalid",
       "match": "exact",
       "label": "测试探针 / 无效域名"
@@ -45510,6 +46790,11 @@
       "domain": "this-url-does-not-exist-afd166a4-d876-449c-92e9-e5cdf9a097a7.invalid",
       "match": "exact",
       "label": "浏览器 DNS 防劫持探测域名"
+    },
+    {
+      "domain": "this-url-does-not-exist-b00130a7-3c19-451f-a684-0a2414fba298.invalid",
+      "match": "exact",
+      "label": "测试探针 / 无效域名"
     },
     {
       "domain": "this-url-does-not-exist-b05d1644-95ef-489d-a7f3-2f1abe359bee.invalid",
@@ -45712,6 +46997,11 @@
       "label": "测试探针 / 无效域名"
     },
     {
+      "domain": "this-url-does-not-exist-bf9ed239-ae41-4f22-a2de-dbd2cf6dc5bd.invalid",
+      "match": "exact",
+      "label": "测试探针 / 无效域名"
+    },
+    {
       "domain": "this-url-does-not-exist-bfbd5320-7125-432e-8248-07865ffb4347.invalid",
       "match": "exact",
       "label": "测试探针 / 无效域名"
@@ -45723,6 +47013,11 @@
     },
     {
       "domain": "this-url-does-not-exist-c0672187-b7b7-4502-96df-90bf3c8d254e.invalid",
+      "match": "exact",
+      "label": "测试探针 / 无效域名"
+    },
+    {
+      "domain": "this-url-does-not-exist-c08d0011-0eb9-4edd-b3b3-5b50f04acea9.invalid",
       "match": "exact",
       "label": "测试探针 / 无效域名"
     },
@@ -45792,6 +47087,11 @@
       "label": "测试探针 / 无效域名"
     },
     {
+      "domain": "this-url-does-not-exist-c5ee6287-f608-4c39-bd97-28f241b18ebc.invalid",
+      "match": "exact",
+      "label": "测试探针 / 无效域名"
+    },
+    {
       "domain": "this-url-does-not-exist-c5f666ab-8e4a-42ec-801a-021a2364ae72.invalid",
       "match": "exact",
       "label": "测试探针 / 无效域名"
@@ -45843,6 +47143,11 @@
     },
     {
       "domain": "this-url-does-not-exist-c8f42c54-8bd2-42b2-adaa-ff5ec10ffefd.invalid",
+      "match": "exact",
+      "label": "测试探针 / 无效域名"
+    },
+    {
+      "domain": "this-url-does-not-exist-c9593de0-ad67-478b-8a33-e20a7573053d.invalid",
       "match": "exact",
       "label": "测试探针 / 无效域名"
     },
@@ -45912,6 +47217,11 @@
       "label": "测试探针 / 无效域名"
     },
     {
+      "domain": "this-url-does-not-exist-cded57f2-a53f-4e7e-83d2-dffaa6a2d186.invalid",
+      "match": "exact",
+      "label": "测试探针 / 无效域名"
+    },
+    {
       "domain": "this-url-does-not-exist-ce026233-ff15-4ad2-b556-bfcd2806077f.invalid",
       "match": "exact",
       "label": "测试探针 / 无效域名"
@@ -45972,6 +47282,11 @@
       "label": "测试探针 / 无效域名"
     },
     {
+      "domain": "this-url-does-not-exist-d3c0bda8-29cd-4699-88f0-2f1020292875.invalid",
+      "match": "exact",
+      "label": "测试探针 / 无效域名"
+    },
+    {
       "domain": "this-url-does-not-exist-d3ed6ac2-a0d6-4924-87dc-50ec63afc83f.invalid",
       "match": "exact",
       "label": "测试探针 / 无效域名"
@@ -46017,6 +47332,11 @@
       "label": "测试探针 / 无效域名"
     },
     {
+      "domain": "this-url-does-not-exist-d628b450-5b11-4899-9cef-c06f9e129ce2.invalid",
+      "match": "exact",
+      "label": "测试探针 / 无效域名"
+    },
+    {
       "domain": "this-url-does-not-exist-d6b89a1a-a339-4fa3-813c-c86888181568.invalid",
       "match": "exact",
       "label": "测试探针 / 无效域名"
@@ -46028,6 +47348,11 @@
     },
     {
       "domain": "this-url-does-not-exist-d77155d5-dfbf-4606-be86-c6f7d3c63609.invalid",
+      "match": "exact",
+      "label": "测试探针 / 无效域名"
+    },
+    {
+      "domain": "this-url-does-not-exist-d8266a33-59c1-4e45-8380-6188904e3c12.invalid",
       "match": "exact",
       "label": "测试探针 / 无效域名"
     },
@@ -46073,6 +47398,11 @@
     },
     {
       "domain": "this-url-does-not-exist-db180701-c236-44c7-95e5-c650a7992c41.invalid",
+      "match": "exact",
+      "label": "测试探针 / 无效域名"
+    },
+    {
+      "domain": "this-url-does-not-exist-dbbecb06-2686-43ba-9b4e-ba8c3b518085.invalid",
       "match": "exact",
       "label": "测试探针 / 无效域名"
     },
@@ -46252,6 +47582,11 @@
       "label": "测试探针 / 无效域名"
     },
     {
+      "domain": "this-url-does-not-exist-ea039b6d-3425-433b-a62f-598f3da7ba6a.invalid",
+      "match": "exact",
+      "label": "测试探针 / 无效域名"
+    },
+    {
       "domain": "this-url-does-not-exist-ea3dd289-a6b6-48d2-9a72-b14ba0d46798.invalid",
       "match": "exact",
       "label": "测试探针 / 无效域名"
@@ -46402,6 +47737,11 @@
       "label": "测试探针 / 无效域名"
     },
     {
+      "domain": "this-url-does-not-exist-f2f021bb-ca95-42f5-aba6-a758a526d923.invalid",
+      "match": "exact",
+      "label": "测试探针 / 无效域名"
+    },
+    {
       "domain": "this-url-does-not-exist-f3162d9a-a1c2-49dc-9cc1-587a75b3347e.invalid",
       "match": "exact",
       "label": "测试探针 / 无效域名"
@@ -46458,6 +47798,11 @@
     },
     {
       "domain": "this-url-does-not-exist-f6a35a98-ae37-420c-b8ad-c294148f65b5.invalid",
+      "match": "exact",
+      "label": "测试探针 / 无效域名"
+    },
+    {
+      "domain": "this-url-does-not-exist-f7c75b8e-7b21-4374-95c6-89b2423b109d.invalid",
       "match": "exact",
       "label": "测试探针 / 无效域名"
     },
@@ -46528,6 +47873,11 @@
     },
     {
       "domain": "this-url-does-not-exist-fbf59922-e4eb-4bfc-8666-cf27a46c9391.invalid",
+      "match": "exact",
+      "label": "测试探针 / 无效域名"
+    },
+    {
+      "domain": "this-url-does-not-exist-fca95c4a-c9d8-4cf8-bb19-0b49cfab2edd.invalid",
       "match": "exact",
       "label": "测试探针 / 无效域名"
     },
@@ -46732,6 +48082,11 @@
       "label": "综合互联网服务"
     },
     {
+      "domain": "028qsn.com",
+      "match": "suffix",
+      "label": "网络小说 / 漫画阅读"
+    },
+    {
       "domain": "02emn.top",
       "match": "suffix",
       "label": "行业资讯 / 商业服务"
@@ -46772,9 +48127,19 @@
       "label": "行业资讯 / 商业服务"
     },
     {
+      "domain": "0573ol.com",
+      "match": "suffix",
+      "label": "嘉兴在线 地方综合生活社区"
+    },
+    {
       "domain": "059f25bd5b.com",
       "match": "suffix",
       "label": "行业资讯 / 商业服务"
+    },
+    {
+      "domain": "06eirs6lwj.com",
+      "match": "suffix",
+      "label": "动态网络 接入解析加速节点"
     },
     {
       "domain": "071kk.com",
@@ -46882,6 +48247,11 @@
       "label": "网络代理 / 访问加速"
     },
     {
+      "domain": "1.gay",
+      "match": "suffix",
+      "label": "成人影视 / 娱乐内容"
+    },
+    {
       "domain": "1000gxf.com",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
@@ -46960,6 +48330,21 @@
       "domain": "1031.academy",
       "match": "suffix",
       "label": "商业广告 / 埋点追踪"
+    },
+    {
+      "domain": "1069boys.net",
+      "match": "suffix",
+      "label": "成人影视 / 娱乐内容"
+    },
+    {
+      "domain": "1069boys.xyz",
+      "match": "suffix",
+      "label": "成人影视 / 娱乐内容"
+    },
+    {
+      "domain": "1069juno.net",
+      "match": "suffix",
+      "label": "成人影视 / 娱乐内容"
     },
     {
       "domain": "1080pzy.co",
@@ -47247,6 +48632,11 @@
       "label": "15号库 日本海淘转运仓"
     },
     {
+      "domain": "15shuyuan.com",
+      "match": "suffix",
+      "label": "行业资讯 / 商业服务"
+    },
+    {
       "domain": "161845.cc",
       "match": "suffix",
       "label": "行业资讯 / 商业服务"
@@ -47270,6 +48660,11 @@
       "domain": "16personalities.com",
       "match": "suffix",
       "label": "16Personalities 测试"
+    },
+    {
+      "domain": "16shuyuan.com",
+      "match": "suffix",
+      "label": "行业资讯 / 商业服务"
     },
     {
       "domain": "171g.net",
@@ -47322,6 +48717,11 @@
       "label": "行业资讯 / 商业服务"
     },
     {
+      "domain": "17mart.com",
+      "match": "suffix",
+      "label": "17Mart 在线零售生鲜电商"
+    },
+    {
       "domain": "17q99f.com",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
@@ -47345,6 +48745,11 @@
       "domain": "180dyk.com",
       "match": "suffix",
       "label": "行业资讯 / 商业服务"
+    },
+    {
+      "domain": "181du.com",
+      "match": "suffix",
+      "label": "网络小说 / 漫画阅读"
     },
     {
       "domain": "189.cn",
@@ -47567,6 +48972,11 @@
       "label": "行业资讯 / 商业服务"
     },
     {
+      "domain": "1win-casino-india.in",
+      "match": "suffix",
+      "label": "1Win 线上娱乐博彩平台"
+    },
+    {
       "domain": "1ybox.com",
       "match": "suffix",
       "label": "综合互联网服务"
@@ -47705,6 +49115,11 @@
       "domain": "21q77e.com",
       "match": "suffix",
       "label": "综合互联网服务"
+    },
+    {
+      "domain": "21wiz.com",
+      "match": "suffix",
+      "label": "行业资讯 / 商业服务"
     },
     {
       "domain": "22498338.com",
@@ -47862,6 +49277,11 @@
       "label": "推广导流 / 动态解析跳转"
     },
     {
+      "domain": "2690125.cc",
+      "match": "suffix",
+      "label": "推广导流 / 动态解析跳转"
+    },
+    {
       "domain": "2690128.cc",
       "match": "suffix",
       "label": "推广导流 / 动态解析跳转"
@@ -47985,6 +49405,11 @@
       "domain": "2ddq.com",
       "match": "suffix",
       "label": "Monetag 全球流量变现平台"
+    },
+    {
+      "domain": "2f4vq4.top",
+      "match": "suffix",
+      "label": "推广导流 / 动态解析跳转"
     },
     {
       "domain": "2gjx8.com",
@@ -48512,6 +49937,11 @@
       "label": "灰产弹窗 / 流量中继"
     },
     {
+      "domain": "3qdu.com",
+      "match": "suffix",
+      "label": "行业资讯 / 商业服务"
+    },
+    {
       "domain": "3r4t.xyz",
       "match": "suffix",
       "label": "行业资讯 / 商业服务"
@@ -48617,9 +50047,19 @@
       "label": "灰产弹窗 / 流量中继"
     },
     {
+      "domain": "421studios.net",
+      "match": "suffix",
+      "label": "网络小说 / 漫画阅读"
+    },
+    {
       "domain": "425041.coupons",
       "match": "suffix",
       "label": "行业资讯 / 商业服务"
+    },
+    {
+      "domain": "42m6k7.com",
+      "match": "suffix",
+      "label": "推广导流 / 动态解析跳转"
     },
     {
       "domain": "42srdf.com",
@@ -48645,6 +50085,11 @@
       "domain": "434181.lifestyle",
       "match": "suffix",
       "label": "行业资讯 / 商业服务"
+    },
+    {
+      "domain": "434645.cc",
+      "match": "suffix",
+      "label": "Foanimal 宠物关爱与流浪救助"
     },
     {
       "domain": "436115.lifestyle",
@@ -48702,9 +50147,19 @@
       "label": "行业资讯 / 商业服务"
     },
     {
+      "domain": "454ra5.com",
+      "match": "suffix",
+      "label": "推广导流 / 动态解析跳转"
+    },
+    {
       "domain": "458024.coupons",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
+    },
+    {
+      "domain": "45xsxs.com",
+      "match": "suffix",
+      "label": "网络小说 / 漫画阅读"
     },
     {
       "domain": "46477181.com",
@@ -48845,6 +50300,11 @@
       "domain": "4hu1234.com",
       "match": "suffix",
       "label": "成人影视 / 娱乐内容"
+    },
+    {
+      "domain": "4hu315.com",
+      "match": "suffix",
+      "label": "行业资讯 / 商业服务"
     },
     {
       "domain": "4hum3t.com",
@@ -49477,6 +50937,11 @@
       "label": "灰产弹窗 / 流量中继"
     },
     {
+      "domain": "583324.cc",
+      "match": "suffix",
+      "label": "网络连接 线路测速与连通检测"
+    },
+    {
       "domain": "58iclick.com",
       "match": "suffix",
       "label": "新闻传媒 / 资讯门户"
@@ -49645,6 +51110,11 @@
       "domain": "618fd43.com",
       "match": "suffix",
       "label": "行业资讯 / 商业服务"
+    },
+    {
+      "domain": "61xmu.com",
+      "match": "suffix",
+      "label": "网络小说 / 漫画阅读"
     },
     {
       "domain": "621g3uxa.com",
@@ -49897,6 +51367,11 @@
       "label": "行业资讯 / 商业服务"
     },
     {
+      "domain": "6getpurewater.com",
+      "match": "suffix",
+      "label": "网络小说 / 漫画阅读"
+    },
+    {
       "domain": "6gtyy.com",
       "match": "suffix",
       "label": "行业资讯 / 商业服务"
@@ -50127,6 +51602,11 @@
       "label": "行业资讯 / 商业服务"
     },
     {
+      "domain": "76s29s.com",
+      "match": "suffix",
+      "label": "推广导流 / 动态解析跳转"
+    },
+    {
       "domain": "773555.xyz",
       "match": "suffix",
       "label": "行业资讯 / 商业服务"
@@ -50212,6 +51692,16 @@
       "label": "薄荷图床 图像托管加速"
     },
     {
+      "domain": "7c37.net",
+      "match": "suffix",
+      "label": "行业资讯 / 商业服务"
+    },
+    {
+      "domain": "7crash.com",
+      "match": "suffix",
+      "label": "7CRASH 国际时尚潮流品牌"
+    },
+    {
       "domain": "7dg78epd.lat",
       "match": "suffix",
       "label": "行业资讯 / 商业服务"
@@ -50250,6 +51740,11 @@
       "domain": "7hyy.com",
       "match": "suffix",
       "label": "Surveza 服务网站"
+    },
+    {
+      "domain": "7iaa3r.top",
+      "match": "suffix",
+      "label": "推广导流 / 动态解析跳转"
     },
     {
       "domain": "7iid.com",
@@ -50707,6 +52202,11 @@
       "label": "灰产弹窗 / 流量中继"
     },
     {
+      "domain": "91-short.org",
+      "match": "suffix",
+      "label": "91短视频 移动端短视频点播"
+    },
+    {
       "domain": "911bla.com",
       "match": "suffix",
       "label": "行业资讯 / 商业服务"
@@ -50947,6 +52447,16 @@
       "label": "Verify Yourself 服务网站"
     },
     {
+      "domain": "92zww.com",
+      "match": "suffix",
+      "label": "网络小说 / 漫画阅读"
+    },
+    {
+      "domain": "936jd9.com",
+      "match": "suffix",
+      "label": "动态网络 接入解析加速节点"
+    },
+    {
       "domain": "93ubz7m9d17yw0p.icu",
       "match": "suffix",
       "label": "综合互联网服务"
@@ -51017,6 +52527,11 @@
       "label": "灰产弹窗 / 流量中继"
     },
     {
+      "domain": "961516.xyz",
+      "match": "suffix",
+      "label": "推广导流 / 动态解析跳转"
+    },
+    {
       "domain": "963875.lifestyle",
       "match": "suffix",
       "label": "综合互联网服务"
@@ -51025,6 +52540,11 @@
       "domain": "965343.lifestyle",
       "match": "suffix",
       "label": "综合互联网服务"
+    },
+    {
+      "domain": "965518.xyz",
+      "match": "suffix",
+      "label": "推广导流 / 动态解析跳转"
     },
     {
       "domain": "966577.lifestyle",
@@ -51832,6 +53352,11 @@
       "label": "网络小说 / 漫画阅读"
     },
     {
+      "domain": "acghtang.com",
+      "match": "suffix",
+      "label": "ACG二次元 动漫游戏资源分享"
+    },
+    {
       "domain": "acgmanger.com",
       "match": "suffix",
       "label": "行业资讯 / 商业服务"
@@ -51855,6 +53380,11 @@
       "domain": "acgnngca.com",
       "match": "suffix",
       "label": "行业资讯 / 商业服务"
+    },
+    {
+      "domain": "acgotang.com",
+      "match": "suffix",
+      "label": "ACG二次元 动漫游戏资源分享"
     },
     {
       "domain": "acgwd.com",
@@ -51885,6 +53415,11 @@
       "domain": "acmilan.com",
       "match": "suffix",
       "label": "AC米兰 意大利足球俱乐部"
+    },
+    {
+      "domain": "acnvnjm.com",
+      "match": "suffix",
+      "label": "动态网络 接入解析加速节点"
     },
     {
       "domain": "acquiredeceasedundress.com",
@@ -52617,6 +54152,11 @@
       "label": "数字营销 / 广告投放"
     },
     {
+      "domain": "adtarget.me",
+      "match": "suffix",
+      "label": "Adtarget 智能广告营销平台"
+    },
+    {
       "domain": "adtdp.com",
       "match": "suffix",
       "label": "商业广告 / 埋点追踪"
@@ -52912,6 +54452,11 @@
       "label": "综合互联网服务"
     },
     {
+      "domain": "affiliates.one",
+      "match": "suffix",
+      "label": "Affiliates.One 联盟营销"
+    },
+    {
       "domain": "affilired.com",
       "match": "suffix",
       "label": "行业资讯 / 商业服务"
@@ -53197,9 +54742,19 @@
       "label": "灰产弹窗 / 流量中继"
     },
     {
+      "domain": "aicbnv.com",
+      "match": "suffix",
+      "label": "DZMM AI 角色对话互动"
+    },
+    {
       "domain": "aichat4search.com",
       "match": "suffix",
       "label": "企业软件 / 技术开发"
+    },
+    {
+      "domain": "aichatdaily.com",
+      "match": "suffix",
+      "label": "行业资讯 / 商业服务"
     },
     {
       "domain": "aichi-nagoya2026-culturalprogramme.org",
@@ -53842,6 +55397,11 @@
       "label": "灰产弹窗 / 流量中继"
     },
     {
+      "domain": "alljapanesepass.com",
+      "match": "suffix",
+      "label": "成人影视 / 娱乐内容"
+    },
+    {
       "domain": "allkpop.com",
       "match": "suffix",
       "label": "行业资讯 / 商业服务"
@@ -53905,6 +55465,11 @@
       "domain": "alonestreaming.com",
       "match": "suffix",
       "label": "综合互联网服务"
+    },
+    {
+      "domain": "alookweb.com",
+      "match": "suffix",
+      "label": "行业资讯 / 商业服务"
     },
     {
       "domain": "alpen-route.com",
@@ -53982,6 +55547,11 @@
       "label": "网络小说 / 漫画阅读"
     },
     {
+      "domain": "amateureuro.com",
+      "match": "suffix",
+      "label": "成人影视 / 娱乐内容"
+    },
+    {
       "domain": "amavalet.com",
       "match": "suffix",
       "label": "AmaValet 商务泊车管理系统"
@@ -54000,6 +55570,11 @@
       "domain": "amenusa.org",
       "match": "suffix",
       "label": "基督复临安息日会 医疗宣教"
+    },
+    {
+      "domain": "america.gov",
+      "match": "suffix",
+      "label": "美国联邦政府 官方海外门户"
     },
     {
       "domain": "americansuburbx.com",
@@ -54102,6 +55677,11 @@
       "label": "Welcome to ngin 服务网站"
     },
     {
+      "domain": "analonly.org",
+      "match": "suffix",
+      "label": "成人影视 / 娱乐内容"
+    },
+    {
       "domain": "analvids.com",
       "match": "suffix",
       "label": "成人影视 / 娱乐内容"
@@ -54145,6 +55725,11 @@
       "domain": "andbeyond.media",
       "match": "suffix",
       "label": "数字营销 / 广告投放"
+    },
+    {
+      "domain": "andechserwasser.net",
+      "match": "suffix",
+      "label": "网络小说 / 漫画阅读"
     },
     {
       "domain": "androidheadlines.com",
@@ -54255,6 +55840,11 @@
       "domain": "aniview.com",
       "match": "suffix",
       "label": "Aniview 视频广告变现平台"
+    },
+    {
+      "domain": "ankeni.net",
+      "match": "suffix",
+      "label": "安可尼 Ankni 智能家居电器"
     },
     {
       "domain": "ankiweb.net",
@@ -54777,6 +56367,11 @@
       "label": "行业资讯 / 商业服务"
     },
     {
+      "domain": "appboy.com",
+      "match": "suffix",
+      "label": "行业资讯 / 商业服务"
+    },
+    {
       "domain": "appboycdn.com",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
@@ -54860,6 +56455,11 @@
       "domain": "appleinsider.com",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
+    },
+    {
+      "domain": "appliancehatboxomission.com",
+      "match": "suffix",
+      "label": "Clickadu 广告投放网络节点"
     },
     {
       "domain": "appliedprivacy.net",
@@ -56257,6 +57857,11 @@
       "label": "灰产弹窗 / 流量中继"
     },
     {
+      "domain": "ax81.com",
+      "match": "suffix",
+      "label": "网络小说 / 漫画阅读"
+    },
+    {
       "domain": "axelspringer.de",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
@@ -56270,6 +57875,11 @@
       "domain": "axiom.co",
       "match": "suffix",
       "label": "Axiom 云原生日志分析"
+    },
+    {
+      "domain": "axjndvucr.com",
+      "match": "suffix",
+      "label": "动态网络 接入解析加速节点"
     },
     {
       "domain": "axon.ai",
@@ -56437,6 +58047,11 @@
       "label": "行业资讯 / 商业服务"
     },
     {
+      "domain": "b2clogin.com",
+      "match": "suffix",
+      "label": "微软 Azure AD B2C认证"
+    },
+    {
       "domain": "b2dw7.com",
       "match": "suffix",
       "label": "行业资讯 / 商业服务"
@@ -56482,6 +58097,11 @@
       "label": "灰产弹窗 / 流量中继"
     },
     {
+      "domain": "b4a.io",
+      "match": "suffix",
+      "label": "Back4app 后端云托管服务"
+    },
+    {
       "domain": "b4e5w4dqwde.com",
       "match": "suffix",
       "label": "行业资讯 / 商业服务"
@@ -56517,6 +58137,11 @@
       "label": "灰产弹窗 / 流量中继"
     },
     {
+      "domain": "babepedia.com",
+      "match": "suffix",
+      "label": "Babepedia 模特写真百科"
+    },
+    {
       "domain": "bac-assets.com",
       "match": "suffix",
       "label": "行业资讯 / 商业服务"
@@ -56535,6 +58160,11 @@
       "domain": "backenster.com",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
+    },
+    {
+      "domain": "backfourapp.com",
+      "match": "suffix",
+      "label": "行业资讯 / 商业服务"
     },
     {
       "domain": "backhotelengine.com",
@@ -57377,6 +59007,11 @@
       "label": "成人影视 / 娱乐内容"
     },
     {
+      "domain": "bfhsck.com",
+      "match": "suffix",
+      "label": "影视资源 资源切片加速节点"
+    },
+    {
       "domain": "bfhub.com",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
@@ -57885,6 +59520,11 @@
       "domain": "bigboxads.com",
       "match": "suffix",
       "label": "数字营销 / 广告投放"
+    },
+    {
+      "domain": "bigbuttholes.com",
+      "match": "suffix",
+      "label": "成人影视 / 娱乐内容"
     },
     {
       "domain": "bigcdn.cc",
@@ -58447,9 +60087,19 @@
       "label": "综合互联网服务"
     },
     {
+      "domain": "bllyxw.com",
+      "match": "suffix",
+      "label": "网络小说 / 漫画阅读"
+    },
+    {
       "domain": "blockadsnot.com",
       "match": "suffix",
       "label": "数字营销 / 广告投放"
+    },
+    {
+      "domain": "blockchain-life.com",
+      "match": "suffix",
+      "label": "Blockchain Life 区块链峰会"
     },
     {
       "domain": "blog.jp",
@@ -58465,6 +60115,11 @@
       "domain": "blogimg.jp",
       "match": "suffix",
       "label": "内容分发 / 媒体加速"
+    },
+    {
+      "domain": "blogmura.com",
+      "match": "suffix",
+      "label": "行业资讯 / 商业服务"
     },
     {
       "domain": "blogsys.jp",
@@ -58568,6 +60223,11 @@
     },
     {
       "domain": "blundstone.com",
+      "match": "suffix",
+      "label": "行业资讯 / 商业服务"
+    },
+    {
+      "domain": "blurparkskipper.courses",
       "match": "suffix",
       "label": "行业资讯 / 商业服务"
     },
@@ -58747,6 +60407,11 @@
       "label": "云端服务 / 接口网关"
     },
     {
+      "domain": "bolt.eu",
+      "match": "suffix",
+      "label": "行业资讯 / 商业服务"
+    },
+    {
       "domain": "boltsvc.net",
       "match": "suffix",
       "label": "行业资讯 / 商业服务"
@@ -58795,6 +60460,11 @@
       "domain": "book18.org",
       "match": "suffix",
       "label": "成人影视 / 娱乐内容"
+    },
+    {
+      "domain": "book630.cc",
+      "match": "suffix",
+      "label": "推广导流 / 动态解析跳转"
     },
     {
       "domain": "bookauthority.org",
@@ -59052,6 +60722,11 @@
       "label": "成人影视 / 内容导流"
     },
     {
+      "domain": "boy69.net",
+      "match": "suffix",
+      "label": "成人影视 / 娱乐内容"
+    },
+    {
       "domain": "boyfriend.show",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
@@ -59240,6 +60915,11 @@
       "domain": "bqstreamer.com",
       "match": "suffix",
       "label": "网络基础 / 内容加速"
+    },
+    {
+      "domain": "bqszdgtx.cc",
+      "match": "suffix",
+      "label": "成人影视 / 娱乐内容"
     },
     {
       "domain": "bqxiashu.com",
@@ -59552,6 +61232,11 @@
       "label": "行业资讯 / 商业服务"
     },
     {
+      "domain": "bsx4yqk.work",
+      "match": "suffix",
+      "label": "推广导流 / 动态解析跳转"
+    },
+    {
       "domain": "bt4.cc",
       "match": "suffix",
       "label": "行业资讯 / 商业服务"
@@ -59832,6 +61517,21 @@
       "label": "文春在线 日本综合新闻周刊"
     },
     {
+      "domain": "buomtv.app",
+      "match": "suffix",
+      "label": "影视点播 流媒体服务"
+    },
+    {
+      "domain": "buomtv.cc",
+      "match": "suffix",
+      "label": "推广导流 / 动态解析跳转"
+    },
+    {
+      "domain": "buomtv.rest",
+      "match": "suffix",
+      "label": "行业资讯 / 商业服务"
+    },
+    {
       "domain": "buondua.com",
       "match": "suffix",
       "label": "成人影视 / 娱乐内容"
@@ -60057,6 +61757,11 @@
       "label": "行业资讯 / 商业服务"
     },
     {
+      "domain": "byltlblswmzvhe.com",
+      "match": "suffix",
+      "label": "动态网络 接入解析加速节点"
+    },
+    {
       "domain": "bynder.com",
       "match": "suffix",
       "label": "Bynder 企业数字资产管理"
@@ -60142,6 +61847,11 @@
       "label": "灰产弹窗 / 流量中继"
     },
     {
+      "domain": "bzdc95czz1.com",
+      "match": "suffix",
+      "label": "动态网络 接入解析加速节点"
+    },
+    {
       "domain": "bzjok.com",
       "match": "suffix",
       "label": "行业资讯 / 商业服务"
@@ -60187,6 +61897,11 @@
       "label": "仿冒 CloudFront 灰产跳板"
     },
     {
+      "domain": "c2t669v.work",
+      "match": "suffix",
+      "label": "推广导流 / 动态解析跳转"
+    },
+    {
       "domain": "c2upt6r.cc",
       "match": "suffix",
       "label": "行业资讯 / 商业服务"
@@ -60215,6 +61930,11 @@
       "domain": "c7a91e3b-84d2-4c6f-9b71-2e8d4a6f3c11.com",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
+    },
+    {
+      "domain": "c7czjc7.work",
+      "match": "suffix",
+      "label": "推广导流 / 动态解析跳转"
     },
     {
       "domain": "c887123a.cc",
@@ -60452,6 +62172,11 @@
       "label": "行业资讯 / 商业服务"
     },
     {
+      "domain": "camsoda.com",
+      "match": "suffix",
+      "label": "CamSoda 成人视频互动直播"
+    },
+    {
       "domain": "camspacelive.com",
       "match": "suffix",
       "label": "行业资讯 / 商业服务"
@@ -60485,6 +62210,11 @@
       "domain": "candyai.gg",
       "match": "suffix",
       "label": "Candy AI AI Gir 服务网站"
+    },
+    {
+      "domain": "candymoonii.com",
+      "match": "suffix",
+      "label": "CandyMoon 时尚手作烘焙"
     },
     {
       "domain": "candynetwork.ai",
@@ -60792,6 +62522,11 @@
       "label": "行业资讯 / 商业服务"
     },
     {
+      "domain": "cashsystemes.com",
+      "match": "suffix",
+      "label": "Cash Systemes 商业收银系统"
+    },
+    {
       "domain": "casio.com",
       "match": "suffix",
       "label": "行业资讯 / 商业服务"
@@ -60942,6 +62677,11 @@
       "label": "灰产弹窗 / 流量中继"
     },
     {
+      "domain": "cc3bh4.com",
+      "match": "suffix",
+      "label": "动态网络 接入解析加速节点"
+    },
+    {
       "domain": "cc7ba4.com",
       "match": "suffix",
       "label": "行业资讯 / 商业服务"
@@ -60980,6 +62720,11 @@
       "domain": "ccccdn.cc",
       "match": "suffix",
       "label": "CCCCDN 灰产静态资源加速"
+    },
+    {
+      "domain": "ccchinaa.com",
+      "match": "suffix",
+      "label": "行业资讯 / 商业服务"
     },
     {
       "domain": "ccdmb.com",
@@ -61292,6 +63037,11 @@
       "label": "网络基础 / 内容加速"
     },
     {
+      "domain": "cdnibag.com",
+      "match": "suffix",
+      "label": "影视切片 / 资源分发CDN"
+    },
+    {
       "domain": "cdnjav.com",
       "match": "suffix",
       "label": "内容分发 / 媒体加速"
@@ -61300,6 +63050,11 @@
       "domain": "cdnjhd.com",
       "match": "suffix",
       "label": "内容分发 / 媒体加速"
+    },
+    {
+      "domain": "cdnjs.com",
+      "match": "suffix",
+      "label": "cdnjs 全球开源前端CDN"
     },
     {
       "domain": "cdnjsver.com",
@@ -61425,6 +63180,11 @@
       "domain": "cdxsw.org",
       "match": "suffix",
       "label": "行业资讯 / 商业服务"
+    },
+    {
+      "domain": "ce1wruq.work",
+      "match": "suffix",
+      "label": "推广导流 / 动态解析跳转"
     },
     {
       "domain": "ceair.com",
@@ -62462,6 +64222,11 @@
       "label": "Cinarra 服务网站"
     },
     {
+      "domain": "cindorel.xyz",
+      "match": "suffix",
+      "label": "DZMM AI 角色对话互动"
+    },
+    {
       "domain": "cinejoy.pk",
       "match": "suffix",
       "label": "CineJoy 巴基斯坦影视娱乐资讯"
@@ -62535,6 +64300,11 @@
       "domain": "cjcr3.casa",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
+    },
+    {
+      "domain": "cjdjs.com",
+      "match": "suffix",
+      "label": "生活实用工具 在线倒计时"
     },
     {
       "domain": "cjjd14.com",
@@ -62625,6 +64395,11 @@
       "domain": "clammyendearedkeg.com",
       "match": "suffix",
       "label": "流氓弹窗 / 诱导推广"
+    },
+    {
+      "domain": "clannotillortale.com",
+      "match": "suffix",
+      "label": "动态网络 接入解析加速节点"
     },
     {
       "domain": "claravonmedicalgroup.online",
@@ -62882,6 +64657,11 @@
       "label": "行业资讯 / 商业服务"
     },
     {
+      "domain": "clingcratemoistness.com",
+      "match": "suffix",
+      "label": "Clickadu 广告投放网络节点"
+    },
+    {
       "domain": "clip-studio.com",
       "match": "suffix",
       "label": "CELSYS 绘图设计软件"
@@ -63137,6 +64917,16 @@
       "label": "卡耐基梅隆大学 (CMU)"
     },
     {
+      "domain": "cn1069.info",
+      "match": "suffix",
+      "label": "成人影视 / 娱乐内容"
+    },
+    {
+      "domain": "cn1069.net",
+      "match": "suffix",
+      "label": "成人影视 / 娱乐内容"
+    },
+    {
       "domain": "cn5566.com",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
@@ -63355,6 +65145,16 @@
       "domain": "cojylvkk.cc",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
+    },
+    {
+      "domain": "cokeplus.hk",
+      "match": "suffix",
+      "label": "可口可乐 Coke+ 官方会员"
+    },
+    {
+      "domain": "cokeurl.com",
+      "match": "suffix",
+      "label": "可口可乐 官方重定向服务"
     },
     {
       "domain": "coklwllt.net",
@@ -63982,6 +65782,11 @@
       "label": "灰产弹窗 / 流量中继"
     },
     {
+      "domain": "cool-b.jp",
+      "match": "suffix",
+      "label": "Cool-B 日本女性向游戏杂志"
+    },
+    {
       "domain": "cool-breeze-109.space",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
@@ -64040,6 +65845,11 @@
       "domain": "copy202602.com",
       "match": "suffix",
       "label": "行业资讯 / 商业服务"
+    },
+    {
+      "domain": "copy3000.com",
+      "match": "suffix",
+      "label": "网络小说 / 漫画阅读"
     },
     {
       "domain": "copy4000.com",
@@ -64152,6 +65962,11 @@
       "label": "灰产弹窗 / 流量中继"
     },
     {
+      "domain": "cotswoldherefordparts.com",
+      "match": "suffix",
+      "label": "Cotswold 汽车配件电商"
+    },
+    {
       "domain": "cougr.com",
       "match": "suffix",
       "label": "Cougr 社交交友"
@@ -64205,6 +66020,11 @@
       "domain": "coydogmurph.com",
       "match": "suffix",
       "label": "综合互联网服务"
+    },
+    {
+      "domain": "cp-retail.com",
+      "match": "suffix",
+      "label": "正大集团 CP Retail 零售"
     },
     {
       "domain": "cpa-learning.com",
@@ -65072,6 +66892,11 @@
       "label": "行业资讯 / 商业服务"
     },
     {
+      "domain": "d978l.top",
+      "match": "suffix",
+      "label": "推广导流 / 动态解析跳转"
+    },
+    {
       "domain": "d9r5c5.com",
       "match": "suffix",
       "label": "灰产跳板 / 动态防封"
@@ -65105,6 +66930,11 @@
       "domain": "da251109.top",
       "match": "suffix",
       "label": "防封跳转与图片分发短域名"
+    },
+    {
+      "domain": "da7d.org",
+      "match": "suffix",
+      "label": "阿拉伯文综合资讯交流论坛"
     },
     {
       "domain": "daaily.com",
@@ -65552,6 +67382,11 @@
       "label": "行业资讯 / 商业服务"
     },
     {
+      "domain": "datingprudethimble.com",
+      "match": "suffix",
+      "label": "Clickadu 广告投放网络节点"
+    },
+    {
       "domain": "datocms-assets.com",
       "match": "suffix",
       "label": "行业资讯 / 商业服务"
@@ -65662,6 +67497,11 @@
       "label": "灰产弹窗 / 流量中继"
     },
     {
+      "domain": "dc-sub1.com",
+      "match": "suffix",
+      "label": "行业资讯 / 商业服务"
+    },
+    {
       "domain": "dc-tag.jp",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
@@ -65737,6 +67577,11 @@
       "label": "盗版影视 / 流媒体 CDN"
     },
     {
+      "domain": "dd4kc9.com",
+      "match": "suffix",
+      "label": "动态网络 接入解析加速节点"
+    },
+    {
       "domain": "ddaa4.com",
       "match": "suffix",
       "label": "综合互联网服务"
@@ -65800,6 +67645,11 @@
       "domain": "dduu360.com",
       "match": "suffix",
       "label": "抱歉站点已暂停 服务网站"
+    },
+    {
+      "domain": "ddxsw.org",
+      "match": "suffix",
+      "label": "网络小说 / 漫画阅读"
     },
     {
       "domain": "ddxt66.com",
@@ -66070,6 +67920,11 @@
       "domain": "denomatic.com",
       "match": "suffix",
       "label": "行业资讯 / 商业服务"
+    },
+    {
+      "domain": "depositfiles.com",
+      "match": "suffix",
+      "label": "DepositFiles 国际云盘存储"
     },
     {
       "domain": "deqwas.net",
@@ -66427,6 +68282,11 @@
       "label": "DigMandarin 对外汉语在线教学"
     },
     {
+      "domain": "digua.fit",
+      "match": "suffix",
+      "label": "地瓜健身 运动健康管理系统"
+    },
+    {
       "domain": "digvps.com",
       "match": "suffix",
       "label": "DigVPS   专注服务器测 服务网站"
@@ -66620,6 +68480,11 @@
       "domain": "dkckktcl.cc",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
+    },
+    {
+      "domain": "dklkxb.xyz",
+      "match": "suffix",
+      "label": "推广导流 / 动态解析跳转"
     },
     {
       "domain": "dkyp2w18.com",
@@ -66860,6 +68725,11 @@
       "domain": "dnv.com",
       "match": "suffix",
       "label": "DNV 挪威船级社全球质量认证"
+    },
+    {
+      "domain": "do2c7l.cyou",
+      "match": "suffix",
+      "label": "成人影视 / 娱乐内容"
     },
     {
       "domain": "doatyricinic.com",
@@ -67327,6 +69197,11 @@
       "label": "国泰港龙航空 官方门户"
     },
     {
+      "domain": "dramasimida.com",
+      "match": "suffix",
+      "label": "思密达韩剧 韩国影视剧在线"
+    },
+    {
       "domain": "dramaverses.com",
       "match": "suffix",
       "label": "成人影视 / 内容导流"
@@ -67410,6 +69285,11 @@
       "domain": "drmgor102.top",
       "match": "suffix",
       "label": "行业资讯 / 商业服务"
+    },
+    {
+      "domain": "drmtoday.com",
+      "match": "suffix",
+      "label": "DRMtoday 多平台版权保护"
     },
     {
       "domain": "drnh.gov.tw",
@@ -67687,6 +69567,11 @@
       "label": "行业资讯 / 商业服务"
     },
     {
+      "domain": "duss.cc",
+      "match": "suffix",
+      "label": "推广导流 / 动态解析跳转"
+    },
+    {
       "domain": "duxsw.com",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
@@ -67722,6 +69607,11 @@
       "label": "行业资讯 / 商业服务"
     },
     {
+      "domain": "dwango.co.jp",
+      "match": "suffix",
+      "label": "多玩国 Dwango 日本数字娱乐"
+    },
+    {
       "domain": "dwhitelabel.com",
       "match": "suffix",
       "label": "行业资讯 / 商业服务"
@@ -67745,6 +69635,11 @@
       "domain": "dxlive.com",
       "match": "suffix",
       "label": "DXLIVE 日本真人美女直播"
+    },
+    {
+      "domain": "dxr53.com",
+      "match": "suffix",
+      "label": "移动应用 边缘数据服务节点"
     },
     {
       "domain": "dxsaqxx.top",
@@ -68007,6 +69902,11 @@
       "label": "行业资讯 / 商业服务"
     },
     {
+      "domain": "e11t63.com",
+      "match": "suffix",
+      "label": "应用接口 移动端数据传输"
+    },
+    {
       "domain": "e17oy.com",
       "match": "suffix",
       "label": "综合互联网服务"
@@ -68260,6 +70160,11 @@
       "domain": "eclass.com.hk",
       "match": "suffix",
       "label": "eClass 香港智慧校园平台"
+    },
+    {
+      "domain": "ecmk.jp",
+      "match": "suffix",
+      "label": "エコマケ 日本二手回收平台"
     },
     {
       "domain": "ecmxb7e.com",
@@ -68552,6 +70457,11 @@
       "label": "Eigene 韩国潮流女装买手店"
     },
     {
+      "domain": "eight.com.sg",
+      "match": "suffix",
+      "label": "eight 新加坡5G通信运营商"
+    },
+    {
       "domain": "eiscprts.com",
       "match": "suffix",
       "label": "灰产推广 / 流量拦截"
@@ -68760,6 +70670,11 @@
       "domain": "emberhush.com",
       "match": "suffix",
       "label": "Ember Hush 服务网站"
+    },
+    {
+      "domain": "emberloft.xyz",
+      "match": "suffix",
+      "label": "DZMM AI 角色对话互动"
     },
     {
       "domain": "emberreel.com",
@@ -69022,6 +70937,11 @@
       "label": "灰产弹窗 / 流量中继"
     },
     {
+      "domain": "eooss.com",
+      "match": "suffix",
+      "label": "EOOSS 企业云端管理系统"
+    },
+    {
       "domain": "eosscript.com",
       "match": "suffix",
       "label": "Eos Host 云主机基础设施"
@@ -69158,6 +71078,11 @@
     },
     {
       "domain": "ernestaudio.com",
+      "match": "suffix",
+      "label": "行业资讯 / 商业服务"
+    },
+    {
+      "domain": "ero-labs.art",
       "match": "suffix",
       "label": "行业资讯 / 商业服务"
     },
@@ -69902,6 +71827,11 @@
       "label": "F6Publishing 学术出版系统"
     },
     {
+      "domain": "f7qh.top",
+      "match": "suffix",
+      "label": "推广导流 / 动态解析跳转"
+    },
+    {
       "domain": "f7z7y6.top",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
@@ -70117,6 +72047,11 @@
       "label": "社媒主页多链接聚合工具"
     },
     {
+      "domain": "fansale.it",
+      "match": "suffix",
+      "label": "FanSale 意大利二手票务"
+    },
+    {
       "domain": "fansky.co",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
@@ -70172,6 +72107,11 @@
       "label": "综合互联网服务"
     },
     {
+      "domain": "fanxiaojian.com",
+      "match": "suffix",
+      "label": "美团屏芯 餐饮数字化SaaS"
+    },
+    {
       "domain": "fanyu.com",
       "match": "suffix",
       "label": "行业资讯 / 商业服务"
@@ -70215,6 +72155,16 @@
       "domain": "faphouse4k.com",
       "match": "suffix",
       "label": "FapHouse 成人视频"
+    },
+    {
+      "domain": "fapopedia.net",
+      "match": "suffix",
+      "label": "成人影视 / 娱乐内容"
+    },
+    {
+      "domain": "fappeningbook.com",
+      "match": "suffix",
+      "label": "成人影视 / 娱乐内容"
     },
     {
       "domain": "fapwise.com",
@@ -70617,6 +72567,11 @@
       "label": "飛比價格 比價網   價格查詢 服务网站"
     },
     {
+      "domain": "feednews.com",
+      "match": "suffix",
+      "label": "Opera News 国际新闻资讯"
+    },
+    {
       "domain": "feedsads.cn",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
@@ -70985,6 +72940,11 @@
       "domain": "fhcdngroup.online",
       "match": "suffix",
       "label": "网络基础 / 内容加速"
+    },
+    {
+      "domain": "fhchannel.com",
+      "match": "suffix",
+      "label": "成人影视 / 娱乐内容"
     },
     {
       "domain": "fhfhtutu.com",
@@ -71427,6 +73387,11 @@
       "label": "行业资讯 / 商业服务"
     },
     {
+      "domain": "flictv.org",
+      "match": "suffix",
+      "label": "网络小说 / 漫画阅读"
+    },
+    {
       "domain": "flightradar24.com",
       "match": "suffix",
       "label": "广告营销 / 数据统计"
@@ -71842,6 +73807,11 @@
       "label": "综合互联网服务"
     },
     {
+      "domain": "fortunemalls.com.hk",
+      "match": "suffix",
+      "label": "置富Malls 香港商业地产"
+    },
+    {
       "domain": "fortunica-official1.uk",
       "match": "suffix",
       "label": "互动娱乐 / 网络游戏"
@@ -72112,6 +74082,11 @@
       "label": "灰产弹窗 / 流量中继"
     },
     {
+      "domain": "frcfwb.cn",
+      "match": "suffix",
+      "label": "政务资讯 地方综合信息服务"
+    },
+    {
       "domain": "frdic.com",
       "match": "suffix",
       "label": "法语助手 欧路法语在线词典"
@@ -72322,6 +74297,11 @@
       "label": "行业资讯 / 商业服务"
     },
     {
+      "domain": "fsrqczv.com",
+      "match": "suffix",
+      "label": "行业资讯 / 商业服务"
+    },
+    {
       "domain": "fsrv.io",
       "match": "suffix",
       "label": "行业资讯 / 商业服务"
@@ -72397,6 +74377,11 @@
       "label": "综合互联网服务"
     },
     {
+      "domain": "fuckmoral.com",
+      "match": "suffix",
+      "label": "成人影视 / 娱乐内容"
+    },
+    {
       "domain": "fuckyoucash.com",
       "match": "suffix",
       "label": "成人影视 / 娱乐内容"
@@ -72415,6 +74400,11 @@
       "domain": "fuglen.no",
       "match": "suffix",
       "label": "Fuglen 挪威精品咖啡与酒吧"
+    },
+    {
+      "domain": "fuhao321.com",
+      "match": "suffix",
+      "label": "NS头号玩家 Switch游戏资讯"
     },
     {
       "domain": "fuisaa.com",
@@ -73052,6 +75042,11 @@
       "label": "Gamma AI 演示文稿生成"
     },
     {
+      "domain": "gammacdn.com",
+      "match": "suffix",
+      "label": "行业资讯 / 商业服务"
+    },
+    {
       "domain": "gammaplatform.com",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
@@ -73092,9 +75087,19 @@
       "label": "灰产弹窗 / 流量中继"
     },
     {
+      "domain": "gaoshuba.com",
+      "match": "suffix",
+      "label": "网络小说 / 漫画阅读"
+    },
+    {
       "domain": "gap.co.jp",
       "match": "suffix",
       "label": "GAP 日本快时尚官方商城"
+    },
+    {
+      "domain": "gappedpeatmen.com",
+      "match": "suffix",
+      "label": "Clickadu 广告投放网络节点"
     },
     {
       "domain": "garmin.com",
@@ -73190,6 +75195,16 @@
       "domain": "gayck.com",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
+    },
+    {
+      "domain": "gaycn.me",
+      "match": "suffix",
+      "label": "成人影视 / 娱乐内容"
+    },
+    {
+      "domain": "gaycn.top",
+      "match": "suffix",
+      "label": "成人影视 / 娱乐内容"
     },
     {
       "domain": "gayerdar.com",
@@ -73415,6 +75430,11 @@
       "domain": "gdllfnzv.cc",
       "match": "suffix",
       "label": "成人影视 / 娱乐内容"
+    },
+    {
+      "domain": "gdshuge.com",
+      "match": "suffix",
+      "label": "网络小说 / 漫画阅读"
     },
     {
       "domain": "gdxtag.com",
@@ -73972,6 +75992,11 @@
       "label": "灰产弹窗 / 流量中继"
     },
     {
+      "domain": "ghij.tw",
+      "match": "suffix",
+      "label": "GHIJ影界 影视在线流媒体"
+    },
+    {
       "domain": "ghost.io",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
@@ -74100,6 +76125,11 @@
       "domain": "girlgamingempire.org",
       "match": "suffix",
       "label": "互动娱乐 / 游戏平台"
+    },
+    {
+      "domain": "girlloveai.com",
+      "match": "suffix",
+      "label": "DZMM AI 角色对话互动"
     },
     {
       "domain": "girls-games.org",
@@ -74380,6 +76410,11 @@
       "domain": "gmx.net",
       "match": "suffix",
       "label": "GMX 德国知名邮箱门户"
+    },
+    {
+      "domain": "gmxes.com",
+      "match": "suffix",
+      "label": "海外邮件 商务通信接入服务"
     },
     {
       "domain": "gn01.top",
@@ -74907,9 +76942,24 @@
       "label": "行业资讯 / 商业服务"
     },
     {
+      "domain": "gportal.hu",
+      "match": "suffix",
+      "label": "行业资讯 / 商业服务"
+    },
+    {
       "domain": "gppbnycl.cc",
       "match": "suffix",
       "label": "行业资讯 / 商业服务"
+    },
+    {
+      "domain": "gprfmtdi.cc",
+      "match": "suffix",
+      "label": "推广导流 / 动态解析跳转"
+    },
+    {
+      "domain": "gpsecureads.com",
+      "match": "suffix",
+      "label": "数字营销 / 广告投放"
     },
     {
       "domain": "gpt-chinese-guide.com",
@@ -75632,6 +77682,11 @@
       "label": "综合互联网服务"
     },
     {
+      "domain": "gxqlmhsi.cc",
+      "match": "suffix",
+      "label": "网络小说 / 漫画阅读"
+    },
+    {
       "domain": "gyg.me",
       "match": "suffix",
       "label": "行业资讯 / 商业服务"
@@ -75665,6 +77720,11 @@
       "domain": "gzgshay3.com",
       "match": "suffix",
       "label": "综合互联网服务"
+    },
+    {
+      "domain": "gzhgxs.com",
+      "match": "suffix",
+      "label": "网络小说 / 漫画阅读"
     },
     {
       "domain": "gztv2.com",
@@ -75745,6 +77805,11 @@
       "domain": "h5x8mq.top",
       "match": "suffix",
       "label": "行业资讯 / 商业服务"
+    },
+    {
+      "domain": "h7f2.top",
+      "match": "suffix",
+      "label": "推广导流 / 动态解析跳转"
     },
     {
       "domain": "h7mlq.com",
@@ -75855,6 +77920,11 @@
       "domain": "haijiaoluv.top",
       "match": "suffix",
       "label": "企业软件 / 技术开发"
+    },
+    {
+      "domain": "haikanwu.cc",
+      "match": "suffix",
+      "label": "好看屋 综合影视资讯门户"
     },
     {
       "domain": "haikyu-challengers-ex.com",
@@ -76442,6 +78512,11 @@
       "label": "行业资讯 / 商业服务"
     },
     {
+      "domain": "hdpornt.com",
+      "match": "suffix",
+      "label": "成人影视 / 娱乐内容"
+    },
+    {
       "domain": "hdtube.porn",
       "match": "suffix",
       "label": "成人影视 / 娱乐内容"
@@ -76632,6 +78707,11 @@
       "label": "行业资讯 / 商业服务"
     },
     {
+      "domain": "helmenye.com",
+      "match": "suffix",
+      "label": "跨境电商 国际贸易供应链"
+    },
+    {
       "domain": "helpcrunch.com",
       "match": "suffix",
       "label": "HelpCrunch 智能客户沟通CRM"
@@ -76713,6 +78793,11 @@
     },
     {
       "domain": "hentaistream.com",
+      "match": "suffix",
+      "label": "成人影视 / 娱乐内容"
+    },
+    {
+      "domain": "hentok.com",
       "match": "suffix",
       "label": "成人影视 / 娱乐内容"
     },
@@ -77272,6 +79357,11 @@
       "label": "行业资讯 / 商业服务"
     },
     {
+      "domain": "hkskh.org",
+      "match": "suffix",
+      "label": "香港圣公会 官方宗教门户"
+    },
+    {
       "domain": "hkspeedtest.com",
       "match": "suffix",
       "label": "节点测速 / Speedtest"
@@ -77290,6 +79380,11 @@
       "domain": "hktvmall.com",
       "match": "suffix",
       "label": "行业资讯 / 商业服务"
+    },
+    {
+      "domain": "hktvmallredirect.com",
+      "match": "suffix",
+      "label": "HKTVmall 香港网购重定向"
     },
     {
       "domain": "hkzpzmxe.com",
@@ -77403,6 +79498,11 @@
     },
     {
       "domain": "hm0019t.vip",
+      "match": "suffix",
+      "label": "推广导流 / 动态解析跳转"
+    },
+    {
+      "domain": "hm0027t.vip",
       "match": "suffix",
       "label": "推广导流 / 动态解析跳转"
     },
@@ -77807,6 +79907,11 @@
       "label": "行业资讯 / 商业服务"
     },
     {
+      "domain": "hotsoz.com",
+      "match": "suffix",
+      "label": "成人影视 / 娱乐内容"
+    },
+    {
       "domain": "hotupub.net",
       "match": "suffix",
       "label": "成人影视 / 娱乐内容"
@@ -77932,6 +80037,11 @@
       "label": "行业资讯 / 商业服务"
     },
     {
+      "domain": "hqdnl.com",
+      "match": "suffix",
+      "label": "行业资讯 / 商业服务"
+    },
+    {
       "domain": "hqemu.com",
       "match": "suffix",
       "label": "行业资讯 / 商业服务"
@@ -77965,6 +80075,11 @@
       "domain": "hqurxpsxb.cc",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
+    },
+    {
+      "domain": "hqxxx-movies.com",
+      "match": "suffix",
+      "label": "成人影视 / 娱乐内容"
     },
     {
       "domain": "hr86a.com",
@@ -78222,6 +80337,11 @@
       "label": "广告营销 / 数据统计"
     },
     {
+      "domain": "huahuamanhua.com",
+      "match": "suffix",
+      "label": "网络小说 / 漫画阅读"
+    },
+    {
       "domain": "huakacomic.com",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
@@ -78290,6 +80410,11 @@
       "domain": "huangguoduanju.net",
       "match": "suffix",
       "label": "在线影视 / 短剧点播"
+    },
+    {
+      "domain": "huanguo.app",
+      "match": "suffix",
+      "label": "黄果短剧 AI原创短剧在线"
     },
     {
       "domain": "huanmeng.ai",
@@ -78390,6 +80515,11 @@
       "domain": "hugedomains.com",
       "match": "suffix",
       "label": "企业软件 / 技术开发"
+    },
+    {
+      "domain": "hugewangs.com",
+      "match": "suffix",
+      "label": "成人影视 / 娱乐内容"
     },
     {
       "domain": "huhome.org",
@@ -79107,6 +81237,11 @@
       "label": "行业资讯 / 商业服务"
     },
     {
+      "domain": "idisk-just.com",
+      "match": "suffix",
+      "label": "行业资讯 / 商业服务"
+    },
+    {
       "domain": "idlerelief.com",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
@@ -79357,6 +81492,11 @@
       "label": "灰产弹窗 / 流量中继"
     },
     {
+      "domain": "iijln.com",
+      "match": "suffix",
+      "label": "IIJLN 亚太基础网络互联"
+    },
+    {
       "domain": "iili.io",
       "match": "suffix",
       "label": "行业资讯 / 商业服务"
@@ -79595,6 +81735,11 @@
       "domain": "imagexox.com",
       "match": "suffix",
       "label": "行业资讯 / 商业服务"
+    },
+    {
+      "domain": "imagin.studio",
+      "match": "suffix",
+      "label": "IMAGIN.studio 汽车数字视觉"
     },
     {
       "domain": "imaginativeastute.com",
@@ -80347,6 +82492,11 @@
       "label": "行业资讯 / 商业服务"
     },
     {
+      "domain": "innoads.cn",
+      "match": "suffix",
+      "label": "数字营销 / 广告投放"
+    },
+    {
       "domain": "innologica.com",
       "match": "suffix",
       "label": "行业资讯 / 商业服务"
@@ -80425,6 +82575,11 @@
       "domain": "insops.net",
       "match": "suffix",
       "label": "Instructure Canvas 教学云"
+    },
+    {
+      "domain": "insta-stories-viewer.com",
+      "match": "suffix",
+      "label": "Instagram 匿名快拍查看"
     },
     {
       "domain": "instabio.cc",
@@ -80767,6 +82922,11 @@
       "label": "IP检测"
     },
     {
+      "domain": "ipinyou.com",
+      "match": "suffix",
+      "label": "品友互动 智能商业决策营销"
+    },
+    {
       "domain": "ipleak.net",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
@@ -81082,6 +83242,11 @@
       "label": "iTools 苹果设备管理工具"
     },
     {
+      "domain": "itop1069.net",
+      "match": "suffix",
+      "label": "成人影视 / 娱乐内容"
+    },
+    {
       "domain": "itop1069.one",
       "match": "suffix",
       "label": "行业资讯 / 商业服务"
@@ -81150,6 +83315,11 @@
       "domain": "ivcsmrt.com",
       "match": "suffix",
       "label": "行业资讯 / 商业服务"
+    },
+    {
+      "domain": "ivorune.xyz",
+      "match": "suffix",
+      "label": "DZMM AI 角色对话互动"
     },
     {
       "domain": "ivwmulcdgd1.com",
@@ -81750,6 +83920,11 @@
       "domain": "jaxsta.io",
       "match": "suffix",
       "label": "网络小说 / 漫画阅读"
+    },
+    {
+      "domain": "jazzistagallop.com",
+      "match": "suffix",
+      "label": "Clickadu 广告投放网络节点"
     },
     {
       "domain": "jb-aiwei.cc",
@@ -82697,6 +84872,11 @@
       "label": "成人影视 / 娱乐内容"
     },
     {
+      "domain": "jpboys.biz",
+      "match": "suffix",
+      "label": "成人影视 / 娱乐内容"
+    },
+    {
       "domain": "jpfc-info.com",
       "match": "suffix",
       "label": "行业资讯 / 商业服务"
@@ -82900,6 +85080,21 @@
       "domain": "jsayx960.vip",
       "match": "suffix",
       "label": "行业资讯 / 商业服务"
+    },
+    {
+      "domain": "jsayx971.vip",
+      "match": "suffix",
+      "label": "推广导流 / 动态解析跳转"
+    },
+    {
+      "domain": "jsayx975.vip",
+      "match": "suffix",
+      "label": "推广导流 / 动态解析跳转"
+    },
+    {
+      "domain": "jsayx978.vip",
+      "match": "suffix",
+      "label": "推广导流 / 动态解析跳转"
     },
     {
       "domain": "jsbxzw.com",
@@ -83197,6 +85392,11 @@
       "label": "数据统计 / 营销跟踪"
     },
     {
+      "domain": "jxbiquge.com",
+      "match": "suffix",
+      "label": "网络小说 / 漫画阅读"
+    },
+    {
       "domain": "jxgmba.com",
       "match": "suffix",
       "label": "工商管理 硕博学术报考资讯"
@@ -83217,12 +85417,22 @@
       "label": "行业资讯 / 商业服务"
     },
     {
+      "domain": "jxyjyx.com",
+      "match": "suffix",
+      "label": "行业资讯 / 商业服务"
+    },
+    {
       "domain": "jy-kexin.com",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
     },
     {
       "domain": "jycsdxoj.cc",
+      "match": "suffix",
+      "label": "行业资讯 / 商业服务"
+    },
+    {
+      "domain": "jydocjoplx.shop",
       "match": "suffix",
       "label": "行业资讯 / 商业服务"
     },
@@ -83747,6 +85957,11 @@
       "label": "行业资讯 / 商业服务"
     },
     {
+      "domain": "kedblog.com",
+      "match": "suffix",
+      "label": "KED部落格 个人数码科技博客"
+    },
+    {
       "domain": "keen.io",
       "match": "suffix",
       "label": "事件数据流分析与追踪"
@@ -83755,6 +85970,11 @@
       "domain": "keenandintense.jp",
       "match": "suffix",
       "label": "行业资讯 / 商业服务"
+    },
+    {
+      "domain": "keepshare.cc",
+      "match": "suffix",
+      "label": "KeepShare 云端网盘托管"
     },
     {
       "domain": "keepshare.org",
@@ -83900,6 +86120,11 @@
       "domain": "kgqh001.com",
       "match": "suffix",
       "label": "行业资讯 / 商业服务"
+    },
+    {
+      "domain": "khanzode.net",
+      "match": "suffix",
+      "label": "网络小说 / 漫画阅读"
     },
     {
       "domain": "khbygxwp.com",
@@ -84127,7 +86352,22 @@
       "label": "行业资讯 / 商业服务"
     },
     {
+      "domain": "kk8.my",
+      "match": "suffix",
+      "label": "行业资讯 / 商业服务"
+    },
+    {
       "domain": "kk8bk9.com",
+      "match": "suffix",
+      "label": "行业资讯 / 商业服务"
+    },
+    {
+      "domain": "kk8home.net",
+      "match": "suffix",
+      "label": "KK居家 生活家居用品电商"
+    },
+    {
+      "domain": "kk8official.com",
       "match": "suffix",
       "label": "行业资讯 / 商业服务"
     },
@@ -84267,6 +86507,11 @@
       "label": "行业资讯 / 商业服务"
     },
     {
+      "domain": "kmexvuoz.cc",
+      "match": "suffix",
+      "label": "黄果短剧 AI原创短剧在线"
+    },
+    {
       "domain": "kmke173.com",
       "match": "suffix",
       "label": "企业官网 / 商业服务"
@@ -84377,6 +86622,11 @@
       "label": "成人影视 / 娱乐内容"
     },
     {
+      "domain": "ko-video.com",
+      "match": "suffix",
+      "label": "成人影视 / 娱乐内容"
+    },
+    {
       "domain": "kobesuma-seaworld.jp",
       "match": "suffix",
       "label": "神户须磨海洋世界 水族馆"
@@ -84405,6 +86655,11 @@
       "domain": "kodif.io",
       "match": "suffix",
       "label": "Kodif 自动化客服 AI"
+    },
+    {
+      "domain": "kogs198.com",
+      "match": "suffix",
+      "label": "成人影视 / 娱乐内容"
     },
     {
       "domain": "kohls.com",
@@ -84547,6 +86802,11 @@
       "label": "行业资讯 / 商业服务"
     },
     {
+      "domain": "kqzufjlf.cc",
+      "match": "suffix",
+      "label": "推广导流 / 动态解析跳转"
+    },
+    {
       "domain": "kraso.sk",
       "match": "suffix",
       "label": "行业资讯 / 商业服务"
@@ -84660,6 +86920,11 @@
       "domain": "kuahuopen.top",
       "match": "suffix",
       "label": "行业资讯 / 商业服务"
+    },
+    {
+      "domain": "kuaibo.club",
+      "match": "suffix",
+      "label": "网络小说 / 漫画阅读"
     },
     {
       "domain": "kuaichezym3u8.com",
@@ -84942,6 +87207,16 @@
       "label": "灰产弹窗 / 流量中继"
     },
     {
+      "domain": "ladys.one",
+      "match": "suffix",
+      "label": "数字营销 / 广告投放"
+    },
+    {
+      "domain": "lafattoriadidattica.org",
+      "match": "suffix",
+      "label": "网络小说 / 漫画阅读"
+    },
+    {
       "domain": "laimanhua.org",
       "match": "suffix",
       "label": "网络小说 / 漫画阅读"
@@ -85017,6 +87292,11 @@
       "label": "行业资讯 / 商业服务"
     },
     {
+      "domain": "langlangxs1.com",
+      "match": "suffix",
+      "label": "网络小说 / 漫画阅读"
+    },
+    {
       "domain": "langshop.app",
       "match": "suffix",
       "label": "跨境电商 / 商业购物"
@@ -85070,6 +87350,11 @@
       "domain": "lanyanzy.com",
       "match": "suffix",
       "label": "成人影音 / 自拍社群"
+    },
+    {
+      "domain": "laobanniu.buzz",
+      "match": "suffix",
+      "label": "行业资讯 / 商业服务"
     },
     {
       "domain": "laojin.me",
@@ -85245,6 +87530,11 @@
       "domain": "lbv3lb2025.com",
       "match": "suffix",
       "label": "灰产诱导 / 流量中继"
+    },
+    {
+      "domain": "lcqncipmxvelsw.com",
+      "match": "suffix",
+      "label": "行业资讯 / 商业服务"
     },
     {
       "domain": "lcqvnryf.cc",
@@ -85827,6 +88117,11 @@
       "label": "行业资讯 / 商业服务"
     },
     {
+      "domain": "lickora.com",
+      "match": "suffix",
+      "label": "Lickora 时尚美妆生活方式"
+    },
+    {
       "domain": "liegou8.com",
       "match": "suffix",
       "label": "行业资讯 / 商业服务"
@@ -86007,6 +88302,11 @@
       "label": "网络小说 / 在线文学"
     },
     {
+      "domain": "lingfeng-tea.com",
+      "match": "suffix",
+      "label": "灵峰茶叶 农业电商门户"
+    },
+    {
       "domain": "lingquang.com",
       "match": "suffix",
       "label": "综合互联网服务"
@@ -86040,6 +88340,11 @@
       "domain": "link-to.net",
       "match": "suffix",
       "label": "Linkvertise 内容下载跳转"
+    },
+    {
+      "domain": "link.me",
+      "match": "suffix",
+      "label": "行业资讯 / 商业服务"
     },
     {
       "domain": "link8fir.space",
@@ -86105,6 +88410,11 @@
       "domain": "linkju7v4h.store",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
+    },
+    {
+      "domain": "linkme.global",
+      "match": "suffix",
+      "label": "Linkme 社交名片主页聚合"
     },
     {
       "domain": "linkmisty.com",
@@ -86327,6 +88637,11 @@
       "label": "灰产弹窗 / 流量中继"
     },
     {
+      "domain": "livemediahost.com",
+      "match": "suffix",
+      "label": "影视切片 / 资源分发CDN"
+    },
+    {
       "domain": "livenation.com",
       "match": "suffix",
       "label": "Live Nation 演艺与票务"
@@ -86442,6 +88757,11 @@
       "label": "行业资讯 / 商业服务"
     },
     {
+      "domain": "llbibo.com",
+      "match": "suffix",
+      "label": "Bibo 宠物智能用品硬件生态"
+    },
+    {
       "domain": "lldtu4.top",
       "match": "suffix",
       "label": "行业资讯 / 商业服务"
@@ -86450,6 +88770,11 @@
       "domain": "lldvideo1.top",
       "match": "suffix",
       "label": "行业资讯 / 商业服务"
+    },
+    {
+      "domain": "lleana.com",
+      "match": "suffix",
+      "label": "Lleana 珠宝饰品时尚品牌"
     },
     {
       "domain": "llenn.cc",
@@ -86542,6 +88867,11 @@
       "label": "行业资讯 / 商业服务"
     },
     {
+      "domain": "lnjx37.top",
+      "match": "suffix",
+      "label": "推广导流 / 动态解析跳转"
+    },
+    {
       "domain": "lnk.to",
       "match": "suffix",
       "label": "Linkfire 音乐营销短链"
@@ -86565,6 +88895,11 @@
       "domain": "loadbal.com",
       "match": "suffix",
       "label": "数字营销 / 广告投放"
+    },
+    {
+      "domain": "lobstertube.com",
+      "match": "suffix",
+      "label": "成人影视 / 娱乐内容"
     },
     {
       "domain": "loc.gov",
@@ -86750,6 +89085,11 @@
       "domain": "loopmeedge.net",
       "match": "suffix",
       "label": "云端服务 / 接口网关"
+    },
+    {
+      "domain": "loopmertb.com",
+      "match": "suffix",
+      "label": "数字营销 / 广告投放"
     },
     {
       "domain": "looptube.io",
@@ -87182,6 +89522,11 @@
       "label": "成人影视 / 娱乐内容"
     },
     {
+      "domain": "lulumaru11.com",
+      "match": "suffix",
+      "label": "るるまるブログ 日本生活博客"
+    },
+    {
       "domain": "lulust.com",
       "match": "suffix",
       "label": "行业资讯 / 商业服务"
@@ -87205,6 +89550,11 @@
       "domain": "lumiao.ai",
       "match": "suffix",
       "label": "Lumeow 服务网站"
+    },
+    {
+      "domain": "lumivale.xyz",
+      "match": "suffix",
+      "label": "DZMM AI 角色对话互动"
     },
     {
       "domain": "lumosfun.com",
@@ -87357,6 +89707,11 @@
       "label": "行业资讯 / 商业服务"
     },
     {
+      "domain": "lwae977.vip",
+      "match": "suffix",
+      "label": "推广导流 / 动态解析跳转"
+    },
+    {
       "domain": "lwenxsw.com",
       "match": "suffix",
       "label": "网络小说 / 在线文学"
@@ -87390,6 +89745,11 @@
       "domain": "lxixsxa.com",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
+    },
+    {
+      "domain": "lxwh703.cc",
+      "match": "suffix",
+      "label": "推广导流 / 动态解析跳转"
     },
     {
       "domain": "lxzrukck.cc",
@@ -87570,6 +89930,11 @@
       "domain": "m1.com.sg",
       "match": "suffix",
       "label": "M1 新加坡综合电信运营商"
+    },
+    {
+      "domain": "m1rs.com",
+      "match": "suffix",
+      "label": "ROWOON 国际商务综合服务"
     },
     {
       "domain": "m311m.jp",
@@ -87892,6 +90257,11 @@
       "label": "灰产弹窗 / 流量中继"
     },
     {
+      "domain": "maihao1234.com",
+      "match": "suffix",
+      "label": "买号交易 游戏账号交易服务"
+    },
+    {
       "domain": "maii.net",
       "match": "suffix",
       "label": "企业软件 / 技术开发"
@@ -88210,6 +90580,11 @@
       "domain": "manko.fun",
       "match": "suffix",
       "label": "成人影视 / 娱乐内容"
+    },
+    {
+      "domain": "manlaxycloud.com",
+      "match": "suffix",
+      "label": "影视切片 / 资源分发CDN"
     },
     {
       "domain": "manmanju.com",
@@ -88842,6 +91217,11 @@
       "label": "Maze 产品用户体验测试平台"
     },
     {
+      "domain": "mazguqfimdwa.in",
+      "match": "suffix",
+      "label": "推广导流 / 动态解析跳转"
+    },
+    {
       "domain": "mba.com",
       "match": "suffix",
       "label": "综合互联网服务"
@@ -88875,6 +91255,11 @@
       "domain": "mbidtg.com",
       "match": "suffix",
       "label": "综合互联网服务"
+    },
+    {
+      "domain": "mbiqukan.com",
+      "match": "suffix",
+      "label": "网络小说 / 漫画阅读"
     },
     {
       "domain": "mbjrkmms.com",
@@ -88943,6 +91328,11 @@
     },
     {
       "domain": "mcq93.app",
+      "match": "suffix",
+      "label": "行业资讯 / 商业服务"
+    },
+    {
+      "domain": "mcr-symphony.net",
       "match": "suffix",
       "label": "行业资讯 / 商业服务"
     },
@@ -89065,6 +91455,11 @@
       "domain": "meba.kr",
       "match": "suffix",
       "label": "CJ 메조미디어 服务网站"
+    },
+    {
+      "domain": "mechacomic.jp",
+      "match": "suffix",
+      "label": "めちゃコミック 日本电子漫画"
     },
     {
       "domain": "mechat.click",
@@ -89282,6 +91677,11 @@
       "label": "灰产弹窗 / 流量中继"
     },
     {
+      "domain": "meiywwzp.cc",
+      "match": "suffix",
+      "label": "成人影视 / 娱乐内容"
+    },
+    {
       "domain": "mekz27.xyz",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
@@ -89405,6 +91805,11 @@
       "domain": "meqzone.com",
       "match": "suffix",
       "label": "行业资讯 / 商业服务"
+    },
+    {
+      "domain": "merakieducation.in",
+      "match": "suffix",
+      "label": "1Win 线上娱乐博彩平台"
     },
     {
       "domain": "mercari-shops-static.com",
@@ -90192,6 +92597,11 @@
       "label": "灰产弹窗 / 流量中继"
     },
     {
+      "domain": "mipytagh.cc",
+      "match": "suffix",
+      "label": "成人影视 / 娱乐内容"
+    },
+    {
       "domain": "mira-dsp.com",
       "match": "suffix",
       "label": "广告营销 / 数据统计"
@@ -90520,6 +92930,11 @@
       "domain": "mmarket.com",
       "match": "suffix",
       "label": "行业资讯 / 商业服务"
+    },
+    {
+      "domain": "mmbiqukan.com",
+      "match": "suffix",
+      "label": "网络小说 / 漫画阅读"
     },
     {
       "domain": "mmcdn.com",
@@ -91572,6 +93987,11 @@
       "label": "成人影视 / 娱乐内容"
     },
     {
+      "domain": "mtr.com.hk",
+      "match": "suffix",
+      "label": "行业资讯 / 商业服务"
+    },
+    {
       "domain": "mtslash.life",
       "match": "suffix",
       "label": "随缘居欧美影视同人"
@@ -91632,6 +94052,11 @@
       "label": "综合互联网服务"
     },
     {
+      "domain": "mukaku.com",
+      "match": "suffix",
+      "label": "行业资讯 / 商业服务"
+    },
+    {
       "domain": "mul-pay.jp",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
@@ -91675,6 +94100,11 @@
       "domain": "musbell.com",
       "match": "suffix",
       "label": "行业资讯 / 商业服务"
+    },
+    {
+      "domain": "muscache.cn",
+      "match": "suffix",
+      "label": "Airbnb 爱彼迎中国官方"
     },
     {
       "domain": "musclebdsm.com",
@@ -92092,6 +94522,11 @@
       "label": "My eQuals 澳新高校电子学历证书"
     },
     {
+      "domain": "myfahlo.com",
+      "match": "suffix",
+      "label": "Fahlo 野生动物追踪公益"
+    },
+    {
       "domain": "myfans.jp",
       "match": "suffix",
       "label": "成人创作者社区"
@@ -92127,6 +94562,11 @@
       "label": "マイイデアル   my IDE 服务网站"
     },
     {
+      "domain": "myimperiallink.com",
+      "match": "suffix",
+      "label": "行业资讯 / 商业服务"
+    },
+    {
       "domain": "myiot360.com",
       "match": "suffix",
       "label": "中一科技 物联网大数据平台"
@@ -92157,9 +94597,19 @@
       "label": "Keeta 美团海外外卖平台"
     },
     {
+      "domain": "myl021.com",
+      "match": "suffix",
+      "label": "行业资讯 / 商业服务"
+    },
+    {
       "domain": "myl030.com",
       "match": "suffix",
       "label": "行业资讯 / 商业服务"
+    },
+    {
+      "domain": "mymobileapp.online",
+      "match": "suffix",
+      "label": "移动应用 综合在线服务"
     },
     {
       "domain": "mymonocloud.com",
@@ -92392,6 +94842,11 @@
       "label": "行业资讯 / 商业服务"
     },
     {
+      "domain": "mzoipjcba.cc",
+      "match": "suffix",
+      "label": "动态网络 接入解析加速节点"
+    },
+    {
       "domain": "mzpo30.cam",
       "match": "suffix",
       "label": "行业资讯 / 商业服务"
@@ -92505,6 +94960,11 @@
       "domain": "naitong.icu",
       "match": "suffix",
       "label": "综合互联网服务"
+    },
+    {
+      "domain": "naiyun.uk",
+      "match": "suffix",
+      "label": "奈云 网络连接与安全加速"
     },
     {
       "domain": "naiyun.vip",
@@ -93227,6 +95687,11 @@
       "label": "行业资讯 / 商业服务"
     },
     {
+      "domain": "ng8855.com",
+      "match": "suffix",
+      "label": "成人影视 / 娱乐内容"
+    },
+    {
       "domain": "nginx24zfd.xyz",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
@@ -93260,6 +95725,11 @@
       "domain": "nhecdvhn.com",
       "match": "suffix",
       "label": "行业资讯 / 商业服务"
+    },
+    {
+      "domain": "nhentai.com",
+      "match": "suffix",
+      "label": "成人影视 / 娱乐内容"
     },
     {
       "domain": "nhentai.net",
@@ -93767,6 +96237,11 @@
       "label": "数据统计 / 营销跟踪"
     },
     {
+      "domain": "noahdunn.net",
+      "match": "suffix",
+      "label": "网络小说 / 漫画阅读"
+    },
+    {
       "domain": "nocrit.com",
       "match": "suffix",
       "label": "综合互联网服务"
@@ -93810,6 +96285,11 @@
       "domain": "noirsera.com",
       "match": "suffix",
       "label": "推广导流 / 动态解析跳转"
+    },
+    {
+      "domain": "noirtempt.com",
+      "match": "suffix",
+      "label": "成人影视 / 娱乐内容"
     },
     {
       "domain": "nol.com",
@@ -93885,6 +96365,11 @@
       "domain": "nordsec.com",
       "match": "suffix",
       "label": "Nord Security 网络安全"
+    },
+    {
+      "domain": "normalbyproxy.com",
+      "match": "suffix",
+      "label": "Normal by Proxy 艺术创作"
     },
     {
       "domain": "northwavepoint.com",
@@ -94170,6 +96655,11 @@
       "domain": "ns1pcdn.net",
       "match": "suffix",
       "label": "NS1P 广告数据媒体 CDN"
+    },
+    {
+      "domain": "ns45.com",
+      "match": "suffix",
+      "label": "NS头号玩家 Switch游戏资讯"
     },
     {
       "domain": "nsmartad.com",
@@ -94530,6 +97020,11 @@
       "domain": "o3obuy.com",
       "match": "suffix",
       "label": "行业资讯 / 商业服务"
+    },
+    {
+      "domain": "o8a0bv9w.xyz",
+      "match": "suffix",
+      "label": "推广导流 / 动态解析跳转"
     },
     {
       "domain": "o9b5f.com",
@@ -95207,6 +97702,16 @@
       "label": "成人影视 / 娱乐内容"
     },
     {
+      "domain": "onlyguider.com",
+      "match": "suffix",
+      "label": "行业资讯 / 商业服务"
+    },
+    {
+      "domain": "onlymons1.pro",
+      "match": "suffix",
+      "label": "行业资讯 / 商业服务"
+    },
+    {
       "domain": "onlyyouhotels.com",
       "match": "suffix",
       "label": "酒店预订 / 差旅住宿"
@@ -95245,6 +97750,11 @@
       "domain": "ooaa.ai",
       "match": "suffix",
       "label": "企业软件 / 技术开发"
+    },
+    {
+      "domain": "oobzrkss.com",
+      "match": "suffix",
+      "label": "行业资讯 / 商业服务"
     },
     {
       "domain": "oojoovae.org",
@@ -95340,6 +97850,11 @@
       "domain": "opencode.ai",
       "match": "suffix",
       "label": "OpenCode 开源AI代码编程助手"
+    },
+    {
+      "domain": "openelib.org",
+      "match": "suffix",
+      "label": "行业资讯 / 商业服务"
     },
     {
       "domain": "openfpcdn.io",
@@ -95505,6 +98020,11 @@
       "domain": "optable.co",
       "match": "suffix",
       "label": "The Agentic Adv 服务网站"
+    },
+    {
+      "domain": "opticorp.net",
+      "match": "suffix",
+      "label": "网络小说 / 漫画阅读"
     },
     {
       "domain": "optidigital.com",
@@ -95907,6 +98427,11 @@
       "label": "行业资讯 / 商业服务"
     },
     {
+      "domain": "overdue-share.pro",
+      "match": "suffix",
+      "label": "文件托管 资源分享服务"
+    },
+    {
       "domain": "overleaf.com",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
@@ -95963,6 +98488,11 @@
     },
     {
       "domain": "owneriq.net",
+      "match": "suffix",
+      "label": "行业资讯 / 商业服务"
+    },
+    {
+      "domain": "ownfile.net",
       "match": "suffix",
       "label": "行业资讯 / 商业服务"
     },
@@ -96212,6 +98742,11 @@
       "label": "企业软件 / 技术开发"
     },
     {
+      "domain": "painamour.com",
+      "match": "suffix",
+      "label": "成人影视 / 娱乐内容"
+    },
+    {
       "domain": "pairdevice.gle",
       "match": "suffix",
       "label": "企业软件 / 技术开发"
@@ -96335,6 +98870,11 @@
       "domain": "panxostack.com",
       "match": "suffix",
       "label": "Panxo 广告服务器与分发"
+    },
+    {
+      "domain": "panyq.com",
+      "match": "suffix",
+      "label": "行业资讯 / 商业服务"
     },
     {
       "domain": "pao8.life",
@@ -96472,6 +99012,11 @@
       "label": "Passenger 公共出行应用"
     },
     {
+      "domain": "passiontec.cn",
+      "match": "suffix",
+      "label": "行业资讯 / 商业服务"
+    },
+    {
       "domain": "passsource.com",
       "match": "suffix",
       "label": "PassSource 电子卡包工具"
@@ -96510,6 +99055,11 @@
       "domain": "paupsoborofoow.net",
       "match": "suffix",
       "label": "云端服务 / 接口网关"
+    },
+    {
+      "domain": "pawg.porn",
+      "match": "suffix",
+      "label": "成人影视 / 娱乐内容"
     },
     {
       "domain": "pawupzr1798.cc",
@@ -96847,6 +99397,11 @@
       "label": "行业资讯 / 商业服务"
     },
     {
+      "domain": "perfectgirls.xxx",
+      "match": "suffix",
+      "label": "成人影视 / 娱乐内容"
+    },
+    {
       "domain": "perflib.com",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
@@ -97018,6 +99573,16 @@
     },
     {
       "domain": "phisencerepend.com",
+      "match": "suffix",
+      "label": "行业资讯 / 商业服务"
+    },
+    {
+      "domain": "phoenix-widget.com",
+      "match": "suffix",
+      "label": "行业资讯 / 商业服务"
+    },
+    {
+      "domain": "phonydepth.com",
       "match": "suffix",
       "label": "行业资讯 / 商业服务"
     },
@@ -97552,6 +100117,11 @@
       "label": "影视切片 / 资源分发CDN"
     },
     {
+      "domain": "play-cdn17.com",
+      "match": "suffix",
+      "label": "影视切片 / 资源分发CDN"
+    },
+    {
       "domain": "play-cdn8.com",
       "match": "suffix",
       "label": "影视切片 / 资源分发CDN"
@@ -97667,6 +100237,11 @@
       "label": "网络小说 / 漫画阅读"
     },
     {
+      "domain": "pleasureforuhk.com",
+      "match": "suffix",
+      "label": "成人影视 / 娱乐内容"
+    },
+    {
       "domain": "pleasurepoint.store",
       "match": "suffix",
       "label": "成人影视 / 娱乐内容"
@@ -97765,6 +100340,11 @@
       "domain": "pm978tiger.vip",
       "match": "suffix",
       "label": "成人影视 / 娱乐内容"
+    },
+    {
+      "domain": "pm983tiger.vip",
+      "match": "suffix",
+      "label": "推广导流 / 动态解析跳转"
     },
     {
       "domain": "pmang.cloud",
@@ -98292,6 +100872,16 @@
       "label": "成人影视 / 内容导流"
     },
     {
+      "domain": "porn369-l325.com",
+      "match": "suffix",
+      "label": "成人影视 / 娱乐内容"
+    },
+    {
+      "domain": "porn369-l351.com",
+      "match": "suffix",
+      "label": "成人影视 / 娱乐内容"
+    },
+    {
       "domain": "porn87.com",
       "match": "suffix",
       "label": "成人影音 / 自拍社群"
@@ -98328,6 +100918,11 @@
     },
     {
       "domain": "pornfind.org",
+      "match": "suffix",
+      "label": "成人影视 / 娱乐内容"
+    },
+    {
+      "domain": "pornhat.com",
       "match": "suffix",
       "label": "成人影视 / 娱乐内容"
     },
@@ -98695,6 +101290,11 @@
       "domain": "prdredir.com",
       "match": "suffix",
       "label": "行业资讯 / 商业服务"
+    },
+    {
+      "domain": "prebid-server.com",
+      "match": "suffix",
+      "label": "Prebid Server 程序化广告"
     },
     {
       "domain": "prebid.cloud",
@@ -99802,6 +102402,11 @@
       "label": "网络小说 / 漫画阅读"
     },
     {
+      "domain": "qianqiu.cc",
+      "match": "suffix",
+      "label": "推广导流 / 动态解析跳转"
+    },
+    {
       "domain": "qianwen.com",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
@@ -100242,6 +102847,11 @@
       "label": "行业资讯 / 商业服务"
     },
     {
+      "domain": "qttunion.com",
+      "match": "suffix",
+      "label": "行业资讯 / 商业服务"
+    },
+    {
       "domain": "quadquality.com",
       "match": "suffix",
       "label": "数据统计 / 营销跟踪"
@@ -100520,6 +103130,11 @@
       "domain": "quizxt.com",
       "match": "suffix",
       "label": "综合互联网服务"
+    },
+    {
+      "domain": "quizzz.stream",
+      "match": "suffix",
+      "label": "行业资讯 / 商业服务"
     },
     {
       "domain": "qukagnhe.cc",
@@ -101187,6 +103802,11 @@
       "label": "Rebuy 电商个性化推荐系统"
     },
     {
+      "domain": "receive-sms.io",
+      "match": "suffix",
+      "label": "行业资讯 / 商业服务"
+    },
+    {
       "domain": "receptivity.io",
       "match": "suffix",
       "label": "Receptivity 广告语言与心理分析"
@@ -101342,6 +103962,11 @@
       "label": "行业资讯 / 商业服务"
     },
     {
+      "domain": "reflectivedesire.com",
+      "match": "suffix",
+      "label": "行业资讯 / 商业服务"
+    },
+    {
       "domain": "reiko-forever.club",
       "match": "suffix",
       "label": "行业资讯 / 商业服务"
@@ -101355,6 +103980,11 @@
       "domain": "reims-serving.com",
       "match": "suffix",
       "label": "数字营销 / 广告投放"
+    },
+    {
+      "domain": "rejetweb.jp",
+      "match": "suffix",
+      "label": "行业资讯 / 商业服务"
     },
     {
       "domain": "relaido.jp",
@@ -101715,6 +104345,11 @@
       "domain": "rh17.cc",
       "match": "suffix",
       "label": "行业资讯 / 商业服务"
+    },
+    {
+      "domain": "rhbhm.com",
+      "match": "suffix",
+      "label": "RHB 商业安全风控认证服务"
     },
     {
       "domain": "rhea-db.org",
@@ -102552,6 +105187,11 @@
       "label": "灰产弹窗 / 流量中继"
     },
     {
+      "domain": "rtbadserv.com",
+      "match": "suffix",
+      "label": "RTB Adserver 数字广告交易"
+    },
+    {
       "domain": "rtbai.com",
       "match": "suffix",
       "label": "数字营销 / 广告投放"
@@ -103177,6 +105817,11 @@
       "label": "网络代理 / 访问加速"
     },
     {
+      "domain": "sakuracat.com",
+      "match": "suffix",
+      "label": "行业资讯 / 商业服务"
+    },
+    {
       "domain": "sakuracc.cc",
       "match": "suffix",
       "label": "行业资讯 / 商业服务"
@@ -103475,6 +106120,21 @@
       "domain": "sbixby.com",
       "match": "suffix",
       "label": "三星 Bixby 智能语音"
+    },
+    {
+      "domain": "sbl4461c2y.cc",
+      "match": "suffix",
+      "label": "推广导流 / 动态解析跳转"
+    },
+    {
+      "domain": "sbl5091whn.cc",
+      "match": "suffix",
+      "label": "推广导流 / 动态解析跳转"
+    },
+    {
+      "domain": "sbl52812z4.cc",
+      "match": "suffix",
+      "label": "推广导流 / 动态解析跳转"
     },
     {
       "domain": "sbnjqvk.com",
@@ -103875,6 +106535,11 @@
       "domain": "sdhshut.com",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
+    },
+    {
+      "domain": "sdkmedia.net",
+      "match": "suffix",
+      "label": "Beefree 邮件设计富文本SDK"
     },
     {
       "domain": "sdnode.me",
@@ -104667,6 +107332,11 @@
       "label": "行业资讯 / 商业服务"
     },
     {
+      "domain": "sg-light-edge.com",
+      "match": "suffix",
+      "label": "行业资讯 / 商业服务"
+    },
+    {
       "domain": "sgameglobal.com",
       "match": "suffix",
       "label": "行业资讯 / 商业服务"
@@ -104750,6 +107420,11 @@
       "domain": "shanjierenyi5.com",
       "match": "suffix",
       "label": "善解人衣 图像生成处理工具"
+    },
+    {
+      "domain": "shar3d.dev",
+      "match": "suffix",
+      "label": "Shar3d 开发者代码托管协作"
     },
     {
       "domain": "share.google",
@@ -105027,6 +107702,11 @@
       "label": "时尚摄影 个人视觉主页"
     },
     {
+      "domain": "shistsasthoreweeply.qpon",
+      "match": "suffix",
+      "label": "行业资讯 / 商业服务"
+    },
+    {
       "domain": "shitjournal.org",
       "match": "suffix",
       "label": "SHT Space 服务网站"
@@ -105058,6 +107738,11 @@
     },
     {
       "domain": "shnakun.com",
+      "match": "suffix",
+      "label": "行业资讯 / 商业服务"
+    },
+    {
+      "domain": "shoalter.com",
       "match": "suffix",
       "label": "行业资讯 / 商业服务"
     },
@@ -105497,6 +108182,11 @@
       "label": "SimpleLocalize 服务网站"
     },
     {
+      "domain": "simplenote.com",
+      "match": "suffix",
+      "label": "Simplenote 极简云端笔记"
+    },
+    {
       "domain": "simplesvg.com",
       "match": "suffix",
       "label": "Iconify 开源矢量图标库"
@@ -105637,6 +108327,11 @@
       "label": "行业资讯 / 商业服务"
     },
     {
+      "domain": "sitelock.com",
+      "match": "suffix",
+      "label": "行业资讯 / 商业服务"
+    },
+    {
       "domain": "sitemaji.com",
       "match": "suffix",
       "label": "SiteMaji 台湾数字广告联盟"
@@ -105680,6 +108375,11 @@
       "domain": "sjboats.com",
       "match": "suffix",
       "label": "行业资讯 / 商业服务"
+    },
+    {
+      "domain": "sjchess.com",
+      "match": "suffix",
+      "label": "国际象棋 棋牌在线资讯"
     },
     {
       "domain": "sjlig.com",
@@ -105780,6 +108480,11 @@
       "domain": "skims.com",
       "match": "suffix",
       "label": "综合互联网服务"
+    },
+    {
+      "domain": "skiterlicour.cfd",
+      "match": "suffix",
+      "label": "推广导流 / 动态解析跳转"
     },
     {
       "domain": "skk.moe",
@@ -106060,6 +108765,11 @@
       "domain": "smartbaedal.com",
       "match": "suffix",
       "label": "韩国外卖的民族 配送骑手端"
+    },
+    {
+      "domain": "smartcache.info",
+      "match": "suffix",
+      "label": "行业资讯 / 商业服务"
     },
     {
       "domain": "smartcallback.ru",
@@ -106442,6 +109152,11 @@
       "label": "灰产弹窗 / 流量中继"
     },
     {
+      "domain": "snscutiearchive.com",
+      "match": "suffix",
+      "label": "行业资讯 / 商业服务"
+    },
+    {
       "domain": "snva.jp",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
@@ -106555,6 +109270,11 @@
       "domain": "solarwinds.com",
       "match": "suffix",
       "label": "SolarWinds 网络监控管理"
+    },
+    {
+      "domain": "solenium.space",
+      "match": "suffix",
+      "label": "行业资讯 / 商业服务"
     },
     {
       "domain": "soli1dbase.com",
@@ -107170,6 +109890,11 @@
       "domain": "squoosh.app",
       "match": "suffix",
       "label": "Squoosh 谷歌图片在线压缩"
+    },
+    {
+      "domain": "sqxrmyy.com",
+      "match": "suffix",
+      "label": "宿迁市人民医院 医疗服务"
     },
     {
       "domain": "sqxxov.com",
@@ -108252,6 +110977,11 @@
       "label": "StudyLib 全球学术讲义文档库"
     },
     {
+      "domain": "stuins.com",
+      "match": "suffix",
+      "label": "行业资讯 / 商业服务"
+    },
+    {
       "domain": "stunprotocol.org",
       "match": "suffix",
       "label": "STUN / VoIP 服务"
@@ -108310,6 +111040,11 @@
       "domain": "subarelacked.com",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
+    },
+    {
+      "domain": "subhd.tv",
+      "match": "suffix",
+      "label": "行业资讯 / 商业服务"
     },
     {
       "domain": "subokk.com",
@@ -108902,6 +111637,11 @@
       "label": "Synalio 对话式营销客服自动化"
     },
     {
+      "domain": "syncda.com",
+      "match": "suffix",
+      "label": "行业资讯 / 商业服务"
+    },
+    {
       "domain": "syncingbridge.com",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
@@ -109122,6 +111862,11 @@
       "label": "行业资讯 / 商业服务"
     },
     {
+      "domain": "t8cdn.com",
+      "match": "suffix",
+      "label": "行业资讯 / 商业服务"
+    },
+    {
       "domain": "t8d8k.com",
       "match": "suffix",
       "label": "成人影音 / 自拍社群"
@@ -109302,6 +112047,11 @@
       "label": "行业资讯 / 商业服务"
     },
     {
+      "domain": "takeimg.com",
+      "match": "suffix",
+      "label": "行业资讯 / 商业服务"
+    },
+    {
       "domain": "takeprofittrader.com",
       "match": "suffix",
       "label": "数据统计 / 营销跟踪"
@@ -109350,6 +112100,11 @@
       "domain": "talkative-cdn.com",
       "match": "suffix",
       "label": "Talkative 跨境电商视频聊天客服"
+    },
+    {
+      "domain": "talkno.de",
+      "match": "suffix",
+      "label": "MinIO 对象存储云端控制台"
     },
     {
       "domain": "tamarind.bio",
@@ -109662,6 +112417,11 @@
       "label": "行业资讯 / 商业服务"
     },
     {
+      "domain": "taxify.eu",
+      "match": "suffix",
+      "label": "Bolt 欧洲智慧出行网约车"
+    },
+    {
       "domain": "taxssp.com",
       "match": "suffix",
       "label": "数据统计 / 营销跟踪"
@@ -109675,6 +112435,11 @@
       "domain": "tbib.org",
       "match": "suffix",
       "label": "行业资讯 / 商业服务"
+    },
+    {
+      "domain": "tbl2835h9d.cc",
+      "match": "suffix",
+      "label": "推广导流 / 动态解析跳转"
     },
     {
       "domain": "tbqkw595.com",
@@ -109758,6 +112523,11 @@
     },
     {
       "domain": "tdos.vip",
+      "match": "suffix",
+      "label": "行业资讯 / 商业服务"
+    },
+    {
+      "domain": "tds.bid",
       "match": "suffix",
       "label": "行业资讯 / 商业服务"
     },
@@ -110267,6 +113037,16 @@
       "label": "推广导流 / 动态解析跳转"
     },
     {
+      "domain": "tgae586.vip",
+      "match": "suffix",
+      "label": "推广导流 / 动态解析跳转"
+    },
+    {
+      "domain": "tgae589.vip",
+      "match": "suffix",
+      "label": "推广导流 / 动态解析跳转"
+    },
+    {
       "domain": "tgalileo.com",
       "match": "suffix",
       "label": "行业资讯 / 商业服务"
@@ -110580,6 +113360,11 @@
       "domain": "themepro.shop",
       "match": "suffix",
       "label": "行业资讯 / 商业服务"
+    },
+    {
+      "domain": "themepro.vip",
+      "match": "suffix",
+      "label": "推广导流 / 动态解析跳转"
     },
     {
       "domain": "themerchantofvenice.com",
@@ -111072,6 +113857,11 @@
       "label": "灰产弹窗 / 流量中继"
     },
     {
+      "domain": "thisav.com",
+      "match": "suffix",
+      "label": "成人影视 / 娱乐内容"
+    },
+    {
       "domain": "thisav02.net",
       "match": "suffix",
       "label": "成人影视 / 内容导流"
@@ -111187,7 +113977,17 @@
       "label": "行业资讯 / 商业服务"
     },
     {
+      "domain": "thothub.info",
+      "match": "suffix",
+      "label": "行业资讯 / 商业服务"
+    },
+    {
       "domain": "thothub.is",
+      "match": "suffix",
+      "label": "成人影视 / 娱乐内容"
+    },
+    {
+      "domain": "thothub.to",
       "match": "suffix",
       "label": "成人影视 / 娱乐内容"
     },
@@ -111240,6 +114040,11 @@
       "domain": "thts5.top",
       "match": "suffix",
       "label": "成人影视 / 切片分发 CDN"
+    },
+    {
+      "domain": "thub.lol",
+      "match": "suffix",
+      "label": "推广导流 / 动态解析跳转"
     },
     {
       "domain": "thumbsnap.com",
@@ -111847,6 +114652,11 @@
       "label": "灰产弹窗 / 流量中继"
     },
     {
+      "domain": "tnizationservantas.org",
+      "match": "suffix",
+      "label": "行业资讯 / 商业服务"
+    },
+    {
       "domain": "tnkfactory.com",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
@@ -112247,6 +115057,11 @@
       "label": "行业资讯 / 商业服务"
     },
     {
+      "domain": "tougenanki-anime.com",
+      "match": "suffix",
+      "label": "网络小说 / 漫画阅读"
+    },
+    {
       "domain": "touhou.review",
       "match": "suffix",
       "label": "东方Project 同人社团游戏评测"
@@ -112280,6 +115095,16 @@
       "domain": "towm85.xyz",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
+    },
+    {
+      "domain": "towntrainsswot.com",
+      "match": "suffix",
+      "label": "行业资讯 / 商业服务"
+    },
+    {
+      "domain": "toxepop.com",
+      "match": "suffix",
+      "label": "行业资讯 / 商业服务"
     },
     {
       "domain": "toxgr.com",
@@ -112567,6 +115392,11 @@
       "label": "XXX Porn Videos 服务网站"
     },
     {
+      "domain": "trainline.com",
+      "match": "suffix",
+      "label": "Trainline 欧洲火车票预订"
+    },
+    {
       "domain": "trakt.tv",
       "match": "suffix",
       "label": "Trakt 全球追剧观影记录"
@@ -112652,6 +115482,11 @@
       "label": "Expedia 集团旅游资源"
     },
     {
+      "domain": "travel-auto.com",
+      "match": "suffix",
+      "label": "Travel-Auto 差旅酒店预订"
+    },
+    {
       "domain": "travelapi.com",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
@@ -112665,6 +115500,11 @@
       "domain": "travelchinaguide.com",
       "match": "suffix",
       "label": "丝路国旅 入境旅游服务"
+    },
+    {
+      "domain": "traveloka.com",
+      "match": "suffix",
+      "label": "Traveloka 东南亚旅游出行"
     },
     {
       "domain": "travelpayouts.com",
@@ -112750,6 +115590,11 @@
       "domain": "tribalfusion.com",
       "match": "suffix",
       "label": "Exponential 广告网络"
+    },
+    {
+      "domain": "tribune.com.pk",
+      "match": "suffix",
+      "label": "行业资讯 / 商业服务"
     },
     {
       "domain": "tribunvideo.com",
@@ -113797,6 +116642,11 @@
       "label": "灰产弹窗 / 流量中继"
     },
     {
+      "domain": "twshop4coupon.com",
+      "match": "suffix",
+      "label": "行业资讯 / 商业服务"
+    },
+    {
       "domain": "twstalker.com",
       "match": "suffix",
       "label": "行业资讯 / 商业服务"
@@ -114020,6 +116870,16 @@
       "domain": "tzcf717.vip",
       "match": "suffix",
       "label": "行业资讯 / 商业服务"
+    },
+    {
+      "domain": "tzcf738.vip",
+      "match": "suffix",
+      "label": "推广导流 / 动态解析跳转"
+    },
+    {
+      "domain": "tzcf740.vip",
+      "match": "suffix",
+      "label": "推广导流 / 动态解析跳转"
     },
     {
       "domain": "tzhgjx.com",
@@ -114605,6 +117465,11 @@
       "domain": "unifycarbon.com",
       "match": "suffix",
       "label": "淘宝网 官方电商导流"
+    },
+    {
+      "domain": "unikon.art",
+      "match": "suffix",
+      "label": "苦主萝莉控 个人同人音声库"
     },
     {
       "domain": "unilad.com",
@@ -115377,6 +118242,11 @@
       "label": "网络代理 / 访问加速"
     },
     {
+      "domain": "uzaiarb.com",
+      "match": "suffix",
+      "label": "行业资讯 / 商业服务"
+    },
+    {
       "domain": "uzhix.com",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
@@ -115405,6 +118275,11 @@
       "domain": "v153t1.com",
       "match": "suffix",
       "label": "行业资讯 / 商业服务"
+    },
+    {
+      "domain": "v1u3iez.cc",
+      "match": "suffix",
+      "label": "推广导流 / 动态解析跳转"
     },
     {
       "domain": "v2ex.com",
@@ -115730,6 +118605,11 @@
       "domain": "veepn.com",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
+    },
+    {
+      "domain": "vegaacademy.ca",
+      "match": "suffix",
+      "label": "数字营销 / 广告投放"
     },
     {
       "domain": "veilora.top",
@@ -116192,6 +119072,11 @@
       "label": "Vidu AI 视频大模型生成"
     },
     {
+      "domain": "vidvirals.online",
+      "match": "suffix",
+      "label": "行业资讯 / 商业服务"
+    },
+    {
       "domain": "vidy.my",
       "match": "suffix",
       "label": "Shorten   vidym 服务网站"
@@ -116457,6 +119342,11 @@
       "label": "行业资讯 / 商业服务"
     },
     {
+      "domain": "vkdytplocrhlhm.com",
+      "match": "suffix",
+      "label": "行业资讯 / 商业服务"
+    },
+    {
       "domain": "vkov6h4i3lcnuhp.cc",
       "match": "suffix",
       "label": "行业资讯 / 商业服务"
@@ -116490,6 +119380,11 @@
       "domain": "vlion.cn",
       "match": "suffix",
       "label": "综合互联网服务"
+    },
+    {
+      "domain": "vlmai-5.com",
+      "match": "suffix",
+      "label": "行业资讯 / 商业服务"
     },
     {
       "domain": "vm3t.com",
@@ -116543,6 +119438,11 @@
     },
     {
       "domain": "vnkgxpjdk.com",
+      "match": "suffix",
+      "label": "行业资讯 / 商业服务"
+    },
+    {
+      "domain": "vnpay.vn",
       "match": "suffix",
       "label": "行业资讯 / 商业服务"
     },
@@ -116735,6 +119635,11 @@
       "domain": "vpncat.net",
       "match": "suffix",
       "label": "VPNCat 移动网络隐私加速"
+    },
+    {
+      "domain": "vpnvpn.com",
+      "match": "suffix",
+      "label": "VPN 安全网络通信与隐私保护"
     },
     {
       "domain": "vpon.com",
@@ -116952,6 +119857,11 @@
       "label": "行业资讯 / 商业服务"
     },
     {
+      "domain": "vxwmvvenl.cc",
+      "match": "suffix",
+      "label": "成人影视 / 娱乐内容"
+    },
+    {
       "domain": "vxxx.com",
       "match": "suffix",
       "label": "行业资讯 / 商业服务"
@@ -116960,6 +119870,21 @@
       "domain": "vykt103.top",
       "match": "suffix",
       "label": "行业资讯 / 商业服务"
+    },
+    {
+      "domain": "vyotbxtb.cc",
+      "match": "suffix",
+      "label": "成人影视 / 娱乐内容"
+    },
+    {
+      "domain": "vyxaddlq.cc",
+      "match": "suffix",
+      "label": "成人影视 / 娱乐内容"
+    },
+    {
+      "domain": "vzcofogs.cc",
+      "match": "suffix",
+      "label": "成人影视 / 娱乐内容"
     },
     {
       "domain": "w1s1t1c1.com",
@@ -117562,6 +120487,11 @@
       "label": "微信支付 国际跨境支付结算"
     },
     {
+      "domain": "wecrd3.cyou",
+      "match": "suffix",
+      "label": "成人影视 / 娱乐内容"
+    },
+    {
       "domain": "weebly.com",
       "match": "suffix",
       "label": "Weebly 网站搭建建站平台"
@@ -117585,6 +120515,11 @@
       "domain": "wegloworld.com",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
+    },
+    {
+      "domain": "weibo008.com",
+      "match": "suffix",
+      "label": "微博资讯 自媒体内容分发"
     },
     {
       "domain": "weidezhiye.com",
@@ -117877,6 +120812,11 @@
       "label": "灰产弹窗 / 流量中继"
     },
     {
+      "domain": "whwesson.com",
+      "match": "suffix",
+      "label": "商业咨询 综合企业服务"
+    },
+    {
       "domain": "whxiyou.cn",
       "match": "suffix",
       "label": "行业资讯 / 商业服务"
@@ -117962,6 +120902,11 @@
       "label": "行业资讯 / 商业服务"
     },
     {
+      "domain": "williamgates.net",
+      "match": "suffix",
+      "label": "行业资讯 / 商业服务"
+    },
+    {
       "domain": "winbigsg.com",
       "match": "suffix",
       "label": "行业资讯 / 商业服务"
@@ -118022,6 +120967,11 @@
       "label": "WIREWAX 交互式视频制作"
     },
     {
+      "domain": "wiris.net",
+      "match": "suffix",
+      "label": "MathType 在线数学公式编辑"
+    },
+    {
       "domain": "wirostulareparous.qpon",
       "match": "suffix",
       "label": "行业资讯 / 商业服务"
@@ -118065,6 +121015,11 @@
       "domain": "witbooking.com",
       "match": "suffix",
       "label": "酒店预订 / 差旅住宿"
+    },
+    {
+      "domain": "with2.net",
+      "match": "suffix",
+      "label": "人気ブログ 日本博客排行榜"
     },
     {
       "domain": "withcabin.com",
@@ -118165,6 +121120,11 @@
       "domain": "wlshosp.org.tw",
       "match": "suffix",
       "label": "台湾乌日林新医院 医疗机构"
+    },
+    {
+      "domain": "wlvsp.com",
+      "match": "suffix",
+      "label": "行业资讯 / 商业服务"
     },
     {
       "domain": "wmanhua.com",
@@ -119002,6 +121962,11 @@
       "label": "文献云图书馆 服务网站"
     },
     {
+      "domain": "wxyh.net",
+      "match": "suffix",
+      "label": "网络小说 / 漫画阅读"
+    },
+    {
       "domain": "wylkyj.com",
       "match": "suffix",
       "label": "行业资讯 / 商业服务"
@@ -119155,6 +122120,11 @@
       "domain": "xadsmart.com",
       "match": "suffix",
       "label": "广告营销 / 数据统计"
+    },
+    {
+      "domain": "xagemode.com",
+      "match": "suffix",
+      "label": "行业资讯 / 商业服务"
     },
     {
       "domain": "xaie7z.cyou",
@@ -120147,6 +123117,11 @@
       "label": "行业资讯 / 商业服务"
     },
     {
+      "domain": "xiu8604xiu.cc",
+      "match": "suffix",
+      "label": "推广导流 / 动态解析跳转"
+    },
+    {
       "domain": "xiuren.com",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
@@ -120192,6 +123167,11 @@
       "label": "成人流媒体 / 灰产影视"
     },
     {
+      "domain": "xjdj27.com",
+      "match": "suffix",
+      "label": "网络小说 / 漫画阅读"
+    },
+    {
       "domain": "xjikyfbvfkmmylwfqvhhkwtwm.com",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
@@ -120220,6 +123200,11 @@
       "domain": "xjwhad.com",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
+    },
+    {
+      "domain": "xkjxw.com",
+      "match": "suffix",
+      "label": "网络小说 / 漫画阅读"
     },
     {
       "domain": "xkreuwx.com",
@@ -120260,6 +123245,11 @@
       "domain": "xlgmedia.com",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
+    },
+    {
+      "domain": "xli.ink",
+      "match": "suffix",
+      "label": "行业资讯 / 商业服务"
     },
     {
       "domain": "xliirdr.com",
@@ -120782,6 +123772,11 @@
       "label": "网络小说 / 在线文学"
     },
     {
+      "domain": "xs74.net",
+      "match": "suffix",
+      "label": "网络小说 / 漫画阅读"
+    },
+    {
       "domain": "xsdnongye.com",
       "match": "suffix",
       "label": "兴盛达农业 农林种植信息"
@@ -120882,6 +123877,11 @@
       "label": "行业资讯 / 商业服务"
     },
     {
+      "domain": "xuanhuanshuge.com",
+      "match": "suffix",
+      "label": "网络小说 / 漫画阅读"
+    },
+    {
       "domain": "xuanqixs.com",
       "match": "suffix",
       "label": "轩奇小说 免费都市言情阅读"
@@ -120935,6 +123935,11 @@
       "domain": "xunhuanli.com",
       "match": "suffix",
       "label": "行业资讯 / 商业服务"
+    },
+    {
+      "domain": "xunhuanqun.com",
+      "match": "suffix",
+      "label": "社群导航 社交网络服务"
     },
     {
       "domain": "xunkan010.top",
@@ -121190,6 +124195,11 @@
       "domain": "xyshuk.com",
       "match": "suffix",
       "label": "行业资讯 / 商业服务"
+    },
+    {
+      "domain": "xyushuwu6.com",
+      "match": "suffix",
+      "label": "网络小说 / 漫画阅读"
     },
     {
       "domain": "xzcs3zlph.com",
@@ -121877,6 +124887,11 @@
       "label": "行业资讯 / 商业服务"
     },
     {
+      "domain": "yitongkan.app",
+      "match": "suffix",
+      "label": "成人影视 / 娱乐内容"
+    },
+    {
       "domain": "yitongkanios.com",
       "match": "suffix",
       "label": "行业资讯 / 商业服务"
@@ -121925,6 +124940,11 @@
       "domain": "ykpcx.com",
       "match": "suffix",
       "label": "行业资讯 / 商业服务"
+    },
+    {
+      "domain": "ykucmiptf.cc",
+      "match": "suffix",
+      "label": "推广导流 / 动态解析跳转"
     },
     {
       "domain": "ylzqhk.com",
@@ -122572,6 +125592,11 @@
       "label": "行业资讯 / 商业服务"
     },
     {
+      "domain": "yuese4095.cc",
+      "match": "suffix",
+      "label": "成人影视 / 娱乐内容"
+    },
+    {
       "domain": "yuesekanshu.com",
       "match": "suffix",
       "label": "行业资讯 / 商业服务"
@@ -122590,6 +125615,11 @@
       "domain": "yueyouxs.com",
       "match": "suffix",
       "label": "行业资讯 / 商业服务"
+    },
+    {
+      "domain": "yuiyui-fan.jp",
+      "match": "suffix",
+      "label": "成人影视 / 娱乐内容"
     },
     {
       "domain": "yuja.com",
@@ -122820,6 +125850,16 @@
       "domain": "yxaf580.vip",
       "match": "suffix",
       "label": "行业资讯 / 商业服务"
+    },
+    {
+      "domain": "yxaf590.vip",
+      "match": "suffix",
+      "label": "推广导流 / 动态解析跳转"
+    },
+    {
+      "domain": "yxaf591.vip",
+      "match": "suffix",
+      "label": "推广导流 / 动态解析跳转"
     },
     {
       "domain": "yxaf593.vip",
@@ -123112,6 +126152,16 @@
       "label": "众安在线 数字化转型门户"
     },
     {
+      "domain": "zalora.com",
+      "match": "suffix",
+      "label": "行业资讯 / 商业服务"
+    },
+    {
+      "domain": "zalora.com.hk",
+      "match": "suffix",
+      "label": "ZALORA 亚洲时尚购物电商"
+    },
+    {
       "domain": "zalora.net",
       "match": "suffix",
       "label": "行业资讯 / 商业服务"
@@ -123307,6 +126357,11 @@
       "label": "灰产弹窗 / 流量中继"
     },
     {
+      "domain": "zen.one",
+      "match": "suffix",
+      "label": "ZenOne 日本跨境电商服务"
+    },
+    {
       "domain": "zen8plus.com",
       "match": "suffix",
       "label": "ZEN特撮女战士 8211 全 服务网站"
@@ -123380,6 +126435,11 @@
       "domain": "zerochan.net",
       "match": "suffix",
       "label": "云端服务 / 接口网关"
+    },
+    {
+      "domain": "zerodayromance.com",
+      "match": "suffix",
+      "label": "成人影视 / 娱乐内容"
     },
     {
       "domain": "zeropartyforms.com",
@@ -123505,6 +126565,11 @@
       "domain": "zhifuz10888.com",
       "match": "suffix",
       "label": "综合互联网服务"
+    },
+    {
+      "domain": "zhihuishu.com",
+      "match": "suffix",
+      "label": "智慧树 在线教育慕课平台"
     },
     {
       "domain": "zhimaj1104b.club",
@@ -124005,6 +127070,11 @@
       "domain": "zrfme.com",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
+    },
+    {
+      "domain": "zrocdn.xyz",
+      "match": "suffix",
+      "label": "推广导流 / 动态解析跳转"
     },
     {
       "domain": "zsc2.com",
