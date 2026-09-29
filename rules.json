@@ -31617,6 +31617,11 @@
       "label": "CDSC 网络"
     },
     {
+      "domain": "45.197.100.0/24",
+      "match": "cidr",
+      "label": "Bedge 边缘计算基础设施"
+    },
+    {
       "domain": "45.197.102.0/24",
       "match": "cidr",
       "label": "Zenlayer / Bedge 全球边缘加速"
@@ -38982,11 +38987,6 @@
       "label": "自动化探针 / 随机测试"
     },
     {
-      "domain": "81yx.pixel-forge-7x.site",
-      "match": "exact",
-      "label": "测试探针 / 随机测试节点"
-    },
-    {
       "domain": "82866068.com",
       "match": "exact",
       "label": "自动化探针 / 随机测试"
@@ -38995,16 +38995,6 @@
       "domain": "83d6599.com",
       "match": "exact",
       "label": "自动化探针 / 随机测试"
-    },
-    {
-      "domain": "8n3l.orbit-byte-v2.site",
-      "match": "exact",
-      "label": "测试探针 / 随机测试节点"
-    },
-    {
-      "domain": "8n3l.quark-pipeline-x.site",
-      "match": "exact",
-      "label": "测试探针 / 随机测试节点"
     },
     {
       "domain": "901730.com",
@@ -39087,16 +39077,6 @@
       "label": "Figma 客户端桌面通信探测"
     },
     {
-      "domain": "e4g6.flux-horizon-6.site",
-      "match": "exact",
-      "label": "测试探针 / 随机测试节点"
-    },
-    {
-      "domain": "e4g6.pixel-forge-7x.site",
-      "match": "exact",
-      "label": "测试探针 / 随机测试节点"
-    },
-    {
       "domain": "example.org",
       "match": "exact",
       "label": "RFC 2606 保留示例域名"
@@ -39157,16 +39137,6 @@
       "label": "移动端测试 / 本地回环映射"
     },
     {
-      "domain": "jd50.helix-grid-pro.site",
-      "match": "exact",
-      "label": "测试探针 / 随机测试节点"
-    },
-    {
-      "domain": "jool.zenith-node-15.site",
-      "match": "exact",
-      "label": "测试探针 / 随机测试节点"
-    },
-    {
       "domain": "js.kj1234com.app",
       "match": "exact",
       "label": "移动端测试 / 本地回环映射"
@@ -39185,11 +39155,6 @@
       "domain": "jyxsg-api-tb.chuxinhd.comundefined",
       "match": "exact",
       "label": "前端异常 / 拼接测试"
-    },
-    {
-      "domain": "jzxz.pixel-forge-7x.site",
-      "match": "exact",
-      "label": "测试探针 / 随机测试节点"
     },
     {
       "domain": "kj1234com.app",
@@ -66307,6 +66272,11 @@
       "label": "灰产弹窗 / 流量中继"
     },
     {
+      "domain": "flux-horizon-6.site",
+      "match": "suffix",
+      "label": "测试探针 / 随机测试节点"
+    },
+    {
       "domain": "flux.jp",
       "match": "suffix",
       "label": "FLUX 日本程序化广告"
@@ -71062,6 +71032,11 @@
       "label": "综合互联网服务"
     },
     {
+      "domain": "helix-grid-pro.site",
+      "match": "suffix",
+      "label": "测试探针 / 随机测试节点"
+    },
+    {
       "domain": "hello-ssone.com",
       "match": "suffix",
       "label": "行业资讯 / 商业服务"
@@ -71153,6 +71128,11 @@
     },
     {
       "domain": "hentai.ms",
+      "match": "suffix",
+      "label": "成人影视 / 娱乐内容"
+    },
+    {
+      "domain": "hentai.name",
       "match": "suffix",
       "label": "成人影视 / 娱乐内容"
     },
@@ -89102,6 +89082,11 @@
       "label": "灰产弹窗 / 流量中继"
     },
     {
+      "domain": "orbit-byte-v2.site",
+      "match": "suffix",
+      "label": "测试探针 / 随机测试节点"
+    },
+    {
       "domain": "orbsrv.com",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
@@ -90835,6 +90820,11 @@
       "domain": "pix.pub",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
+    },
+    {
+      "domain": "pixel-forge-7x.site",
+      "match": "suffix",
+      "label": "测试探针 / 随机测试节点"
     },
     {
       "domain": "pixelarchivenow.com",
@@ -93600,6 +93590,11 @@
       "domain": "quantummetric.com",
       "match": "suffix",
       "label": "Quantum Metric 体验洞察"
+    },
+    {
+      "domain": "quark-pipeline-x.site",
+      "match": "suffix",
+      "label": "测试探针 / 随机测试节点"
     },
     {
       "domain": "quarkfly.cn",
@@ -115405,6 +115400,11 @@
       "domain": "zencreator.pro",
       "match": "suffix",
       "label": "ZenCreator AI影像创作平台"
+    },
+    {
+      "domain": "zenith-node-15.site",
+      "match": "suffix",
+      "label": "测试探针 / 随机测试节点"
     },
     {
       "domain": "zenkube.com",
