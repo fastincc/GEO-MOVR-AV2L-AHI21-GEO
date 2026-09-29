@@ -12132,6 +12132,11 @@
       "label": "PEOPLESPHONE H BGP网段"
     },
     {
+      "domain": "162.10.10.0/24",
+      "match": "cidr",
+      "label": "Netskope 云安全SASE网关"
+    },
+    {
       "domain": "162.125.0.0/18",
       "match": "cidr",
       "label": "Dropbox 云存储"
@@ -40522,6 +40527,11 @@
       "label": "测试探针 / 无效域名"
     },
     {
+      "domain": "this-url-does-not-exist-5ea74e78-5c56-4d90-a28f-119f1159bd8f.invalid",
+      "match": "exact",
+      "label": "测试探针 / 无效域名"
+    },
+    {
       "domain": "this-url-does-not-exist-5ec5bcfd-0894-41c9-9cd3-6ae6278f5a6b.invalid",
       "match": "exact",
       "label": "测试探针 / 无效域名"
@@ -54550,6 +54560,11 @@
       "domain": "breezip.com",
       "match": "suffix",
       "label": "BreeZip 压缩解压实用工具"
+    },
+    {
+      "domain": "bregato.com",
+      "match": "suffix",
+      "label": "Bregato 意大利轻奢箱包"
     },
     {
       "domain": "brevo.com",
@@ -95552,6 +95567,11 @@
       "label": "Rovio 愤怒的小鸟开发商官网"
     },
     {
+      "domain": "roymorgan.com",
+      "match": "suffix",
+      "label": "Roy Morgan 澳洲权威民调"
+    },
+    {
       "domain": "royreflectoverjoy.jp",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
@@ -111765,6 +111785,11 @@
       "domain": "xdxss.cc",
       "match": "suffix",
       "label": "新顶点小说 网络文学在线阅读"
+    },
+    {
+      "domain": "xedo.me",
+      "match": "suffix",
+      "label": "时尚服饰 / 品牌消费"
     },
     {
       "domain": "xeeger.com",
