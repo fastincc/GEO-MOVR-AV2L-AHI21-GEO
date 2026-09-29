@@ -42277,6 +42277,11 @@
       "label": "测试探针 / 无效域名"
     },
     {
+      "domain": "this-url-does-not-exist-f0453cc6-db3a-4082-bdf1-ee0c7456fa37.invalid",
+      "match": "exact",
+      "label": "测试探针 / 无效域名"
+    },
+    {
       "domain": "this-url-does-not-exist-f132c99d-2ea8-43df-b9b4-ded8a7967d04.invalid",
       "match": "exact",
       "label": "浏览器 DNS 防劫持探测域名"
@@ -43280,6 +43285,11 @@
       "domain": "1bbffvip.com",
       "match": "suffix",
       "label": "行业资讯 / 商业服务"
+    },
+    {
+      "domain": "1clickvpn.net",
+      "match": "suffix",
+      "label": "网络节点 / 代理服务加速"
     },
     {
       "domain": "1e100cdn.net",
@@ -47885,6 +47895,11 @@
       "domain": "adobecces.com",
       "match": "suffix",
       "label": "数据统计 / 营销跟踪"
+    },
+    {
+      "domain": "adoberesources.net",
+      "match": "suffix",
+      "label": "Adobe 创意软件资源分发"
     },
     {
       "domain": "adokutrtb.com",
@@ -60302,6 +60317,11 @@
       "label": "Daktela 欧洲全渠道智能云客服"
     },
     {
+      "domain": "dalanmei.com",
+      "match": "suffix",
+      "label": "在线影视 / 高清视频播放"
+    },
+    {
       "domain": "dalcomsoft.net",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
@@ -64400,6 +64420,11 @@
       "domain": "evergage.com",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
+    },
+    {
+      "domain": "everreal.co",
+      "match": "suffix",
+      "label": "EverReal 德国房地产SaaS平台"
     },
     {
       "domain": "evfxxytpwz.com",
