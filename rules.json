@@ -12387,6 +12387,11 @@
       "label": "Metaverse 加拿大云节点"
     },
     {
+      "domain": "138.113.187.0/24",
+      "match": "cidr",
+      "label": "Meteverse 云计算数据中心"
+    },
+    {
       "domain": "138.113.19.0/24",
       "match": "cidr",
       "label": "ML 1432 54994 BGP网段"
@@ -40992,6 +40997,11 @@
       "label": "CT HangZhou ID BGP网段"
     },
     {
+      "domain": "45.252.248.0/22",
+      "match": "cidr",
+      "label": "AZDIGI 越南云服务器机房"
+    },
+    {
       "domain": "45.253.16.0/24",
       "match": "cidr",
       "label": "公网主机 骨干接入段"
@@ -41765,6 +41775,16 @@
       "domain": "47.79.224.0/19",
       "match": "cidr",
       "label": "阿里云海外节点"
+    },
+    {
+      "domain": "47.81.0.0/19",
+      "match": "cidr",
+      "label": "阿里云 基础网络设施"
+    },
+    {
+      "domain": "47.81.32.0/19",
+      "match": "cidr",
+      "label": "阿里云 基础网络设施"
     },
     {
       "domain": "47.82.0.0/19",
@@ -53032,6 +53052,11 @@
       "label": "测试探针 / 无效域名"
     },
     {
+      "domain": "this-url-does-not-exist-491c3871-d647-48d9-b30d-b297596ed20d.invalid",
+      "match": "exact",
+      "label": "测试探针 / 无效域名"
+    },
+    {
       "domain": "this-url-does-not-exist-4928a196-7e77-4106-b319-0a674e9313c8.invalid",
       "match": "exact",
       "label": "测试探针 / 无效域名"
@@ -56693,6 +56718,11 @@
     },
     {
       "domain": "this-url-does-not-exist-f96f7802-482f-478b-9174-4a791ee41dbc.invalid",
+      "match": "exact",
+      "label": "测试探针 / 无效域名"
+    },
+    {
+      "domain": "this-url-does-not-exist-f9ccf46d-12d2-41b6-b9b2-4e3a88bfb56b.invalid",
       "match": "exact",
       "label": "测试探针 / 无效域名"
     },
@@ -60712,6 +60742,11 @@
       "label": "灰产弹窗 / 流量中继"
     },
     {
+      "domain": "6wm.top",
+      "match": "suffix",
+      "label": "推广导流 / 动态解析跳转"
+    },
+    {
       "domain": "6y4d5.com",
       "match": "suffix",
       "label": "综合互联网服务"
@@ -64660,6 +64695,11 @@
       "domain": "ainft.com",
       "match": "suffix",
       "label": "企业软件 / 技术开发"
+    },
+    {
+      "domain": "ainvest.com",
+      "match": "suffix",
+      "label": "AInvest 智能金融投资分析"
     },
     {
       "domain": "aiofxiaoy.top",
@@ -90552,6 +90592,11 @@
       "label": "灰产弹窗 / 流量中继"
     },
     {
+      "domain": "groupe-sncf.com",
+      "match": "suffix",
+      "label": "法国国铁 SNCF 集团官方"
+    },
+    {
       "domain": "groupgti.com",
       "match": "suffix",
       "label": "GTI 国际校园招聘人才平台"
@@ -101947,6 +101992,11 @@
       "label": "行业资讯 / 商业服务"
     },
     {
+      "domain": "lacmp.net",
+      "match": "suffix",
+      "label": "Lead Alliance 数字营销广告"
+    },
+    {
       "domain": "lacunads.com",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
@@ -110020,6 +110070,11 @@
       "domain": "mwfimsvfast22.cc",
       "match": "suffix",
       "label": "推广导流 / 动态解析跳转"
+    },
+    {
+      "domain": "mwfimsvfast23.cc",
+      "match": "suffix",
+      "label": "漫蛙漫画 图片分发CDN"
     },
     {
       "domain": "mwfimsvfast26.cc",
@@ -120652,6 +120707,11 @@
       "label": "行业资讯 / 商业服务"
     },
     {
+      "domain": "raileurope.com",
+      "match": "suffix",
+      "label": "欧洲铁路 Rail Europe 票务"
+    },
+    {
       "domain": "railway.app",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
@@ -127105,6 +127165,11 @@
       "domain": "snasts.com",
       "match": "suffix",
       "label": "行业资讯 / 商业服务"
+    },
+    {
+      "domain": "sncf.com",
+      "match": "suffix",
+      "label": "法国国铁 SNCF 官方门户"
     },
     {
       "domain": "sndiary02.com",
@@ -139155,6 +139220,11 @@
       "domain": "vsco.co",
       "match": "suffix",
       "label": "VSCO 摄影与视觉创意社区"
+    },
+    {
+      "domain": "vsct.fr",
+      "match": "suffix",
+      "label": "SNCF Connect 铁路数字化"
     },
     {
       "domain": "vsmvideo.com",
