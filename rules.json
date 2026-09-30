@@ -1352,6 +1352,11 @@
       "label": "中国电信骨干网"
     },
     {
+      "domain": "101.227.164.0/22",
+      "match": "cidr",
+      "label": "中国电信骨干网"
+    },
+    {
       "domain": "101.227.28.0/22",
       "match": "cidr",
       "label": "CHINANET SHANG BGP网段"
@@ -39462,6 +39467,11 @@
       "label": "腾讯云海外 / Aceville CDN"
     },
     {
+      "domain": "43.155.192.0/18",
+      "match": "cidr",
+      "label": "腾讯云 基础网络设施"
+    },
+    {
       "domain": "43.155.64.0/18",
       "match": "cidr",
       "label": "腾讯云服务"
@@ -51717,6 +51727,11 @@
       "label": "RFC 2606 保留测试标识"
     },
     {
+      "domain": "this-url-does-not-exist-0d967d91-7370-460c-9db6-da910829c332.invalid",
+      "match": "exact",
+      "label": "测试探针 / 无效域名"
+    },
+    {
       "domain": "this-url-does-not-exist-0d9e5f5f-52d8-4297-afb1-5866120d8f9d.invalid",
       "match": "exact",
       "label": "测试探针 / 无效域名"
@@ -53958,6 +53973,11 @@
     },
     {
       "domain": "this-url-does-not-exist-71c8398c-b729-44f3-bea5-1b522a8c7904.invalid",
+      "match": "exact",
+      "label": "测试探针 / 无效域名"
+    },
+    {
+      "domain": "this-url-does-not-exist-71e8bb3b-fd74-4d3c-aaaa-69a2eb3026b0.invalid",
       "match": "exact",
       "label": "测试探针 / 无效域名"
     },
@@ -62572,6 +62592,11 @@
       "label": "灰产弹窗 / 流量中继"
     },
     {
+      "domain": "abnb.me",
+      "match": "suffix",
+      "label": "爱彼迎 Airbnb 官方短链"
+    },
+    {
       "domain": "abo-antrag.de",
       "match": "suffix",
       "label": "德国区域 / 互联网服务"
@@ -64672,6 +64697,21 @@
       "label": "综合互联网服务"
     },
     {
+      "domain": "air.co",
+      "match": "suffix",
+      "label": "爱彼迎 Airbnb 民宿预订"
+    },
+    {
+      "domain": "air.ml",
+      "match": "suffix",
+      "label": "爱彼迎 Airbnb 官方短链"
+    },
+    {
+      "domain": "air.tl",
+      "match": "suffix",
+      "label": "爱彼迎 Airbnb 官方短链"
+    },
+    {
       "domain": "air2s.com",
       "match": "suffix",
       "label": "企业软件 / 技术开发"
@@ -64700,6 +64740,16 @@
       "domain": "airav.live",
       "match": "suffix",
       "label": "AIRAV 成人在线直播"
+    },
+    {
+      "domain": "airbnb.kg",
+      "match": "suffix",
+      "label": "爱彼迎 Airbnb 民宿预订"
+    },
+    {
+      "domain": "airbnbmail.com",
+      "match": "suffix",
+      "label": "爱彼迎 Airbnb 官方邮件"
     },
     {
       "domain": "airbrake.io",
@@ -68717,6 +68767,11 @@
       "label": "网络小说 / 漫画阅读"
     },
     {
+      "domain": "baozimhcn.com",
+      "match": "suffix",
+      "label": "包子漫画 在线漫画阅读"
+    },
+    {
       "domain": "baramangaonline.com",
       "match": "suffix",
       "label": "成人流媒体 / 擦边短剧"
@@ -70867,6 +70922,11 @@
       "label": "行业资讯 / 商业服务"
     },
     {
+      "domain": "bnc.lt",
+      "match": "suffix",
+      "label": "Branch 移动应用深度链接"
+    },
+    {
       "domain": "bncloudfl.com",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
@@ -72595,6 +72655,11 @@
       "domain": "bzjok.com",
       "match": "suffix",
       "label": "行业资讯 / 商业服务"
+    },
+    {
+      "domain": "bzmgcn.com",
+      "match": "suffix",
+      "label": "包子漫画 静态资源分发"
     },
     {
       "domain": "bzmh.org",
@@ -74430,6 +74495,11 @@
       "domain": "chaowenxue.com",
       "match": "suffix",
       "label": "POѧ ŵСĶ 服务网站"
+    },
+    {
+      "domain": "chapt.top",
+      "match": "suffix",
+      "label": "网络小说 / 漫画阅读"
     },
     {
       "domain": "chapturist.com",
@@ -81365,6 +81435,11 @@
       "domain": "dub.sh",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
+    },
+    {
+      "domain": "ducttapechallenge.com",
+      "match": "suffix",
+      "label": "Duct Tape 视觉创意设计"
     },
     {
       "domain": "duellinksmeta.com",
@@ -95987,6 +96062,11 @@
       "label": "行业资讯 / 商业服务"
     },
     {
+      "domain": "imgpicmh.com",
+      "match": "suffix",
+      "label": "漫蛙漫画 静态资源分发"
+    },
+    {
       "domain": "imgpog.com",
       "match": "suffix",
       "label": "行业资讯 / 商业服务"
@@ -107892,6 +107972,11 @@
       "label": "MilanReports 米兰足球资讯"
     },
     {
+      "domain": "mileoffice.com",
+      "match": "suffix",
+      "label": "麦勒办公 协同办公服务"
+    },
+    {
       "domain": "miles-and-more.com",
       "match": "suffix",
       "label": "综合互联网服务"
@@ -109960,6 +110045,11 @@
       "domain": "mwfimsvfast40.cc",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
+    },
+    {
+      "domain": "mwfimsvfast6.cc",
+      "match": "suffix",
+      "label": "漫蛙漫画 图片分发CDN"
     },
     {
       "domain": "mwfimsvfast77.cc",
@@ -116972,6 +117062,11 @@
       "label": "推广导流 / 动态解析跳转"
     },
     {
+      "domain": "plool.com",
+      "match": "suffix",
+      "label": "推广导流 / 动态解析跳转"
+    },
+    {
       "domain": "plu.mx",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
@@ -119460,6 +119555,11 @@
       "domain": "qingxuntech.cn",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
+    },
+    {
+      "domain": "qingyun.world",
+      "match": "suffix",
+      "label": "轻云互联 网络服务与应用"
     },
     {
       "domain": "qiniuyun42.xyz",
@@ -122335,6 +122435,11 @@
       "domain": "roumanhua.net",
       "match": "suffix",
       "label": "成人影视 / 娱乐内容"
+    },
+    {
+      "domain": "roumh.com",
+      "match": "suffix",
+      "label": "漫画阅读 / 静态图片CDN"
     },
     {
       "domain": "roundprincemusic.com",
@@ -136237,6 +136342,11 @@
       "label": "企业软件 / 技术开发"
     },
     {
+      "domain": "ukiyoework.com",
+      "match": "suffix",
+      "label": "浮世绘工房 日本木版画电商"
+    },
+    {
       "domain": "ukklcyro.cc",
       "match": "suffix",
       "label": "行业资讯 / 商业服务"
@@ -145890,6 +146000,11 @@
       "domain": "yunsafe.top",
       "match": "suffix",
       "label": "行业资讯 / 商业服务"
+    },
+    {
+      "domain": "yunso.net",
+      "match": "suffix",
+      "label": "小云搜索 网盘资源搜索引擎"
     },
     {
       "domain": "yunwuxiangyan.com",
