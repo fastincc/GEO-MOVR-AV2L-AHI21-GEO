@@ -127802,6 +127802,11 @@
       "label": "灰产弹窗 / 流量中继"
     },
     {
+      "domain": "sixun8.com",
+      "match": "suffix",
+      "label": "线上博彩 / 娱乐服务"
+    },
+    {
       "domain": "sjboats.com",
       "match": "suffix",
       "label": "行业资讯 / 商业服务"
