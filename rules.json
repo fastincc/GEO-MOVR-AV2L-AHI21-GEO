@@ -38467,6 +38467,11 @@
       "label": "微软 Azure 云数据中心"
     },
     {
+      "domain": "40.158.65.0/24",
+      "match": "cidr",
+      "label": "微软 Azure 云数据中心"
+    },
+    {
       "domain": "40.159.0.0/16",
       "match": "cidr",
       "label": "MICROSOFT CORP BGP网段"
@@ -41550,6 +41555,11 @@
       "domain": "45.136.230.0/24",
       "match": "cidr",
       "label": "LEASEWEB NL AM BGP网段"
+    },
+    {
+      "domain": "45.136.59.0/24",
+      "match": "cidr",
+      "label": "Megahost 哈萨克斯坦机房"
     },
     {
       "domain": "45.137.83.0/24",
@@ -57397,6 +57407,11 @@
       "label": "测试探针 / 无效域名"
     },
     {
+      "domain": "this-url-does-not-exist-d5c61811-51f0-4c9f-8e0f-3a27dc8a7bc0.invalid",
+      "match": "exact",
+      "label": "测试探针 / 无效域名"
+    },
+    {
       "domain": "this-url-does-not-exist-d628b450-5b11-4899-9cef-c06f9e129ce2.invalid",
       "match": "exact",
       "label": "测试探针 / 无效域名"
@@ -72575,6 +72590,11 @@
       "domain": "biorender.com",
       "match": "suffix",
       "label": "BioRender 生物科研绘图"
+    },
+    {
+      "domain": "bioz.com",
+      "match": "suffix",
+      "label": "Bioz 生物医药AI推荐引擎"
     },
     {
       "domain": "biqubu3.com",
@@ -111147,6 +111167,11 @@
       "label": "Medallia 客户体验管理软件"
     },
     {
+      "domain": "medchemexpress.com",
+      "match": "suffix",
+      "label": "MCE 药典级试剂与生物分子"
+    },
+    {
       "domain": "media-transcoder-19.site",
       "match": "suffix",
       "label": "行业资讯 / 商业服务"
@@ -120225,6 +120250,11 @@
       "domain": "paradoxplaza.com",
       "match": "suffix",
       "label": "数据统计 / 营销跟踪"
+    },
+    {
+      "domain": "parallel.ai",
+      "match": "suffix",
+      "label": "Parallel 智能AI搜索助手"
     },
     {
       "domain": "parallels.com",
