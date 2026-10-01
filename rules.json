@@ -149117,6 +149117,11 @@
       "label": "行业资讯 / 商业服务"
     },
     {
+      "domain": "xiaomifeng1.site",
+      "match": "suffix",
+      "label": "推广导流 / 动态解析跳转"
+    },
+    {
       "domain": "xiaona.run",
       "match": "suffix",
       "label": "行业资讯 / 商业服务"
