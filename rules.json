@@ -54662,6 +54662,11 @@
       "label": "测试探针 / 无效域名"
     },
     {
+      "domain": "this-url-does-not-exist-5c806544-d3ec-4f28-8a95-d9cc9f2fd1ef.invalid",
+      "match": "exact",
+      "label": "测试探针 / 无效域名"
+    },
+    {
       "domain": "this-url-does-not-exist-5ca93574-0373-4d8b-9180-23612bda04e7.invalid",
       "match": "exact",
       "label": "测试探针 / 无效域名"
@@ -78365,6 +78370,11 @@
       "domain": "clerk.com",
       "match": "suffix",
       "label": "Clerk 开发者身份认证"
+    },
+    {
+      "domain": "clevelandclinic.org",
+      "match": "suffix",
+      "label": "克利夫兰诊所 医疗健康门户"
     },
     {
       "domain": "clevertap-prod.com",
