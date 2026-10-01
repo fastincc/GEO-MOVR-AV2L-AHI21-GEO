@@ -29457,6 +29457,11 @@
       "label": "HUTCHISON AS A BGP网段"
     },
     {
+      "domain": "221.127.64.0/18",
+      "match": "cidr",
+      "label": "和记环球电讯 HGC 基础骨干网"
+    },
+    {
       "domain": "221.13.0.0/18",
       "match": "cidr",
       "label": "中国联通骨干网"
@@ -77597,6 +77602,11 @@
       "label": "中国数字时代 新闻聚合"
     },
     {
+      "domain": "chinahhwl.com",
+      "match": "suffix",
+      "label": "行业资讯 / 商业服务"
+    },
+    {
       "domain": "chinahighlights.ru",
       "match": "suffix",
       "label": "China Highlights 中国入境文旅"
@@ -81270,6 +81280,11 @@
       "domain": "d8o4k.top",
       "match": "suffix",
       "label": "行业资讯 / 商业服务"
+    },
+    {
+      "domain": "d8xs.net",
+      "match": "suffix",
+      "label": "网络小说 / 漫画阅读"
     },
     {
       "domain": "d978l.top",
@@ -105455,6 +105470,11 @@
       "domain": "kpqppok.com",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
+    },
+    {
+      "domain": "kpxx.org",
+      "match": "suffix",
+      "label": "网络小说 / 漫画阅读"
     },
     {
       "domain": "kqftc.com",
@@ -149777,6 +149797,11 @@
       "label": "数据统计 / 营销跟踪"
     },
     {
+      "domain": "xmfvpn.com",
+      "match": "suffix",
+      "label": "推广导流 / 动态解析跳转"
+    },
+    {
       "domain": "xmfvpn.xyz",
       "match": "suffix",
       "label": "推广导流 / 动态解析跳转"
@@ -150273,6 +150298,11 @@
     },
     {
       "domain": "xrijdyp.com",
+      "match": "suffix",
+      "label": "行业资讯 / 商业服务"
+    },
+    {
+      "domain": "xrognet.com",
       "match": "suffix",
       "label": "行业资讯 / 商业服务"
     },
@@ -152948,6 +152978,11 @@
     },
     {
       "domain": "yy2ift.pro",
+      "match": "suffix",
+      "label": "行业资讯 / 商业服务"
+    },
+    {
+      "domain": "yy99.net",
       "match": "suffix",
       "label": "行业资讯 / 商业服务"
     },
