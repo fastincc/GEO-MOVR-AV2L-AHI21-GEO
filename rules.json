@@ -74577,6 +74577,11 @@
       "label": "行业资讯 / 商业服务"
     },
     {
+      "domain": "buahfancha.com",
+      "match": "suffix",
+      "label": "不二繁茶 饮品品牌门户"
+    },
+    {
       "domain": "bubble-chat.xyz",
       "match": "suffix",
       "label": "泡泡聊天 即时通讯社交应用"
@@ -85175,6 +85180,11 @@
       "domain": "echatsoft.com",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
+    },
+    {
+      "domain": "echo360.com",
+      "match": "suffix",
+      "label": "Echo360 智慧教学视频云"
     },
     {
       "domain": "echo360.net.au",
@@ -103445,6 +103455,11 @@
       "domain": "jshsdss.com",
       "match": "suffix",
       "label": "行业资讯 / 商业服务"
+    },
+    {
+      "domain": "jsjc.cfd",
+      "match": "suffix",
+      "label": "推广导流 / 动态解析跳转"
     },
     {
       "domain": "jsllqzj.com",
@@ -124432,6 +124447,11 @@
       "label": "综合互联网服务"
     },
     {
+      "domain": "qgxwzxw.com",
+      "match": "suffix",
+      "label": "推广导流 / 动态解析跳转"
+    },
+    {
       "domain": "qgzchztvt.cc",
       "match": "suffix",
       "label": "网络短剧 / 原创微短剧在线"
@@ -124710,6 +124730,11 @@
       "domain": "qldjxf.cn",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
+    },
+    {
+      "domain": "qldzgy.com",
+      "match": "suffix",
+      "label": "齐鲁电子工业 商业门户"
     },
     {
       "domain": "qlitics.com",
@@ -141207,6 +141232,16 @@
       "label": "行业资讯 / 商业服务"
     },
     {
+      "domain": "turningtechnologies.com",
+      "match": "suffix",
+      "label": "Turning 互动课堂教学系统"
+    },
+    {
+      "domain": "turningtechnologies.eu",
+      "match": "suffix",
+      "label": "Turning 互动课堂教学系统"
+    },
+    {
       "domain": "turnrowlips.cfd",
       "match": "suffix",
       "label": "综合互联网服务"
@@ -142162,6 +142197,11 @@
       "label": "网络基础 / 内容加速"
     },
     {
+      "domain": "ucas.com",
+      "match": "suffix",
+      "label": "UCAS 英国大学联招系统"
+    },
+    {
       "domain": "uci.edu",
       "match": "suffix",
       "label": "加州大学尔湾分校 学术门户"
@@ -142732,6 +142772,11 @@
       "label": "灰产弹窗 / 流量中继"
     },
     {
+      "domain": "university-manchester.co",
+      "match": "suffix",
+      "label": "曼彻斯特大学 学术认证服务"
+    },
+    {
       "domain": "unlayer.com",
       "match": "suffix",
       "label": "Unlayer 邮件与网页构建引擎"
@@ -142820,6 +142865,11 @@
       "domain": "updeals.com",
       "match": "suffix",
       "label": "行业资讯 / 商业服务"
+    },
+    {
+      "domain": "upenn.edu",
+      "match": "suffix",
+      "label": "宾夕法尼亚大学 官方学术门户"
     },
     {
       "domain": "upf.ai",
@@ -143020,6 +143070,11 @@
       "domain": "urb2b.com",
       "match": "suffix",
       "label": "行业资讯 / 商业服务"
+    },
+    {
+      "domain": "urban.co",
+      "match": "suffix",
+      "label": "Urban 城市生活综合资讯"
     },
     {
       "domain": "urbanairship.com",
@@ -149160,6 +149215,11 @@
       "domain": "xiaomf.store",
       "match": "suffix",
       "label": "行业资讯 / 商业服务"
+    },
+    {
+      "domain": "xiaomidomain.lol",
+      "match": "suffix",
+      "label": "推广导流 / 动态解析跳转"
     },
     {
       "domain": "xiaomifeng1.site",
