@@ -19332,6 +19332,11 @@
       "label": "亚马逊 AWS 云服务"
     },
     {
+      "domain": "18.182.0.0/16",
+      "match": "cidr",
+      "label": "亚马逊 AWS 云计算数据中心"
+    },
+    {
       "domain": "18.183.0.0/16",
       "match": "cidr",
       "label": "AMAZON 02 Am BGP网段"
@@ -72097,6 +72102,11 @@
       "label": "推广导流 / 动态解析跳转"
     },
     {
+      "domain": "bgi5573uht.vip",
+      "match": "suffix",
+      "label": "推广导流 / 动态解析跳转"
+    },
+    {
       "domain": "bgi5607uht.vip",
       "match": "suffix",
       "label": "行业资讯 / 商业服务"
@@ -72480,6 +72490,11 @@
       "domain": "biggou6789.cc",
       "match": "suffix",
       "label": "行业资讯 / 商业服务"
+    },
+    {
+      "domain": "bigidcmp.cloud",
+      "match": "suffix",
+      "label": "BigID 企业数据隐私合规"
     },
     {
       "domain": "bigin.io",
@@ -76107,6 +76122,11 @@
       "label": "行业资讯 / 商业服务"
     },
     {
+      "domain": "cbn.id",
+      "match": "suffix",
+      "label": "印尼 CBN 互联网运营商"
+    },
+    {
       "domain": "cbox.ws",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
@@ -78695,6 +78715,11 @@
       "domain": "cloudhospitality.es",
       "match": "suffix",
       "label": "行业资讯 / 商业服务"
+    },
+    {
+      "domain": "cloudhost.asia",
+      "match": "suffix",
+      "label": "亚太云主机与云计算设施"
     },
     {
       "domain": "cloudlift.app",
@@ -88082,6 +88107,11 @@
       "label": "灰产弹窗 / 流量中继"
     },
     {
+      "domain": "fdcservers.net",
+      "match": "suffix",
+      "label": "FDC Servers 全球服务器机房"
+    },
+    {
       "domain": "fdfinvoice.com",
       "match": "suffix",
       "label": "数电票管理系统 数字化发票"
@@ -91925,6 +91955,11 @@
       "domain": "gentlefieldpattern.com",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
+    },
+    {
+      "domain": "genznet.id",
+      "match": "suffix",
+      "label": "GenzNet 印度尼西亚网络连接"
     },
     {
       "domain": "geo-location-svc-847.site",
@@ -97167,6 +97202,11 @@
       "label": "Hostelworld 青年旅舍预订"
     },
     {
+      "domain": "hostgrap.com",
+      "match": "suffix",
+      "label": "互联网主机基础设施"
+    },
+    {
       "domain": "hostico.ro",
       "match": "suffix",
       "label": "行业资讯 / 商业服务"
@@ -97635,6 +97675,11 @@
       "domain": "hszljss.motorcycles",
       "match": "suffix",
       "label": "综合互联网服务"
+    },
+    {
+      "domain": "ht021hht.vip",
+      "match": "suffix",
+      "label": "推广导流 / 动态解析跳转"
     },
     {
       "domain": "ht228hht.vip",
@@ -100137,6 +100182,11 @@
       "label": "灰产弹窗 / 流量中继"
     },
     {
+      "domain": "indosatooredoo.com",
+      "match": "suffix",
+      "label": "印尼 Indosat 电信运营商"
+    },
+    {
       "domain": "infineon.com",
       "match": "suffix",
       "label": "英飞凌 汽车半导体芯片解决方案"
@@ -100705,6 +100755,11 @@
       "domain": "invmed.co",
       "match": "suffix",
       "label": "行业资讯 / 商业服务"
+    },
+    {
+      "domain": "invocacdn.com",
+      "match": "suffix",
+      "label": "Invoca 智能会话归因营销云"
     },
     {
       "domain": "invol.co",
@@ -102570,6 +102625,11 @@
       "domain": "jinyong123.com",
       "match": "suffix",
       "label": "网络小说 / 在线文学"
+    },
+    {
+      "domain": "jio.com",
+      "match": "suffix",
+      "label": "Jio 印度移动通信网络"
     },
     {
       "domain": "jiohyrfh.cc",
@@ -115102,6 +115162,11 @@
       "label": "灰产弹窗 / 流量中继"
     },
     {
+      "domain": "myrepublic.com.sg",
+      "match": "suffix",
+      "label": "MyRepublic 新加坡电信宽带"
+    },
+    {
       "domain": "mys888.com",
       "match": "suffix",
       "label": "综合互联网服务"
@@ -121135,6 +121200,11 @@
       "domain": "phoenix-widget.com",
       "match": "suffix",
       "label": "行业资讯 / 商业服务"
+    },
+    {
+      "domain": "phoenixnap.com",
+      "match": "suffix",
+      "label": "PhoenixNAP 全球数据中心"
     },
     {
       "domain": "phonydepth.com",
@@ -131672,6 +131742,11 @@
       "label": "SingLinkVPN 网络加速代理"
     },
     {
+      "domain": "singnet.com.sg",
+      "match": "suffix",
+      "label": "新加坡电信 SingNet 宽带"
+    },
+    {
       "domain": "singtao.ca",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
@@ -133730,6 +133805,11 @@
       "domain": "spst2.com",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
+    },
+    {
+      "domain": "sptel.com",
+      "match": "suffix",
+      "label": "新加坡 SPTel 企业网络通信"
     },
     {
       "domain": "sptvp.com",
@@ -140657,6 +140737,11 @@
       "label": "TrustArc (TRUSTe) 隐私认证"
     },
     {
+      "domain": "trustedcareaccess.com",
+      "match": "suffix",
+      "label": "TrustedCare 医疗健康云平台"
+    },
+    {
       "domain": "trustedform.com",
       "match": "suffix",
       "label": "TrustedForm 营销合规风控验证"
@@ -146167,6 +146252,11 @@
       "label": "行业资讯 / 商业服务"
     },
     {
+      "domain": "wdbyte.com",
+      "match": "suffix",
+      "label": "程序员小黑 技术博客知识库"
+    },
+    {
       "domain": "wdckeystone.com",
       "match": "suffix",
       "label": "行业资讯 / 商业服务"
@@ -146815,6 +146905,11 @@
       "domain": "whitetrafsa.com",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
+    },
+    {
+      "domain": "whizcomms.com.sg",
+      "match": "suffix",
+      "label": "新加坡 WhizComms 宽带通信"
     },
     {
       "domain": "whjbsm.com",
