@@ -11867,6 +11867,11 @@
       "label": "Zenlayer 全球边缘云加速"
     },
     {
+      "domain": "129.227.32.0/20",
+      "match": "cidr",
+      "label": "Zenlayer 全球边缘云网络"
+    },
+    {
       "domain": "129.227.64.0/19",
       "match": "cidr",
       "label": "Zenlayer 边缘加速"
@@ -25425,6 +25430,11 @@
       "domain": "202.86.119.0/24",
       "match": "cidr",
       "label": "SUPERLOOP AS A BGP网段"
+    },
+    {
+      "domain": "202.86.128.0/19",
+      "match": "cidr",
+      "label": "澳门电讯 CTM 基础骨干网"
     },
     {
       "domain": "202.86.160.0/19",
@@ -39517,6 +39527,11 @@
       "label": "中国电信骨干网"
     },
     {
+      "domain": "42.3.16.0/20",
+      "match": "cidr",
+      "label": "香港电讯 HKT 基础网络"
+    },
+    {
       "domain": "42.3.192.0/19",
       "match": "cidr",
       "label": "HKTIMS AP HK BGP网段"
@@ -49445,6 +49460,11 @@
       "domain": "87.119.3.0/24",
       "match": "cidr",
       "label": "HIPL 网络"
+    },
+    {
+      "domain": "87.119.9.0/24",
+      "match": "cidr",
+      "label": "华为国际云 数据中心网段"
     },
     {
       "domain": "87.122.0.0/15",
@@ -146447,6 +146467,11 @@
       "label": "灰产弹窗 / 流量中继"
     },
     {
+      "domain": "wenbita.net",
+      "match": "suffix",
+      "label": "网络小说 / 漫画阅读"
+    },
+    {
       "domain": "wengegroup.com",
       "match": "suffix",
       "label": "行业资讯 / 商业服务"
@@ -149750,6 +149775,11 @@
       "domain": "xmediadownloader.com",
       "match": "suffix",
       "label": "数据统计 / 营销跟踪"
+    },
+    {
+      "domain": "xmfvpn.xyz",
+      "match": "suffix",
+      "label": "推广导流 / 动态解析跳转"
     },
     {
       "domain": "xmh124.com",
