@@ -88002,6 +88002,11 @@
       "label": "行业资讯 / 商业服务"
     },
     {
+      "domain": "fcvx.lol",
+      "match": "suffix",
+      "label": "网络小说 / 漫画阅读"
+    },
+    {
       "domain": "fcw1.site",
       "match": "suffix",
       "label": "推广导流 / 动态解析跳转"
@@ -136060,6 +136065,11 @@
       "domain": "t8d8k.com",
       "match": "suffix",
       "label": "成人影音 / 自拍社群"
+    },
+    {
+      "domain": "t8p8y.com",
+      "match": "suffix",
+      "label": "网络小说 / 漫画阅读"
     },
     {
       "domain": "t8qx0a31.com",
