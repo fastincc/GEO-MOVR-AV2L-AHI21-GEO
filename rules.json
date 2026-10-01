@@ -41952,6 +41952,11 @@
       "label": "Zenlayer 全球边缘云加速"
     },
     {
+      "domain": "45.43.58.0/24",
+      "match": "cidr",
+      "label": "UCloud 优刻得香港机房"
+    },
+    {
       "domain": "45.5.35.0/24",
       "match": "cidr",
       "label": "AS266931 RE BGP网段"
@@ -52585,6 +52590,11 @@
       "domain": "this-url-does-not-exist-0464dccf-2fe7-47f5-8563-76a30d4d6257.invalid",
       "match": "exact",
       "label": "浏览器 DNS 防劫持探测域名"
+    },
+    {
+      "domain": "this-url-does-not-exist-048facb5-1641-4694-a41b-ddf31100df27.invalid",
+      "match": "exact",
+      "label": "测试探针 / 无效域名"
     },
     {
       "domain": "this-url-does-not-exist-04ae9ecf-d5d9-4f6b-960a-2d94f4fa93a9.invalid",
