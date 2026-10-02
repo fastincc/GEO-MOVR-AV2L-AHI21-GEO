@@ -11462,6 +11462,11 @@
       "label": "kbro AS TW k BGP网段"
     },
     {
+      "domain": "123.192.224.0/22",
+      "match": "cidr",
+      "label": "台湾凯擘大宽频网络"
+    },
+    {
       "domain": "123.192.236.0/22",
       "match": "cidr",
       "label": "kbro AS TW k BGP网段"
@@ -25017,6 +25022,11 @@
       "label": "公网主机 骨干接入段"
     },
     {
+      "domain": "19.16.11.0/24",
+      "match": "cidr",
+      "label": "福特汽车企业网络设施"
+    },
+    {
       "domain": "19.168.0.0/24",
       "match": "cidr",
       "label": "US 互联网基础设施"
@@ -27030,6 +27040,11 @@
       "domain": "2.0.36.0/24",
       "match": "cidr",
       "label": "SE 互联网基础设施"
+    },
+    {
+      "domain": "2.0.38.0/24",
+      "match": "cidr",
+      "label": "欧洲互联网基础设施节点"
     },
     {
       "domain": "2.0.4.0/24",
@@ -38327,6 +38342,11 @@
       "label": "中国联通骨干网"
     },
     {
+      "domain": "2408:873d::/32",
+      "match": "cidr",
+      "label": "中国联通骨干网络通信"
+    },
+    {
       "domain": "2408:873d:a00:2002::/64",
       "match": "cidr",
       "label": "中国联通骨干网"
@@ -40340,6 +40360,11 @@
       "domain": "2f05:240e:345:5d5f::/64",
       "match": "cidr",
       "label": "全球 IPv6 骨干路由段"
+    },
+    {
+      "domain": "2f23::/16",
+      "match": "cidr",
+      "label": "互联网 IPv6 基础设施"
     },
     {
       "domain": "2f26:1226:c200:1::/64",
@@ -53407,6 +53432,11 @@
       "label": "BELLSOUTH NET BGP网段"
     },
     {
+      "domain": "67.40.0.0/19",
+      "match": "cidr",
+      "label": "CenturyLink 通信网络"
+    },
+    {
       "domain": "67.71.0.0/16",
       "match": "cidr",
       "label": "BACOM 网络"
@@ -54150,6 +54180,11 @@
       "domain": "71.247.0.0/16",
       "match": "cidr",
       "label": "UUNET Verizo BGP网段"
+    },
+    {
+      "domain": "71.65.128.0/17",
+      "match": "cidr",
+      "label": "Charter 宽带通信网络"
     },
     {
       "domain": "71.75.0.0/16",
@@ -61852,6 +61887,11 @@
       "label": "测试探针 / 无效域名"
     },
     {
+      "domain": "this-url-does-not-exist-36262e4f-1961-471a-a3b2-f71de36cc224.invalid",
+      "match": "exact",
+      "label": "测试探针 / 无效域名"
+    },
+    {
       "domain": "this-url-does-not-exist-3627b26c-ae9d-4471-b45f-f0cc7918a8e5.invalid",
       "match": "exact",
       "label": "测试探针 / 无效域名"
@@ -66748,6 +66788,11 @@
     },
     {
       "domain": "this-url-does-not-exist-cf89f4e3-a0d2-46b4-90d1-70d7f27d2195.invalid",
+      "match": "exact",
+      "label": "测试探针 / 无效域名"
+    },
+    {
+      "domain": "this-url-does-not-exist-cfa166ed-2a87-4447-849f-8025a9fa837a.invalid",
       "match": "exact",
       "label": "测试探针 / 无效域名"
     },
@@ -82107,6 +82152,11 @@
       "label": "行业资讯 / 商业服务"
     },
     {
+      "domain": "avgle.net",
+      "match": "suffix",
+      "label": "在线多媒体视频平台"
+    },
+    {
       "domain": "avgood.com",
       "match": "suffix",
       "label": "成人影音 / 自拍社群"
@@ -87180,6 +87230,11 @@
       "domain": "btsel5g.com",
       "match": "suffix",
       "label": "行业资讯 / 商业服务"
+    },
+    {
+      "domain": "btsgtm.com",
+      "match": "suffix",
+      "label": "业务数据跟踪与统计"
     },
     {
       "domain": "btsj5.com",
@@ -95857,6 +95912,11 @@
       "label": "行业资讯 / 商业服务"
     },
     {
+      "domain": "dbku.tv",
+      "match": "suffix",
+      "label": "在线影视视频媒体"
+    },
+    {
       "domain": "dblks.net",
       "match": "suffix",
       "label": "云端服务 / 接口网关"
@@ -95980,6 +96040,11 @@
       "domain": "dcxsw.com",
       "match": "suffix",
       "label": "网络小说 / 在线文学"
+    },
+    {
+      "domain": "dd101.fitness",
+      "match": "suffix",
+      "label": "网络业务加速节点"
     },
     {
       "domain": "dd133.com",
@@ -101535,6 +101600,11 @@
       "domain": "eventstracker.io",
       "match": "suffix",
       "label": "业务数据接口服务"
+    },
+    {
+      "domain": "ever-after.net",
+      "match": "suffix",
+      "label": "互联网网络服务"
     },
     {
       "domain": "everestengagement.com",
@@ -107120,6 +107190,11 @@
       "domain": "gdshuge.com",
       "match": "suffix",
       "label": "网络小说 / 漫画阅读"
+    },
+    {
+      "domain": "gdstqf.com",
+      "match": "suffix",
+      "label": "移动应用数据分发"
     },
     {
       "domain": "gdxtag.com",
@@ -117432,6 +117507,11 @@
       "label": "商业广告 / 埋点追踪"
     },
     {
+      "domain": "insurgent-media.com",
+      "match": "suffix",
+      "label": "多媒体在线内容服务"
+    },
+    {
       "domain": "intake-lr.com",
       "match": "suffix",
       "label": "Intake-lr 互联网网络服务"
@@ -118787,6 +118867,11 @@
       "label": "Jalan 日本旅游资讯与攻略"
     },
     {
+      "domain": "jam-sport.net",
+      "match": "suffix",
+      "label": "体育运动赛事平台"
+    },
+    {
       "domain": "jam.dev",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
@@ -119610,6 +119695,11 @@
       "domain": "jhgfuytronline.com",
       "match": "suffix",
       "label": "行业资讯 / 商业服务"
+    },
+    {
+      "domain": "jhgv6565.beauty",
+      "match": "suffix",
+      "label": "网络业务加速节点"
     },
     {
       "domain": "jhicc.com",
@@ -122557,6 +122647,11 @@
       "label": "行业资讯 / 商业服务"
     },
     {
+      "domain": "kinglin.net",
+      "match": "suffix",
+      "label": "互联网网络服务"
+    },
+    {
       "domain": "kingopinion.com",
       "match": "suffix",
       "label": "Paid Surveys 服务网站"
@@ -125175,6 +125270,11 @@
       "domain": "libvio.fun",
       "match": "suffix",
       "label": "在线影视 / 短剧点播"
+    },
+    {
+      "domain": "libvio.help",
+      "match": "suffix",
+      "label": "LIBVIO 影视在线播放"
     },
     {
       "domain": "libvio.host",
@@ -129285,6 +129385,11 @@
       "domain": "mapleta.com",
       "match": "suffix",
       "label": "行业资讯 / 商业服务"
+    },
+    {
+      "domain": "maplibre.org",
+      "match": "suffix",
+      "label": "MapLibre 开源地图引擎"
     },
     {
       "domain": "maptiler.com",
@@ -167320,6 +167425,11 @@
       "domain": "vb-bm-ji.com",
       "match": "suffix",
       "label": "行业资讯 / 商业服务"
+    },
+    {
+      "domain": "vbing.me",
+      "match": "suffix",
+      "label": "静态图片存储托管"
     },
     {
       "domain": "vbnmhjlp.com",
