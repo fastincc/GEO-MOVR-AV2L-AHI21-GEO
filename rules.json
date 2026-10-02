@@ -12857,6 +12857,11 @@
       "label": "GIGAINFRA So BGP网段"
     },
     {
+      "domain": "126.36.0.0/16",
+      "match": "cidr",
+      "label": "日本软银 SoftBank 通信"
+    },
+    {
       "domain": "126.38.0.0/16",
       "match": "cidr",
       "label": "软银 SoftBank 宽带网络"
@@ -14440,6 +14445,11 @@
       "domain": "139.177.200.0/21",
       "match": "cidr",
       "label": "Akamai 全球 CDN"
+    },
+    {
+      "domain": "139.177.227.0/24",
+      "match": "cidr",
+      "label": "字节跳动全球网络服务"
     },
     {
       "domain": "139.177.246.0/24",
@@ -27567,6 +27577,11 @@
       "label": "Akamai 全球边缘分发"
     },
     {
+      "domain": "2.18.190.0/24",
+      "match": "cidr",
+      "label": "Akamai 全球边缘分发"
+    },
+    {
       "domain": "2.18.27.0/24",
       "match": "cidr",
       "label": "Akamai 全球 CDN"
@@ -27637,6 +27652,11 @@
       "label": "公网主机 骨干接入段"
     },
     {
+      "domain": "2.20.12.0/24",
+      "match": "cidr",
+      "label": "Akamai 全球边缘分发"
+    },
+    {
       "domain": "2.20.134.0/23",
       "match": "cidr",
       "label": "Akamai 边缘加速"
@@ -27695,6 +27715,11 @@
       "domain": "2.23.167.0/24",
       "match": "cidr",
       "label": "AKAMAI ASN1 BGP网段"
+    },
+    {
+      "domain": "2.23.210.0/24",
+      "match": "cidr",
+      "label": "Akamai 全球边缘分发"
     },
     {
       "domain": "2.23.227.0/24",
@@ -55052,6 +55077,11 @@
       "label": "BYTEDANCE By BGP网段"
     },
     {
+      "domain": "71.18.45.0/24",
+      "match": "cidr",
+      "label": "字节跳动全球网络服务"
+    },
+    {
       "domain": "71.18.46.0/24",
       "match": "cidr",
       "label": "BYTEDANCE By BGP网段"
@@ -61147,6 +61177,11 @@
       "label": "移动端测试 / 本地回环映射"
     },
     {
+      "domain": "disabled.invalid",
+      "match": "exact",
+      "label": "灰产弹窗 / 流量中继"
+    },
+    {
       "domain": "example.org",
       "match": "exact",
       "label": "RFC 2606 保留示例域名"
@@ -61332,6 +61367,11 @@
       "label": "专有 CDN 静态资源回源标识"
     },
     {
+      "domain": "this-url-does-not-exist-00304fc6-09a2-4f94-9096-d999c51c8572.invalid",
+      "match": "exact",
+      "label": "综合互联网服务"
+    },
+    {
       "domain": "this-url-does-not-exist-0031686f-a1f1-4592-b04e-1708f00dbfd8.invalid",
       "match": "exact",
       "label": "测试探针 / 无效域名"
@@ -61400,6 +61440,11 @@
       "domain": "this-url-does-not-exist-02d3f49e-398e-4d0f-b389-dbe53586fa5c.invalid",
       "match": "exact",
       "label": "测试探针 / 无效域名"
+    },
+    {
+      "domain": "this-url-does-not-exist-02d731ed-d8dd-4fcb-b124-4374ebc7ff1a.invalid",
+      "match": "exact",
+      "label": "综合互联网服务"
     },
     {
       "domain": "this-url-does-not-exist-031d2cb0-8d0c-4f4b-9993-833efb000156.invalid",
@@ -61815,6 +61860,11 @@
       "domain": "this-url-does-not-exist-0edf7973-00d6-49a1-a39d-30cb42644fa0.invalid",
       "match": "exact",
       "label": "测试探针 / 无效域名"
+    },
+    {
+      "domain": "this-url-does-not-exist-0eed97bd-6724-40bd-9758-a142b67436c7.invalid",
+      "match": "exact",
+      "label": "综合互联网服务"
     },
     {
       "domain": "this-url-does-not-exist-0f16e20a-6d68-4f82-9f47-00a097f80157.invalid",
@@ -62487,6 +62537,11 @@
       "label": "测试探针 / 无效域名"
     },
     {
+      "domain": "this-url-does-not-exist-252b8ceb-e89b-48ce-830d-80bf665e7a3e.invalid",
+      "match": "exact",
+      "label": "综合互联网服务"
+    },
+    {
       "domain": "this-url-does-not-exist-2538dd39-99ca-4be9-9c80-67036b478a28.invalid",
       "match": "exact",
       "label": "测试探针 / 无效域名"
@@ -62495,6 +62550,11 @@
       "domain": "this-url-does-not-exist-254848f5-8726-439f-8c7b-074a9acff040.invalid",
       "match": "exact",
       "label": "测试探针 / 无效域名"
+    },
+    {
+      "domain": "this-url-does-not-exist-25657f4d-3a68-4033-9331-0e9cfbae3b22.invalid",
+      "match": "exact",
+      "label": "灰产弹窗 / 流量中继"
     },
     {
       "domain": "this-url-does-not-exist-256951a0-355d-40da-9fff-ea07b5318424.invalid",
@@ -62602,6 +62662,11 @@
       "label": "测试探针 / 无效域名"
     },
     {
+      "domain": "this-url-does-not-exist-2939de91-32c1-4027-ab85-b9ab905b2ddc.invalid",
+      "match": "exact",
+      "label": "灰产弹窗 / 流量中继"
+    },
+    {
       "domain": "this-url-does-not-exist-295a156f-3c1c-41e8-acc0-231f9abf0aa5.invalid",
       "match": "exact",
       "label": "测试探针 / 无效域名"
@@ -62652,6 +62717,11 @@
       "label": "测试探针 / 无效域名"
     },
     {
+      "domain": "this-url-does-not-exist-2abf881b-a8b8-4c75-8a9e-a4e8c90ec3b2.invalid",
+      "match": "exact",
+      "label": "综合互联网服务"
+    },
+    {
       "domain": "this-url-does-not-exist-2adf7907-80e2-4f62-a5eb-c4aaf1fc11c6.invalid",
       "match": "exact",
       "label": "测试探针 / 无效域名"
@@ -62690,6 +62760,11 @@
       "domain": "this-url-does-not-exist-2be2efd4-35b6-4ef7-aa84-b918e1cb7179.invalid",
       "match": "exact",
       "label": "测试探针 / 无效域名"
+    },
+    {
+      "domain": "this-url-does-not-exist-2c120a68-eeed-4e87-a349-9a5d84d3160e.invalid",
+      "match": "exact",
+      "label": "灰产弹窗 / 流量中继"
     },
     {
       "domain": "this-url-does-not-exist-2cb04119-6e1e-4a06-a26e-01957a012c4f.invalid",
@@ -62867,6 +62942,11 @@
       "label": "测试探针 / 无效域名"
     },
     {
+      "domain": "this-url-does-not-exist-3295e4a5-e94b-4d2f-b6f4-0a6c50cdd841.invalid",
+      "match": "exact",
+      "label": "综合互联网服务"
+    },
+    {
       "domain": "this-url-does-not-exist-32c08665-6ef2-4e30-8450-b1ad27393c4e.invalid",
       "match": "exact",
       "label": "测试探针 / 无效域名"
@@ -62892,6 +62972,11 @@
       "label": "测试探针 / 无效域名"
     },
     {
+      "domain": "this-url-does-not-exist-33ebf9c6-3db4-4f91-99f1-8b6c3c9616e7.invalid",
+      "match": "exact",
+      "label": "综合互联网服务"
+    },
+    {
       "domain": "this-url-does-not-exist-3414cc2b-5a83-42ca-ba87-85b5b8324a93.invalid",
       "match": "exact",
       "label": "测试探针 / 无效域名"
@@ -62910,6 +62995,11 @@
       "domain": "this-url-does-not-exist-345d5e7a-f888-41a2-a7ff-5015d3a596ff.invalid",
       "match": "exact",
       "label": "测试探针 / 无效域名"
+    },
+    {
+      "domain": "this-url-does-not-exist-34be9e40-3d8c-48d4-8207-40c35bdc7f82.invalid",
+      "match": "exact",
+      "label": "综合互联网服务"
     },
     {
       "domain": "this-url-does-not-exist-34cf6410-83ad-4afc-8e18-18db796eb61c.invalid",
@@ -63012,6 +63102,11 @@
       "label": "测试探针 / 无效域名"
     },
     {
+      "domain": "this-url-does-not-exist-3715fcf6-b54c-4140-8890-fa0a6974520d.invalid",
+      "match": "exact",
+      "label": "综合互联网服务"
+    },
+    {
       "domain": "this-url-does-not-exist-3726b433-ae07-472e-b493-72b9556d3f99.invalid",
       "match": "exact",
       "label": "测试探针 / 无效域名"
@@ -63045,6 +63140,11 @@
       "domain": "this-url-does-not-exist-383c66f3-2fed-462e-894e-260f72e2679d.invalid",
       "match": "exact",
       "label": "测试探针 / 无效域名"
+    },
+    {
+      "domain": "this-url-does-not-exist-38569bd7-b91d-4454-a2a8-5df1f68f56ca.invalid",
+      "match": "exact",
+      "label": "灰产弹窗 / 流量中继"
     },
     {
       "domain": "this-url-does-not-exist-38598a6c-60d4-4d45-8955-d01f3cc642f5.invalid",
@@ -63517,6 +63617,11 @@
       "label": "测试探针 / 无效域名"
     },
     {
+      "domain": "this-url-does-not-exist-450e90f9-d289-4bc7-88e9-4430a32c2f11.invalid",
+      "match": "exact",
+      "label": "综合互联网服务"
+    },
+    {
       "domain": "this-url-does-not-exist-45103c9d-b2fd-4b57-85de-fd5a7505ac1f.invalid",
       "match": "exact",
       "label": "测试探针 / 无效域名"
@@ -63607,6 +63712,16 @@
       "label": "测试探针 / 无效域名"
     },
     {
+      "domain": "this-url-does-not-exist-4790270c-2cff-402f-99ed-a48d90396d31.invalid",
+      "match": "exact",
+      "label": "灰产弹窗 / 流量中继"
+    },
+    {
+      "domain": "this-url-does-not-exist-47ab2ca0-e512-450a-bfc2-354354cdeaa1.invalid",
+      "match": "exact",
+      "label": "综合互联网服务"
+    },
+    {
       "domain": "this-url-does-not-exist-47c06680-3102-48ff-9984-423da8d75e55.invalid",
       "match": "exact",
       "label": "测试探针 / 无效域名"
@@ -63627,9 +63742,19 @@
       "label": "测试探针 / 无效域名"
     },
     {
+      "domain": "this-url-does-not-exist-48009659-e25e-4d0b-ab3c-93fde309510b.invalid",
+      "match": "exact",
+      "label": "综合互联网服务"
+    },
+    {
       "domain": "this-url-does-not-exist-48722b3d-eb7b-4e43-9080-6a6dc20eb198.invalid",
       "match": "exact",
       "label": "测试探针 / 无效域名"
+    },
+    {
+      "domain": "this-url-does-not-exist-48c15bfa-3e5e-4049-9bf8-f7354994de14.invalid",
+      "match": "exact",
+      "label": "综合互联网服务"
     },
     {
       "domain": "this-url-does-not-exist-48f20d0b-eb33-46e0-8230-d0d916d1ab83.invalid",
@@ -63887,6 +64012,11 @@
       "label": "RFC 2606 保留测试标识"
     },
     {
+      "domain": "this-url-does-not-exist-5014452e-0b14-4604-88bd-72881bff4307.invalid",
+      "match": "exact",
+      "label": "综合互联网服务"
+    },
+    {
       "domain": "this-url-does-not-exist-50382870-1859-4e4f-b4ae-8d008a49ed4f.invalid",
       "match": "exact",
       "label": "测试探针 / 无效域名"
@@ -63927,6 +64057,11 @@
       "label": "测试探针 / 无效域名"
     },
     {
+      "domain": "this-url-does-not-exist-50c9c01d-5189-4430-b6c0-13da8dd3a24d.invalid",
+      "match": "exact",
+      "label": "成人影视 / 内容导流"
+    },
+    {
       "domain": "this-url-does-not-exist-5104f1bc-fb7b-4f41-9876-45c03da54c1e.invalid",
       "match": "exact",
       "label": "测试探针 / 无效域名"
@@ -63935,6 +64070,11 @@
       "domain": "this-url-does-not-exist-511e066a-3f21-4ebb-a157-f6bf57d35fc0.invalid",
       "match": "exact",
       "label": "测试探针 / 无效域名"
+    },
+    {
+      "domain": "this-url-does-not-exist-5138da59-6d56-404e-b2d7-0366b678ef67.invalid",
+      "match": "exact",
+      "label": "灰产弹窗 / 流量中继"
     },
     {
       "domain": "this-url-does-not-exist-51583005-b635-4f43-ad6f-cef2d5e748d0.invalid",
@@ -64087,6 +64227,11 @@
       "label": "测试探针 / 无效域名"
     },
     {
+      "domain": "this-url-does-not-exist-56fc3753-4486-4536-b99f-659ad858d45d.invalid",
+      "match": "exact",
+      "label": "商业广告 / 埋点追踪"
+    },
+    {
       "domain": "this-url-does-not-exist-571557a0-da1b-4037-a2b5-e79b91596e5b.invalid",
       "match": "exact",
       "label": "浏览器 DNS 防劫持探测域名"
@@ -64180,6 +64325,11 @@
       "domain": "this-url-does-not-exist-59da763e-dfb1-4659-969e-ca2e134afb31.invalid",
       "match": "exact",
       "label": "测试探针 / 无效域名"
+    },
+    {
+      "domain": "this-url-does-not-exist-5a0ad471-ed06-476b-95f4-c36078fa0987.invalid",
+      "match": "exact",
+      "label": "广告营销 / 数据统计"
     },
     {
       "domain": "this-url-does-not-exist-5a0c41a2-25b2-4793-8725-e9cefc13ad5a.invalid",
@@ -64407,6 +64557,11 @@
       "label": "测试探针 / 无效域名"
     },
     {
+      "domain": "this-url-does-not-exist-60e7d405-a6d7-44ca-950f-d3d84b3648da.invalid",
+      "match": "exact",
+      "label": "综合互联网服务"
+    },
+    {
       "domain": "this-url-does-not-exist-60fb6a60-1214-4bf3-8568-90c466d57265.invalid",
       "match": "exact",
       "label": "测试探针 / 无效域名"
@@ -64430,6 +64585,11 @@
       "domain": "this-url-does-not-exist-615981f6-97fc-4bcc-894c-b7bcffa28e56.invalid",
       "match": "exact",
       "label": "RFC 2606 保留测试标识"
+    },
+    {
+      "domain": "this-url-does-not-exist-61813949-8dba-47e0-9200-dda08c2fef2c.invalid",
+      "match": "exact",
+      "label": "灰产弹窗 / 流量中继"
     },
     {
       "domain": "this-url-does-not-exist-6185d82a-3130-4b53-9b96-3d2bb5356fb7.invalid",
@@ -64667,6 +64827,11 @@
       "label": "测试探针 / 无效域名"
     },
     {
+      "domain": "this-url-does-not-exist-67c8efd2-b61d-4400-abb9-602b8f242f5f.invalid",
+      "match": "exact",
+      "label": "综合互联网服务"
+    },
+    {
       "domain": "this-url-does-not-exist-67e7b6da-7f6f-44ea-9fdc-03560c10762d.invalid",
       "match": "exact",
       "label": "测试探针 / 无效域名"
@@ -64727,6 +64892,11 @@
       "label": "测试探针 / 无效域名"
     },
     {
+      "domain": "this-url-does-not-exist-68f5d592-ad64-4fc4-977c-ac70c60fab8e.invalid",
+      "match": "exact",
+      "label": "广告营销 / 数据统计"
+    },
+    {
       "domain": "this-url-does-not-exist-69153387-6ae5-4c4d-a62e-1201078956e2.invalid",
       "match": "exact",
       "label": "测试探针 / 无效域名"
@@ -64757,6 +64927,11 @@
       "label": "测试探针 / 无效域名"
     },
     {
+      "domain": "this-url-does-not-exist-6a11537a-0a1b-4815-af49-470c35d76f4c.invalid",
+      "match": "exact",
+      "label": "综合互联网服务"
+    },
+    {
       "domain": "this-url-does-not-exist-6a1a18d8-2a18-4500-9f1b-406077d469fd.invalid",
       "match": "exact",
       "label": "测试探针 / 无效域名"
@@ -64780,6 +64955,11 @@
       "domain": "this-url-does-not-exist-6a3fa15a-5d22-438b-9e5b-a577efcda776.invalid",
       "match": "exact",
       "label": "测试探针 / 无效域名"
+    },
+    {
+      "domain": "this-url-does-not-exist-6a89a30d-92b1-4b89-9f3e-4aa7890ea552.invalid",
+      "match": "exact",
+      "label": "综合互联网服务"
     },
     {
       "domain": "this-url-does-not-exist-6aaa5226-1d5e-4d25-98b3-f3899678a0ec.invalid",
@@ -64832,6 +65012,11 @@
       "label": "测试探针 / 无效域名"
     },
     {
+      "domain": "this-url-does-not-exist-6c403f5f-5e9f-43d4-8df3-d7cd90f49ca1.invalid",
+      "match": "exact",
+      "label": "综合互联网服务"
+    },
+    {
       "domain": "this-url-does-not-exist-6c6777a5-3310-4c2a-afe6-ea5395fdedc7.invalid",
       "match": "exact",
       "label": "测试探针 / 无效域名"
@@ -64872,6 +65057,11 @@
       "label": "测试探针 / 无效域名"
     },
     {
+      "domain": "this-url-does-not-exist-6e3eb4a6-1e7c-430a-93de-80fffebbcd2a.invalid",
+      "match": "exact",
+      "label": "灰产弹窗 / 流量中继"
+    },
+    {
       "domain": "this-url-does-not-exist-6e91cc17-f961-4911-bb17-13b7d4d2bc6e.invalid",
       "match": "exact",
       "label": "测试探针 / 无效域名"
@@ -64895,6 +65085,11 @@
       "domain": "this-url-does-not-exist-6f1b4e26-b036-44f0-8253-479008a205d4.invalid",
       "match": "exact",
       "label": "测试探针 / 无效域名"
+    },
+    {
+      "domain": "this-url-does-not-exist-6f1d5c03-d533-4b4f-97e8-4a52e32fa412.invalid",
+      "match": "exact",
+      "label": "灰产弹窗 / 流量中继"
     },
     {
       "domain": "this-url-does-not-exist-6f25ce7f-e54a-4a70-92a1-2fd7c368fbba.invalid",
@@ -64942,6 +65137,11 @@
       "label": "测试探针 / 无效域名"
     },
     {
+      "domain": "this-url-does-not-exist-7106c923-fd86-4cfe-9f87-dc25b7d22668.invalid",
+      "match": "exact",
+      "label": "综合互联网服务"
+    },
+    {
       "domain": "this-url-does-not-exist-71161cd8-d867-4487-912a-831fe844d61f.invalid",
       "match": "exact",
       "label": "测试探针 / 无效域名"
@@ -64975,6 +65175,11 @@
       "domain": "this-url-does-not-exist-71cf684d-28a3-4563-8080-4af8a7e0ff54.invalid",
       "match": "exact",
       "label": "测试探针 / 无效域名"
+    },
+    {
+      "domain": "this-url-does-not-exist-71e2083e-7196-4278-a436-c076de4cbf7c.invalid",
+      "match": "exact",
+      "label": "灰产弹窗 / 流量中继"
     },
     {
       "domain": "this-url-does-not-exist-71e8bb3b-fd74-4d3c-aaaa-69a2eb3026b0.invalid",
@@ -65142,6 +65347,11 @@
       "label": "测试探针 / 无效域名"
     },
     {
+      "domain": "this-url-does-not-exist-76edbcf8-fc6d-4086-927b-7879e42a8b6f.invalid",
+      "match": "exact",
+      "label": "综合互联网服务"
+    },
+    {
       "domain": "this-url-does-not-exist-770b6275-e1f2-4acb-ad3f-e34aa71505a0.invalid",
       "match": "exact",
       "label": "测试探针 / 无效域名"
@@ -65205,6 +65415,11 @@
       "domain": "this-url-does-not-exist-792523b9-1d9e-4bec-96ce-58111233d379.invalid",
       "match": "exact",
       "label": "测试探针 / 无效域名"
+    },
+    {
+      "domain": "this-url-does-not-exist-79316c9b-9526-4ba3-92c5-fb2100449cc5.invalid",
+      "match": "exact",
+      "label": "综合互联网服务"
     },
     {
       "domain": "this-url-does-not-exist-794a1029-0198-4af3-839f-fa5a1659053c.invalid",
@@ -65387,6 +65602,11 @@
       "label": "测试探针 / 无效域名"
     },
     {
+      "domain": "this-url-does-not-exist-7e90e7cc-c41a-424a-8ed5-8b51ac293a7e.invalid",
+      "match": "exact",
+      "label": "综合互联网服务"
+    },
+    {
       "domain": "this-url-does-not-exist-7e9d7a09-1c05-4dbd-88e2-866f4f479a78.invalid",
       "match": "exact",
       "label": "测试探针 / 无效域名"
@@ -65457,9 +65677,19 @@
       "label": "测试探针 / 无效域名"
     },
     {
+      "domain": "this-url-does-not-exist-8021ad56-06da-44e0-83dc-3acb0d4be851.invalid",
+      "match": "exact",
+      "label": "广告营销 / 数据统计"
+    },
+    {
       "domain": "this-url-does-not-exist-802b5d5f-4eb5-4465-8a58-4c4ffe37272b.invalid",
       "match": "exact",
       "label": "测试探针 / 无效域名"
+    },
+    {
+      "domain": "this-url-does-not-exist-805e2965-0014-4055-ba91-21556bb5a269.invalid",
+      "match": "exact",
+      "label": "灰产弹窗 / 流量中继"
     },
     {
       "domain": "this-url-does-not-exist-8062bcd2-0a86-4b9f-ab5e-e1a4a318e16d.invalid",
@@ -65470,6 +65700,11 @@
       "domain": "this-url-does-not-exist-80ab0336-e73c-47b8-b9fa-92ce35b09582.invalid",
       "match": "exact",
       "label": "测试探针 / 无效域名"
+    },
+    {
+      "domain": "this-url-does-not-exist-80b612d5-c094-4d47-bdb2-fc915c4b66da.invalid",
+      "match": "exact",
+      "label": "综合互联网服务"
     },
     {
       "domain": "this-url-does-not-exist-80d4f559-9f6e-4fdb-b78b-0a2ab2926fab.invalid",
@@ -65505,6 +65740,11 @@
       "domain": "this-url-does-not-exist-8161cb1b-791f-45ca-a516-35b408ab1746.invalid",
       "match": "exact",
       "label": "测试探针 / 无效域名"
+    },
+    {
+      "domain": "this-url-does-not-exist-8162b819-36fc-4364-b307-d929019f19cc.invalid",
+      "match": "exact",
+      "label": "综合互联网服务"
     },
     {
       "domain": "this-url-does-not-exist-816393c7-3b22-4764-93be-085739e52c8a.invalid",
@@ -65620,6 +65860,11 @@
       "domain": "this-url-does-not-exist-85078119-5adb-4571-b6f6-fe039f27df28.invalid",
       "match": "exact",
       "label": "测试探针 / 无效域名"
+    },
+    {
+      "domain": "this-url-does-not-exist-8529a1db-7124-48b5-bc16-e0588b90e41c.invalid",
+      "match": "exact",
+      "label": "综合互联网服务"
     },
     {
       "domain": "this-url-does-not-exist-8548eac7-d324-45b9-a710-108eaa2d4aec.invalid",
@@ -65852,6 +66097,11 @@
       "label": "测试探针 / 无效域名"
     },
     {
+      "domain": "this-url-does-not-exist-8d286cfe-36a7-4a4f-bfae-1013ec382a15.invalid",
+      "match": "exact",
+      "label": "综合互联网服务"
+    },
+    {
       "domain": "this-url-does-not-exist-8d302ed4-f5c7-43e8-905d-a8aa042de10b.invalid",
       "match": "exact",
       "label": "测试探针 / 无效域名"
@@ -66067,6 +66317,11 @@
       "label": "测试探针 / 无效域名"
     },
     {
+      "domain": "this-url-does-not-exist-957bf3bb-accb-4598-81b3-def19e51d984.invalid",
+      "match": "exact",
+      "label": "综合互联网服务"
+    },
+    {
       "domain": "this-url-does-not-exist-95e76c01-056e-4011-9407-e55aa0d0da21.invalid",
       "match": "exact",
       "label": "测试探针 / 无效域名"
@@ -66085,6 +66340,11 @@
       "domain": "this-url-does-not-exist-966ff84f-fbf6-4ee9-a2d7-86f66cd20d64.invalid",
       "match": "exact",
       "label": "测试探针 / 无效域名"
+    },
+    {
+      "domain": "this-url-does-not-exist-9670813d-7207-48ea-a93e-e9512d695d46.invalid",
+      "match": "exact",
+      "label": "综合互联网服务"
     },
     {
       "domain": "this-url-does-not-exist-96734d22-018e-4389-817e-5f61e5e27228.invalid",
@@ -66250,6 +66510,11 @@
       "domain": "this-url-does-not-exist-9b7aa43b-ac28-4f59-9927-01bd67aaef44.invalid",
       "match": "exact",
       "label": "测试探针 / 无效域名"
+    },
+    {
+      "domain": "this-url-does-not-exist-9baa1089-a7d8-46a5-add1-33050df3763e.invalid",
+      "match": "exact",
+      "label": "广告营销 / 数据统计"
     },
     {
       "domain": "this-url-does-not-exist-9bbcb2bd-2faf-47f9-b225-bce2033dbd4c.invalid",
@@ -66517,6 +66782,11 @@
       "label": "测试探针 / 无效域名"
     },
     {
+      "domain": "this-url-does-not-exist-a5b75512-dea8-41a3-99bb-4af94b1b4624.invalid",
+      "match": "exact",
+      "label": "综合互联网服务"
+    },
+    {
       "domain": "this-url-does-not-exist-a5e2cdd1-bb45-4d13-b744-26bab45ad876.invalid",
       "match": "exact",
       "label": "测试探针 / 无效域名"
@@ -66610,6 +66880,11 @@
       "domain": "this-url-does-not-exist-a9403846-2dbf-4146-ad55-87c78421378a.invalid",
       "match": "exact",
       "label": "测试探针 / 无效域名"
+    },
+    {
+      "domain": "this-url-does-not-exist-a9833a84-0755-43a3-9588-3cd03a37eaef.invalid",
+      "match": "exact",
+      "label": "灰产弹窗 / 流量中继"
     },
     {
       "domain": "this-url-does-not-exist-a99ecbd6-e5df-417f-a7eb-51525d10e410.invalid",
@@ -66807,6 +67082,16 @@
       "label": "浏览器 DNS 防劫持探测域名"
     },
     {
+      "domain": "this-url-does-not-exist-afe65f68-bf79-4a57-af2c-10c840a5e756.invalid",
+      "match": "exact",
+      "label": "综合互联网服务"
+    },
+    {
+      "domain": "this-url-does-not-exist-affddb67-c2ac-4f44-95cd-f5390ae7330b.invalid",
+      "match": "exact",
+      "label": "综合互联网服务"
+    },
+    {
       "domain": "this-url-does-not-exist-b00130a7-3c19-451f-a684-0a2414fba298.invalid",
       "match": "exact",
       "label": "测试探针 / 无效域名"
@@ -66912,6 +67197,16 @@
       "label": "测试探针 / 无效域名"
     },
     {
+      "domain": "this-url-does-not-exist-b3c3fa87-c9dd-4134-a091-8d61e10c27e4.invalid",
+      "match": "exact",
+      "label": "灰产弹窗 / 流量中继"
+    },
+    {
+      "domain": "this-url-does-not-exist-b481ada7-ce25-4161-9b06-4272f4689387.invalid",
+      "match": "exact",
+      "label": "广告营销 / 数据统计"
+    },
+    {
       "domain": "this-url-does-not-exist-b49327de-6f9d-4ad0-8598-acd69b194415.invalid",
       "match": "exact",
       "label": "测试探针 / 无效域名"
@@ -66985,6 +67280,11 @@
       "domain": "this-url-does-not-exist-b61eb028-92ef-4d84-b859-011dd1ab2df9.invalid",
       "match": "exact",
       "label": "测试探针 / 无效域名"
+    },
+    {
+      "domain": "this-url-does-not-exist-b63b93b2-a04f-40fb-8927-40e443deaa95.invalid",
+      "match": "exact",
+      "label": "灰产弹窗 / 流量中继"
     },
     {
       "domain": "this-url-does-not-exist-b6434d06-cec1-4c3a-ac2a-e45b82adc1c3.invalid",
@@ -67172,6 +67472,11 @@
       "label": "测试探针 / 无效域名"
     },
     {
+      "domain": "this-url-does-not-exist-bbc3f3a5-6566-4e2a-8909-03044affb419.invalid",
+      "match": "exact",
+      "label": "灰产弹窗 / 流量中继"
+    },
+    {
       "domain": "this-url-does-not-exist-bbe4e42b-6d78-400a-a48f-bfa167026067.invalid",
       "match": "exact",
       "label": "测试探针 / 无效域名"
@@ -67317,6 +67622,11 @@
       "label": "测试探针 / 无效域名"
     },
     {
+      "domain": "this-url-does-not-exist-bef7c596-ef03-4b76-a239-7308cb7cd2df.invalid",
+      "match": "exact",
+      "label": "综合互联网服务"
+    },
+    {
       "domain": "this-url-does-not-exist-bef84d15-2b67-427d-a52b-3e8d4266c022.invalid",
       "match": "exact",
       "label": "测试探针 / 无效域名"
@@ -67365,6 +67675,11 @@
       "domain": "this-url-does-not-exist-c0205438-4624-4d37-a11d-bd994055b584.invalid",
       "match": "exact",
       "label": "测试探针 / 无效域名"
+    },
+    {
+      "domain": "this-url-does-not-exist-c04cd4d3-4cb3-4229-b87c-1b2f8f455db3.invalid",
+      "match": "exact",
+      "label": "综合互联网服务"
     },
     {
       "domain": "this-url-does-not-exist-c0672187-b7b7-4502-96df-90bf3c8d254e.invalid",
@@ -67542,6 +67857,11 @@
       "label": "测试探针 / 无效域名"
     },
     {
+      "domain": "this-url-does-not-exist-c6299f25-e094-4d1a-ba68-05384402ca47.invalid",
+      "match": "exact",
+      "label": "综合互联网服务"
+    },
+    {
       "domain": "this-url-does-not-exist-c64f2971-4481-43d8-9370-8e89843dc020.invalid",
       "match": "exact",
       "label": "测试探针 / 无效域名"
@@ -67632,9 +67952,19 @@
       "label": "测试探针 / 无效域名"
     },
     {
+      "domain": "this-url-does-not-exist-c89a28f5-abb2-4a15-849f-b4e0a6ef695d.invalid",
+      "match": "exact",
+      "label": "灰产弹窗 / 流量中继"
+    },
+    {
       "domain": "this-url-does-not-exist-c8ac57bc-26be-4a4d-89ab-7f2a51d5a654.invalid",
       "match": "exact",
       "label": "测试探针 / 无效域名"
+    },
+    {
+      "domain": "this-url-does-not-exist-c8bc1a5c-a6eb-448a-98d8-dfd4f524106c.invalid",
+      "match": "exact",
+      "label": "综合互联网服务"
     },
     {
       "domain": "this-url-does-not-exist-c8bebded-1899-4c11-956c-47afe354194a.invalid",
@@ -67807,6 +68137,11 @@
       "label": "测试探针 / 无效域名"
     },
     {
+      "domain": "this-url-does-not-exist-cd5d6928-419e-48f8-ba84-53027c3e859a.invalid",
+      "match": "exact",
+      "label": "综合互联网服务"
+    },
+    {
       "domain": "this-url-does-not-exist-cd705631-1a12-4127-a2dc-70b3155bd66c.invalid",
       "match": "exact",
       "label": "测试探针 / 无效域名"
@@ -67830,6 +68165,11 @@
       "domain": "this-url-does-not-exist-ce026233-ff15-4ad2-b556-bfcd2806077f.invalid",
       "match": "exact",
       "label": "测试探针 / 无效域名"
+    },
+    {
+      "domain": "this-url-does-not-exist-ce62b10c-42f7-4b6b-9f09-bccb7dd6afea.invalid",
+      "match": "exact",
+      "label": "灰产弹窗 / 流量中继"
     },
     {
       "domain": "this-url-does-not-exist-ce83380d-9a87-44ce-a6f7-e59a053abaac.invalid",
@@ -67925,6 +68265,11 @@
       "domain": "this-url-does-not-exist-d0a08866-9023-47ea-8271-724e6d48337e.invalid",
       "match": "exact",
       "label": "浏览器 DNS 防劫持探测域名"
+    },
+    {
+      "domain": "this-url-does-not-exist-d0a6be51-1fec-460c-bfdc-5f2d1f49cbbf.invalid",
+      "match": "exact",
+      "label": "综合互联网服务"
     },
     {
       "domain": "this-url-does-not-exist-d0d07e39-23ee-44fa-8bc9-c1fc15cda45c.invalid",
@@ -68085,6 +68430,11 @@
       "domain": "this-url-does-not-exist-d628b450-5b11-4899-9cef-c06f9e129ce2.invalid",
       "match": "exact",
       "label": "测试探针 / 无效域名"
+    },
+    {
+      "domain": "this-url-does-not-exist-d64893e4-cb0f-4e40-926c-7489c57fc49e.invalid",
+      "match": "exact",
+      "label": "综合互联网服务"
     },
     {
       "domain": "this-url-does-not-exist-d654fe23-24f5-4363-bced-93b87793ff28.invalid",
@@ -68352,6 +68702,11 @@
       "label": "测试探针 / 无效域名"
     },
     {
+      "domain": "this-url-does-not-exist-dec12d19-5c03-40d1-8e61-066926b45fe3.invalid",
+      "match": "exact",
+      "label": "灰产弹窗 / 流量中继"
+    },
+    {
       "domain": "this-url-does-not-exist-deeb4f66-7645-485f-8258-9b85e6181c71.invalid",
       "match": "exact",
       "label": "测试探针 / 无效域名"
@@ -68420,6 +68775,11 @@
       "domain": "this-url-does-not-exist-e130f371-bf2a-40f6-b621-ffb9a190cc2e.invalid",
       "match": "exact",
       "label": "测试探针 / 无效域名"
+    },
+    {
+      "domain": "this-url-does-not-exist-e17ab995-d2d2-419e-89d1-f545eed279b1.invalid",
+      "match": "exact",
+      "label": "灰产弹窗 / 流量中继"
     },
     {
       "domain": "this-url-does-not-exist-e17ccc05-d6db-4af2-8fad-e00b92295058.invalid",
@@ -68572,6 +68932,11 @@
       "label": "测试探针 / 无效域名"
     },
     {
+      "domain": "this-url-does-not-exist-e54e1b4d-b119-4fda-a593-707f2adafa4c.invalid",
+      "match": "exact",
+      "label": "广告营销 / 数据统计"
+    },
+    {
       "domain": "this-url-does-not-exist-e58aae7f-4681-454f-9acc-5e093a58c9a5.invalid",
       "match": "exact",
       "label": "测试探针 / 无效域名"
@@ -68647,6 +69012,11 @@
       "label": "测试探针 / 无效域名"
     },
     {
+      "domain": "this-url-does-not-exist-e8dd6515-ea62-4ac3-b709-8b48d7ec7c5b.invalid",
+      "match": "exact",
+      "label": "综合互联网服务"
+    },
+    {
       "domain": "this-url-does-not-exist-e8e99a2c-39ee-4d6a-961e-e974076da8c7.invalid",
       "match": "exact",
       "label": "测试探针 / 无效域名"
@@ -68655,6 +69025,11 @@
       "domain": "this-url-does-not-exist-e9158a1a-6ad1-4e9c-be00-c303af8584f4.invalid",
       "match": "exact",
       "label": "浏览器 DNS 防劫持探测域名"
+    },
+    {
+      "domain": "this-url-does-not-exist-e92aaccb-aa8d-4125-add7-2783b923f085.invalid",
+      "match": "exact",
+      "label": "广告营销 / 数据统计"
     },
     {
       "domain": "this-url-does-not-exist-e979e3b5-0a34-4684-9e46-b73f017f39de.invalid",
@@ -68862,6 +69237,11 @@
       "label": "测试探针 / 无效域名"
     },
     {
+      "domain": "this-url-does-not-exist-efb9e469-578a-4370-b9c9-a6571929f2c0.invalid",
+      "match": "exact",
+      "label": "综合互联网服务"
+    },
+    {
       "domain": "this-url-does-not-exist-efd13f62-edb1-461b-856a-891f4efab69b.invalid",
       "match": "exact",
       "label": "测试探针 / 无效域名"
@@ -68997,6 +69377,11 @@
       "label": "测试探针 / 无效域名"
     },
     {
+      "domain": "this-url-does-not-exist-f20c3e46-bdde-4021-8bf7-6e5b3fb0a6a2.invalid",
+      "match": "exact",
+      "label": "综合互联网服务"
+    },
+    {
       "domain": "this-url-does-not-exist-f23e2a5c-0747-4905-8ee5-4ffb6aeb8980.invalid",
       "match": "exact",
       "label": "测试探针 / 无效域名"
@@ -69105,6 +69490,11 @@
       "domain": "this-url-does-not-exist-f62d114c-f2d8-4f34-b92c-45ba93dd2a95.invalid",
       "match": "exact",
       "label": "测试探针 / 无效域名"
+    },
+    {
+      "domain": "this-url-does-not-exist-f658ce12-046e-4f5d-afa9-7bf97b85e7a9.invalid",
+      "match": "exact",
+      "label": "灰产弹窗 / 流量中继"
     },
     {
       "domain": "this-url-does-not-exist-f68d279a-1b6a-40c9-9d29-60a5d96243c3.invalid",
@@ -69275,6 +69665,11 @@
       "domain": "this-url-does-not-exist-fc27fff7-ae88-4012-9777-0f17b1bc032d.invalid",
       "match": "exact",
       "label": "测试探针 / 无效域名"
+    },
+    {
+      "domain": "this-url-does-not-exist-fc493c18-a093-4431-b7da-41ae57b7b2e8.invalid",
+      "match": "exact",
+      "label": "灰产弹窗 / 流量中继"
     },
     {
       "domain": "this-url-does-not-exist-fc514821-8386-4ac4-8c35-c39339256502.invalid",
@@ -72667,6 +73062,11 @@
       "label": "行业资讯 / 商业服务"
     },
     {
+      "domain": "46f1e.icu",
+      "match": "suffix",
+      "label": "46f1e 互联网网络服务"
+    },
+    {
       "domain": "46z02bj3.com",
       "match": "suffix",
       "label": "行业资讯 / 商业服务"
@@ -73995,6 +74395,11 @@
       "domain": "5xsq.com",
       "match": "suffix",
       "label": "5X社区 原创成人福利论坛"
+    },
+    {
+      "domain": "5yuan.org",
+      "match": "suffix",
+      "label": "5yuan 互联网网络服务"
     },
     {
       "domain": "60355.net",
@@ -79472,6 +79877,11 @@
       "label": "行业资讯 / 商业服务"
     },
     {
+      "domain": "airpackapp.com",
+      "match": "suffix",
+      "label": "Airpackapp 互联网网络服务"
+    },
+    {
       "domain": "airpay.sg",
       "match": "suffix",
       "label": "行业资讯 / 商业服务"
@@ -81550,6 +81960,11 @@
       "domain": "appinn.com",
       "match": "suffix",
       "label": "小众软件 实用工具社区"
+    },
+    {
+      "domain": "appinternational.net",
+      "match": "suffix",
+      "label": "Appinternational 互联网网络服务"
     },
     {
       "domain": "appirits.com",
@@ -87657,6 +88072,11 @@
       "label": "笔趣阁 平台"
     },
     {
+      "domain": "bqg403.top",
+      "match": "suffix",
+      "label": "Bqg403 互联网网络服务"
+    },
+    {
       "domain": "bqg406.xyz",
       "match": "suffix",
       "label": "笔趣阁 平台"
@@ -87690,6 +88110,11 @@
       "domain": "bqg732.cc",
       "match": "suffix",
       "label": "网络小说 / 在线文学"
+    },
+    {
+      "domain": "bqg810.cc",
+      "match": "suffix",
+      "label": "Bqg810 互联网网络服务"
     },
     {
       "domain": "bqg876.cc",
@@ -92547,6 +92972,16 @@
       "label": "Chevereto 开源图床系统"
     },
     {
+      "domain": "ckbhjpg2.top",
+      "match": "suffix",
+      "label": "Ckbhjpg2 互联网网络服务"
+    },
+    {
+      "domain": "ckbhm3u8.com",
+      "match": "suffix",
+      "label": "Ckbhm3u8 互联网网络服务"
+    },
+    {
       "domain": "ckeditor.com",
       "match": "suffix",
       "label": "CKEditor 开源富文本编辑器"
@@ -92565,6 +93000,11 @@
       "domain": "cktongji.com",
       "match": "suffix",
       "label": "行业资讯 / 商业服务"
+    },
+    {
+      "domain": "ckts2.top",
+      "match": "suffix",
+      "label": "Ckts2 互联网网络服务"
     },
     {
       "domain": "ckxx.net",
@@ -95682,6 +96122,11 @@
       "label": "Cult Beauty 英国美妆电商"
     },
     {
+      "domain": "cumeroplay.com",
+      "match": "suffix",
+      "label": "Cumeroplay 互联网网络服务"
+    },
+    {
       "domain": "cumhub.ai",
       "match": "suffix",
       "label": "CumHub AI   AI 服务网站"
@@ -96530,6 +96975,11 @@
       "domain": "danm8.com",
       "match": "suffix",
       "label": "Danm8 移动端智能互动工具"
+    },
+    {
+      "domain": "danmakus.com",
+      "match": "suffix",
+      "label": "Danmakus 互联网网络服务"
     },
     {
       "domain": "danmei.info",
@@ -98252,6 +98702,11 @@
       "label": "DigVPS   专注服务器测 服务网站"
     },
     {
+      "domain": "dihcnhnu.cc",
+      "match": "suffix",
+      "label": "Dihcnhnu 互联网网络服务"
+    },
+    {
       "domain": "dimensions.ai",
       "match": "suffix",
       "label": "Dimensions AI 服务网站"
@@ -98360,11 +98815,6 @@
       "domain": "dirogavicak.online",
       "match": "suffix",
       "label": "推广导流 / 动态解析跳转"
-    },
-    {
-      "domain": "disabled.invalid",
-      "match": "exact",
-      "label": "灰产弹窗 / 流量中继"
     },
     {
       "domain": "disco-in.icu",
@@ -112537,6 +112987,11 @@
       "label": "业务数据接口服务"
     },
     {
+      "domain": "hd365.cyou",
+      "match": "suffix",
+      "label": "Hd365 互联网网络服务"
+    },
+    {
       "domain": "hdacode.com",
       "match": "suffix",
       "label": "行业资讯 / 商业服务"
@@ -113892,6 +114347,11 @@
       "label": "灰产弹窗 / 流量中继"
     },
     {
+      "domain": "hkmovie6.com",
+      "match": "suffix",
+      "label": "Hkmovie6 互联网网络服务"
+    },
+    {
       "domain": "hknewcentury.com",
       "match": "suffix",
       "label": "新世纪工程 香港建材机电工程"
@@ -114220,6 +114680,11 @@
       "domain": "hm0260t.vip",
       "match": "suffix",
       "label": "Hm0260t 互联网网络服务"
+    },
+    {
+      "domain": "hm0266t.vip",
+      "match": "suffix",
+      "label": "Hm0266t 互联网网络服务"
     },
     {
       "domain": "hm0295t.vip",
@@ -121847,6 +122312,11 @@
       "label": "灰产弹窗 / 流量中继"
     },
     {
+      "domain": "jpxjpg10.top",
+      "match": "suffix",
+      "label": "Jpxjpg10 互联网网络服务"
+    },
+    {
       "domain": "jpxjpg2.top",
       "match": "suffix",
       "label": "成人影视 / 图片切片 CDN"
@@ -122975,6 +123445,11 @@
       "domain": "kandianshu.com",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
+    },
+    {
+      "domain": "kandianying.ai",
+      "match": "suffix",
+      "label": "Kandianying 互联网网络服务"
     },
     {
       "domain": "kangchao.top",
@@ -126005,6 +126480,11 @@
       "domain": "letsdoeit.com",
       "match": "suffix",
       "label": "行业资讯 / 商业服务"
+    },
+    {
+      "domain": "letsimmer.com",
+      "match": "suffix",
+      "label": "Letsimmer 互联网网络服务"
     },
     {
       "domain": "letsplayuno.com",
@@ -134222,6 +134702,11 @@
       "label": "Movavi 知名视频剪辑创作"
     },
     {
+      "domain": "movie6.com",
+      "match": "suffix",
+      "label": "Movie6 互联网网络服务"
+    },
+    {
       "domain": "moviecool.asia",
       "match": "suffix",
       "label": "MovieCool 華文影視數據平台 平台"
@@ -140037,6 +140522,11 @@
       "label": "行业资讯 / 商业服务"
     },
     {
+      "domain": "openchamber.dev",
+      "match": "suffix",
+      "label": "Openchamber 互联网网络服务"
+    },
+    {
       "domain": "opencitations.net",
       "match": "suffix",
       "label": "OpenCitations 开放引用库"
@@ -143192,6 +143682,11 @@
       "label": "盗版影视 / 视频解析"
     },
     {
+      "domain": "play-tga.net",
+      "match": "suffix",
+      "label": "Play-tga 互联网网络服务"
+    },
+    {
       "domain": "play.st",
       "match": "suffix",
       "label": "PlayStation 索尼主机互动娱乐"
@@ -145042,6 +145537,11 @@
       "label": "Product Hunt 全球创新产品社区"
     },
     {
+      "domain": "productionhub.com",
+      "match": "suffix",
+      "label": "Productionhub 互联网网络服务"
+    },
+    {
       "domain": "productreview.com.au",
       "match": "suffix",
       "label": "ProductReview 澳洲真实消费评价"
@@ -145095,6 +145595,11 @@
       "domain": "progrtb.com",
       "match": "suffix",
       "label": "数字营销 / 广告投放"
+    },
+    {
+      "domain": "prohub.com",
+      "match": "suffix",
+      "label": "Prohub 互联网网络服务"
     },
     {
       "domain": "proiiuwan.online",
@@ -150377,6 +150882,11 @@
       "label": "行业资讯 / 商业服务"
     },
     {
+      "domain": "rtr2perf6.com",
+      "match": "suffix",
+      "label": "Rtr2perf6 互联网网络服务"
+    },
+    {
       "domain": "rttrk.com",
       "match": "suffix",
       "label": "行业资讯 / 商业服务"
@@ -153022,6 +153532,11 @@
       "label": "云端服务 / 接口网关"
     },
     {
+      "domain": "sextpanther.com",
+      "match": "suffix",
+      "label": "Sextpanther 互联网网络服务"
+    },
+    {
       "domain": "sextubelab.com",
       "match": "suffix",
       "label": "成人影视 / 娱乐内容"
@@ -153435,6 +153950,11 @@
       "domain": "she1919.com",
       "match": "suffix",
       "label": "She1919 互联网网络服务"
+    },
+    {
+      "domain": "sheer.com",
+      "match": "suffix",
+      "label": "Sheer 互联网网络服务"
     },
     {
       "domain": "sheerid.com",
@@ -157567,6 +158087,11 @@
       "label": "商业静态资源托管 CDN"
     },
     {
+      "domain": "staticimgs.com",
+      "match": "suffix",
+      "label": "Staticimgs 互联网网络服务"
+    },
+    {
       "domain": "staticj.top",
       "match": "suffix",
       "label": "广告营销 / 数据统计"
@@ -159300,6 +159825,11 @@
       "domain": "sxyygh.com",
       "match": "suffix",
       "label": "行业资讯 / 商业服务"
+    },
+    {
+      "domain": "syaro.io",
+      "match": "suffix",
+      "label": "Syaro 互联网网络服务"
     },
     {
       "domain": "syatwjima.cc",
@@ -161820,366 +162350,6 @@
       "domain": "thirdiron.com",
       "match": "suffix",
       "label": "Third Iron 学术文献访问"
-    },
-    {
-      "domain": "this-url-does-not-exist-00304fc6-09a2-4f94-9096-d999c51c8572.invalid",
-      "match": "exact",
-      "label": "综合互联网服务"
-    },
-    {
-      "domain": "this-url-does-not-exist-02d731ed-d8dd-4fcb-b124-4374ebc7ff1a.invalid",
-      "match": "exact",
-      "label": "综合互联网服务"
-    },
-    {
-      "domain": "this-url-does-not-exist-0eed97bd-6724-40bd-9758-a142b67436c7.invalid",
-      "match": "exact",
-      "label": "综合互联网服务"
-    },
-    {
-      "domain": "this-url-does-not-exist-252b8ceb-e89b-48ce-830d-80bf665e7a3e.invalid",
-      "match": "exact",
-      "label": "综合互联网服务"
-    },
-    {
-      "domain": "this-url-does-not-exist-25657f4d-3a68-4033-9331-0e9cfbae3b22.invalid",
-      "match": "exact",
-      "label": "灰产弹窗 / 流量中继"
-    },
-    {
-      "domain": "this-url-does-not-exist-2939de91-32c1-4027-ab85-b9ab905b2ddc.invalid",
-      "match": "exact",
-      "label": "灰产弹窗 / 流量中继"
-    },
-    {
-      "domain": "this-url-does-not-exist-2abf881b-a8b8-4c75-8a9e-a4e8c90ec3b2.invalid",
-      "match": "exact",
-      "label": "综合互联网服务"
-    },
-    {
-      "domain": "this-url-does-not-exist-2c120a68-eeed-4e87-a349-9a5d84d3160e.invalid",
-      "match": "exact",
-      "label": "灰产弹窗 / 流量中继"
-    },
-    {
-      "domain": "this-url-does-not-exist-3295e4a5-e94b-4d2f-b6f4-0a6c50cdd841.invalid",
-      "match": "exact",
-      "label": "综合互联网服务"
-    },
-    {
-      "domain": "this-url-does-not-exist-33ebf9c6-3db4-4f91-99f1-8b6c3c9616e7.invalid",
-      "match": "exact",
-      "label": "综合互联网服务"
-    },
-    {
-      "domain": "this-url-does-not-exist-34be9e40-3d8c-48d4-8207-40c35bdc7f82.invalid",
-      "match": "exact",
-      "label": "综合互联网服务"
-    },
-    {
-      "domain": "this-url-does-not-exist-3715fcf6-b54c-4140-8890-fa0a6974520d.invalid",
-      "match": "exact",
-      "label": "综合互联网服务"
-    },
-    {
-      "domain": "this-url-does-not-exist-38569bd7-b91d-4454-a2a8-5df1f68f56ca.invalid",
-      "match": "exact",
-      "label": "灰产弹窗 / 流量中继"
-    },
-    {
-      "domain": "this-url-does-not-exist-450e90f9-d289-4bc7-88e9-4430a32c2f11.invalid",
-      "match": "exact",
-      "label": "综合互联网服务"
-    },
-    {
-      "domain": "this-url-does-not-exist-4790270c-2cff-402f-99ed-a48d90396d31.invalid",
-      "match": "exact",
-      "label": "灰产弹窗 / 流量中继"
-    },
-    {
-      "domain": "this-url-does-not-exist-47ab2ca0-e512-450a-bfc2-354354cdeaa1.invalid",
-      "match": "exact",
-      "label": "综合互联网服务"
-    },
-    {
-      "domain": "this-url-does-not-exist-48009659-e25e-4d0b-ab3c-93fde309510b.invalid",
-      "match": "exact",
-      "label": "综合互联网服务"
-    },
-    {
-      "domain": "this-url-does-not-exist-48c15bfa-3e5e-4049-9bf8-f7354994de14.invalid",
-      "match": "exact",
-      "label": "综合互联网服务"
-    },
-    {
-      "domain": "this-url-does-not-exist-5014452e-0b14-4604-88bd-72881bff4307.invalid",
-      "match": "exact",
-      "label": "综合互联网服务"
-    },
-    {
-      "domain": "this-url-does-not-exist-50c9c01d-5189-4430-b6c0-13da8dd3a24d.invalid",
-      "match": "exact",
-      "label": "成人影视 / 内容导流"
-    },
-    {
-      "domain": "this-url-does-not-exist-5138da59-6d56-404e-b2d7-0366b678ef67.invalid",
-      "match": "exact",
-      "label": "灰产弹窗 / 流量中继"
-    },
-    {
-      "domain": "this-url-does-not-exist-56fc3753-4486-4536-b99f-659ad858d45d.invalid",
-      "match": "exact",
-      "label": "商业广告 / 埋点追踪"
-    },
-    {
-      "domain": "this-url-does-not-exist-5a0ad471-ed06-476b-95f4-c36078fa0987.invalid",
-      "match": "exact",
-      "label": "广告营销 / 数据统计"
-    },
-    {
-      "domain": "this-url-does-not-exist-60e7d405-a6d7-44ca-950f-d3d84b3648da.invalid",
-      "match": "exact",
-      "label": "综合互联网服务"
-    },
-    {
-      "domain": "this-url-does-not-exist-61813949-8dba-47e0-9200-dda08c2fef2c.invalid",
-      "match": "exact",
-      "label": "灰产弹窗 / 流量中继"
-    },
-    {
-      "domain": "this-url-does-not-exist-67c8efd2-b61d-4400-abb9-602b8f242f5f.invalid",
-      "match": "exact",
-      "label": "综合互联网服务"
-    },
-    {
-      "domain": "this-url-does-not-exist-68f5d592-ad64-4fc4-977c-ac70c60fab8e.invalid",
-      "match": "exact",
-      "label": "广告营销 / 数据统计"
-    },
-    {
-      "domain": "this-url-does-not-exist-6a11537a-0a1b-4815-af49-470c35d76f4c.invalid",
-      "match": "exact",
-      "label": "综合互联网服务"
-    },
-    {
-      "domain": "this-url-does-not-exist-6a89a30d-92b1-4b89-9f3e-4aa7890ea552.invalid",
-      "match": "exact",
-      "label": "综合互联网服务"
-    },
-    {
-      "domain": "this-url-does-not-exist-6c403f5f-5e9f-43d4-8df3-d7cd90f49ca1.invalid",
-      "match": "exact",
-      "label": "综合互联网服务"
-    },
-    {
-      "domain": "this-url-does-not-exist-6e3eb4a6-1e7c-430a-93de-80fffebbcd2a.invalid",
-      "match": "exact",
-      "label": "灰产弹窗 / 流量中继"
-    },
-    {
-      "domain": "this-url-does-not-exist-6f1d5c03-d533-4b4f-97e8-4a52e32fa412.invalid",
-      "match": "exact",
-      "label": "灰产弹窗 / 流量中继"
-    },
-    {
-      "domain": "this-url-does-not-exist-7106c923-fd86-4cfe-9f87-dc25b7d22668.invalid",
-      "match": "exact",
-      "label": "综合互联网服务"
-    },
-    {
-      "domain": "this-url-does-not-exist-71e2083e-7196-4278-a436-c076de4cbf7c.invalid",
-      "match": "exact",
-      "label": "灰产弹窗 / 流量中继"
-    },
-    {
-      "domain": "this-url-does-not-exist-76edbcf8-fc6d-4086-927b-7879e42a8b6f.invalid",
-      "match": "exact",
-      "label": "综合互联网服务"
-    },
-    {
-      "domain": "this-url-does-not-exist-79316c9b-9526-4ba3-92c5-fb2100449cc5.invalid",
-      "match": "exact",
-      "label": "综合互联网服务"
-    },
-    {
-      "domain": "this-url-does-not-exist-7e90e7cc-c41a-424a-8ed5-8b51ac293a7e.invalid",
-      "match": "exact",
-      "label": "综合互联网服务"
-    },
-    {
-      "domain": "this-url-does-not-exist-8021ad56-06da-44e0-83dc-3acb0d4be851.invalid",
-      "match": "exact",
-      "label": "广告营销 / 数据统计"
-    },
-    {
-      "domain": "this-url-does-not-exist-805e2965-0014-4055-ba91-21556bb5a269.invalid",
-      "match": "exact",
-      "label": "灰产弹窗 / 流量中继"
-    },
-    {
-      "domain": "this-url-does-not-exist-80b612d5-c094-4d47-bdb2-fc915c4b66da.invalid",
-      "match": "exact",
-      "label": "综合互联网服务"
-    },
-    {
-      "domain": "this-url-does-not-exist-8162b819-36fc-4364-b307-d929019f19cc.invalid",
-      "match": "exact",
-      "label": "综合互联网服务"
-    },
-    {
-      "domain": "this-url-does-not-exist-8529a1db-7124-48b5-bc16-e0588b90e41c.invalid",
-      "match": "exact",
-      "label": "综合互联网服务"
-    },
-    {
-      "domain": "this-url-does-not-exist-8d286cfe-36a7-4a4f-bfae-1013ec382a15.invalid",
-      "match": "exact",
-      "label": "综合互联网服务"
-    },
-    {
-      "domain": "this-url-does-not-exist-957bf3bb-accb-4598-81b3-def19e51d984.invalid",
-      "match": "exact",
-      "label": "综合互联网服务"
-    },
-    {
-      "domain": "this-url-does-not-exist-9670813d-7207-48ea-a93e-e9512d695d46.invalid",
-      "match": "exact",
-      "label": "综合互联网服务"
-    },
-    {
-      "domain": "this-url-does-not-exist-9baa1089-a7d8-46a5-add1-33050df3763e.invalid",
-      "match": "exact",
-      "label": "广告营销 / 数据统计"
-    },
-    {
-      "domain": "this-url-does-not-exist-a5b75512-dea8-41a3-99bb-4af94b1b4624.invalid",
-      "match": "exact",
-      "label": "综合互联网服务"
-    },
-    {
-      "domain": "this-url-does-not-exist-a9833a84-0755-43a3-9588-3cd03a37eaef.invalid",
-      "match": "exact",
-      "label": "灰产弹窗 / 流量中继"
-    },
-    {
-      "domain": "this-url-does-not-exist-afe65f68-bf79-4a57-af2c-10c840a5e756.invalid",
-      "match": "exact",
-      "label": "综合互联网服务"
-    },
-    {
-      "domain": "this-url-does-not-exist-affddb67-c2ac-4f44-95cd-f5390ae7330b.invalid",
-      "match": "exact",
-      "label": "综合互联网服务"
-    },
-    {
-      "domain": "this-url-does-not-exist-b3c3fa87-c9dd-4134-a091-8d61e10c27e4.invalid",
-      "match": "exact",
-      "label": "灰产弹窗 / 流量中继"
-    },
-    {
-      "domain": "this-url-does-not-exist-b481ada7-ce25-4161-9b06-4272f4689387.invalid",
-      "match": "exact",
-      "label": "广告营销 / 数据统计"
-    },
-    {
-      "domain": "this-url-does-not-exist-b63b93b2-a04f-40fb-8927-40e443deaa95.invalid",
-      "match": "exact",
-      "label": "灰产弹窗 / 流量中继"
-    },
-    {
-      "domain": "this-url-does-not-exist-bbc3f3a5-6566-4e2a-8909-03044affb419.invalid",
-      "match": "exact",
-      "label": "灰产弹窗 / 流量中继"
-    },
-    {
-      "domain": "this-url-does-not-exist-bef7c596-ef03-4b76-a239-7308cb7cd2df.invalid",
-      "match": "exact",
-      "label": "综合互联网服务"
-    },
-    {
-      "domain": "this-url-does-not-exist-c04cd4d3-4cb3-4229-b87c-1b2f8f455db3.invalid",
-      "match": "exact",
-      "label": "综合互联网服务"
-    },
-    {
-      "domain": "this-url-does-not-exist-c6299f25-e094-4d1a-ba68-05384402ca47.invalid",
-      "match": "exact",
-      "label": "综合互联网服务"
-    },
-    {
-      "domain": "this-url-does-not-exist-c89a28f5-abb2-4a15-849f-b4e0a6ef695d.invalid",
-      "match": "exact",
-      "label": "灰产弹窗 / 流量中继"
-    },
-    {
-      "domain": "this-url-does-not-exist-c8bc1a5c-a6eb-448a-98d8-dfd4f524106c.invalid",
-      "match": "exact",
-      "label": "综合互联网服务"
-    },
-    {
-      "domain": "this-url-does-not-exist-cd5d6928-419e-48f8-ba84-53027c3e859a.invalid",
-      "match": "exact",
-      "label": "综合互联网服务"
-    },
-    {
-      "domain": "this-url-does-not-exist-ce62b10c-42f7-4b6b-9f09-bccb7dd6afea.invalid",
-      "match": "exact",
-      "label": "灰产弹窗 / 流量中继"
-    },
-    {
-      "domain": "this-url-does-not-exist-d0a6be51-1fec-460c-bfdc-5f2d1f49cbbf.invalid",
-      "match": "exact",
-      "label": "综合互联网服务"
-    },
-    {
-      "domain": "this-url-does-not-exist-d64893e4-cb0f-4e40-926c-7489c57fc49e.invalid",
-      "match": "exact",
-      "label": "综合互联网服务"
-    },
-    {
-      "domain": "this-url-does-not-exist-dec12d19-5c03-40d1-8e61-066926b45fe3.invalid",
-      "match": "exact",
-      "label": "灰产弹窗 / 流量中继"
-    },
-    {
-      "domain": "this-url-does-not-exist-e17ab995-d2d2-419e-89d1-f545eed279b1.invalid",
-      "match": "exact",
-      "label": "灰产弹窗 / 流量中继"
-    },
-    {
-      "domain": "this-url-does-not-exist-e54e1b4d-b119-4fda-a593-707f2adafa4c.invalid",
-      "match": "exact",
-      "label": "广告营销 / 数据统计"
-    },
-    {
-      "domain": "this-url-does-not-exist-e8dd6515-ea62-4ac3-b709-8b48d7ec7c5b.invalid",
-      "match": "exact",
-      "label": "综合互联网服务"
-    },
-    {
-      "domain": "this-url-does-not-exist-e92aaccb-aa8d-4125-add7-2783b923f085.invalid",
-      "match": "exact",
-      "label": "广告营销 / 数据统计"
-    },
-    {
-      "domain": "this-url-does-not-exist-efb9e469-578a-4370-b9c9-a6571929f2c0.invalid",
-      "match": "exact",
-      "label": "综合互联网服务"
-    },
-    {
-      "domain": "this-url-does-not-exist-f20c3e46-bdde-4021-8bf7-6e5b3fb0a6a2.invalid",
-      "match": "exact",
-      "label": "综合互联网服务"
-    },
-    {
-      "domain": "this-url-does-not-exist-f658ce12-046e-4f5d-afa9-7bf97b85e7a9.invalid",
-      "match": "exact",
-      "label": "灰产弹窗 / 流量中继"
-    },
-    {
-      "domain": "this-url-does-not-exist-fc493c18-a093-4431-b7da-41ae57b7b2e8.invalid",
-      "match": "exact",
-      "label": "灰产弹窗 / 流量中继"
     },
     {
       "domain": "thisav.com",
@@ -170762,6 +170932,11 @@
       "label": "行业资讯 / 商业服务"
     },
     {
+      "domain": "wanwanworld.top",
+      "match": "suffix",
+      "label": "Wanwanworld 互联网网络服务"
+    },
+    {
       "domain": "wanwu50.com",
       "match": "suffix",
       "label": "成人影视 / 娱乐内容"
@@ -176630,6 +176805,11 @@
       "domain": "xyideomchk2.com",
       "match": "suffix",
       "label": "行业资讯 / 商业服务"
+    },
+    {
+      "domain": "xykmovie.com",
+      "match": "suffix",
+      "label": "Xykmovie 互联网网络服务"
     },
     {
       "domain": "xyshu8.com",
