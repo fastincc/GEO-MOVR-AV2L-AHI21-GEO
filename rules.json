@@ -95637,6 +95637,11 @@
       "label": "CSSCDN 灰产前端加速节点"
     },
     {
+      "domain": "cssstyle.motorcycles",
+      "match": "suffix",
+      "label": "静态样式与脚本分发"
+    },
+    {
       "domain": "csvqtd.com",
       "match": "suffix",
       "label": "行业资讯 / 商业服务"
@@ -134360,11 +134365,6 @@
       "domain": "motivationquotes.app",
       "match": "suffix",
       "label": "云端服务 / 接口网关"
-    },
-    {
-      "domain": "motorcycles",
-      "match": "suffix",
-      "label": "静态样式与脚本分发"
     },
     {
       "domain": "motortrend.com",
