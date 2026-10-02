@@ -62927,6 +62927,11 @@
       "label": "测试探针 / 无效域名"
     },
     {
+      "domain": "this-url-does-not-exist-b95eec5d-a4bd-4c5c-a836-3d7d1ecaf866.invalid",
+      "match": "exact",
+      "label": "测试探针 / 无效域名"
+    },
+    {
       "domain": "this-url-does-not-exist-b9754d60-4fd0-45c6-a05f-c95adb238e99.invalid",
       "match": "exact",
       "label": "测试探针 / 无效域名"
@@ -97450,6 +97455,11 @@
       "domain": "evoload.io",
       "match": "suffix",
       "label": "行业资讯 / 商业服务"
+    },
+    {
+      "domain": "ew0ctzt3vd.com",
+      "match": "suffix",
+      "label": "动态业务加速代理节点"
     },
     {
       "domain": "ewan.cn",
