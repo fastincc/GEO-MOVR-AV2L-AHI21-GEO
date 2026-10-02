@@ -60957,11 +60957,6 @@
       "label": "自动化探针 / 随机测试"
     },
     {
-      "domain": "189.cnopenapi",
-      "match": "exact",
-      "label": "前端异常 / 拼接测试"
-    },
-    {
       "domain": "19432415.com",
       "match": "exact",
       "label": "自动化探针 / 随机测试"
@@ -60975,11 +60970,6 @@
       "domain": "2026ws.app",
       "match": "exact",
       "label": "移动端测试 / 本地回环映射"
-    },
-    {
-      "domain": "23.docx",
-      "match": "exact",
-      "label": "前端异常 / 拼接测试"
     },
     {
       "domain": "2690125.cc",
@@ -61057,11 +61047,6 @@
       "label": "自动化探针 / 随机测试"
     },
     {
-      "domain": "7.23.docx",
-      "match": "exact",
-      "label": "前端异常 / 资源错位"
-    },
-    {
       "domain": "72972370.com",
       "match": "exact",
       "label": "自动化探针 / 随机测试"
@@ -61117,29 +61102,9 @@
       "label": "自动化探针 / 随机测试"
     },
     {
-      "domain": "api-external.g.mi.srv",
-      "match": "exact",
-      "label": "内部测试 / 本地服务配置"
-    },
-    {
-      "domain": "api2.pokecolor.cnundefined",
-      "match": "exact",
-      "label": "前端异常 / 拼接测试"
-    },
-    {
       "domain": "app-api.rsg.mamba-app.one-member.com",
       "match": "exact",
       "label": "移动端测试 / 本地回环映射"
-    },
-    {
-      "domain": "archiveofourown.orgp",
-      "match": "exact",
-      "label": "前端异常 / 拼接测试"
-    },
-    {
-      "domain": "b.ty",
-      "match": "exact",
-      "label": "自动化探针 / 随机测试"
     },
     {
       "domain": "b406929acabac9b095f124c81bdfcf57f.com",
@@ -61177,34 +61142,14 @@
       "label": "内部测试 / 本地服务配置"
     },
     {
-      "domain": "chuxinhd.comundefined",
-      "match": "exact",
-      "label": "综合互联网服务"
-    },
-    {
-      "domain": "cn.pornhub",
-      "match": "exact",
-      "label": "前端异常 / 拼接测试"
-    },
-    {
       "domain": "d.2026ws.app",
       "match": "exact",
       "label": "移动端测试 / 本地回环映射"
     },
     {
-      "domain": "desktop.figmaxcom",
-      "match": "exact",
-      "label": "Figma 客户端桌面通信探测"
-    },
-    {
       "domain": "example.org",
       "match": "exact",
       "label": "RFC 2606 保留示例域名"
-    },
-    {
-      "domain": "favicon.ico",
-      "match": "exact",
-      "label": "前端异常 / 资源错位"
     },
     {
       "domain": "fbe3ebe8b8.com",
@@ -61230,11 +61175,6 @@
       "domain": "google.play",
       "match": "exact",
       "label": "Google Play 商店系统探测域"
-    },
-    {
-      "domain": "hbyyvvy.cn1",
-      "match": "exact",
-      "label": "自动化探针 / 随机测试"
     },
     {
       "domain": "helix-grid-pro.site",
@@ -61272,16 +61212,6 @@
       "label": "移动端测试 / 本地回环映射"
     },
     {
-      "domain": "jyipm.comundefined",
-      "match": "exact",
-      "label": "综合互联网服务"
-    },
-    {
-      "domain": "jyxsg-api-tb.chuxinhd.comundefined",
-      "match": "exact",
-      "label": "前端异常 / 拼接测试"
-    },
-    {
       "domain": "kj1234com.app",
       "match": "exact",
       "label": "移动端测试 / 本地回环映射"
@@ -61290,11 +61220,6 @@
       "domain": "metauser.brilliantapp.ltd",
       "match": "exact",
       "label": "移动端测试 / 本地回环映射"
-    },
-    {
-      "domain": "mi.srv",
-      "match": "exact",
-      "label": "内部测试 / 本地服务配置"
     },
     {
       "domain": "mkoirhqbrucluvskyhdytnilfk.com",
@@ -61342,19 +61267,9 @@
       "label": "俄罗斯国家科技研究所"
     },
     {
-      "domain": "opaddin.example",
-      "match": "exact",
-      "label": "Office 加载项示例保留域名"
-    },
-    {
       "domain": "orbit-byte-v2.site",
       "match": "exact",
       "label": "测试探针 / 随机测试节点"
-    },
-    {
-      "domain": "pbe.js",
-      "match": "exact",
-      "label": "前端脚本专用直连标识"
     },
     {
       "domain": "permanently-removed.invalid",
@@ -61365,11 +61280,6 @@
       "domain": "phinf.wevpstatic.net",
       "match": "exact",
       "label": "官方多媒体图床"
-    },
-    {
-      "domain": "pic.jyipm.comundefined",
-      "match": "exact",
-      "label": "前端异常 / 拼接测试"
     },
     {
       "domain": "pic.new3tuzhi.app",
@@ -61387,11 +61297,6 @@
       "label": "测试探针 / 随机测试节点"
     },
     {
-      "domain": "pokecolor.cnundefined",
-      "match": "exact",
-      "label": "综合互联网服务"
-    },
-    {
       "domain": "poweredby.jads.co",
       "match": "exact",
       "label": "成人流媒体"
@@ -61407,19 +61312,9 @@
       "label": "测试探针 / 随机测试节点"
     },
     {
-      "domain": "shop.senhaohaiyi.comundefined",
-      "match": "exact",
-      "label": "前端异常 / 拼接测试"
-    },
-    {
       "domain": "soketi.we-live.co",
       "match": "exact",
       "label": "成人流媒体"
-    },
-    {
-      "domain": "static1.adidas.com.cnundefined",
-      "match": "exact",
-      "label": "前端异常 / 拼接测试"
     },
     {
       "domain": "switch.pcfg.cache.wpscdn.cnaeb6c8a818c11f82f5f113438ca6b1797455fe75",
@@ -69552,16 +69447,6 @@
       "label": "前端异常 / 拼接测试"
     },
     {
-      "domain": "www.zjbar.comundefined",
-      "match": "exact",
-      "label": "前端异常 / 拼接测试"
-    },
-    {
-      "domain": "xen-us-10-1.bdic",
-      "match": "exact",
-      "label": "内部专用虚拟化测试标识"
-    },
-    {
       "domain": "yidtgwewwm3.com",
       "match": "exact",
       "label": "自动化探针 / 随机测试"
@@ -71860,11 +71745,6 @@
       "domain": "321cdn.com",
       "match": "suffix",
       "label": "盗版影视 / 流媒体 CDN"
-    },
-    {
-      "domain": "321cdn.comhttps",
-      "match": "suffix",
-      "label": "网络基础 / 内容加速"
     },
     {
       "domain": "321tvzb.com",
@@ -78817,11 +78697,6 @@
       "label": "行业资讯 / 商业服务"
     },
     {
-      "domain": "aftosamellatejatni.qpon",
-      "match": "suffix",
-      "label": "行业资讯 / 商业服务"
-    },
-    {
       "domain": "afunapp.com",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
@@ -81560,11 +81435,6 @@
       "domain": "app.link",
       "match": "suffix",
       "label": "灰产推广 / 流量拦截"
-    },
-    {
-      "domain": "app.wxhcy.com.cnundefined",
-      "match": "suffix",
-      "label": "行业资讯 / 商业服务"
     },
     {
       "domain": "appanalytics.io",
@@ -87242,11 +87112,6 @@
       "label": "灰产弹窗 / 流量中继"
     },
     {
-      "domain": "bonnetssunfall.qpon",
-      "match": "suffix",
-      "label": "云端服务 / 接口网关"
-    },
-    {
       "domain": "bonplanvoyage.net",
       "match": "suffix",
       "label": "行业资讯 / 商业服务"
@@ -88570,11 +88435,6 @@
       "domain": "budget.com",
       "match": "suffix",
       "label": "Discount car renta 平台"
-    },
-    {
-      "domain": "budgingtusseh.qpon",
-      "match": "suffix",
-      "label": "行业资讯 / 商业服务"
     },
     {
       "domain": "budifo.com",
@@ -94042,11 +93902,6 @@
       "label": "综合互联网服务"
     },
     {
-      "domain": "comfavicon.ico",
-      "match": "suffix",
-      "label": "成人影视 / 内容导流"
-    },
-    {
       "domain": "comfylink.com",
       "match": "suffix",
       "label": "ComfyLink AI 工作流开发平台"
@@ -98508,7 +98363,7 @@
     },
     {
       "domain": "disabled.invalid",
-      "match": "suffix",
+      "match": "exact",
       "label": "灰产弹窗 / 流量中继"
     },
     {
@@ -98613,11 +98468,6 @@
     },
     {
       "domain": "divoom.com",
-      "match": "suffix",
-      "label": "行业资讯 / 商业服务"
-    },
-    {
-      "domain": "divorceferries.qpon",
       "match": "suffix",
       "label": "行业资讯 / 商业服务"
     },
@@ -104343,11 +104193,6 @@
     },
     {
       "domain": "fe9fq2q.top",
-      "match": "suffix",
-      "label": "行业资讯 / 商业服务"
-    },
-    {
-      "domain": "feasingpremed.qpon",
       "match": "suffix",
       "label": "行业资讯 / 商业服务"
     },
@@ -111107,11 +110952,6 @@
       "label": "成人影视 / 娱乐内容"
     },
     {
-      "domain": "gtm.js",
-      "match": "suffix",
-      "label": "行业资讯 / 商业服务"
-    },
-    {
       "domain": "gtmt102.vip",
       "match": "suffix",
       "label": "推广导流 / 动态解析跳转"
@@ -111125,11 +110965,6 @@
       "domain": "gtzd.net",
       "match": "suffix",
       "label": "凡人小说网 平台"
-    },
-    {
-      "domain": "gtzd.nethttps",
-      "match": "suffix",
-      "label": "Gtzd 互联网网络服务"
     },
     {
       "domain": "gu-global.com",
@@ -112152,11 +111987,6 @@
       "label": "在线漫画 / 资源 CDN"
     },
     {
-      "domain": "hamreus.comundefined",
-      "match": "suffix",
-      "label": "在线漫画 / 资源 CDN"
-    },
-    {
       "domain": "hamsterxx.com",
       "match": "suffix",
       "label": "成人影视 / 娱乐内容"
@@ -112625,11 +112455,6 @@
       "domain": "hbbz.top",
       "match": "suffix",
       "label": "灰产短链接跳板"
-    },
-    {
-      "domain": "hbdjadd.cn1",
-      "match": "suffix",
-      "label": "Hbdjadd 互联网网络服务"
     },
     {
       "domain": "hbjhgs.net",
@@ -124402,11 +124227,6 @@
       "label": "灰产弹窗 / 流量中继"
     },
     {
-      "domain": "knattewanhorn.qpon",
-      "match": "suffix",
-      "label": "行业资讯 / 商业服务"
-    },
-    {
       "domain": "knd3fke.top",
       "match": "suffix",
       "label": "欢迎 平台"
@@ -129215,11 +129035,6 @@
       "domain": "m-anage.com",
       "match": "suffix",
       "label": "企业邮件通信服务"
-    },
-    {
-      "domain": "m.b",
-      "match": "suffix",
-      "label": "行业资讯 / 商业服务"
     },
     {
       "domain": "m0c948768e.com",
@@ -134352,11 +134167,6 @@
       "label": "磨铁中文网_书友最值得收藏的免费小说 平台"
     },
     {
-      "domain": "motionsbackbar.qpon",
-      "match": "suffix",
-      "label": "行业资讯 / 商业服务"
-    },
-    {
       "domain": "motionvpnapp.com",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
@@ -136440,11 +136250,6 @@
       "domain": "nawpush.com",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
-    },
-    {
-      "domain": "nazara.in-dev1",
-      "match": "suffix",
-      "label": "云端服务 / 接口网关"
     },
     {
       "domain": "nb3pw.top",
@@ -140457,11 +140262,6 @@
       "label": "网络小说 / 漫画阅读"
     },
     {
-      "domain": "opticorp.nethttps",
-      "match": "suffix",
-      "label": "Opticorp 互联网网络服务"
-    },
-    {
       "domain": "optidigital.com",
       "match": "suffix",
       "label": "Publisher Monet 服务网站"
@@ -141450,11 +141250,6 @@
       "domain": "pairdrop.net",
       "match": "suffix",
       "label": "PairDrop 跨平台局域网传输"
-    },
-    {
-      "domain": "paktongforfex.qpon",
-      "match": "suffix",
-      "label": "Paktongforfex 互联网网络服务"
     },
     {
       "domain": "palauguell.cat",
@@ -146247,11 +146042,6 @@
       "label": "企业软件 / 技术开发"
     },
     {
-      "domain": "qatarairways.comhttps",
-      "match": "suffix",
-      "label": "企业软件 / 技术开发"
-    },
-    {
       "domain": "qatbamwubafw.in",
       "match": "suffix",
       "label": "行业资讯 / 商业服务"
@@ -146820,11 +146610,6 @@
       "domain": "qmjexs.com",
       "match": "suffix",
       "label": "中文小说网 平台"
-    },
-    {
-      "domain": "qmjexs.comhttps",
-      "match": "suffix",
-      "label": "Qmjexs 互联网网络服务"
     },
     {
       "domain": "qmpfjy.com",
@@ -153937,11 +153722,6 @@
       "label": "时尚摄影 个人视觉主页"
     },
     {
-      "domain": "shistsasthoreweeply.qpon",
-      "match": "suffix",
-      "label": "行业资讯 / 商业服务"
-    },
-    {
       "domain": "shitjournal.org",
       "match": "suffix",
       "label": "SHT Space 服务网站"
@@ -156480,11 +156260,6 @@
       "domain": "soroudivision.net",
       "match": "suffix",
       "label": "久久小说网 平台"
-    },
-    {
-      "domain": "soroudivision.nethttps",
-      "match": "suffix",
-      "label": "Soroudivision 互联网网络服务"
     },
     {
       "domain": "sosad.fun",
@@ -162048,362 +161823,362 @@
     },
     {
       "domain": "this-url-does-not-exist-00304fc6-09a2-4f94-9096-d999c51c8572.invalid",
-      "match": "suffix",
+      "match": "exact",
       "label": "综合互联网服务"
     },
     {
       "domain": "this-url-does-not-exist-02d731ed-d8dd-4fcb-b124-4374ebc7ff1a.invalid",
-      "match": "suffix",
+      "match": "exact",
       "label": "综合互联网服务"
     },
     {
       "domain": "this-url-does-not-exist-0eed97bd-6724-40bd-9758-a142b67436c7.invalid",
-      "match": "suffix",
+      "match": "exact",
       "label": "综合互联网服务"
     },
     {
       "domain": "this-url-does-not-exist-252b8ceb-e89b-48ce-830d-80bf665e7a3e.invalid",
-      "match": "suffix",
+      "match": "exact",
       "label": "综合互联网服务"
     },
     {
       "domain": "this-url-does-not-exist-25657f4d-3a68-4033-9331-0e9cfbae3b22.invalid",
-      "match": "suffix",
+      "match": "exact",
       "label": "灰产弹窗 / 流量中继"
     },
     {
       "domain": "this-url-does-not-exist-2939de91-32c1-4027-ab85-b9ab905b2ddc.invalid",
-      "match": "suffix",
+      "match": "exact",
       "label": "灰产弹窗 / 流量中继"
     },
     {
       "domain": "this-url-does-not-exist-2abf881b-a8b8-4c75-8a9e-a4e8c90ec3b2.invalid",
-      "match": "suffix",
+      "match": "exact",
       "label": "综合互联网服务"
     },
     {
       "domain": "this-url-does-not-exist-2c120a68-eeed-4e87-a349-9a5d84d3160e.invalid",
-      "match": "suffix",
+      "match": "exact",
       "label": "灰产弹窗 / 流量中继"
     },
     {
       "domain": "this-url-does-not-exist-3295e4a5-e94b-4d2f-b6f4-0a6c50cdd841.invalid",
-      "match": "suffix",
+      "match": "exact",
       "label": "综合互联网服务"
     },
     {
       "domain": "this-url-does-not-exist-33ebf9c6-3db4-4f91-99f1-8b6c3c9616e7.invalid",
-      "match": "suffix",
+      "match": "exact",
       "label": "综合互联网服务"
     },
     {
       "domain": "this-url-does-not-exist-34be9e40-3d8c-48d4-8207-40c35bdc7f82.invalid",
-      "match": "suffix",
+      "match": "exact",
       "label": "综合互联网服务"
     },
     {
       "domain": "this-url-does-not-exist-3715fcf6-b54c-4140-8890-fa0a6974520d.invalid",
-      "match": "suffix",
+      "match": "exact",
       "label": "综合互联网服务"
     },
     {
       "domain": "this-url-does-not-exist-38569bd7-b91d-4454-a2a8-5df1f68f56ca.invalid",
-      "match": "suffix",
+      "match": "exact",
       "label": "灰产弹窗 / 流量中继"
     },
     {
       "domain": "this-url-does-not-exist-450e90f9-d289-4bc7-88e9-4430a32c2f11.invalid",
-      "match": "suffix",
+      "match": "exact",
       "label": "综合互联网服务"
     },
     {
       "domain": "this-url-does-not-exist-4790270c-2cff-402f-99ed-a48d90396d31.invalid",
-      "match": "suffix",
+      "match": "exact",
       "label": "灰产弹窗 / 流量中继"
     },
     {
       "domain": "this-url-does-not-exist-47ab2ca0-e512-450a-bfc2-354354cdeaa1.invalid",
-      "match": "suffix",
+      "match": "exact",
       "label": "综合互联网服务"
     },
     {
       "domain": "this-url-does-not-exist-48009659-e25e-4d0b-ab3c-93fde309510b.invalid",
-      "match": "suffix",
+      "match": "exact",
       "label": "综合互联网服务"
     },
     {
       "domain": "this-url-does-not-exist-48c15bfa-3e5e-4049-9bf8-f7354994de14.invalid",
-      "match": "suffix",
+      "match": "exact",
       "label": "综合互联网服务"
     },
     {
       "domain": "this-url-does-not-exist-5014452e-0b14-4604-88bd-72881bff4307.invalid",
-      "match": "suffix",
+      "match": "exact",
       "label": "综合互联网服务"
     },
     {
       "domain": "this-url-does-not-exist-50c9c01d-5189-4430-b6c0-13da8dd3a24d.invalid",
-      "match": "suffix",
+      "match": "exact",
       "label": "成人影视 / 内容导流"
     },
     {
       "domain": "this-url-does-not-exist-5138da59-6d56-404e-b2d7-0366b678ef67.invalid",
-      "match": "suffix",
+      "match": "exact",
       "label": "灰产弹窗 / 流量中继"
     },
     {
       "domain": "this-url-does-not-exist-56fc3753-4486-4536-b99f-659ad858d45d.invalid",
-      "match": "suffix",
+      "match": "exact",
       "label": "商业广告 / 埋点追踪"
     },
     {
       "domain": "this-url-does-not-exist-5a0ad471-ed06-476b-95f4-c36078fa0987.invalid",
-      "match": "suffix",
+      "match": "exact",
       "label": "广告营销 / 数据统计"
     },
     {
       "domain": "this-url-does-not-exist-60e7d405-a6d7-44ca-950f-d3d84b3648da.invalid",
-      "match": "suffix",
+      "match": "exact",
       "label": "综合互联网服务"
     },
     {
       "domain": "this-url-does-not-exist-61813949-8dba-47e0-9200-dda08c2fef2c.invalid",
-      "match": "suffix",
+      "match": "exact",
       "label": "灰产弹窗 / 流量中继"
     },
     {
       "domain": "this-url-does-not-exist-67c8efd2-b61d-4400-abb9-602b8f242f5f.invalid",
-      "match": "suffix",
+      "match": "exact",
       "label": "综合互联网服务"
     },
     {
       "domain": "this-url-does-not-exist-68f5d592-ad64-4fc4-977c-ac70c60fab8e.invalid",
-      "match": "suffix",
+      "match": "exact",
       "label": "广告营销 / 数据统计"
     },
     {
       "domain": "this-url-does-not-exist-6a11537a-0a1b-4815-af49-470c35d76f4c.invalid",
-      "match": "suffix",
+      "match": "exact",
       "label": "综合互联网服务"
     },
     {
       "domain": "this-url-does-not-exist-6a89a30d-92b1-4b89-9f3e-4aa7890ea552.invalid",
-      "match": "suffix",
+      "match": "exact",
       "label": "综合互联网服务"
     },
     {
       "domain": "this-url-does-not-exist-6c403f5f-5e9f-43d4-8df3-d7cd90f49ca1.invalid",
-      "match": "suffix",
+      "match": "exact",
       "label": "综合互联网服务"
     },
     {
       "domain": "this-url-does-not-exist-6e3eb4a6-1e7c-430a-93de-80fffebbcd2a.invalid",
-      "match": "suffix",
+      "match": "exact",
       "label": "灰产弹窗 / 流量中继"
     },
     {
       "domain": "this-url-does-not-exist-6f1d5c03-d533-4b4f-97e8-4a52e32fa412.invalid",
-      "match": "suffix",
+      "match": "exact",
       "label": "灰产弹窗 / 流量中继"
     },
     {
       "domain": "this-url-does-not-exist-7106c923-fd86-4cfe-9f87-dc25b7d22668.invalid",
-      "match": "suffix",
+      "match": "exact",
       "label": "综合互联网服务"
     },
     {
       "domain": "this-url-does-not-exist-71e2083e-7196-4278-a436-c076de4cbf7c.invalid",
-      "match": "suffix",
+      "match": "exact",
       "label": "灰产弹窗 / 流量中继"
     },
     {
       "domain": "this-url-does-not-exist-76edbcf8-fc6d-4086-927b-7879e42a8b6f.invalid",
-      "match": "suffix",
+      "match": "exact",
       "label": "综合互联网服务"
     },
     {
       "domain": "this-url-does-not-exist-79316c9b-9526-4ba3-92c5-fb2100449cc5.invalid",
-      "match": "suffix",
+      "match": "exact",
       "label": "综合互联网服务"
     },
     {
       "domain": "this-url-does-not-exist-7e90e7cc-c41a-424a-8ed5-8b51ac293a7e.invalid",
-      "match": "suffix",
+      "match": "exact",
       "label": "综合互联网服务"
     },
     {
       "domain": "this-url-does-not-exist-8021ad56-06da-44e0-83dc-3acb0d4be851.invalid",
-      "match": "suffix",
+      "match": "exact",
       "label": "广告营销 / 数据统计"
     },
     {
       "domain": "this-url-does-not-exist-805e2965-0014-4055-ba91-21556bb5a269.invalid",
-      "match": "suffix",
+      "match": "exact",
       "label": "灰产弹窗 / 流量中继"
     },
     {
       "domain": "this-url-does-not-exist-80b612d5-c094-4d47-bdb2-fc915c4b66da.invalid",
-      "match": "suffix",
+      "match": "exact",
       "label": "综合互联网服务"
     },
     {
       "domain": "this-url-does-not-exist-8162b819-36fc-4364-b307-d929019f19cc.invalid",
-      "match": "suffix",
+      "match": "exact",
       "label": "综合互联网服务"
     },
     {
       "domain": "this-url-does-not-exist-8529a1db-7124-48b5-bc16-e0588b90e41c.invalid",
-      "match": "suffix",
+      "match": "exact",
       "label": "综合互联网服务"
     },
     {
       "domain": "this-url-does-not-exist-8d286cfe-36a7-4a4f-bfae-1013ec382a15.invalid",
-      "match": "suffix",
+      "match": "exact",
       "label": "综合互联网服务"
     },
     {
       "domain": "this-url-does-not-exist-957bf3bb-accb-4598-81b3-def19e51d984.invalid",
-      "match": "suffix",
+      "match": "exact",
       "label": "综合互联网服务"
     },
     {
       "domain": "this-url-does-not-exist-9670813d-7207-48ea-a93e-e9512d695d46.invalid",
-      "match": "suffix",
+      "match": "exact",
       "label": "综合互联网服务"
     },
     {
       "domain": "this-url-does-not-exist-9baa1089-a7d8-46a5-add1-33050df3763e.invalid",
-      "match": "suffix",
+      "match": "exact",
       "label": "广告营销 / 数据统计"
     },
     {
       "domain": "this-url-does-not-exist-a5b75512-dea8-41a3-99bb-4af94b1b4624.invalid",
-      "match": "suffix",
+      "match": "exact",
       "label": "综合互联网服务"
     },
     {
       "domain": "this-url-does-not-exist-a9833a84-0755-43a3-9588-3cd03a37eaef.invalid",
-      "match": "suffix",
+      "match": "exact",
       "label": "灰产弹窗 / 流量中继"
     },
     {
       "domain": "this-url-does-not-exist-afe65f68-bf79-4a57-af2c-10c840a5e756.invalid",
-      "match": "suffix",
+      "match": "exact",
       "label": "综合互联网服务"
     },
     {
       "domain": "this-url-does-not-exist-affddb67-c2ac-4f44-95cd-f5390ae7330b.invalid",
-      "match": "suffix",
+      "match": "exact",
       "label": "综合互联网服务"
     },
     {
       "domain": "this-url-does-not-exist-b3c3fa87-c9dd-4134-a091-8d61e10c27e4.invalid",
-      "match": "suffix",
+      "match": "exact",
       "label": "灰产弹窗 / 流量中继"
     },
     {
       "domain": "this-url-does-not-exist-b481ada7-ce25-4161-9b06-4272f4689387.invalid",
-      "match": "suffix",
+      "match": "exact",
       "label": "广告营销 / 数据统计"
     },
     {
       "domain": "this-url-does-not-exist-b63b93b2-a04f-40fb-8927-40e443deaa95.invalid",
-      "match": "suffix",
+      "match": "exact",
       "label": "灰产弹窗 / 流量中继"
     },
     {
       "domain": "this-url-does-not-exist-bbc3f3a5-6566-4e2a-8909-03044affb419.invalid",
-      "match": "suffix",
+      "match": "exact",
       "label": "灰产弹窗 / 流量中继"
     },
     {
       "domain": "this-url-does-not-exist-bef7c596-ef03-4b76-a239-7308cb7cd2df.invalid",
-      "match": "suffix",
+      "match": "exact",
       "label": "综合互联网服务"
     },
     {
       "domain": "this-url-does-not-exist-c04cd4d3-4cb3-4229-b87c-1b2f8f455db3.invalid",
-      "match": "suffix",
+      "match": "exact",
       "label": "综合互联网服务"
     },
     {
       "domain": "this-url-does-not-exist-c6299f25-e094-4d1a-ba68-05384402ca47.invalid",
-      "match": "suffix",
+      "match": "exact",
       "label": "综合互联网服务"
     },
     {
       "domain": "this-url-does-not-exist-c89a28f5-abb2-4a15-849f-b4e0a6ef695d.invalid",
-      "match": "suffix",
+      "match": "exact",
       "label": "灰产弹窗 / 流量中继"
     },
     {
       "domain": "this-url-does-not-exist-c8bc1a5c-a6eb-448a-98d8-dfd4f524106c.invalid",
-      "match": "suffix",
+      "match": "exact",
       "label": "综合互联网服务"
     },
     {
       "domain": "this-url-does-not-exist-cd5d6928-419e-48f8-ba84-53027c3e859a.invalid",
-      "match": "suffix",
+      "match": "exact",
       "label": "综合互联网服务"
     },
     {
       "domain": "this-url-does-not-exist-ce62b10c-42f7-4b6b-9f09-bccb7dd6afea.invalid",
-      "match": "suffix",
+      "match": "exact",
       "label": "灰产弹窗 / 流量中继"
     },
     {
       "domain": "this-url-does-not-exist-d0a6be51-1fec-460c-bfdc-5f2d1f49cbbf.invalid",
-      "match": "suffix",
+      "match": "exact",
       "label": "综合互联网服务"
     },
     {
       "domain": "this-url-does-not-exist-d64893e4-cb0f-4e40-926c-7489c57fc49e.invalid",
-      "match": "suffix",
+      "match": "exact",
       "label": "综合互联网服务"
     },
     {
       "domain": "this-url-does-not-exist-dec12d19-5c03-40d1-8e61-066926b45fe3.invalid",
-      "match": "suffix",
+      "match": "exact",
       "label": "灰产弹窗 / 流量中继"
     },
     {
       "domain": "this-url-does-not-exist-e17ab995-d2d2-419e-89d1-f545eed279b1.invalid",
-      "match": "suffix",
+      "match": "exact",
       "label": "灰产弹窗 / 流量中继"
     },
     {
       "domain": "this-url-does-not-exist-e54e1b4d-b119-4fda-a593-707f2adafa4c.invalid",
-      "match": "suffix",
+      "match": "exact",
       "label": "广告营销 / 数据统计"
     },
     {
       "domain": "this-url-does-not-exist-e8dd6515-ea62-4ac3-b709-8b48d7ec7c5b.invalid",
-      "match": "suffix",
+      "match": "exact",
       "label": "综合互联网服务"
     },
     {
       "domain": "this-url-does-not-exist-e92aaccb-aa8d-4125-add7-2783b923f085.invalid",
-      "match": "suffix",
+      "match": "exact",
       "label": "广告营销 / 数据统计"
     },
     {
       "domain": "this-url-does-not-exist-efb9e469-578a-4370-b9c9-a6571929f2c0.invalid",
-      "match": "suffix",
+      "match": "exact",
       "label": "综合互联网服务"
     },
     {
       "domain": "this-url-does-not-exist-f20c3e46-bdde-4021-8bf7-6e5b3fb0a6a2.invalid",
-      "match": "suffix",
+      "match": "exact",
       "label": "综合互联网服务"
     },
     {
       "domain": "this-url-does-not-exist-f658ce12-046e-4f5d-afa9-7bf97b85e7a9.invalid",
-      "match": "suffix",
+      "match": "exact",
       "label": "灰产弹窗 / 流量中继"
     },
     {
       "domain": "this-url-does-not-exist-fc493c18-a093-4431-b7da-41ae57b7b2e8.invalid",
-      "match": "suffix",
+      "match": "exact",
       "label": "灰产弹窗 / 流量中继"
     },
     {
@@ -164647,11 +164422,6 @@
       "label": "意铁 Trenitalia 意大利国铁官方"
     },
     {
-      "domain": "tresseddarics.qpon",
-      "match": "suffix",
-      "label": "行业资讯 / 商业服务"
-    },
-    {
       "domain": "trewqasdfghjklm.cc",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
@@ -164785,11 +164555,6 @@
       "domain": "tritondigital.com",
       "match": "suffix",
       "label": "Triton Digital 音频数字广告"
-    },
-    {
-      "domain": "triunepropus.qpon",
-      "match": "suffix",
-      "label": "行业资讯 / 商业服务"
     },
     {
       "domain": "trk-hq.com",
@@ -166737,16 +166502,6 @@
       "label": "Ubzkvurz 互联网网络服务"
     },
     {
-      "domain": "uc.cmd",
-      "match": "suffix",
-      "label": "灰产弹窗 / 流量中继"
-    },
-    {
-      "domain": "uc.gre",
-      "match": "suffix",
-      "label": "Uc 互联网网络服务"
-    },
-    {
       "domain": "ucarecdn.com",
       "match": "suffix",
       "label": "网络基础 / 内容加速"
@@ -167333,11 +167088,6 @@
     },
     {
       "domain": "unifans.org",
-      "match": "suffix",
-      "label": "行业资讯 / 商业服务"
-    },
-    {
-      "domain": "unifavicon.svg",
       "match": "suffix",
       "label": "行业资讯 / 商业服务"
     },
@@ -168950,11 +168700,6 @@
       "domain": "veganlowcarb.com",
       "match": "suffix",
       "label": "网络小说 / 漫画阅读"
-    },
-    {
-      "domain": "veganlowcarb.comhttps",
-      "match": "suffix",
-      "label": "行业资讯 / 商业服务"
     },
     {
       "domain": "veilora.top",
@@ -171087,11 +170832,6 @@
       "label": "Wasabi 热存储对象存储"
     },
     {
-      "domain": "wasd24572a.js",
-      "match": "suffix",
-      "label": "行业资讯 / 商业服务"
-    },
-    {
       "domain": "waseda.ac.jp",
       "match": "suffix",
       "label": "早稻田大学 日本著名私立高校"
@@ -172397,11 +172137,6 @@
       "label": "MathType 在线数学公式编辑"
     },
     {
-      "domain": "wirostulareparous.qpon",
-      "match": "suffix",
-      "label": "行业资讯 / 商业服务"
-    },
-    {
       "domain": "wirqed.cn",
       "match": "suffix",
       "label": "行业资讯 / 商业服务"
@@ -173662,16 +173397,6 @@
       "label": "在线教育"
     },
     {
-      "domain": "www.x",
-      "match": "suffix",
-      "label": "灰产弹窗 / 流量中继"
-    },
-    {
-      "domain": "www.zhxdx.comhttps",
-      "match": "suffix",
-      "label": "网络小说 / 漫画阅读"
-    },
-    {
       "domain": "www123yq.win",
       "match": "suffix",
       "label": "Www123yq 互联网网络服务"
@@ -173745,11 +173470,6 @@
       "domain": "wxw.ooo",
       "match": "suffix",
       "label": "Log in    呜呜 wg 服务网站"
-    },
-    {
-      "domain": "wxwork.whccb",
-      "match": "suffix",
-      "label": "Wxwork 互联网网络服务"
     },
     {
       "domain": "wxy88.top",
@@ -173845,11 +173565,6 @@
       "domain": "x.gd",
       "match": "suffix",
       "label": "行业资讯 / 商业服务"
-    },
-    {
-      "domain": "x.x",
-      "match": "suffix",
-      "label": "灰产弹窗 / 流量中继"
     },
     {
       "domain": "x0yhap.app",
@@ -174412,11 +174127,6 @@
       "label": "吃瓜爆料 / 八卦资讯"
     },
     {
-      "domain": "xen-us-10-1.bdic",
-      "match": "suffix",
-      "label": "内部虚拟化测试通信标识"
-    },
-    {
       "domain": "xeno8.top",
       "match": "suffix",
       "label": "行业资讯 / 商业服务"
@@ -174940,11 +174650,6 @@
       "domain": "xiaoheihe.cn",
       "match": "suffix",
       "label": "小黑盒游戏社区"
-    },
-    {
-      "domain": "xiaoheihe.localfont",
-      "match": "suffix",
-      "label": "灰产弹窗 / 流量中继"
     },
     {
       "domain": "xiaohongshu.net",
@@ -175665,11 +175370,6 @@
       "domain": "xlmcloudjsq.com",
       "match": "suffix",
       "label": "企业软件 / 技术开发"
-    },
-    {
-      "domain": "xlppc.svc",
-      "match": "suffix",
-      "label": "灰产弹窗 / 流量中继"
     },
     {
       "domain": "xlsgvmcgdp1.com",
@@ -178982,11 +178682,6 @@
       "label": "Pockyt 移动支付清结算"
     },
     {
-      "domain": "yuansuchaowan.comunite49",
-      "match": "suffix",
-      "label": "行业资讯 / 商业服务"
-    },
-    {
       "domain": "yuanta.com.hk",
       "match": "suffix",
       "label": "综合互联网服务"
@@ -180362,11 +180057,6 @@
       "label": "综合互联网服务"
     },
     {
-      "domain": "zhengxin-1301158478.image",
-      "match": "suffix",
-      "label": "推广导流 / 动态解析跳转"
-    },
-    {
       "domain": "zhenhunxiaoshuo.com",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
@@ -180840,11 +180530,6 @@
       "domain": "zmxy.com.cn",
       "match": "suffix",
       "label": "Zmxy 互联网网络服务"
-    },
-    {
-      "domain": "zndlxo.cn1",
-      "match": "suffix",
-      "label": "行业资讯 / 商业服务"
     },
     {
       "domain": "znds.com",
@@ -181355,11 +181040,6 @@
       "domain": "zzea.net",
       "match": "suffix",
       "label": "稻草人书屋_无弹窗书友最值得收藏的网 平台"
-    },
-    {
-      "domain": "zzea.nethttps",
-      "match": "suffix",
-      "label": "Zzea 互联网网络服务"
     },
     {
       "domain": "zzfxfz.com",
