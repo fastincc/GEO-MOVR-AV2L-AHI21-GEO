@@ -58422,6 +58422,11 @@
       "label": "测试探针 / 无效域名"
     },
     {
+      "domain": "this-url-does-not-exist-1bcffbf0-7fc9-46e0-9eec-0ff868bf5442.invalid",
+      "match": "exact",
+      "label": "测试探针 / 无效域名"
+    },
+    {
       "domain": "this-url-does-not-exist-1bfee606-ec1d-4075-8d8c-ef460f7125ba.invalid",
       "match": "exact",
       "label": "测试探针 / 无效域名"
@@ -58558,6 +58563,11 @@
     },
     {
       "domain": "this-url-does-not-exist-2004f93f-7176-48c6-97af-1c974776bd4c.invalid",
+      "match": "exact",
+      "label": "测试探针 / 无效域名"
+    },
+    {
+      "domain": "this-url-does-not-exist-20091f67-9acb-4e7b-9915-e9c709bcf272.invalid",
       "match": "exact",
       "label": "测试探针 / 无效域名"
     },
@@ -58978,6 +58988,11 @@
     },
     {
       "domain": "this-url-does-not-exist-30933ec6-7e1d-409c-b92b-bc4c50a47123.invalid",
+      "match": "exact",
+      "label": "测试探针 / 无效域名"
+    },
+    {
+      "domain": "this-url-does-not-exist-309f0200-8cad-45e8-a996-f4c556b36b2f.invalid",
       "match": "exact",
       "label": "测试探针 / 无效域名"
     },
@@ -60048,6 +60063,11 @@
     },
     {
       "domain": "this-url-does-not-exist-511e066a-3f21-4ebb-a157-f6bf57d35fc0.invalid",
+      "match": "exact",
+      "label": "测试探针 / 无效域名"
+    },
+    {
+      "domain": "this-url-does-not-exist-51583005-b635-4f43-ad6f-cef2d5e748d0.invalid",
       "match": "exact",
       "label": "测试探针 / 无效域名"
     },
@@ -61427,6 +61447,11 @@
       "label": "测试探针 / 无效域名"
     },
     {
+      "domain": "this-url-does-not-exist-7ecef814-ab57-4fac-93e0-3d8b88a53979.invalid",
+      "match": "exact",
+      "label": "测试探针 / 无效域名"
+    },
+    {
       "domain": "this-url-does-not-exist-7edc8279-d306-4dc1-a4cb-9f2b3611c3f8.invalid",
       "match": "exact",
       "label": "测试探针 / 无效域名"
@@ -62058,6 +62083,11 @@
     },
     {
       "domain": "this-url-does-not-exist-95e76c01-056e-4011-9407-e55aa0d0da21.invalid",
+      "match": "exact",
+      "label": "测试探针 / 无效域名"
+    },
+    {
+      "domain": "this-url-does-not-exist-962bb0b3-44d6-4154-89ff-c218e441c579.invalid",
       "match": "exact",
       "label": "测试探针 / 无效域名"
     },
@@ -82942,6 +82972,11 @@
       "label": "Boyfun 互联网网络服务"
     },
     {
+      "domain": "boylov.xyz",
+      "match": "suffix",
+      "label": "多媒体在线视频娱乐"
+    },
+    {
       "domain": "boyplus.net",
       "match": "suffix",
       "label": "Home 平台"
@@ -91915,6 +91950,11 @@
       "domain": "datamanager.co.kr",
       "match": "suffix",
       "label": "企业软件 / 技术开发"
+    },
+    {
+      "domain": "datapacket.com",
+      "match": "suffix",
+      "label": "DataPacket 全球高带宽服务器"
     },
     {
       "domain": "datarize.ai",
