@@ -57057,6 +57057,11 @@
       "label": "SHARKTECH Shar BGP网段"
     },
     {
+      "domain": "67.210.96.0/24",
+      "match": "cidr",
+      "label": "Ordinal Advisors 网络设施"
+    },
+    {
       "domain": "67.215.233.0/24",
       "match": "cidr",
       "label": "AS 网络"
@@ -68507,6 +68512,11 @@
       "label": "测试探针 / 无效域名"
     },
     {
+      "domain": "this-url-does-not-exist-6d0e0bf9-65ff-4cb9-8240-de60bcebf55a.invalid",
+      "match": "exact",
+      "label": "测试探针 / 无效域名"
+    },
+    {
       "domain": "this-url-does-not-exist-6d1ab189-7fca-4d02-9bee-efb5af36c415.invalid",
       "match": "exact",
       "label": "测试探针 / 无效域名"
@@ -73102,6 +73112,11 @@
       "label": "测试探针 / 无效域名"
     },
     {
+      "domain": "this-url-does-not-exist-efdc50ad-ecae-4e80-9c26-c546147faad5.invalid",
+      "match": "exact",
+      "label": "测试探针 / 无效域名"
+    },
+    {
       "domain": "this-url-does-not-exist-effe248f-b912-472c-918a-e79e6c139f81.invalid",
       "match": "exact",
       "label": "测试探针 / 无效域名"
@@ -76660,6 +76675,11 @@
       "domain": "399bz.com",
       "match": "suffix",
       "label": "行业资讯 / 商业服务"
+    },
+    {
+      "domain": "3a2ffd59df.com",
+      "match": "suffix",
+      "label": "网络业务加速代理节点"
     },
     {
       "domain": "3am.co.uk",
