@@ -178582,6 +178582,11 @@
       "label": "商业广告 / 埋点追踪"
     },
     {
+      "domain": "vmcard.host",
+      "match": "suffix",
+      "label": "虚拟主机与云计算服务"
+    },
+    {
       "domain": "vmfive.com",
       "match": "suffix",
       "label": "数字营销 / 广告投放"
