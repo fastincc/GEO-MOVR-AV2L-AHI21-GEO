@@ -69077,6 +69077,11 @@
       "label": "测试探针 / 无效域名"
     },
     {
+      "domain": "this-url-does-not-exist-7c288d12-2f5e-492c-83ff-7ce001b3849c.invalid",
+      "match": "exact",
+      "label": "测试探针 / 无效域名"
+    },
+    {
       "domain": "this-url-does-not-exist-7c46c36b-bc5b-4756-9cf4-385a68e17631.invalid",
       "match": "exact",
       "label": "测试探针 / 无效域名"
@@ -180925,6 +180930,11 @@
       "domain": "williamgates.net",
       "match": "suffix",
       "label": "行业资讯 / 商业服务"
+    },
+    {
+      "domain": "win-rar.com",
+      "match": "suffix",
+      "label": "WinRAR 官方文件解压缩软件"
     },
     {
       "domain": "win1186.com",
