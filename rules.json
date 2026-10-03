@@ -20752,6 +20752,11 @@
       "label": "VIETEL AS AP BGP网段"
     },
     {
+      "domain": "171.237.136.0/22",
+      "match": "cidr",
+      "label": "越南 Viettel 电信网络"
+    },
+    {
       "domain": "171.237.168.0/22",
       "match": "cidr",
       "label": "Viettel Group 网络基础设施"
@@ -21250,6 +21255,11 @@
       "domain": "172.72.125.0/24",
       "match": "cidr",
       "label": "ARIN US 基础网段"
+    },
+    {
+      "domain": "172.72.136.0/24",
+      "match": "cidr",
+      "label": "Charter 宽带通信网络"
     },
     {
       "domain": "172.72.205.0/24",
@@ -41000,6 +41010,11 @@
       "domain": "2600:140b:a00:3::/64",
       "match": "cidr",
       "label": "全球 IPv6 骨干路由段"
+    },
+    {
+      "domain": "2600:140b:ac00::/48",
+      "match": "cidr",
+      "label": "Akamai 全球边缘分发"
     },
     {
       "domain": "2600:1417:4400:25::/64",
@@ -64167,6 +64182,11 @@
       "label": "自动化探针 / 随机测试"
     },
     {
+      "domain": "7.23.docx",
+      "match": "exact",
+      "label": "文档资源错位访问"
+    },
+    {
       "domain": "72972370.com",
       "match": "exact",
       "label": "自动化探针 / 随机测试"
@@ -64222,9 +64242,24 @@
       "label": "自动化探针 / 随机测试"
     },
     {
+      "domain": "api-external.g.mi.srv",
+      "match": "exact",
+      "label": "内部服务配置探针"
+    },
+    {
       "domain": "app-api.rsg.mamba-app.one-member.com",
       "match": "exact",
       "label": "移动端测试 / 本地回环映射"
+    },
+    {
+      "domain": "app.wxhcy.com.cnundefined",
+      "match": "exact",
+      "label": "前端拼接异常域名"
+    },
+    {
+      "domain": "archiveofourown.orgp",
+      "match": "exact",
+      "label": "前端拼接异常域名"
     },
     {
       "domain": "b406929acabac9b095f124c81bdfcf57f.com",
@@ -64262,9 +64297,29 @@
       "label": "内部测试 / 本地服务配置"
     },
     {
+      "domain": "cn.pornhub",
+      "match": "exact",
+      "label": "前端拼接异常域名"
+    },
+    {
+      "domain": "com.max.xiaoheihe.localfont",
+      "match": "exact",
+      "label": "客户端字体资源错位"
+    },
+    {
       "domain": "d.2026ws.app",
       "match": "exact",
       "label": "移动端测试 / 本地回环映射"
+    },
+    {
+      "domain": "desktop.figmaxcom",
+      "match": "exact",
+      "label": "客户端桌面通信探测"
+    },
+    {
+      "domain": "df200im.hbdjadd.cn1",
+      "match": "exact",
+      "label": "测试探针 / 随机测试"
     },
     {
       "domain": "disabled.invalid",
@@ -64272,9 +64327,29 @@
       "label": "灰产弹窗 / 流量中继"
     },
     {
+      "domain": "drive.xlppc.svc",
+      "match": "exact",
+      "label": "集群内部服务配置"
+    },
+    {
+      "domain": "eu2.hamreus.comundefined",
+      "match": "exact",
+      "label": "前端拼接异常域名"
+    },
+    {
       "domain": "example.org",
       "match": "exact",
       "label": "RFC 2606 保留示例域名"
+    },
+    {
+      "domain": "facai105im.twmmkmk.cn1",
+      "match": "exact",
+      "label": "测试探针 / 随机测试"
+    },
+    {
+      "domain": "favicon.ico",
+      "match": "exact",
+      "label": "静态图标资源错位访问"
     },
     {
       "domain": "fbe3ebe8b8.com",
@@ -64322,9 +64397,19 @@
       "label": "成人流媒体"
     },
     {
+      "domain": "image.png",
+      "match": "exact",
+      "label": "静态图片资源错位访问"
+    },
+    {
       "domain": "img.kj1234com.app",
       "match": "exact",
       "label": "移动端测试 / 本地回环映射"
+    },
+    {
+      "domain": "is.yuansuchaowan.comunite49",
+      "match": "exact",
+      "label": "前端拼接异常域名"
     },
     {
       "domain": "js.kj1234com.app",
@@ -64335,6 +64420,11 @@
       "domain": "js.qcloudpic.app",
       "match": "exact",
       "label": "移动端测试 / 本地回环映射"
+    },
+    {
+      "domain": "jyxsg-api-tb.chuxinhd.comundefined",
+      "match": "exact",
+      "label": "前端拼接异常域名"
     },
     {
       "domain": "kj1234com.app",
@@ -64402,6 +64492,11 @@
       "label": "测试探针 / 随机测试节点"
     },
     {
+      "domain": "pbe.js",
+      "match": "exact",
+      "label": "前端静态资源错位访问"
+    },
+    {
       "domain": "permanently-removed.invalid",
       "match": "exact",
       "label": "浏览器 DNS 防劫持探测域名"
@@ -64410,6 +64505,11 @@
       "domain": "phinf.wevpstatic.net",
       "match": "exact",
       "label": "官方多媒体图床"
+    },
+    {
+      "domain": "pic.jyipm.comundefined",
+      "match": "exact",
+      "label": "前端拼接异常域名"
     },
     {
       "domain": "pic.new3tuzhi.app",
@@ -64440,6 +64540,11 @@
       "domain": "quark-pipeline-x.site",
       "match": "exact",
       "label": "测试探针 / 随机测试节点"
+    },
+    {
+      "domain": "sgm-m-d.jd.comios",
+      "match": "exact",
+      "label": "移动客户端错误拼接"
     },
     {
       "domain": "soketi.we-live.co",
@@ -73607,6 +73712,26 @@
       "label": "自动化探针 / 随机测试"
     },
     {
+      "domain": "uc.cmd",
+      "match": "exact",
+      "label": "测试探针 / 无效域名"
+    },
+    {
+      "domain": "uc.gre",
+      "match": "exact",
+      "label": "测试探针 / 无效域名"
+    },
+    {
+      "domain": "uimg.buomtv.diyundefined",
+      "match": "exact",
+      "label": "前端拼接异常域名"
+    },
+    {
+      "domain": "us3.hamreus.comundefined",
+      "match": "exact",
+      "label": "前端拼接异常域名"
+    },
+    {
       "domain": "useesky.brilliantapp.ltd",
       "match": "exact",
       "label": "移动端测试 / 本地回环映射"
@@ -73625,6 +73750,16 @@
       "domain": "vvpyzrpwqjnnve.com",
       "match": "exact",
       "label": "自动化探针 / 随机测试"
+    },
+    {
+      "domain": "wap.biqudog.cominfo",
+      "match": "exact",
+      "label": "前端拼接异常域名"
+    },
+    {
+      "domain": "web.wxwork.whccb",
+      "match": "exact",
+      "label": "企业内部办公配置"
     },
     {
       "domain": "webviewpool-ios-empty-page.com",
@@ -73647,6 +73782,61 @@
       "label": "前端异常 / 拼接测试"
     },
     {
+      "domain": "www.fullmacizle.nethttps",
+      "match": "exact",
+      "label": "前端拼接异常域名"
+    },
+    {
+      "domain": "www.gtzd.nethttps",
+      "match": "exact",
+      "label": "前端拼接异常域名"
+    },
+    {
+      "domain": "www.opticorp.nethttps",
+      "match": "exact",
+      "label": "前端拼接异常域名"
+    },
+    {
+      "domain": "www.qmjexs.comhttps",
+      "match": "exact",
+      "label": "前端拼接异常域名"
+    },
+    {
+      "domain": "www.soroudivision.nethttps",
+      "match": "exact",
+      "label": "前端拼接异常域名"
+    },
+    {
+      "domain": "www.thaiairways.comundefined",
+      "match": "exact",
+      "label": "前端拼接异常域名"
+    },
+    {
+      "domain": "www.veganlowcarb.comhttps",
+      "match": "exact",
+      "label": "前端拼接异常域名"
+    },
+    {
+      "domain": "www.zhxdx.comhttps",
+      "match": "exact",
+      "label": "前端拼接异常域名"
+    },
+    {
+      "domain": "www.zzea.nethttps",
+      "match": "exact",
+      "label": "前端拼接异常域名"
+    },
+    {
+      "domain": "x.x.x",
+      "match": "exact",
+      "label": "测试探针 / 无效域名"
+    },
+    {
+      "domain": "x.x.xen-us-10-1.bdic",
+      "match": "exact",
+      "label": "虚拟化测试探针通信"
+    },
+    {
       "domain": "yidtgwewwm3.com",
       "match": "exact",
       "label": "自动化探针 / 随机测试"
@@ -73655,6 +73845,11 @@
       "domain": "zenith-node-15.site",
       "match": "exact",
       "label": "测试探针 / 随机测试节点"
+    },
+    {
+      "domain": "zhengxin-1301158478.image",
+      "match": "exact",
+      "label": "静态图片资源错位访问"
     },
     {
       "domain": "ztvdpwekbc.4847hi.app",
@@ -142897,6 +143092,11 @@
       "label": "MyRepublic 新加坡电信宽带"
     },
     {
+      "domain": "myrikko.ai",
+      "match": "suffix",
+      "label": "Rikko AI 人工智能平台"
+    },
+    {
       "domain": "mys888.com",
       "match": "suffix",
       "label": "综合互联网服务"
@@ -180490,6 +180690,11 @@
       "domain": "wic23gxdp.com",
       "match": "suffix",
       "label": "行业资讯 / 商业服务"
+    },
+    {
+      "domain": "wicked.cc",
+      "match": "suffix",
+      "label": "文件存储与数据托管服务"
     },
     {
       "domain": "wickedra.com",
