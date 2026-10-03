@@ -109182,6 +109182,11 @@
       "label": "行业资讯 / 商业服务"
     },
     {
+      "domain": "fallguys.com",
+      "match": "suffix",
+      "label": "糖豆人 Fall Guys 官方游戏"
+    },
+    {
       "domain": "fam-8.net",
       "match": "suffix",
       "label": "fam 8 日本移动广告网络"
