@@ -148152,6 +148152,11 @@
       "label": "Loading site pl 服务网站"
     },
     {
+      "domain": "orange.fr",
+      "match": "suffix",
+      "label": "法国电信 Orange 官网通信"
+    },
+    {
       "domain": "orangelogic.com",
       "match": "suffix",
       "label": "Orange Logic 平台"
@@ -176912,6 +176917,11 @@
       "label": "行业资讯 / 商业服务"
     },
     {
+      "domain": "v7mf6q1mx.com",
+      "match": "suffix",
+      "label": "网络业务加速代理节点"
+    },
+    {
       "domain": "v8fy238yk4.com",
       "match": "suffix",
       "label": "推广导流 / 动态解析跳转"
@@ -180655,6 +180665,11 @@
       "domain": "whos.tv",
       "match": "suffix",
       "label": "行业资讯 / 商业服务"
+    },
+    {
+      "domain": "whosampled.com",
+      "match": "suffix",
+      "label": "WhoSampled 音乐采样查询网"
     },
     {
       "domain": "whoscall.com",
@@ -186600,6 +186615,11 @@
       "domain": "yifile.com",
       "match": "suffix",
       "label": "行业资讯 / 商业服务"
+    },
+    {
+      "domain": "yihong.win",
+      "match": "suffix",
+      "label": "综合文学在线阅读平台"
     },
     {
       "domain": "yijian100.com",
