@@ -11857,6 +11857,11 @@
       "label": "kbro AS TW k BGP网段"
     },
     {
+      "domain": "123.192.64.0/21",
+      "match": "cidr",
+      "label": "台湾凯擘大宽频网络"
+    },
+    {
       "domain": "123.192.88.0/22",
       "match": "cidr",
       "label": "kbro AS TW kbr BGP网段"
@@ -13980,6 +13985,11 @@
       "domain": "132.226.208.0/21",
       "match": "cidr",
       "label": "Oracle 云服务"
+    },
+    {
+      "domain": "132.226.224.0/20",
+      "match": "cidr",
+      "label": "甲骨文 Oracle 云计算服务"
     },
     {
       "domain": "132.226.32.0/19",
@@ -43862,6 +43872,11 @@
       "label": "EUROHOSTER Ltd. 网络基础设施"
     },
     {
+      "domain": "31.216.72.0/21",
+      "match": "cidr",
+      "label": "塞浦路斯 Epic 宽带通信"
+    },
+    {
       "domain": "31.217.160.0/19",
       "match": "cidr",
       "label": "OTENET GR Ot BGP网段"
@@ -51012,6 +51027,11 @@
       "label": "LEASEWEB NL AM BGP网段"
     },
     {
+      "domain": "45.153.245.0/24",
+      "match": "cidr",
+      "label": "xTom 日本数据中心网络"
+    },
+    {
       "domain": "45.154.197.0/24",
       "match": "cidr",
       "label": "ahcloud 网络"
@@ -51390,6 +51410,11 @@
       "domain": "45.64.52.0/24",
       "match": "cidr",
       "label": "CTG Server 香港数据中心"
+    },
+    {
+      "domain": "45.66.216.0/24",
+      "match": "cidr",
+      "label": "xTom 日本数据中心网络"
     },
     {
       "domain": "45.67.201.0/24",
@@ -63162,6 +63187,11 @@
       "label": "SAIMANET AS BGP网段"
     },
     {
+      "domain": "95.87.93.0/24",
+      "match": "cidr",
+      "label": "吉尔吉斯 Saima 电信网络"
+    },
+    {
       "domain": "95.88.0.0/14",
       "match": "cidr",
       "label": "VODANET Voda BGP网段"
@@ -71747,6 +71777,11 @@
       "label": "测试探针 / 无效域名"
     },
     {
+      "domain": "this-url-does-not-exist-c93bdf10-2340-4415-baf2-f400b8cf43a5.invalid",
+      "match": "exact",
+      "label": "测试探针 / 无效域名"
+    },
+    {
       "domain": "this-url-does-not-exist-c9469e34-52d3-455b-b9f1-d0554ef92bf6.invalid",
       "match": "exact",
       "label": "测试探针 / 无效域名"
@@ -78130,6 +78165,11 @@
       "domain": "52shuwang.com",
       "match": "suffix",
       "label": "网络小说 / 漫画阅读"
+    },
+    {
+      "domain": "52shuwu.top",
+      "match": "suffix",
+      "label": "我爱书屋 在线文学小说阅读"
     },
     {
       "domain": "52spain.com",
@@ -96730,6 +96770,11 @@
       "domain": "chain7373.online",
       "match": "suffix",
       "label": "Chain7373 互联网网络服务"
+    },
+    {
+      "domain": "chainstack.com",
+      "match": "suffix",
+      "label": "Chainstack Web3 基础设施"
     },
     {
       "domain": "chajibei.com",
@@ -138507,6 +138552,11 @@
       "label": "行业资讯 / 商业服务"
     },
     {
+      "domain": "mediafire.com",
+      "match": "suffix",
+      "label": "MediaFire 全球网盘文件分享"
+    },
+    {
       "domain": "mediagetapp.com",
       "match": "suffix",
       "label": "行业资讯 / 商业服务"
@@ -142630,6 +142680,11 @@
       "domain": "mwzu.cc",
       "match": "suffix",
       "label": "灰产弹窗 / 流量中继"
+    },
+    {
+      "domain": "mxbzdnw1798.cc",
+      "match": "suffix",
+      "label": "网络业务加速代理节点"
     },
     {
       "domain": "mxcheckunder.shop",
