@@ -204415,6 +204415,56 @@
       "domain": "zzzcn.com",
       "match": "suffix",
       "label": "综合互联网服务"
+    },
+    {
+      "domain": "120.235.164.0/22",
+      "match": "cidr",
+      "label": "中国移动-骨干网"
+    },
+    {
+      "domain": "120.235.168.0/22",
+      "match": "cidr",
+      "label": "中国移动-骨干网"
+    },
+    {
+      "domain": "2408:8730::/32",
+      "match": "cidr",
+      "label": "中国联通-骨干网"
+    },
+    {
+      "domain": "2408:820c:d20::/44",
+      "match": "cidr",
+      "label": "中国联通-骨干网"
+    },
+    {
+      "domain": "gaybodyblog.com",
+      "match": "suffix",
+      "label": "GayBodyBlog"
+    },
+    {
+      "domain": "dudedump.com",
+      "match": "suffix",
+      "label": "DudeDump-成人社区"
+    },
+    {
+      "domain": "adtonos.com",
+      "match": "suffix",
+      "label": "AdTonos-音频广告"
+    },
+    {
+      "domain": "suntcontent.se",
+      "match": "suffix",
+      "label": "SuntContent-瑞典媒体"
+    },
+    {
+      "domain": "cittamatra.com",
+      "match": "suffix",
+      "label": "Cittamatra-佛学文化"
+    },
+    {
+      "domain": "gg155gg1.com",
+      "match": "suffix",
+      "label": "GG155GG1-网络服务"
     }
   ]
 }
