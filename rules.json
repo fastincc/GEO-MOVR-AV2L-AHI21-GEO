@@ -212060,6 +212060,76 @@
       "domain": "2149:1224:98c:410:400:a00::/128",
       "match": "cidr",
       "label": "全球IPv6-网络节点"
+    },
+    {
+      "domain": "183.220.96.0/19",
+      "match": "cidr",
+      "label": "中国移动-骨干网"
+    },
+    {
+      "domain": "trc.com.tw",
+      "match": "suffix",
+      "label": "台湾铁路-交通服务"
+    },
+    {
+      "domain": "rockwood-group.net",
+      "match": "suffix",
+      "label": "Rockwood-企业服务"
+    },
+    {
+      "domain": "porndroids.com",
+      "match": "suffix",
+      "label": "Porndroids-成人媒体"
+    },
+    {
+      "domain": "mgtvw.org",
+      "match": "suffix",
+      "label": "MGTV-影视娱乐"
+    },
+    {
+      "domain": "joooms.com",
+      "match": "suffix",
+      "label": "女神漫画-在线阅读"
+    },
+    {
+      "domain": "fsfsz.com",
+      "match": "suffix",
+      "label": "FSFSZ-网络服务"
+    },
+    {
+      "domain": "28zw.org",
+      "match": "suffix",
+      "label": "28中文-小说阅读"
+    },
+    {
+      "domain": "pump-cdn.com",
+      "match": "suffix",
+      "label": "PumpCDN-内容分发"
+    },
+    {
+      "domain": "mengchongzu.com",
+      "match": "suffix",
+      "label": "萌宠族-宠物社区"
+    },
+    {
+      "domain": "djhrj.com",
+      "match": "suffix",
+      "label": "DJHRJ-网络服务"
+    },
+    {
+      "domain": "kbeautyexpo.com",
+      "match": "suffix",
+      "label": "KBeautyExpo-韩国美妆展"
+    },
+    {
+      "domain": "duhefkqf.cc",
+      "match": "suffix",
+      "label": "DUHE-网络服务"
+    },
+    {
+      "domain": "this-url-does-not-exist-be0b86cb-597d-4948-a157-397bc40a075a.invalid",
+      "match": "exact",
+      "label": "探测测试-保留域名"
     }
   ]
 }
