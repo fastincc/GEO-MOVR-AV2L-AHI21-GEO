@@ -212240,6 +212240,56 @@
       "domain": "this-url-does-not-exist-8bfa802d-e483-4bc8-a122-fd43a32f2565.invalid",
       "match": "exact",
       "label": "探测测试-保留域名"
+    },
+    {
+      "domain": "140.82.116.0/24",
+      "match": "cidr",
+      "label": "GitHub-代码托管"
+    },
+    {
+      "domain": "202.208.6.202/32",
+      "match": "cidr",
+      "label": "亚太网络-日本节点"
+    },
+    {
+      "domain": "xingse499.life",
+      "match": "suffix",
+      "label": "杏色乐园-福利视频"
+    },
+    {
+      "domain": "xingse498.life",
+      "match": "suffix",
+      "label": "杏色乐园-福利视频"
+    },
+    {
+      "domain": "ytpmltme.cc",
+      "match": "suffix",
+      "label": "网络服务-业务节点"
+    },
+    {
+      "domain": "slabcde.icu",
+      "match": "suffix",
+      "label": "讯达-网络安全服务"
+    },
+    {
+      "domain": "putaoplayer.com",
+      "match": "suffix",
+      "label": "葡萄播放器-视频服务"
+    },
+    {
+      "domain": "ai045uilf.cc",
+      "match": "suffix",
+      "label": "网络服务-业务节点"
+    },
+    {
+      "domain": "tmedkeiy.cc",
+      "match": "suffix",
+      "label": "网络服务-业务节点"
+    },
+    {
+      "domain": "2if936uwt.cc",
+      "match": "suffix",
+      "label": "网络服务-业务节点"
     }
   ]
 }
