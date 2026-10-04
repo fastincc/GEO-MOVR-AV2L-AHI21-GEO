@@ -212130,6 +212130,26 @@
       "domain": "this-url-does-not-exist-be0b86cb-597d-4948-a157-397bc40a075a.invalid",
       "match": "exact",
       "label": "探测测试-保留域名"
+    },
+    {
+      "domain": "43.171.78.16/32",
+      "match": "cidr",
+      "label": "亚太网络-新加坡节点"
+    },
+    {
+      "domain": "ffzy-bofang.com",
+      "match": "suffix",
+      "label": "非凡影音-视频播放资源"
+    },
+    {
+      "domain": "joybuy.de",
+      "match": "suffix",
+      "label": "京东Joybuy-德国跨境"
+    },
+    {
+      "domain": "kanliao28.com",
+      "match": "suffix",
+      "label": "今日看料-资讯社区"
     }
   ]
 }
