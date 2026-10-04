@@ -211805,6 +211805,261 @@
       "domain": "this-url-does-not-exist-0b31086d-25d3-4cf4-8e8a-808296a46bc3.invalid",
       "match": "exact",
       "label": "探测测试-保留域名"
+    },
+    {
+      "domain": "flycsair.com",
+      "match": "suffix",
+      "label": "南航-航空服务"
+    },
+    {
+      "domain": "pixm.lat",
+      "match": "suffix",
+      "label": "怪兽小方块-游戏应用"
+    },
+    {
+      "domain": "paipai.fm",
+      "match": "suffix",
+      "label": "派派-小说音频社区"
+    },
+    {
+      "domain": "acgxp.com",
+      "match": "suffix",
+      "label": "ACGXP-动漫资源"
+    },
+    {
+      "domain": "msjdp.cc",
+      "match": "suffix",
+      "label": "MSJDP-网络服务"
+    },
+    {
+      "domain": "51cgo18.com",
+      "match": "suffix",
+      "label": "51CGO-商业推广"
+    },
+    {
+      "domain": "28511427.com",
+      "match": "suffix",
+      "label": "28511427-网络服务"
+    },
+    {
+      "domain": "this-url-does-not-exist-a8d04bbc-fd07-4855-aaf2-b7782d4bc43b.invalid",
+      "match": "exact",
+      "label": "探测测试-保留域名"
+    },
+    {
+      "domain": "173.234.64.0/22",
+      "match": "cidr",
+      "label": "Leaseweb-日本主机"
+    },
+    {
+      "domain": "116.48.0.0/19",
+      "match": "cidr",
+      "label": "HKT-香港电讯盈科"
+    },
+    {
+      "domain": "89.36.158.214/32",
+      "match": "cidr",
+      "label": "欧洲主机-网络节点"
+    },
+    {
+      "domain": "43.224.184.12/32",
+      "match": "cidr",
+      "label": "亚太主机-网络节点"
+    },
+    {
+      "domain": "40.158.225.87/32",
+      "match": "cidr",
+      "label": "微软Azure-基础设施"
+    },
+    {
+      "domain": "40.158.185.24/32",
+      "match": "cidr",
+      "label": "微软Azure-基础设施"
+    },
+    {
+      "domain": "40.152.138.16/32",
+      "match": "cidr",
+      "label": "微软Azure-基础设施"
+    },
+    {
+      "domain": "40.149.138.240/32",
+      "match": "cidr",
+      "label": "微软Azure-基础设施"
+    },
+    {
+      "domain": "170.30.18.81/32",
+      "match": "cidr",
+      "label": "北美主机-网络节点"
+    },
+    {
+      "domain": "141.92.13.157/32",
+      "match": "cidr",
+      "label": "欧洲主机-网络节点"
+    },
+    {
+      "domain": "111.208.56.155/32",
+      "match": "cidr",
+      "label": "中国联通-网络节点"
+    },
+    {
+      "domain": "100.5.11.9/32",
+      "match": "cidr",
+      "label": "运营商专网-网络节点"
+    },
+    {
+      "domain": "100.39.59.125/32",
+      "match": "cidr",
+      "label": "运营商专网-网络节点"
+    },
+    {
+      "domain": "100.39.210.178/32",
+      "match": "cidr",
+      "label": "运营商专网-网络节点"
+    },
+    {
+      "domain": "100.3.201.187/32",
+      "match": "cidr",
+      "label": "运营商专网-网络节点"
+    },
+    {
+      "domain": "100.13.87.100/32",
+      "match": "cidr",
+      "label": "运营商专网-网络节点"
+    },
+    {
+      "domain": "100.13.22.150/32",
+      "match": "cidr",
+      "label": "运营商专网-网络节点"
+    },
+    {
+      "domain": "202.85.177.202/32",
+      "match": "cidr",
+      "label": "亚太网络-香港节点"
+    },
+    {
+      "domain": "202.77.174.202/32",
+      "match": "cidr",
+      "label": "亚太网络-香港节点"
+    },
+    {
+      "domain": "202.73.187.202/32",
+      "match": "cidr",
+      "label": "亚太网络-网络节点"
+    },
+    {
+      "domain": "202.50.73.202/32",
+      "match": "cidr",
+      "label": "亚太网络-网络节点"
+    },
+    {
+      "domain": "202.255.77.202/32",
+      "match": "cidr",
+      "label": "亚太网络-日本节点"
+    },
+    {
+      "domain": "202.252.26.202/32",
+      "match": "cidr",
+      "label": "亚太网络-日本节点"
+    },
+    {
+      "domain": "202.250.27.202/32",
+      "match": "cidr",
+      "label": "亚太网络-日本节点"
+    },
+    {
+      "domain": "202.25.251.202/32",
+      "match": "cidr",
+      "label": "亚太网络-日本节点"
+    },
+    {
+      "domain": "202.249.137.202/32",
+      "match": "cidr",
+      "label": "亚太网络-日本节点"
+    },
+    {
+      "domain": "202.211.52.202/32",
+      "match": "cidr",
+      "label": "亚太网络-日本节点"
+    },
+    {
+      "domain": "202.211.150.202/32",
+      "match": "cidr",
+      "label": "亚太网络-日本节点"
+    },
+    {
+      "domain": "202.21.246.202/32",
+      "match": "cidr",
+      "label": "亚太网络-新加坡节点"
+    },
+    {
+      "domain": "202.19.49.202/32",
+      "match": "cidr",
+      "label": "亚太网络-日本节点"
+    },
+    {
+      "domain": "202.140.247.202/32",
+      "match": "cidr",
+      "label": "亚太网络-香港节点"
+    },
+    {
+      "domain": "202.10.195.202/32",
+      "match": "cidr",
+      "label": "亚太网络-澳洲节点"
+    },
+    {
+      "domain": "3642:bd37:8d2d:f80e:642e:74c5:cde:f44a/128",
+      "match": "cidr",
+      "label": "全球IPv6-网络节点"
+    },
+    {
+      "domain": "2f26:2409:8a55:d9c3:1950:ded8:7cff:fe61/128",
+      "match": "cidr",
+      "label": "全球IPv6-网络节点"
+    },
+    {
+      "domain": "2efd:1224:98c:410:200:800::/128",
+      "match": "cidr",
+      "label": "全球IPv6-网络节点"
+    },
+    {
+      "domain": "26c2:fdbd:dc02:d:662::/128",
+      "match": "cidr",
+      "label": "全球IPv6-网络节点"
+    },
+    {
+      "domain": "2605:9608:ef35:7ff4:9f8e:c27b:c74:cf88/128",
+      "match": "cidr",
+      "label": "全球IPv6-网络节点"
+    },
+    {
+      "domain": "25d2:2409:8c50:a00:2154::/128",
+      "match": "cidr",
+      "label": "全球IPv6-网络节点"
+    },
+    {
+      "domain": "2178:1226:c200:2:1fa:100:0:29/128",
+      "match": "cidr",
+      "label": "全球IPv6-网络节点"
+    },
+    {
+      "domain": "2166:2409:8c50:a00:2154::/128",
+      "match": "cidr",
+      "label": "全球IPv6-网络节点"
+    },
+    {
+      "domain": "2152:1226:c200:4:114:300:0:e9/128",
+      "match": "cidr",
+      "label": "全球IPv6-网络节点"
+    },
+    {
+      "domain": "2149:2409:8a55:ee8:7a80::/128",
+      "match": "cidr",
+      "label": "全球IPv6-网络节点"
+    },
+    {
+      "domain": "2149:1224:98c:410:400:a00::/128",
+      "match": "cidr",
+      "label": "全球IPv6-网络节点"
     }
   ]
 }
