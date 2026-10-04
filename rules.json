@@ -212150,6 +212150,36 @@
       "domain": "kanliao28.com",
       "match": "suffix",
       "label": "今日看料-资讯社区"
+    },
+    {
+      "domain": "169.150.249.0/24",
+      "match": "cidr",
+      "label": "CDN77-全球边缘网络"
+    },
+    {
+      "domain": "162.192.0.0/12",
+      "match": "cidr",
+      "label": "AT&T-美国骨干网"
+    },
+    {
+      "domain": "swr57.com",
+      "match": "suffix",
+      "label": "91Porn-成人媒体"
+    },
+    {
+      "domain": "javtext.site",
+      "match": "suffix",
+      "label": "JAVTXT-影视归档"
+    },
+    {
+      "domain": "javtxt.us",
+      "match": "suffix",
+      "label": "JAVTXT-影视镜像"
+    },
+    {
+      "domain": "0cili.org",
+      "match": "suffix",
+      "label": "无极磁链-资源分享"
     }
   ]
 }
