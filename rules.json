@@ -204465,6 +204465,31 @@
       "domain": "gg155gg1.com",
       "match": "suffix",
       "label": "GG155GG1-网络服务"
+    },
+    {
+      "domain": "sex.com",
+      "match": "suffix",
+      "label": "Sex-成人媒体"
+    },
+    {
+      "domain": "gayburg.com",
+      "match": "suffix",
+      "label": "Gayburg-资讯网"
+    },
+    {
+      "domain": "ffsusu.com",
+      "match": "suffix",
+      "label": "最终幻想14-素素攻略站"
+    },
+    {
+      "domain": "sxccdn.com",
+      "match": "suffix",
+      "label": "SXC-内容分发网络"
+    },
+    {
+      "domain": "axis-marketplace.com",
+      "match": "suffix",
+      "label": "Axis-程序化广告交易平台"
     }
   ]
 }
