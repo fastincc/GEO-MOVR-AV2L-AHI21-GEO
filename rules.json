@@ -204490,6 +204490,36 @@
       "domain": "axis-marketplace.com",
       "match": "suffix",
       "label": "Axis-程序化广告交易平台"
+    },
+    {
+      "domain": "172.240.127.0/24",
+      "match": "cidr",
+      "label": "Servers.com-主机云"
+    },
+    {
+      "domain": "141.193.154.0/24",
+      "match": "cidr",
+      "label": "N963-亚太网络"
+    },
+    {
+      "domain": "ssl101.ru",
+      "match": "suffix",
+      "label": "SSL101-安全证书服务"
+    },
+    {
+      "domain": "this-url-does-not-exist-1757ae03-b51d-4550-bc15-7579b888b92f.invalid",
+      "match": "exact",
+      "label": "探测测试-保留域名"
+    },
+    {
+      "domain": "avature.cloud",
+      "match": "suffix",
+      "label": "Avature-企业人力SaaS"
+    },
+    {
+      "domain": "ophan.co.uk",
+      "match": "suffix",
+      "label": "Ophan-数据分析平台"
     }
   ]
 }
