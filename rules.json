@@ -212180,6 +212180,66 @@
       "domain": "0cili.org",
       "match": "suffix",
       "label": "无极磁链-资源分享"
+    },
+    {
+      "domain": "124.56.0.0/13",
+      "match": "cidr",
+      "label": "LG-韩国通信运营商"
+    },
+    {
+      "domain": "xjdj41.com",
+      "match": "suffix",
+      "label": "香蕉漫画-在线阅读"
+    },
+    {
+      "domain": "hm0676t.vip",
+      "match": "suffix",
+      "label": "HM-网络服务"
+    },
+    {
+      "domain": "rrfanwen.com",
+      "match": "suffix",
+      "label": "御宅屋-小说阅读"
+    },
+    {
+      "domain": "bishen8.cc",
+      "match": "suffix",
+      "label": "御宅屋-小说阅读"
+    },
+    {
+      "domain": "ryzypics.com",
+      "match": "suffix",
+      "label": "RYZY-图片资源"
+    },
+    {
+      "domain": "yy228.com",
+      "match": "suffix",
+      "label": "YY228-网络服务"
+    },
+    {
+      "domain": "xyushu5.vip",
+      "match": "suffix",
+      "label": "御宅屋-小说阅读"
+    },
+    {
+      "domain": "po18g.com",
+      "match": "suffix",
+      "label": "PO18-小说阅读"
+    },
+    {
+      "domain": "20wx.com",
+      "match": "suffix",
+      "label": "20文学-小说阅读"
+    },
+    {
+      "domain": "t5uagwz0hx.cc",
+      "match": "suffix",
+      "label": "网络服务-业务节点"
+    },
+    {
+      "domain": "this-url-does-not-exist-8bfa802d-e483-4bc8-a122-fd43a32f2565.invalid",
+      "match": "exact",
+      "label": "探测测试-保留域名"
     }
   ]
 }
