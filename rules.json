@@ -221125,6 +221125,36 @@
       "domain": "s1071m.cc",
       "match": "suffix",
       "label": "网络服务-业务节点"
+    },
+    {
+      "domain": "1.47.88.0/21",
+      "match": "cidr",
+      "label": "TotalAccess-泰国通信"
+    },
+    {
+      "domain": "125.188.0.0/14",
+      "match": "cidr",
+      "label": "LG-韩国通信运营商"
+    },
+    {
+      "domain": "175.158.245.0/24",
+      "match": "cidr",
+      "label": "Smart-菲律宾宽带"
+    },
+    {
+      "domain": "24.242.0.0/15",
+      "match": "cidr",
+      "label": "Charter-美国通信网络"
+    },
+    {
+      "domain": "2406:2d40:800::/38",
+      "match": "cidr",
+      "label": "SpaceX-Starlink星链"
+    },
+    {
+      "domain": "h4dg1b.top",
+      "match": "suffix",
+      "label": "网络服务-业务节点"
     }
   ]
 }
