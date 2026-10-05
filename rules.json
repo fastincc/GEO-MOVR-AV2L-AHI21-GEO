@@ -221260,6 +221260,11 @@
       "domain": "this-url-does-not-exist-4be62add-59d8-4e68-bc8e-277188758db4.invalid",
       "match": "exact",
       "label": "探测测试-保留域名"
+    },
+    {
+      "domain": "ctimeetingtech.com",
+      "match": "suffix",
+      "label": "CTI-会议会展技术"
     }
   ]
 }
