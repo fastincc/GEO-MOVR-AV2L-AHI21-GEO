@@ -221030,6 +221030,16 @@
       "domain": "this-url-does-not-exist-c8af5345-0558-426e-8b1d-3a126a247c48.invalid",
       "match": "exact",
       "label": "探测测试-保留域名"
+    },
+    {
+      "domain": "40.17.115.188/32",
+      "match": "cidr",
+      "label": "微软Azure-基础设施"
+    },
+    {
+      "domain": "rtapfwvp.cc",
+      "match": "suffix",
+      "label": "网络服务-业务节点"
     }
   ]
 }
