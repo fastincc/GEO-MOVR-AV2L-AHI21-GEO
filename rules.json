@@ -221300,6 +221300,181 @@
       "domain": "this-url-does-not-exist-d38e44bc-961a-48e0-8e60-4b367753a04b.invalid",
       "match": "exact",
       "label": "探测测试-保留域名"
+    },
+    {
+      "domain": "94.30.0.0/17",
+      "match": "cidr",
+      "label": "Wavenet-英国通信网络"
+    },
+    {
+      "domain": "94.190.0.0/18",
+      "match": "cidr",
+      "label": "Interra-俄罗斯通信"
+    },
+    {
+      "domain": "94.104.0.0/13",
+      "match": "cidr",
+      "label": "Orange-比利时电信"
+    },
+    {
+      "domain": "88.147.128.0/17",
+      "match": "cidr",
+      "label": "Rostelecom-俄罗斯电信"
+    },
+    {
+      "domain": "84.22.0.0/19",
+      "match": "cidr",
+      "label": "Cooolbox-保加利亚网络"
+    },
+    {
+      "domain": "84.22.132.0/22",
+      "match": "cidr",
+      "label": "Lealta-俄罗斯网络"
+    },
+    {
+      "domain": "82.34.0.0/16",
+      "match": "cidr",
+      "label": "VirginMedia-英国宽带"
+    },
+    {
+      "domain": "5.188.96.0/21",
+      "match": "cidr",
+      "label": "UmnyeSeti-俄罗斯网络"
+    },
+    {
+      "domain": "5.188.10.0/23",
+      "match": "cidr",
+      "label": "Magistral-俄罗斯电信"
+    },
+    {
+      "domain": "5.166.116.0/22",
+      "match": "cidr",
+      "label": "ER-Telecom-俄罗斯网络"
+    },
+    {
+      "domain": "46.190.42.0/24",
+      "match": "cidr",
+      "label": "Nova-希腊电信运营商"
+    },
+    {
+      "domain": "46.159.0.0/17",
+      "match": "cidr",
+      "label": "Rostelecom-俄罗斯电信"
+    },
+    {
+      "domain": "37.22.0.0/17",
+      "match": "cidr",
+      "label": "Rostelecom-俄罗斯电信"
+    },
+    {
+      "domain": "37.122.0.0/17",
+      "match": "cidr",
+      "label": "Bashinform-俄罗斯网络"
+    },
+    {
+      "domain": "31.8.0.0/16",
+      "match": "cidr",
+      "label": "Bashinform-俄罗斯网络"
+    },
+    {
+      "domain": "2804:8690::/34",
+      "match": "cidr",
+      "label": "Ultrafibra-巴西宽带"
+    },
+    {
+      "domain": "2803:9800:9a00::/48",
+      "match": "cidr",
+      "label": "Techtel-阿根廷电信"
+    },
+    {
+      "domain": "218.102.64.0/19",
+      "match": "cidr",
+      "label": "HKT-香港电讯盈科"
+    },
+    {
+      "domain": "201.185.0.0/16",
+      "match": "cidr",
+      "label": "UNE-哥伦比亚电信"
+    },
+    {
+      "domain": "198.23.152.0/22",
+      "match": "cidr",
+      "label": "HostPapa-美国数据中心"
+    },
+    {
+      "domain": "193.107.92.0/22",
+      "match": "cidr",
+      "label": "Delta-俄罗斯电信"
+    },
+    {
+      "domain": "188.163.0.0/19",
+      "match": "cidr",
+      "label": "Kyivstar-乌克兰通信"
+    },
+    {
+      "domain": "186.15.100.0/23",
+      "match": "cidr",
+      "label": "CableTica-哥斯达黎加"
+    },
+    {
+      "domain": "185.229.123.0/24",
+      "match": "cidr",
+      "label": "Gigabit-俄罗斯网络"
+    },
+    {
+      "domain": "178.35.0.0/18",
+      "match": "cidr",
+      "label": "Rostelecom-俄罗斯电信"
+    },
+    {
+      "domain": "176.28.255.0/24",
+      "match": "cidr",
+      "label": "Zain-约旦电信运营商"
+    },
+    {
+      "domain": "176.120.248.0/21",
+      "match": "cidr",
+      "label": "Lofis-俄罗斯网络"
+    },
+    {
+      "domain": "167.234.208.0/20",
+      "match": "cidr",
+      "label": "Oracle云-基础设施"
+    },
+    {
+      "domain": "122.202.196.0/22",
+      "match": "cidr",
+      "label": "KCTV-韩国济州有线"
+    },
+    {
+      "domain": "118.141.160.0/19",
+      "match": "cidr",
+      "label": "HGC-香港环球全域电讯"
+    },
+    {
+      "domain": "106.222.226.0/23",
+      "match": "cidr",
+      "label": "Airtel-印度电信运营商"
+    },
+    {
+      "domain": "102.213.136.0/22",
+      "match": "cidr",
+      "label": "Orange-马里电信网络"
+    },
+    {
+      "domain": "102.187.60.0/22",
+      "match": "cidr",
+      "label": "Vodafone-埃及数据网络"
+    },
+    {
+      "domain": "postoffice.co.uk",
+      "match": "suffix",
+      "label": "英国皇家邮政-便民服务"
+    },
+    {
+      "domain": "petsathome.com",
+      "match": "suffix",
+      "label": "PetsAtHome-宠物电商"
     }
   ]
 }
