@@ -220960,6 +220960,41 @@
       "domain": "this-url-does-not-exist-00460b54-b57b-4008-af1d-7b111acee277.invalid",
       "match": "exact",
       "label": "探测测试-保留域名"
+    },
+    {
+      "domain": "40.18.117.63/32",
+      "match": "cidr",
+      "label": "微软Azure-基础设施"
+    },
+    {
+      "domain": "xplosion.de",
+      "match": "suffix",
+      "label": "Xplosion-互动广告"
+    },
+    {
+      "domain": "topwarapp.com",
+      "match": "suffix",
+      "label": "口袋奇兵-游戏服务"
+    },
+    {
+      "domain": "topwargame.com",
+      "match": "suffix",
+      "label": "口袋奇兵-游戏服务"
+    },
+    {
+      "domain": "konsol.pro",
+      "match": "suffix",
+      "label": "Konsol-企业自雇服务"
+    },
+    {
+      "domain": "konsol.ru",
+      "match": "suffix",
+      "label": "Konsol-企业自雇服务"
+    },
+    {
+      "domain": "rivergame.net",
+      "match": "suffix",
+      "label": "江娱互动-游戏发行"
     }
   ]
 }
