@@ -220995,6 +220995,41 @@
       "domain": "rivergame.net",
       "match": "suffix",
       "label": "江娱互动-游戏发行"
+    },
+    {
+      "domain": "23.219.160.0/24",
+      "match": "cidr",
+      "label": "Akamai-CDN"
+    },
+    {
+      "domain": "202.94.90.0/23",
+      "match": "cidr",
+      "label": "Agoda-在线酒店预订"
+    },
+    {
+      "domain": "111.231.148.0/22",
+      "match": "cidr",
+      "label": "腾讯云-基础设施"
+    },
+    {
+      "domain": "ymu2ah8air.ru",
+      "match": "suffix",
+      "label": "网络服务-业务节点"
+    },
+    {
+      "domain": "dmzshequ.com",
+      "match": "suffix",
+      "label": "DMZ社区-IT技术学习"
+    },
+    {
+      "domain": "prertbdir.com",
+      "match": "suffix",
+      "label": "程序化广告-RTB服务"
+    },
+    {
+      "domain": "this-url-does-not-exist-c8af5345-0558-426e-8b1d-3a126a247c48.invalid",
+      "match": "exact",
+      "label": "探测测试-保留域名"
     }
   ]
 }
