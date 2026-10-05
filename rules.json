@@ -221265,6 +221265,41 @@
       "domain": "ctimeetingtech.com",
       "match": "suffix",
       "label": "CTI-会议会展技术"
+    },
+    {
+      "domain": "49.231.63.0/24",
+      "match": "cidr",
+      "label": "AWN-泰国电信运营商"
+    },
+    {
+      "domain": "49.231.52.0/24",
+      "match": "cidr",
+      "label": "AWN-泰国电信运营商"
+    },
+    {
+      "domain": "40.7.246.108/32",
+      "match": "cidr",
+      "label": "微软Azure-基础设施"
+    },
+    {
+      "domain": "203.144.79.0/24",
+      "match": "cidr",
+      "label": "Cellcard-柬埔寨电信"
+    },
+    {
+      "domain": "2.133.252.0/22",
+      "match": "cidr",
+      "label": "哈萨克电信-通信网络"
+    },
+    {
+      "domain": "springernature.app",
+      "match": "suffix",
+      "label": "施普林格自然-科研出版"
+    },
+    {
+      "domain": "this-url-does-not-exist-d38e44bc-961a-48e0-8e60-4b367753a04b.invalid",
+      "match": "exact",
+      "label": "探测测试-保留域名"
     }
   ]
 }
