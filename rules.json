@@ -220845,6 +220845,21 @@
       "domain": "this-url-does-not-exist-00d100f9-4ddc-47aa-b7d9-68f48a727c9c.invalid",
       "match": "exact",
       "label": "探测测试-保留域名"
+    },
+    {
+      "domain": "1.46.152.0/21",
+      "match": "cidr",
+      "label": "TotalAccess-泰国通信"
+    },
+    {
+      "domain": "transactional-mail-b.com",
+      "match": "suffix",
+      "label": "TransactionalMail-邮件服务"
+    },
+    {
+      "domain": "ccs-scootportal.com",
+      "match": "suffix",
+      "label": "酷航Scoot-机组门户"
     }
   ]
 }
