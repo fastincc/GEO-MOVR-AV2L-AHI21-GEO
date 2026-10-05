@@ -220920,6 +220920,46 @@
       "domain": "this-url-does-not-exist-1de98af3-45f7-4046-b66f-a3f00ecdb385.invalid",
       "match": "exact",
       "label": "探测测试-保留域名"
+    },
+    {
+      "domain": "47.77.192.0/18",
+      "match": "cidr",
+      "label": "阿里云-基础设施"
+    },
+    {
+      "domain": "151.242.222.0/24",
+      "match": "cidr",
+      "label": "EdgeNext-全球CDN"
+    },
+    {
+      "domain": "40.7.56.231/32",
+      "match": "cidr",
+      "label": "微软Azure-基础设施"
+    },
+    {
+      "domain": "teepeecorbu.ro",
+      "match": "suffix",
+      "label": "博彩推广-罗马尼亚"
+    },
+    {
+      "domain": "motorgacanureci.ro",
+      "match": "suffix",
+      "label": "博彩推广-罗马尼亚"
+    },
+    {
+      "domain": "germandiagnose.ro",
+      "match": "suffix",
+      "label": "博彩推广-罗马尼亚"
+    },
+    {
+      "domain": "this-url-does-not-exist-14bedeed-6553-43c7-b006-332bbc1c922b.invalid",
+      "match": "exact",
+      "label": "探测测试-保留域名"
+    },
+    {
+      "domain": "this-url-does-not-exist-00460b54-b57b-4008-af1d-7b111acee277.invalid",
+      "match": "exact",
+      "label": "探测测试-保留域名"
     }
   ]
 }
