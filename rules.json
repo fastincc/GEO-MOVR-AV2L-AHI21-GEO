@@ -221475,6 +221475,41 @@
       "domain": "petsathome.com",
       "match": "suffix",
       "label": "PetsAtHome-宠物电商"
+    },
+    {
+      "domain": "74.128.0.0/12",
+      "match": "cidr",
+      "label": "Charter-美国通信网络"
+    },
+    {
+      "domain": "2407:d000:2b::/48",
+      "match": "cidr",
+      "label": "Nayatel-巴基斯坦电信"
+    },
+    {
+      "domain": "154.192.107.0/24",
+      "match": "cidr",
+      "label": "Nayatel-塞舌尔节点"
+    },
+    {
+      "domain": "103.94.181.0/24",
+      "match": "cidr",
+      "label": "Telemor-东帝汶电信"
+    },
+    {
+      "domain": "1.47.208.0/21",
+      "match": "cidr",
+      "label": "TotalAccess-泰国通信"
+    },
+    {
+      "domain": "media-lab.ai",
+      "match": "suffix",
+      "label": "MediaLab-媒体AI平台"
+    },
+    {
+      "domain": "quicklyedit.com",
+      "match": "suffix",
+      "label": "网络服务-业务节点"
     }
   ]
 }
