@@ -221040,6 +221040,71 @@
       "domain": "rtapfwvp.cc",
       "match": "suffix",
       "label": "网络服务-业务节点"
+    },
+    {
+      "domain": "82.219.0.0/16",
+      "match": "cidr",
+      "label": "ExaNetworks-英国网络"
+    },
+    {
+      "domain": "37.111.212.0/24",
+      "match": "cidr",
+      "label": "Grameenphone-孟加拉"
+    },
+    {
+      "domain": "218.93.129.0/24",
+      "match": "cidr",
+      "label": "中国电信-常州5G网络"
+    },
+    {
+      "domain": "182.19.248.0/22",
+      "match": "cidr",
+      "label": "StarHub-新加坡宽带"
+    },
+    {
+      "domain": "14.228.72.0/21",
+      "match": "cidr",
+      "label": "VNPT-越南电信"
+    },
+    {
+      "domain": "shcdee.com",
+      "match": "suffix",
+      "label": "御宅书屋-小说阅读"
+    },
+    {
+      "domain": "dataiku.com",
+      "match": "suffix",
+      "label": "Dataiku-企业级AI平台"
+    },
+    {
+      "domain": "11035941.com",
+      "match": "suffix",
+      "label": "网络服务-业务节点"
+    },
+    {
+      "domain": "celebmasta.com",
+      "match": "suffix",
+      "label": "CelebMasta-明星视频"
+    },
+    {
+      "domain": "celebjihad.com",
+      "match": "suffix",
+      "label": "CelebJihad-明星资讯"
+    },
+    {
+      "domain": "aludugbbx.cc",
+      "match": "suffix",
+      "label": "网络服务-业务节点"
+    },
+    {
+      "domain": "bb3cb3.com",
+      "match": "suffix",
+      "label": "网络服务-业务节点"
+    },
+    {
+      "domain": "25682540.com",
+      "match": "suffix",
+      "label": "网络服务-业务节点"
     }
   ]
 }
