@@ -221850,6 +221850,166 @@
       "domain": "109.195.80.0/20",
       "match": "cidr",
       "label": "ER-Telecom Holding RU"
+    },
+    {
+      "domain": "easyjet.com",
+      "match": "suffix",
+      "label": "EasyJet"
+    },
+    {
+      "domain": "eventionapp.com",
+      "match": "suffix",
+      "label": "Evention App"
+    },
+    {
+      "domain": "hkritaevent.hk",
+      "match": "suffix",
+      "label": "HKRITA Event"
+    },
+    {
+      "domain": "yuy1n.io",
+      "match": "suffix",
+      "label": "Yuy1n Personal"
+    },
+    {
+      "domain": "xyzforstore.com",
+      "match": "suffix",
+      "label": "XYZ For Store"
+    },
+    {
+      "domain": "youfuli5.com",
+      "match": "suffix",
+      "label": "Youfuli5"
+    },
+    {
+      "domain": "92.113.12.0/24",
+      "match": "cidr",
+      "label": "24racks Cloud ES UA"
+    },
+    {
+      "domain": "211.141.32.0/21",
+      "match": "cidr",
+      "label": "China Mobile JiLin CN"
+    },
+    {
+      "domain": "195.95.153.0/24",
+      "match": "cidr",
+      "label": "ESPANIX ES"
+    },
+    {
+      "domain": "194.164.160.0/20",
+      "match": "cidr",
+      "label": "IONOS SE DE"
+    },
+    {
+      "domain": "120.214.192.0/18",
+      "match": "cidr",
+      "label": "China Mobile Henan CN"
+    },
+    {
+      "domain": "117.149.0.0/19",
+      "match": "cidr",
+      "label": "China Mobile Zhejiang CN"
+    },
+    {
+      "domain": "xxx.app.workbudd",
+      "match": "exact",
+      "label": "Workbudd App"
+    },
+    {
+      "domain": "xxx.app.wo",
+      "match": "exact",
+      "label": "Work App WO"
+    },
+    {
+      "domain": "www.xiutv649.comhttps",
+      "match": "exact",
+      "label": "XiuTV"
+    },
+    {
+      "domain": "www.shuaitongvip",
+      "match": "exact",
+      "label": "Shuaitong VIP"
+    },
+    {
+      "domain": "www.qatarairways.comhttps",
+      "match": "exact",
+      "label": "Qatar Airways"
+    },
+    {
+      "domain": "www.2ndstreet.jpv3",
+      "match": "exact",
+      "label": "2nd Street JP"
+    },
+    {
+      "domain": "wmploc.dll",
+      "match": "exact",
+      "label": "Windows Media Player DLL"
+    },
+    {
+      "domain": "us1.hamreus.comundefined",
+      "match": "exact",
+      "label": "Hamreus US"
+    },
+    {
+      "domain": "eu1.hamreus.comundefined",
+      "match": "exact",
+      "label": "Hamreus EU1"
+    },
+    {
+      "domain": "eu.hamreus.comundefined",
+      "match": "exact",
+      "label": "Hamreus EU"
+    },
+    {
+      "domain": "renatl.geekhoming.comundefined",
+      "match": "exact",
+      "label": "Geek Homing"
+    },
+    {
+      "domain": "pcp-pic.hwwt8.comundefined",
+      "match": "exact",
+      "label": "HWWT8 Pic"
+    },
+    {
+      "domain": "mywap2.icbc.com.cnnull",
+      "match": "exact",
+      "label": "ICBC WAP Bank"
+    },
+    {
+      "domain": "mywap2.icbc.com.cnicbcwapbank",
+      "match": "exact",
+      "label": "ICBC WAP Bank"
+    },
+    {
+      "domain": "manporn.xxxhttps",
+      "match": "exact",
+      "label": "Manporn XXX"
+    },
+    {
+      "domain": "installed-components.autodesk",
+      "match": "exact",
+      "label": "Autodesk Component"
+    },
+    {
+      "domain": "df200im.twqqcqc.cn1",
+      "match": "exact",
+      "label": "TWQQCQC CN"
+    },
+    {
+      "domain": "loginzlib2vrak5zzpcocc3ouizykn6k5qecgj2tzlnab5wcbqhembyd.onion",
+      "match": "exact",
+      "label": "Z-Library Onion"
+    },
+    {
+      "domain": "duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion",
+      "match": "exact",
+      "label": "DuckDuckGo Onion"
+    },
+    {
+      "domain": "articles24t2d47kb6rbabobokvrnymh2smkleosntcu6qxou6sxewyd.onion",
+      "match": "exact",
+      "label": "Articles Onion"
     }
   ]
 }
