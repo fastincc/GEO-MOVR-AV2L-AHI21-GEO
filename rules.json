@@ -222010,6 +222010,31 @@
       "domain": "articles24t2d47kb6rbabobokvrnymh2smkleosntcu6qxou6sxewyd.onion",
       "match": "exact",
       "label": "Articles Onion"
+    },
+    {
+      "domain": "cgw76.com",
+      "match": "suffix",
+      "label": "CGW76"
+    },
+    {
+      "domain": "vuxlytvtq.cc",
+      "match": "suffix",
+      "label": "Vuxlytvtq"
+    },
+    {
+      "domain": "49.231.51.0/24",
+      "match": "cidr",
+      "label": "SBN AWN IIG TH"
+    },
+    {
+      "domain": "193.32.16.0/24",
+      "match": "cidr",
+      "label": "LeaseWeb NL"
+    },
+    {
+      "domain": "129.222.146.0/23",
+      "match": "cidr",
+      "label": "SpaceX Starlink US"
     }
   ]
 }
