@@ -222045,6 +222045,46 @@
       "domain": "173.168.0.0/14",
       "match": "cidr",
       "label": "Charter Communications US"
+    },
+    {
+      "domain": "theigt.com",
+      "match": "suffix",
+      "label": "The IGT"
+    },
+    {
+      "domain": "pic0824y1.xyz",
+      "match": "suffix",
+      "label": "Pic0824y1"
+    },
+    {
+      "domain": "image-bugs.com",
+      "match": "suffix",
+      "label": "Image Bugs"
+    },
+    {
+      "domain": "asmr-300.com",
+      "match": "suffix",
+      "label": "ASMR 300"
+    },
+    {
+      "domain": "62.152.96.0/19",
+      "match": "cidr",
+      "label": "COLT Tech GB"
+    },
+    {
+      "domain": "203.176.140.0/24",
+      "match": "cidr",
+      "label": "MekongNet KH"
+    },
+    {
+      "domain": "154.3.35.0/24",
+      "match": "cidr",
+      "label": "DMIT Cloud US"
+    },
+    {
+      "domain": "103.4.44.0/22",
+      "match": "cidr",
+      "label": "Maxis Broadband MY"
     }
   ]
 }
