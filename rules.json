@@ -222035,6 +222035,16 @@
       "domain": "129.222.146.0/23",
       "match": "cidr",
       "label": "SpaceX Starlink US"
+    },
+    {
+      "domain": "erodouga-beam.com",
+      "match": "suffix",
+      "label": "Erodouga Beam"
+    },
+    {
+      "domain": "173.168.0.0/14",
+      "match": "cidr",
+      "label": "Charter Communications US"
     }
   ]
 }
