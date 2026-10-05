@@ -220860,6 +220860,66 @@
       "domain": "ccs-scootportal.com",
       "match": "suffix",
       "label": "酷航Scoot-机组门户"
+    },
+    {
+      "domain": "95.76.0.0/16",
+      "match": "cidr",
+      "label": "Vodafone-罗马尼亚"
+    },
+    {
+      "domain": "39.137.39.0/24",
+      "match": "cidr",
+      "label": "中国移动-骨干网"
+    },
+    {
+      "domain": "222.220.0.0/15",
+      "match": "cidr",
+      "label": "中国电信-骨干网"
+    },
+    {
+      "domain": "218.201.18.0/24",
+      "match": "cidr",
+      "label": "中国移动-骨干网"
+    },
+    {
+      "domain": "huangguaai07.com",
+      "match": "suffix",
+      "label": "黄果短剧-视频播放"
+    },
+    {
+      "domain": "tantantribe.com",
+      "match": "suffix",
+      "label": "探探Tantan-社交应用"
+    },
+    {
+      "domain": "97kid.com",
+      "match": "suffix",
+      "label": "久趣英语-在线教育"
+    },
+    {
+      "domain": "lizdj009.com",
+      "match": "suffix",
+      "label": "荔枝短剧-视频播放"
+    },
+    {
+      "domain": "lzweifwfs.cc",
+      "match": "suffix",
+      "label": "荔枝短剧-视频播放"
+    },
+    {
+      "domain": "spacecape.com",
+      "match": "suffix",
+      "label": "SpaceCape-网络服务"
+    },
+    {
+      "domain": "this-url-does-not-exist-bd34384d-eebf-4e5b-a074-864fdc66946c.invalid",
+      "match": "exact",
+      "label": "探测测试-保留域名"
+    },
+    {
+      "domain": "this-url-does-not-exist-1de98af3-45f7-4046-b66f-a3f00ecdb385.invalid",
+      "match": "exact",
+      "label": "探测测试-保留域名"
     }
   ]
 }
