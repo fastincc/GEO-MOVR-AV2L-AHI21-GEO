@@ -221155,6 +221155,61 @@
       "domain": "h4dg1b.top",
       "match": "suffix",
       "label": "网络服务-业务节点"
+    },
+    {
+      "domain": "92.96.224.0/19",
+      "match": "cidr",
+      "label": "Etisalat-阿联酋电信"
+    },
+    {
+      "domain": "2402:800:6312::/48",
+      "match": "cidr",
+      "label": "Viettel-越南电信"
+    },
+    {
+      "domain": "2402:7500:4e4::/48",
+      "match": "cidr",
+      "label": "台湾大哥大-通信网络"
+    },
+    {
+      "domain": "222.157.64.0/19",
+      "match": "cidr",
+      "label": "数位联合-台湾网络"
+    },
+    {
+      "domain": "171.247.32.0/21",
+      "match": "cidr",
+      "label": "Viettel-越南电信"
+    },
+    {
+      "domain": "148.244.104.0/24",
+      "match": "cidr",
+      "label": "Alestra-墨西哥电信"
+    },
+    {
+      "domain": "146.103.86.0/24",
+      "match": "cidr",
+      "label": "Meteverse-加拿大网络"
+    },
+    {
+      "domain": "steaminputdb.com",
+      "match": "suffix",
+      "label": "SteamInputDB-游戏配置"
+    },
+    {
+      "domain": "h5cw3t.top",
+      "match": "suffix",
+      "label": "网络服务-业务节点"
+    },
+    {
+      "domain": "savethevideo.app",
+      "match": "suffix",
+      "label": "SaveTheVideo-视频解析"
+    },
+    {
+      "domain": "vd4r73.top",
+      "match": "suffix",
+      "label": "网络服务-业务节点"
     }
   ]
 }
