@@ -221210,6 +221210,56 @@
       "domain": "vd4r73.top",
       "match": "suffix",
       "label": "网络服务-业务节点"
+    },
+    {
+      "domain": "74.113.236.0/23",
+      "match": "cidr",
+      "label": "BlueTech-WAF安全防御"
+    },
+    {
+      "domain": "46.146.196.0/22",
+      "match": "cidr",
+      "label": "ER-Telecom-俄罗斯网络"
+    },
+    {
+      "domain": "37.77.86.0/23",
+      "match": "cidr",
+      "label": "BlueTech-WAF安全防御"
+    },
+    {
+      "domain": "185.91.24.0/22",
+      "match": "cidr",
+      "label": "Megaspace-德国主机"
+    },
+    {
+      "domain": "146.103.66.0/24",
+      "match": "cidr",
+      "label": "Meteverse-加拿大网络"
+    },
+    {
+      "domain": "111.65.62.0/24",
+      "match": "cidr",
+      "label": "Singtel-新加坡电信"
+    },
+    {
+      "domain": "zuqiu199.app",
+      "match": "suffix",
+      "label": "网络服务-业务节点"
+    },
+    {
+      "domain": "hbxytc.com",
+      "match": "suffix",
+      "label": "网络服务-业务节点"
+    },
+    {
+      "domain": "truckersmp.com",
+      "match": "suffix",
+      "label": "TruckersMP-欧卡联机"
+    },
+    {
+      "domain": "this-url-does-not-exist-4be62add-59d8-4e68-bc8e-277188758db4.invalid",
+      "match": "exact",
+      "label": "探测测试-保留域名"
     }
   ]
 }
