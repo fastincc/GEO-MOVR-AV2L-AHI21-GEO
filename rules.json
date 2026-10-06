@@ -238115,6 +238115,76 @@
       "domain": "158.179.208.0/20",
       "match": "cidr",
       "label": "Oracle 甲骨文云计算 SE"
+    },
+    {
+      "domain": "asianewstoday.com",
+      "match": "suffix",
+      "label": "Asia News Today 亚洲今日"
+    },
+    {
+      "domain": "cassina.com",
+      "match": "suffix",
+      "label": "Cassina 意大利现代家具"
+    },
+    {
+      "domain": "cdrive.my",
+      "match": "suffix",
+      "label": "CDrive 马来西亚出行"
+    },
+    {
+      "domain": "coffeebreakwithme.com",
+      "match": "suffix",
+      "label": "Coffee Break 生活资讯"
+    },
+    {
+      "domain": "edra.com",
+      "match": "suffix",
+      "label": "Edra 意大利高端家居"
+    },
+    {
+      "domain": "fritzhansen.com",
+      "match": "suffix",
+      "label": "Fritz Hansen 丹麦设计"
+    },
+    {
+      "domain": "hermanmiller.group",
+      "match": "suffix",
+      "label": "Herman Miller 办公家居"
+    },
+    {
+      "domain": "ipbase.com",
+      "match": "suffix",
+      "label": "IPBase 全球IP地理位置API"
+    },
+    {
+      "domain": "knoll.com",
+      "match": "suffix",
+      "label": "Knoll 现代办公家具设计"
+    },
+    {
+      "domain": "maturazioni.it",
+      "match": "suffix",
+      "label": "Maturazioni 意大利商业"
+    },
+    {
+      "domain": "nazznco.my",
+      "match": "suffix",
+      "label": "Nazz & Co 马来数码媒体"
+    },
+    {
+      "domain": "urbansophistication.com",
+      "match": "suffix",
+      "label": "Urban Sophistication"
+    },
+    {
+      "domain": "vasstycom.com",
+      "match": "suffix",
+      "label": "网络服务平台"
+    },
+    {
+      "domain": "vitra.com",
+      "match": "suffix",
+      "label": "Vitra 瑞士经典家具设计"
     }
   ]
 }
