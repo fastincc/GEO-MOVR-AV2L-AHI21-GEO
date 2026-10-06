@@ -234980,6 +234980,16 @@
       "domain": "102.41.164.0/22",
       "match": "cidr",
       "label": "Telecom Egypt 埃及电信 EG"
+    },
+    {
+      "domain": "uniteddaily.my",
+      "match": "suffix",
+      "label": "联合日报 马来西亚媒体"
+    },
+    {
+      "domain": "120.192.208.0/21",
+      "match": "cidr",
+      "label": "中国移动通信集团 CN"
     }
   ]
 }
