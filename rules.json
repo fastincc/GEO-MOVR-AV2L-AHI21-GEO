@@ -234990,6 +234990,46 @@
       "domain": "120.192.208.0/21",
       "match": "cidr",
       "label": "中国移动通信集团 CN"
+    },
+    {
+      "domain": "abangkereta.my",
+      "match": "suffix",
+      "label": "Abang Kereta 汽车资讯"
+    },
+    {
+      "domain": "galaksi-media.com",
+      "match": "suffix",
+      "label": "Galaksi Media 马来娱乐"
+    },
+    {
+      "domain": "gohedgostan.com",
+      "match": "suffix",
+      "label": "Gohed Gostan 汽车科技"
+    },
+    {
+      "domain": "maxit.my",
+      "match": "suffix",
+      "label": "MaxIT 马来西亚科技数码"
+    },
+    {
+      "domain": "ohsemput.com",
+      "match": "suffix",
+      "label": "Ohsemput 网络媒体平台"
+    },
+    {
+      "domain": "themalaysiavoice.com",
+      "match": "suffix",
+      "label": "The Malaysia Voice 新闻"
+    },
+    {
+      "domain": "themalaytribune.com",
+      "match": "suffix",
+      "label": "The Malay Tribune 论坛"
+    },
+    {
+      "domain": "wiser.my",
+      "match": "suffix",
+      "label": "Wiser MY 科技数码媒体"
     }
   ]
 }
