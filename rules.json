@@ -235030,6 +235030,56 @@
       "domain": "wiser.my",
       "match": "suffix",
       "label": "Wiser MY 科技数码媒体"
+    },
+    {
+      "domain": "chitra.live",
+      "match": "suffix",
+      "label": "Chitra Live 媒体内容分发"
+    },
+    {
+      "domain": "kreatio.com",
+      "match": "suffix",
+      "label": "Kreatio 数字化出版系统"
+    },
+    {
+      "domain": "kreatio.net",
+      "match": "suffix",
+      "label": "Kreatio 静态资源分发"
+    },
+    {
+      "domain": "mason-studio.site",
+      "match": "suffix",
+      "label": "Mason Studio 设计工作室"
+    },
+    {
+      "domain": "203.127.0.0/16",
+      "match": "cidr",
+      "label": "SingNet 新加坡电信宽带"
+    },
+    {
+      "domain": "177.93.26.0/24",
+      "match": "cidr",
+      "label": "Telecable 哥斯达黎加 CR"
+    },
+    {
+      "domain": "167.179.38.0/24",
+      "match": "cidr",
+      "label": "NeocomISP 柬埔寨宽带 KH"
+    },
+    {
+      "domain": "147.50.100.0/22",
+      "match": "cidr",
+      "label": "AWN 泰国移动网络 TH"
+    },
+    {
+      "domain": "114.66.250.0/23",
+      "match": "cidr",
+      "label": "中国联通 江苏无锡 IDC"
+    },
+    {
+      "domain": "103.232.160.0/24",
+      "match": "cidr",
+      "label": "Wireline 澳大利亚宽带 AU"
     }
   ]
 }
