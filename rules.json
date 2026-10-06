@@ -237980,6 +237980,11 @@
       "domain": "70.35.160.0/20",
       "match": "cidr",
       "label": "Beanfield 加拿大光纤 CA"
+    },
+    {
+      "domain": "2408:8948::/32",
+      "match": "cidr",
+      "label": "中国联通 骨干网 CN"
     }
   ]
 }
