@@ -237775,6 +237775,101 @@
       "domain": "0:101:d03::51b7:8967:a664",
       "match": "exact",
       "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "usi.gov.au",
+      "match": "suffix",
+      "label": "USI 澳大利亚唯一学生标识"
+    },
+    {
+      "domain": "ppngvjw770.cc",
+      "match": "suffix",
+      "label": "网络服务节点"
+    },
+    {
+      "domain": "max-infos.com",
+      "match": "suffix",
+      "label": "Max-Infos 资讯门户"
+    },
+    {
+      "domain": "vujqr770.com",
+      "match": "suffix",
+      "label": "网络服务平台"
+    },
+    {
+      "domain": "timchew.net",
+      "match": "suffix",
+      "label": "Tim Chew 官方个人站点"
+    },
+    {
+      "domain": "this-url-does-not-exist-be041f9a-8457-45e1-8066-6bce1de265da.invalid",
+      "match": "exact",
+      "label": "测试探针 / 无效域名"
+    },
+    {
+      "domain": "caricarz.com",
+      "match": "suffix",
+      "label": "CariCarz 马来汽车资讯网"
+    },
+    {
+      "domain": "yskhongdriving.com",
+      "match": "suffix",
+      "label": "YS Khong Driving 驾驶"
+    },
+    {
+      "domain": "malaysiaairlines.com",
+      "match": "suffix",
+      "label": "马来西亚航空 官方网站"
+    },
+    {
+      "domain": "ecentral.my",
+      "match": "suffix",
+      "label": "eCentral 马来西亚政务"
+    },
+    {
+      "domain": "42.71.128.0/18",
+      "match": "cidr",
+      "label": "中华电信 EMOME 移动 TW"
+    },
+    {
+      "domain": "2001:44c8:6580::/44",
+      "match": "cidr",
+      "label": "AIS 泰国移动网络 TH"
+    },
+    {
+      "domain": "198.163.150.0/24",
+      "match": "cidr",
+      "label": "MERLIN 加拿大网络 CA"
+    },
+    {
+      "domain": "121.53.93.0/24",
+      "match": "cidr",
+      "label": "Kakao Corp 韩国互联网 KR"
+    },
+    {
+      "domain": "118.69.144.0/20",
+      "match": "cidr",
+      "label": "FPT Telecom 越南电信 VN"
+    },
+    {
+      "domain": "117.2.143.0/24",
+      "match": "cidr",
+      "label": "Viettel Group 越南电信 VN"
+    },
+    {
+      "domain": "115.84.115.0/24",
+      "match": "cidr",
+      "label": "Lao Telecom 老挝电信 LA"
+    },
+    {
+      "domain": "106.101.197.0/24",
+      "match": "cidr",
+      "label": "LG Uplus 韩国电信通信 KR"
+    },
+    {
+      "domain": "101.99.4.0/24",
+      "match": "cidr",
+      "label": "CMC Telecom 越南电信 VN"
     }
   ]
 }
