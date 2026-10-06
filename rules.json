@@ -238090,6 +238090,21 @@
       "domain": "109.105.193.0/24",
       "match": "cidr",
       "label": "Haruka Network 英国数据"
+    },
+    {
+      "domain": "at-v.my",
+      "match": "suffix",
+      "label": "AT-V 马来西亚科技"
+    },
+    {
+      "domain": "weirdkaya.com",
+      "match": "suffix",
+      "label": "WeirdKaya 马来资讯门户"
+    },
+    {
+      "domain": "zoey-shop.site",
+      "match": "suffix",
+      "label": "Zoey Shop 电商服务"
     }
   ]
 }
