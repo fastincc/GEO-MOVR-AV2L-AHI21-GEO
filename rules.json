@@ -234595,6 +234595,131 @@
       "domain": "2024:7085:6cd2:4ec1:5a4b:9f26:383e:6c29/128",
       "match": "cidr",
       "label": "Network"
+    },
+    {
+      "domain": "badoo.com",
+      "match": "suffix",
+      "label": "Badoo 社交网络平台"
+    },
+    {
+      "domain": "baojbx.com",
+      "match": "suffix",
+      "label": "Baojbx 互联网服务"
+    },
+    {
+      "domain": "cca.qc.ca",
+      "match": "suffix",
+      "label": "CCA 加拿大建筑中心"
+    },
+    {
+      "domain": "centbrowser.com",
+      "match": "suffix",
+      "label": "百分浏览器 官方网站"
+    },
+    {
+      "domain": "commerce-connector.de",
+      "match": "suffix",
+      "label": "Commerce Connector 电商"
+    },
+    {
+      "domain": "currentaccountswitch.co.uk",
+      "match": "suffix",
+      "label": "Current Account Switch"
+    },
+    {
+      "domain": "imagine2.net",
+      "match": "suffix",
+      "label": "Imagine2 网络服务"
+    },
+    {
+      "domain": "limitlesslivemessenger.com",
+      "match": "suffix",
+      "label": "Live Messenger 消息服务"
+    },
+    {
+      "domain": "loreal-paris.co.uk",
+      "match": "suffix",
+      "label": "欧莱雅 英国官方网站"
+    },
+    {
+      "domain": "luzdthcm.cc",
+      "match": "suffix",
+      "label": "Luzdthcm 互联网服务"
+    },
+    {
+      "domain": "mypurecloud.de",
+      "match": "suffix",
+      "label": "Genesys Cloud 云通信"
+    },
+    {
+      "domain": "nongyoukeji.com",
+      "match": "suffix",
+      "label": "农友科技 官方网站"
+    },
+    {
+      "domain": "pickme.lk",
+      "match": "suffix",
+      "label": "PickMe 斯里兰卡出行"
+    },
+    {
+      "domain": "toto-jp.pro",
+      "match": "suffix",
+      "label": "Toto JP 互联网服务"
+    },
+    {
+      "domain": "twix.com",
+      "match": "suffix",
+      "label": "Twix 特趣巧克力官方"
+    },
+    {
+      "domain": "w9xntvyv4y.com",
+      "match": "suffix",
+      "label": "W9xntvyv4y 互联网服务"
+    },
+    {
+      "domain": "yieldify.com",
+      "match": "suffix",
+      "label": "Yieldify 客户转化营销"
+    },
+    {
+      "domain": "49.230.99.0/24",
+      "match": "cidr",
+      "label": "AIS 泰国移动网络 TH"
+    },
+    {
+      "domain": "45.118.64.0/22",
+      "match": "cidr",
+      "label": "Superloop 宽带网络 AU"
+    },
+    {
+      "domain": "43.245.153.0/24",
+      "match": "cidr",
+      "label": "Superloop 宽带网络 AU"
+    },
+    {
+      "domain": "2001:fb1:36::/48",
+      "match": "cidr",
+      "label": "True Online 宽带 TH"
+    },
+    {
+      "domain": "149.154.20.0/22",
+      "match": "cidr",
+      "label": "Metronet 光纤网络 US"
+    },
+    {
+      "domain": "117.138.104.0/22",
+      "match": "cidr",
+      "label": "中国移动通信集团 CN"
+    },
+    {
+      "domain": "112.212.192.0/19",
+      "match": "cidr",
+      "label": "SK Broadband 韩国宽带"
+    },
+    {
+      "domain": "103.57.207.0/24",
+      "match": "cidr",
+      "label": "Myanmar Country 缅甸 MM"
     }
   ]
 }
