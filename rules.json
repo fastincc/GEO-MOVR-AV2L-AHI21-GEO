@@ -234745,6 +234745,111 @@
       "domain": "109.178.0.0/16",
       "match": "cidr",
       "label": "OTE SA 希腊电信 GR"
+    },
+    {
+      "domain": "tschumi.com",
+      "match": "suffix",
+      "label": "Bernard Tschumi 建筑设计"
+    },
+    {
+      "domain": "rabbit0-store.com",
+      "match": "suffix",
+      "label": "Rabbit Store 官方商店"
+    },
+    {
+      "domain": "isaosato.moo.jp",
+      "match": "suffix",
+      "label": "Isao Sato Moo 个人网站"
+    },
+    {
+      "domain": "webn.cc",
+      "match": "suffix",
+      "label": "WebN 网络基础服务"
+    },
+    {
+      "domain": "92.104.0.0/14",
+      "match": "cidr",
+      "label": "Swisscom 瑞士电信 CH"
+    },
+    {
+      "domain": "88.221.196.0/23",
+      "match": "cidr",
+      "label": "Akamai 边缘内容分发 NL"
+    },
+    {
+      "domain": "67.68.0.0/16",
+      "match": "cidr",
+      "label": "Bell Canada 加拿大电信"
+    },
+    {
+      "domain": "58.159.0.0/17",
+      "match": "cidr",
+      "label": "ARTERIA Networks 日本电信"
+    },
+    {
+      "domain": "37.214.56.0/21",
+      "match": "cidr",
+      "label": "Beltelecom 白俄罗斯电信"
+    },
+    {
+      "domain": "2402:b400::/32",
+      "match": "cidr",
+      "label": "YTL Communications 马来"
+    },
+    {
+      "domain": "2001:b011:e600::/39",
+      "match": "cidr",
+      "label": "HiNet 中华电信 台湾 TW"
+    },
+    {
+      "domain": "14.1.188.0/24",
+      "match": "cidr",
+      "label": "YTL Communications 马来"
+    },
+    {
+      "domain": "172.16.0.0/12",
+      "match": "cidr",
+      "label": "RFC 1918 私有内网地址空间"
+    },
+    {
+      "domain": "239.255.0.0/16",
+      "match": "cidr",
+      "label": "SSDP 本地组播通信协议"
+    },
+    {
+      "domain": "198.51.100.0/24",
+      "match": "cidr",
+      "label": "TEST-NET-2 文档测试地址"
+    },
+    {
+      "domain": "192.0.0.0/24",
+      "match": "cidr",
+      "label": "IETF 协议特殊保留地址"
+    },
+    {
+      "domain": "fc00::/7",
+      "match": "cidr",
+      "label": "IPv6 ULA 唯一本地单播地址"
+    },
+    {
+      "domain": "fe80::/10",
+      "match": "cidr",
+      "label": "IPv6 链路本地单播地址"
+    },
+    {
+      "domain": "ff00::/8",
+      "match": "cidr",
+      "label": "IPv6 组播通信协议地址"
+    },
+    {
+      "domain": "2001:db8::/32",
+      "match": "cidr",
+      "label": "IPv6 文档及测试保留地址"
+    },
+    {
+      "domain": "64:ff9b::/96",
+      "match": "cidr",
+      "label": "IPv4/IPv6 NAT64 转换网段"
     }
   ]
 }
