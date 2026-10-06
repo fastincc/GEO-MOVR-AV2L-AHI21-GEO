@@ -237870,6 +237870,31 @@
       "domain": "101.99.4.0/24",
       "match": "cidr",
       "label": "CMC Telecom 越南电信 VN"
+    },
+    {
+      "domain": "zakirin.my",
+      "match": "suffix",
+      "label": "Zakirin 官方个人站点"
+    },
+    {
+      "domain": "edgeprop.my",
+      "match": "suffix",
+      "label": "EdgeProp 马来房产门户"
+    },
+    {
+      "domain": "cimb.com",
+      "match": "suffix",
+      "label": "CIMB 联昌国际银行"
+    },
+    {
+      "domain": "klktoday.com",
+      "match": "suffix",
+      "label": "KLK Today 资讯门户"
+    },
+    {
+      "domain": "2402:7500:4e3::/48",
+      "match": "cidr",
+      "label": "台湾大哥大 5G/4G TW"
     }
   ]
 }
