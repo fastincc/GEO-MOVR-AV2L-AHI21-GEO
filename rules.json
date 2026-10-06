@@ -234850,6 +234850,2681 @@
       "domain": "64:ff9b::/96",
       "match": "cidr",
       "label": "IPv4/IPv6 NAT64 转换网段"
+    },
+    {
+      "domain": "takanaka-art.com",
+      "match": "suffix",
+      "label": "Takanaka Art 艺术设计"
+    },
+    {
+      "domain": "82.12.0.0/14",
+      "match": "cidr",
+      "label": "Virgin Media 宽带 GB"
+    },
+    {
+      "domain": "202.103.16.0/20",
+      "match": "cidr",
+      "label": "中国电信 湖北武汉 5G CN"
+    },
+    {
+      "domain": "fe20::11ca:8345:f62a:9605/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "faff:fe7d:98e9:2167:2409:8a55:230:a250/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "fa3b:92f9:9092:3b25:d204:114:300:0/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "f97c:3e78:b5bc:85a8:faa8:5eb6:c78:e645/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "f901:4e15:64ff:b2f9:64e3:303:78ee:34b8/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "f536:2603:d538:dc43:8871:a468:c24:97c7/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "f3c8:6d6:155:6ff6:9d52:aa09:c3b:2fe9/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "f321:6024:98a:5504:e277:10f8:dfb8:fffe/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "f04:200::1525:d224:e03/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "f02:3400::2325:d202:2fa/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "f01:1e00::4125:d224:882/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "f006:3100::2:221:b811:2409/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "ee96:15e7:db88:4426:aa9a:3f78:c78:e645/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "ee34:be21:c511:6f3e:31f0:26c2:2605:340/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "ee34:3221:e811::26c2:0:2409/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "edf:b49b:edff:fe45:8d2f:2177:1124:e00/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "ed67:22c8:8f42:cc03:78ee:337c:218a:78ee/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "eb80:2401:f09a:6db0:6ec1:2f25:1224:887/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "ea21:7715:6f3e:31f0:26c2:fdbd:dc01:1/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "e995:bc5c:1906:da17:b954:898d:c3d:f29b/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "e928:c931:920c:78e3:8943:77c4:c0a8:131/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "e861:e9e0:7306:378:ee34:2821:9478:ee34/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "e683:4cb9:23c0:a801:3b21:9015:6f3e:31f0/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "e66f:b84c:1d6:c3b:2fe9:4f2f:3c3b:2fe9/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "e609:2003:8396:5c13:74e6:81c9:3df:d6cd/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "e46c:f008:7ab6:fffe:70f5:821:6524:98a/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "e376:899a:49c5:6158:a099:311f:cb4:7cb2/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "e2f6:84fe:533d:99b1:d228:2d0c:78ee:34be/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "e269:e0dc:3ded:fffe:f91a:1321:5624:98a/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "e11f:e004:cf40:e43c:15:c30c:78e6:8308/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "e0b:eaba:b544:ef58:66b:cfed:c78:e64f/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "e000:2000::2621:6d11:2409/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "df71:8696:213b:116f:3e31:f026:c2fd:bddc/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "df52:d5c4:215d:df52:d5c4:215d:116f:3e31/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "df07:aa7c:9aa1:7f15:7450:b254:c78:eba0/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "de21:8624:98a:5506:aa93:c070:3d29:fffe/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "dd:2721:710b:e2d7:ab10:d6ca:a9f1:b2aa/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "dd14:79f9:1379:0:c484:4554:6291:2d8a/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "dd00::10:b2a1:1227:5ade:76d1/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "dd00::10:6cbd:ad3f:aceb:fd13/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "dd00::10:604d:e6d7:85c5:881d/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "dd00:0:0:10::201/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "dd00:0:0:10::200/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "dc01:d:834::23:25d2/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "da20:1cb6:1c1d:f2ea:ad85:b439:cdf:7186/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "d8c1:8708:d4c8:cdf:4987:3b9d:d5ac:13e8/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "d825:d204:114:300:0:1:e93f:37f1/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "d6d5:33ac:66c8:99f7:3f96:3b11:c78:c0d1/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "d5e0:187e:b4ff:fef6:340e:217f:24:98c/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "d57b:81c5:aa30:3066:6b4a:9a0c:78ef:4e6d/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "d3bb:cdad:1e3f:4b7:e3cd:6d26:51c0:a87c/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "d224:e03:7063:148:80cf:14d8:5014:d568/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "d224:98a:550e:e73f:d00c:184f:fffe:e7d8/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "d224:98a:550e:e736:2044:6686:fffe:9771/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "d224:98a:550e:e3c7:f0bc:48b:fffe:3edb/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "d224:98a:550e:e38f:30fc:9f1b:fffe:8d89/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "d224:98a:5506:ad83:7012:be48:fffe:adb3/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "d224:98a:5504:e0ac:1000::/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "d224:98a:280d:3e9:de:d87c:fffe:5eff/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "d224:883:6254:9462:dde:d87c:fffe:22c9/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "d204:114:300:0:d3:1293:a960:e09f/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "d203:218:300:0:ee:2db8:7faf:f9bc/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "d202:20f:300:0:96:4654:f60e:a4d2/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "d1d0:8527:1521:dc1c:2bc9:2177:1224:e09/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "d1ce:fd25:d224:98a:550e:e80e:30ec:1d39/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "d0a2:b1eb:e877:6601:7095:17ea:cb6:cf62/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "d08:1200::4325:d201:2fa/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "d013:804a:36a1:3c1d:86c2:c0dc:c3c:dc3f/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "cfa3:cf49:bc94:4b64:1c52:9c3:74e:a23/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "cfa2:3e52:3877:e677:cdf:4a40:d3a5:bac0/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "cdf:534b:5921:5adf:534b:5921:5a11:6f3e/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "cdf:4a40:a3f2:cfc0:a801:3e21:5415:6f3e/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "cde7:e102:2027:1479:9154:ed17:cdf:534b/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "cdb3:cf00:98e9:f9bc:e018:c60d:c6f:1ee6/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "cd51:4e00:38ec:8e8c:6029:f4f6:25d2:2409/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "ccc3:d2d4:7f08:ff7a:74d0:9bd8:c79:efdf/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "cbc6:b045:ac28:538f:9670:e323:cdb:9066/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "cbb2:9383:e8bf:4b33:c28b:bf5f:c6a:e460/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "cb9f:5c95:5242:776b:71d1:360:c72:6547/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "cb9:eeff:fe44:c828:216c:2409:8a55:ee2/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "cab4:d23b:cdd9:983d:2903:d44c:5c91:d8ca/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "ca87:b277:236f:2451:6684:4b41:b85d:e1ca/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "ca5f:d33c:2d12:4473:d8f6:bd31:cb48:cca/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "ca4f:3b7a:5aee:ec47:2a31:5667:91bf:e5ca/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "c:691::40:25d2:201/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "c78:ef4e:6cf7:cac0:a801:4b21:5a15:6f3e/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "c78:e645:986b:8c0:a801:7c21:5c15:6f3e/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "c713:9b7f:a9de:b9f0:21ea:4a31:ccc:8dda/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "c697:344:2256:3cd7:f3e0:bcc7:c70:171/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "c648:1e93:e7c8:45d0:5bb7:daf9:cdf:4a40/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "c63d:bb30:44e4:c74:cf88:1722:9774:cf88/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "c47f:87d1:e99e:9ded:7ee5:124:378:ee34/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "c3b:3724:1e18:62c0:a801:d21:7719:3107/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "c3b:2fe9:1d21:5e3b:2fe9:1d21:5f11:3107/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "c2fd:bddc:300:f05:1e00::/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "c2fd:bddc:300:f03:4200::/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "c2fd:bddc:300:104:2200::/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "c2fd:bddc:200:d05:4400::/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "c2fd:bddc:200:c07:1500::/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "c2fd:bddc:200:c00:3400::/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "c2fd:bddc:200:2504:1900::/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "c2fd:bddc:200:2404:2600::/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "c2fd:bddc:100:b03:6100::/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "c2fd:bddc:100:2b0c:200::/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "c2fd:bddc:100:2302:3700::/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "c2fd:bddc:100:1701:7800::/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "c25b:ff63:df4:c78:eba8:45f3:40c0:a801/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "c215:1f0d:5545:7554:5709:c60c:7b06:9a8f/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "c1b:d2a:e52f:14c0:a801:22f:1419:6ef9/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "c195:8ed8:b307:bcb4:3174:8b19:cdf:4a40/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "c100:900::3221:7a11:2409/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "c0d1:6d22:2411:6f3e:31f0:26c2:fdbd:dc01/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "c0cb:dddc:7f5f:2e97:c78:e645:9afa:c7c0/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "c0a8:102:2f1a:15dd:c28a:7f26:c226:503/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "c0:a801:4921:4c02::26c2:0/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "c07:7500::2425:d224:882/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "c054:3a2e:ebdc:93ba:3bad:c5ae:c78:eba8/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "bfff:fe24:1be9:217f:2409:8a55:6ab:ed40/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "be09:405f:a6a4:a46:6def:b6fd:cb6:f347/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "bddc:200:d02:5800::2325/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "bddc:200:3:4400::3225/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "bca6:3878:9ff:37d:53f6:3f2f:21c0:a81f/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "bbed:f8b4:93e9:30:4251:d21c:c7b:69a/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "baa4:579c:7f16:7709:3359:1c52:c78:ff55/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "ba9c:79a6:9cdc:eb19:9de8:1aad:c74:cfa9/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "b:361::14:25d2:202/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "b8e1:ae04:7ed7:24dd:c453:2ba5:378:ee34/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "b81c:b388:cdb7:8adc:1cda:890a:c70:ee/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "b7d1:d006:7ed9:7eda:3f08:8a21:7724:e03/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "b42f:2124:987:5442:1000:3000::/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "b3af:49f:3492:752a:cd6b:b4ec:c78:ee34/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "b0e::41:25d2:2409:8770/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "b0d3:76ff:fee8:2bd8:219f:1226:c200:4/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "aee5:d01c:c486:fffe:57cd:9221:a212:2409/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "ae52:764d:fb74:a2b0:42dc:4078:c78:eba5/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "ade:629d:ba1d:8821:86fe:3729:cdf:4a40/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "ad1b:1151:c08:cf6a:1985:215:c78:e5a9/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "acfc:458d:2126:c028:5aa2:2dff:c78:ef4e/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "ac21:4224:98a:550e:e9d7:6010:a6fb:fffe/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "ab37:6226:2b3:627f:accb:98d:c78:e659/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "a::1a2:26c2:fdbd:dc01/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "a:238::83:25d2:2409/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "a:114::86:25d2:202/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "a96d:1000::121:ab24:98a/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "a96d:1000::121:ab12:2409/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "a8c2:9bba:3f98:9678:6f9f:1b0:c78:e683/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "a851:75f6:2a27:46a6:3d8c:404f:c70:ee/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "a80c:78eb:a50a:16b7:c0a8:14c:2156:186f/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "a801:4821:4c02:6f3e:31f0:26c2:fdbd:dc01/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "a800:2228:c0e9:2ceb:26b:2f26:2408:8248/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "a55c:c0f4:8296:fffe:79c:4b21:9612:2409/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "a2f7:e28e:91c9:ad29:c577:67ab:327:b83d/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "a288:4d54:9e2d:e827:9fea:9e44:c75:958b/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "a254:a8c0:a801:321:3c02:6f3e:31f0:26c2/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "a226:c2fd:bddc:100:402:2100::/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "a226:c2fd:bddc:100:2301:2800::/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "a226:c2fd:bddc:100:201:4600::/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "a210:ac56:b9b9:3836:9468:2177:240e:333/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "a20f:b5c5:32aa:c7b:69a:8f21:ac7b:69a/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "a16d:803c:b164:fffe:da74:bb21:6112:2409/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "a167:c024:68c3:fffe:3766:1521:a912:2409/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "a130:4d68:a531:25d2:401:1403::/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "a120:c0d6:19ff:fe2a:15e0:215f:1224:98c/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "a100:2409:8c04:1002:8::/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "a0:7::42:2206:1124:98c/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "a03:9000::7125:d224:98a/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "a01:4600::8925:d200:24/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "::e715:6710:e5f0:a534:6bc4:66e6/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "::9c25:ffc0:6231:3bff:fe7d:817c/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "::9425:d200:24:987:5442:1000/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "::8725:d204:114:300:0/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "::8325:d201:114:300:0/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "::810b:6984:30ef:d529:d8b:dbaf/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "::7697:95d:ef68:13c0:cf3d:820f/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "::7525:d204:114:300:0:81/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "::7125:d202:20d:300:0:9/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "::49:25d2:0:2409:8a55:6ab/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "::4825:d202:114:300:0:70/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "::47:2157:2409:8738:5c00/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "::4625:d224:98a:550e:e8b3:c008/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "::4525:d202:107:300:0:e6/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "::4225:d204:118:300:0:29/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "::4225:d202:10d:300:0:2e/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "::4125:d202:2fa:100:0:b6/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "::4025:d204:10d:300:0:4b/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "::4025:d202:114:300:0:3b/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "::3925:d203:10d:300:0:80/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "::36:25d2:240e:335:6a02:6070/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "::3125:d204:114:300:0:a4/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "::3125:d204:114:300:0:3b/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "::2:1625:d204:114:300:0/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "::2825:d202:10d:300:0:2c/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "::2725:d204:114:300:0/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "::26:25d2:2409:8754:4210/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "::26:25d2:0:2409:8754:4210/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "::2625:d202:2fa:100:0:c1/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "::24:25d2:2409:8a62:2215/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "::2325:d203:114:300:0:5f/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "::1fe:21b2:26:c200:4/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "::1e7:214d:26:c200:4/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "::1a2:26c2:fdbd:dc01:29/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "::1a2:26c2:2605:340:cd51/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "::1:a226:c2fd:bddc:100:b03/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "::19:25d2:2409:8a55:6a0/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "::1925:d204:118:300:0:48/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "::1525:d204:10d:300:0:49/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "::150:25d2:2409:8a55:230:a250/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "::14:25d2:2409:8a55:ee2:d9c0/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "::13:25d2:2409:8c54:2810:9011/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "::1325:d204:114:300:0:51/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "::131:25d2:2409:8a3c:4003:a580/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "::1225:d206:10d:300:0:bb/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "::1225:d202:114:300:0:87/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "::10bb:2141:26:c200:4:118/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "::10:9b21:3924:987:5442:1000/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "9e95:7c87:37db:db8:88d1:72a0:c78:eba5/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "9d82:fffe:417d:d121:4a24:98a:550e:e831/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "9d12:2409:8c04:1002:8::/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "9b2d:876c:8dac:242c:5c83:60a4:c24:83c1/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "9a3d:ac8:7b65:cde:5db1:ffa2:ce0a:101/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "9:d10::50:25d2:202/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "9983:b061:bd3a:b8c9:efd:b6e0:36f:7fc4/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "98fd:521c:1cc9:6279:cdf:4a40:a254:a8c0/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "98c:410:400:a00::1:a226/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "98c:410:200:800::2:9426/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "98c:287c:e000:510::7921/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "98a:550e:e8b3:b040:8a16:fffe:bfd5:9021/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "98a:550e:e2a6:c084:4ce5:fffe:d017:5e21/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "98a:5506:acfd:8000::121/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "9705:cc41:5ba9:1ad1:9353:9ef5:c78:ee34/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "9626:4379:653b:fcd9:cf21:7724:884:3c24/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "94b3:fc84:c442:1eef:fb8a:19e3:c27:ae33/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "93c5:fa6:6a21:1d0c:78eb:a529:7997:c0a8/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "90b9:fd5c:5cde:21bd:ba52:b28:cdc:cbaa/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "9026:6f19:4ed5:68ad:c4ca:6738:36a:3ddb/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "901a:2174:1226:c200:4:114:300:0/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "8de5:8e01:3847:46fd:87e5:a064:cdf:4951/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "8d50:2f76:db67:ef2e:3df:4976:29dc:8fc0/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "8d21:7724:98a:62a8:1982:d0e1:f497:a824/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "8cf9:6d35:768f:5bf6:cec2:2439:c73:df1a/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "8c5d:7abb:ec28:75a3:db73:23c2:c6f:ad98/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "8bb6:3de9:fd11:3d41:b15d:da36:c74:e27b/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "8a55:6a2:7310::1:21a9/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "8a43:a607:baca:c78:eba8:4f74:dcc0:a801/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "8::294:26c2:fdbd:dc02/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "889:312e:773c:cc19:e6fe:a47c:c70:296e/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "887:1a60:1003:200::101:7c26/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "87ff:fe1d:6c6b:21ab:2409:8a55:ee2:d9c0/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "871a:6010:302::1:17c:26c2/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "8719:64:9f::43:21c8/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "8719:64:9f::25:2161/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "8528:a50e:582f:d2b:4d4b:fda1:c78:eba8/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "8357:eb95:e62:1c9d:4dbe:49c8:c78:c0d0/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "810::30:25d2:2409:8c20/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "7e7c:b8bd:1d0c:ca78:8eb:dfc:ab4:6149/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "7b06:9a8f:21a1:11dd:c28a:7f26:c226:503/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "7a49:9a69:1221:7724:98a:4475:74d2:8178/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "7940:2c9d:e5a7:7f86:53d5:1cc3:c27:af09/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "78ef:4ef1:f6c:c0a8:14a:21e8:1b6f:3e31/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "78ef:4e6d:cd70:c0a8:189:2194:156f:3e31/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "78ee:3407:2136:116f:3e31:f026:c2fd:bddc/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "78eb:a09c:5d1:c0a8:146:2158:19b7:c973/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "77ac:1307:3a21:5d19:6f3e:31f0:26c2:fdbd/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "7714:240e:332:fad:b800:a124:16b0:9ae8/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "770c:df4a:40d3:a5ba:c0a8:11c:217a:156f/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "74::201:25d2:2409:8714/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "7314:9877:160e:71f:953:c86a:c78:ef4e/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "7201:d957:1590:fd2:cfd3:530c:df71:8696/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "7186:24ea:6c21:7724:98a:2042:451d:202a/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "6f3e:31f0:26c2:2605:340:cd51:4800:ccad/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "6f21:dcce:2721:a0d:795f:2177:1599:25ee/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "6efe:c90c:78e6:637a:1b20:c0a8:114:21d6/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "6d25:d204:114:300:0:82:2e32:c834/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "6cdc:b8d4:e0d8:3006:1a85:96ec:cdf:4a40/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "6cb8:5bda:ab7c:84e9:e747:3dd9:c78:e663/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "6c4e:830b:25d2:2409:8a20:5ed2:9260:ded8/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "6b0d:cc42:f549:1191:c00::c0/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "6a05:0:240:13ff:feb3:7055:2152:1124/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "69e0:dc3d:edff:fef9:1a13:2156:1224:98c/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "6828:9364:cfe2:2be8:d764:d0b2:c75:958b/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "6617:6810:39d0:82ce:9e3e:11a0:c6f:3a35/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "65c0:5c21:a324:98a:550e:e80e:30ec:1d39/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "6100::5025:d224:e03:70a7/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "60b7:f048:b22:6011:b7c9:73f7:26c2:fdbd/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "6096:94be:dc13:84ba:6d9a:651b:4b40:22e0/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "601f:7cec:25d2:502:1b03::cc10/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "5c40:8580:ded8:7cff:fe4e:2045:2f05:240e/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "5c40:8580:ded8:7cff:fe4e:2045:2f05:1224/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "5ba5:dae0:c343:6226:78e3:befd:c31:407f/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "5aeb:d928:7021:7724:98a:3438:4392:a08d/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "5996:5e1e:4cbd:35a8:8c49:f64e:c78:ebbc/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "591::37:25d2:2408:843c/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "58c3:86d8:7077:e59b:6795:cb8a:c78:e683/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "58:362d:8c1e:bf24:fbe3:409c:80a:98bb/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "57fa:6010:8ec5:7f1d:83c4:c1fd:2177:1224/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "5725:d204:114:300:0:80:6104:f502/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "5696:69d1:532b:5d98:fd52:1c1c:c962:790c/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "55c1:ba40:1740:193:a883:a4ab:37c:e443/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "5504:e279:2014:ac25:fffe:9174:4821:6524/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "5439:3ded:dd76:e03b:28aa:58f3:375:8c9c/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "5400::2121:7611:2409:8c04/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "514e:53:4ca1:fe5a:7e8c:5625:d202:117/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "514e:45:4d9a:e1a8:c9f2:7c25:d204:114/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "5100::1:922:2424:987:7002/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "50da:2aba:4d08:7568:c434:9b3f:327:907d/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "501:d03::bfb:b14e:4608:81cf/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "4cb8:449f:4a31:2ff0:5024:ad0c:7040:853/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "4c12:2409:8c04:1004:a::/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "4bc0:a801:2c21:a600:6f3f:3d4e:26c2:fdbd/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "4b9:6ae:420f:1404:c90b:8ea6:c27:b60e/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "4b5d:28b9:73dc:bca2:d80c:55a3:cde:4c6b/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "4b42:2157:116f:3e31:f026:c226:503:40cd/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "4ab4:2152:2401:7d40:9805:0:269:5fff/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "4800:182e:2a38:5b3f:c2da:25d2:2408:8720/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "4800:182e:2a38:5b3f:c2da:25d2:2408:820c/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "47c0:898b:9a93:321:7724:98a:6222:1511/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "47b6:a45f:4c25:d202:20d:300:0:a2/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "44e7:78f8:837:1409:3bbe:19e1:cb7:fd69/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "44ae:cb21:77c0:a801:2121:7715:2408:8240/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "4425:d204:114:300:0:27:38b3:a16f/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "4408:8a0b:b3c1:8575:ecb3:733b:c70:1347/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "4370:66c1:5c71:4d28:c801:ccaa:378:ee34/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "4291:8f4c:936a:9985:2177:fd42:99e9:6cf1/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "4221:8e24:98a:550e:54aa:f0a4:f58a:fffe/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "4210:30::10dc:21dd:2409/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "4210:30::10bb:213c:26/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "41fe:b62f:1724:98a:205e:d292:60de:d87c/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "4125:d204:114:300:0:55:aa94:21e2/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "4111:2409:8c04:1002:8::/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "40d3:55e0:c0a8:11d:213d:26f:3e31:f026/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "40b:fffe:ed2:e21:4d12:2409:8c04:1004/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "402:fa01::8ff0:105f:6529:f67d/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "402:2600::2:825:d204:114/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "401:1803::3284:e601:8cd:25d6/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "401:1403::f953:f551:6078:9d6a/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "401:1403::dea8:e5ea:7c4c:2e5/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "401:1403::d73f:9449:e768:bf0/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "401:1403::b401:5366:c195:8ed8/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "401:1403::9537:f325:69de:d1f9/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "401:1403::81ac:70c0:2e07:bfbd/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "401:1403::76e3:5ff4:db58:6308/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "401:1403::6550:c909:9a6b:497a/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "401:1403::326:e46e:adbd:28ce/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "400:a00::1:a226:c2fd:bddc/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "3fa:100:0:99:8bd5:f50:929c:af06/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "3ef:2a8b:2018:142c:51b7:4825:c78:e64f/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "340:cd51:4e00:3624:4b07:74b:f15f:25d2/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "340:cd51:3d00:2803:30c0:39cd:c3e8:25d2/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "31:730:7526:c226:503:40cd:514e:86/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "309::42:2176:1124:e00/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "301:1403::f0c9:3a56:1218:b59d/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "301:1403::659:8a1d:646:64c2/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "301:1403::3206:bc54:fe4f:7b78/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "301:1403::26e5:4306:b8e1:ae04/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "2fa:100:0:31:17e9:7133:795d:f5a0/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "29a:ad07:29c:f5e4:c18a:a4b1:3b7:e47a/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "24:432::19:25d2:403/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "24:426::36:25d2:201/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "240:71:11:224e:2409:8c54:2810:9011/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "227:2177:156f:e191:5426:c2fd:bddc:200/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "203:d03::a9a5:490f:b887:c192/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "203:1903::4afa:8009:5e22:b6da/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "202:fa01::ca87:9e0c:7567:db15/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "202:fa01::721:97aa:a881:c789/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "202:803::bfaf:2911:a29a:7c0e/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "201:1403::eee:dfe6:533:74dc/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "200::18e:26c2:fdbd/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "200::18e:26c2:2605/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "2001:3:560:f3c9:91be:c8fe:18c9:2255/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "2001:3:560:f3c9:26c3:bad7:2161:7364/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "2001:3:2814:7c1b:d15a:bceb:157c:150/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "2001:3:1d1a:ac68:e940:9574:48bc:c4dd/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "2001:3:1d1a:ac68:892c:c501:5b6f:5bbb/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "2001:3:1d1a:ac68:2289:8aff:fe14:c91/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "1eeb:8024:1f0:9a6d:b06e:c12f:2524:882/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "1da:6ed6:ab0c:3152:364d:5a8b:c0a8:202/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "1ca1:b71a:4a21:7724:e03:7100:164d:e0d8/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "1c79:fffe:cf63:21:9412:2409:8c04:1004/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "1c00:a000:700::4222:624:98c/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "1c00:a000:700::4221:ee24:98c/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "1c00:a000:700::4221:ee11:2409/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "1c00:a000:700::3721:7024:98c/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "1c00:a000:700::3721:7011:2409/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "1b62:7b57:8e0e:9fba:4cd4:580c:78ee:34be/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "1a60:8df6:5792:c004:9991:6ce0:cdf:a666/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "1a2:26c2:fdbd:dc01:ff:200:efd9:50c/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "1a2:26c2:2605:340:cd51:4e00:53b:a130/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "1a2:26c2:2605:340:cd51:4e00:42f8:fa6f/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "1a2:26c2:2605:340:cd51:4e00:13b2:889c/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "1a2:26c2:2605:340:cd51:3d00:b6d7:459c/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "1a2:26c2:2605:340:cd51:3d00:1f0a:3b6f/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "19:38::236:25d2:202/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "19:25d2:2409:8a62:a819:82d0:e1f4:97a8/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "1925:d204:114:300:0:ed:36e0:413d/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "1925:d204:114:300:0:4d:cac3:b064/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "18cf:6474:30e3:2f26:1a6f:3e31:f026:c2fd/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "189d:8c00:189:a46e:4630:4bed:c78:e672/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "17c:26c2:2605:340:cd51:4e00:189:a7ed/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "17:180::200:25d2:202/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "1625:d204:114:300:0:34:e92b:b8f8/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "1600:7400::2:125:d224:987/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "1521:6524:98a:550e:e38f:30fc:9f1b:fffe/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "14:c36::136:25d2:2409/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "140a:c21:771b:ddc2:8a7f:26c2:fdbd:dc01/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "1403::81d1:d84d:1703:c59f:8d20/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "1400::1725:d224:882:3955/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "13fa:6fcd:8098:3c82:f564:69e3:c6f:1ef0/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "13f:2170:6f:3f3d:4e26:c2fd:bddc:200/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "13c3:25a0:17a8:17a2:26c2:b00c:2798:5d7f/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "13bf:c2ba:5c25:d204:114:300:0:9a/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "128::21:25d2:240e:333/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "1225:d224:98a:550e:5571:5020:86e1:fffe/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "1225:d204:118:300:0:43:6867:fcfc/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "1224:e00:8302::1/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "1224:98c:c03:101a::1/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "120:2194:1b6f:3e31:f026:c2fd:bddc:100/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "1184:2cf6:6689:cda:2a4:e12:4f64:6f25/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "1124:e09:2620:10:100::/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "1124:98c:410:400:a00::1/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "1124:98c:410:200:800::2/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "1124:987:5442:1000:3000::10/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "10e2:2173:26:c200:4:118:300:0/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "10:100::5e26:c2fd:bddc/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "1090:1022:2200::421:9311:2409/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "1090:1022:2200:100:0:7821:aa11:2409/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "104:2177:1579:1eb0:4c26:c2fd:bddc:300/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "103:2203::bace:8a93:99d9:63b6/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "101:fa01::4d60:e634:f176:8b68/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "100:a05:6500::3725:d224/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "100:400::1:2921:d011:240e/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "100:400::1:2921:cc24:e09/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "100:400::1:2921:cc11:240e/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "100:0:b8:d88c:c90f:525b:bf87:6513/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "1004:a::1a2:26c2:fdbd/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "1004:a::1a2:26c2:2605/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "1001::5e:26c2:fdbd:dc03/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "1000::4525:d224:98a:5506/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "1000:3000::10:dc21:dd00:2409/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "1000:3000::10:dc21:d024:987/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "1000:3000::10:dc21:d011:401/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "1000:1000::1:ed21:b624:987/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "1000:1000::1:ed21:b612:2409/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "0:f881:214b:f553:c7e9:ff6:47c0:fda6/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "0:da:91fd:f12e:221c:acb8:5104:7531/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "0:c180:c161:5bf2:e3fa:48e8:220c:abb8/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "0:b7:3ea5:dbec:5742:d1c4:72c3:401a/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "0:ac:4a66:146d:b983:ad3a:7e98:4d03/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "0:aa:cd7a:de36:2272:92b:80bb:f94f/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "0:9f:8953:4313:174e:2b78:5e20:d77a/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "0:66f3:a6b0:a55d:a5e2:dcdb:27a6:35d5/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "0:48:25d2:203:fa01::9b0b/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "0:44:25d2:101:703::5705/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "0:41:25d2:201:1403::b2e6/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "0:401:f03::fd17:9785:a4f5/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "0:401:1403::c86d:ad32:58be/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "0:36:2846:1436:cf39:b5a6:344f:ebc7/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "0:34:25d2:201:1403::3f43/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "0:33:25d2:201:2203::f8f7/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "0:32be:3608:ae0d:ca2c:21:9e3a:5e11/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "0:32:a1b9:a2e5:82fb:9ba3:61c4:9600/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "0:2:925:d202:1fa:100:0:ea/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "0:2:825:d202:122:300:0:d6/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "0:2:3025:d204:115:300:0:ee/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "0:240e:b8f:731:4200:f5ed:4320:996d/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "0:240e:b66:f7b:c900:278f:b8e4:afd8/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "0:240e:90e:2000:2006::/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "0:240e:3a5:5032:9fa1:ab47:c01e:359/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "0:240e:398:3e81:e291:ccc6:cb46:7a19/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "0:240e:391:1a64:57a1:2ad7:13d8:f2ad/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "0:240e:379:9f06:2000:fb8e:1f27:351e/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "0:240e:370:3d0a:31f1:d91b:e1b2:f0d4/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "0:240e:370:3712:7711:41b4:329e:a375/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "0:240e:369:59a4:6501:625:d8df:3c03/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "0:240e:351:379a:a00:2ee5:a3a0:1609/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "0:240e:332:c7d3:3c01:3a33:92bd:b944/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "0:240a:42aa:c200:133c:1fb:67b9:56b8/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "0:2409:8a62:2a13:5b0:c6e7:d103:5612/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "0:2409:8a5e:7853:511:a1ae:276d:3523/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "0:2409:8a55:f4c3:1d90:ded8:7cff:fe23/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "0:2409:8a55:ee9:3df0:24e1:b0ff:fee8/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "0:2409:8a55:ee8:71c0:780c:f7ff:feff/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "0:2409:8a55:e5e:7e10:d4b8:89ff:fe98/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "0:2409:8a55:e54:c400:8c52:69ff:fe10/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "0:2409:8a55:e54:aa50:f806:d8ff:fee9/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "0:2409:8a55:e54:2050:b4fe:3fff:fe7d/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "0:2409:8a55:e405:497d:b0b9:10cf:48f4/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "0:2409:8a55:7a60:9020:ded8:7cff:fe47/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "0:2409:8a55:6ad:52a0::/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "0:2409:8a55:6ab:f7c0::/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "0:2409:8a55:6ab:e8a0:2074:4fff:fe73/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "0:2409:8a55:6a8:5650:48dc:e2ff:fec2/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "0:2409:8a55:6a2:8430::/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "0:2409:8a55:6242:8aa0:ded8:7cff:fe1f/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "0:2409:8a55:5a46:69d0:ded8:7cff:fe61/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "0:2409:8a55:4ec0:6ef0:ded8:7cff:fe25/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "0:2409:8a55:4e0:ded0::/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "0:2409:8a55:4e0:8760:8038:1aff:fe0c/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "0:2409:8a55:4d2:c440:209d:88ff:fe95/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "0:2409:8a55:4d0:4790:dccf:3aff:fe48/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "0:2409:8a55:3346:3b80:ded8:7cff:fe5b/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "0:2409:8a55:2c73:a51f:ded8:7cff:fe54/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "0:2409:8a55:23d:93b0:34cc:4cff:fe4f/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "0:2409:8a55:23a:a5b0::/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "0:2409:8a50:ae64:d060:131b:5a7b:582/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "0:2409:8a44:9b13:dbb0:5439:36bc:99b1/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "0:2409:8a3c:4944:4250:e4db:af74:dede/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "0:2409:8a3c:428:56c0:ded8:7cff:fe61/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "0:2409:8a3c:1605:5d30:ded8:7cff:fe12/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "0:2409:8a3c:1045:d930:ded8:7cff:fe5d/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "0:2409:8a30:58e:ee11:b8bf:be0:79e1/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "0:2409:8a28:51:1b24:e0d1:2528:d8ac/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "0:2409:8a14:b812:ba30:f51b:bf81:b75e/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "0:2409:8a02:1828:cc70:9b2:1484:d1c3/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "0:2409:8754:4210:30::/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "0:2409:8754:4210:10::/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "0:2408:8266:2001:b3b:799d:dbde:297f/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "0:2408:823c:5214:11fd:bbc1:4be9:b77a/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "0:2408:8220:7834:bb51:819c:81aa:d8f9/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "0:217:25d2:202:1403::8d66/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "0:209:25d2:201:1403::54d1/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "0:1a2:26c2:2605:340:cd51:4e00:5235/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "0:1a2:26c2:2605:340:cd51:4000:e08d/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "0:1:4225:d201:1fa:100:0:9/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "0:1:1025:d204:10d:300:0:8b/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "0:17:25d2:401:1803::bd20/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "0:163:25d2:2409:8a28:40a2:6d60:a104/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "0:1625:d204:118:300:0:f6:f0d5/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "0:150:25d2:401:1403::21d4/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "0:14:25d2:201:1403::765d/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "0:139:25d2:302:2303::bf5b/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "0:12:25d2:401:1803::1b3e/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
+    },
+    {
+      "domain": "0:101:d03::51b7:8967:a664/128",
+      "match": "cidr",
+      "label": "IPv6 特殊报文测试目标"
     }
   ]
 }
