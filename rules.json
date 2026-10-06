@@ -237895,6 +237895,81 @@
       "domain": "2402:7500:4e3::/48",
       "match": "cidr",
       "label": "台湾大哥大 5G/4G TW"
+    },
+    {
+      "domain": "akhbarharian.com",
+      "match": "suffix",
+      "label": "Akhbar Harian 马来日报"
+    },
+    {
+      "domain": "carsick.my",
+      "match": "suffix",
+      "label": "CarSick 汽车数码媒体"
+    },
+    {
+      "domain": "firstrade.com",
+      "match": "suffix",
+      "label": "第一证券 官方网站"
+    },
+    {
+      "domain": "firstrade.net",
+      "match": "suffix",
+      "label": "第一证券 API网关"
+    },
+    {
+      "domain": "koreatimes.co.kr",
+      "match": "suffix",
+      "label": "韩国时报 英文新闻网"
+    },
+    {
+      "domain": "lumpurdaily.com",
+      "match": "suffix",
+      "label": "Lumpur Daily 吉隆坡日报"
+    },
+    {
+      "domain": "malaccastraitdaily.com",
+      "match": "suffix",
+      "label": "Malacca Strait 日报"
+    },
+    {
+      "domain": "malaysianewsgazette.com",
+      "match": "suffix",
+      "label": "Malaysia Gazette 新闻"
+    },
+    {
+      "domain": "rtm.gov.my",
+      "match": "suffix",
+      "label": "RTM 马来西亚国家广播"
+    },
+    {
+      "domain": "trendgrnd.com",
+      "match": "suffix",
+      "label": "TrendGrnd 趋势资讯"
+    },
+    {
+      "domain": "27.131.175.0/24",
+      "match": "cidr",
+      "label": "KIRZ 泰国互联网服务 TH"
+    },
+    {
+      "domain": "2405:1200:c000::/34",
+      "match": "cidr",
+      "label": "JCOM 日本宽带网络 JP"
+    },
+    {
+      "domain": "123.110.48.0/22",
+      "match": "cidr",
+      "label": "TBC 台湾宽频通讯 TW"
+    },
+    {
+      "domain": "103.143.93.0/24",
+      "match": "cidr",
+      "label": "中国电信 澳门电信 MO"
+    },
+    {
+      "domain": "102.222.236.0/24",
+      "match": "cidr",
+      "label": "C-Way 计算机网络 ZA"
     }
   ]
 }
