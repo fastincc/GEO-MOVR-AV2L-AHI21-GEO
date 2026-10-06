@@ -238185,6 +238185,41 @@
       "domain": "vitra.com",
       "match": "suffix",
       "label": "Vitra 瑞士经典家具设计"
+    },
+    {
+      "domain": "zulyusmar.com",
+      "match": "suffix",
+      "label": "Zul Yusmar 官方个人站点"
+    },
+    {
+      "domain": "winrayland.com",
+      "match": "suffix",
+      "label": "Winrayland 资讯门户"
+    },
+    {
+      "domain": "bigwheels.my",
+      "match": "suffix",
+      "label": "BigWheels 马来重车物流"
+    },
+    {
+      "domain": "techtalk.my",
+      "match": "suffix",
+      "label": "TechTalk 马来科技博客"
+    },
+    {
+      "domain": "mywheels.my",
+      "match": "suffix",
+      "label": "MyWheels 马来汽车资讯网"
+    },
+    {
+      "domain": "54.233.128.0/17",
+      "match": "cidr",
+      "label": "亚马逊 AWS 巴西圣保罗 US"
+    },
+    {
+      "domain": "43.174.45.0/24",
+      "match": "cidr",
+      "label": "ACE 新加坡云数据中心 SG"
     }
   ]
 }
