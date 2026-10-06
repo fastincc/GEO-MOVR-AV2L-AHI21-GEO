@@ -234720,6 +234720,31 @@
       "domain": "103.57.207.0/24",
       "match": "cidr",
       "label": "Myanmar Country 缅甸 MM"
+    },
+    {
+      "domain": "isaosato.net",
+      "match": "suffix",
+      "label": "Isao Sato 官方个人站点"
+    },
+    {
+      "domain": "2604:3d09:d000::/36",
+      "match": "cidr",
+      "label": "Shaw Communications CA"
+    },
+    {
+      "domain": "240a:61:6000::/37",
+      "match": "cidr",
+      "label": "NTT DOCOMO 日本移动 JP"
+    },
+    {
+      "domain": "24.78.184.0/22",
+      "match": "cidr",
+      "label": "Shaw Communications CA"
+    },
+    {
+      "domain": "109.178.0.0/16",
+      "match": "cidr",
+      "label": "OTE SA 希腊电信 GR"
     }
   ]
 }
