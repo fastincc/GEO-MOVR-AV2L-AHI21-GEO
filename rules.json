@@ -238220,6 +238220,21 @@
       "domain": "43.174.45.0/24",
       "match": "cidr",
       "label": "ACE 新加坡云数据中心 SG"
+    },
+    {
+      "domain": "this-url-does-not-exist-a0c09ac2-358a-4ad9-88e3-72217a808328.invalid",
+      "match": "exact",
+      "label": "测试探针 / 无效域名"
+    },
+    {
+      "domain": "nextrift.com",
+      "match": "suffix",
+      "label": "Nextrift 科技数码评测"
+    },
+    {
+      "domain": "igarage.my",
+      "match": "suffix",
+      "label": "iGarage 马来汽车修配网"
     }
   ]
 }
