@@ -237970,6 +237970,16 @@
       "domain": "102.222.236.0/24",
       "match": "cidr",
       "label": "C-Way 计算机网络 ZA"
+    },
+    {
+      "domain": "this-url-does-not-exist-2bca964b-9c62-41ce-a48e-542690cf93b2.invalid",
+      "match": "exact",
+      "label": "测试探针 / 无效域名"
+    },
+    {
+      "domain": "70.35.160.0/20",
+      "match": "cidr",
+      "label": "Beanfield 加拿大光纤 CA"
     }
   ]
 }
