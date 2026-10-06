@@ -237985,6 +237985,111 @@
       "domain": "2408:8948::/32",
       "match": "cidr",
       "label": "中国联通 骨干网 CN"
+    },
+    {
+      "domain": "yphenxyyazpfv.com",
+      "match": "suffix",
+      "label": "网络服务平台"
+    },
+    {
+      "domain": "dzuxta.cn",
+      "match": "suffix",
+      "label": "网络服务节点"
+    },
+    {
+      "domain": "jrtf.jp",
+      "match": "suffix",
+      "label": "JRTF 日本铁道设施门户"
+    },
+    {
+      "domain": "amblerpisky.cfd",
+      "match": "suffix",
+      "label": "网络服务节点"
+    },
+    {
+      "domain": "malaysiantribune.com",
+      "match": "suffix",
+      "label": "Malaysian Tribune 新闻"
+    },
+    {
+      "domain": "gillyspencie.com",
+      "match": "suffix",
+      "label": "网络服务平台"
+    },
+    {
+      "domain": "mobileairport.net",
+      "match": "suffix",
+      "label": "Mobile Airport 移动航站"
+    },
+    {
+      "domain": "85.9.192.0/21",
+      "match": "cidr",
+      "label": "UpCloud 云计算网络 FI"
+    },
+    {
+      "domain": "45.91.134.0/24",
+      "match": "cidr",
+      "label": "Siamdata 泰国数据中心 TH"
+    },
+    {
+      "domain": "43.231.67.0/24",
+      "match": "cidr",
+      "label": "Telecom Myanmar 缅甸 MM"
+    },
+    {
+      "domain": "40.149.195.0/24",
+      "match": "cidr",
+      "label": "Microsoft 企业网络 US"
+    },
+    {
+      "domain": "219.76.32.0/19",
+      "match": "cidr",
+      "label": "HKT 香港电讯宽带 HK"
+    },
+    {
+      "domain": "219.113.128.0/17",
+      "match": "cidr",
+      "label": "ARTERIA Networks 日本电信"
+    },
+    {
+      "domain": "211.183.213.0/24",
+      "match": "cidr",
+      "label": "Kakao Corp 韩国互联网 KR"
+    },
+    {
+      "domain": "198.44.129.0/24",
+      "match": "cidr",
+      "label": "Tzulo 全球数据中心 US"
+    },
+    {
+      "domain": "14.249.224.0/20",
+      "match": "cidr",
+      "label": "VNPT 越南邮政电信集团 VN"
+    },
+    {
+      "domain": "125.213.224.0/19",
+      "match": "cidr",
+      "label": "Milcom 泰国曼谷宽带 TH"
+    },
+    {
+      "domain": "122.100.104.0/21",
+      "match": "cidr",
+      "label": "台湾大宽频 宽带网络 TW"
+    },
+    {
+      "domain": "121.53.90.0/24",
+      "match": "cidr",
+      "label": "Kakao Corp 韩国互联网 KR"
+    },
+    {
+      "domain": "117.175.172.0/23",
+      "match": "cidr",
+      "label": "中国移动通信集团 CN"
+    },
+    {
+      "domain": "109.105.193.0/24",
+      "match": "cidr",
+      "label": "Haruka Network 英国数据"
     }
   ]
 }
