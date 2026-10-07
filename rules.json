@@ -249595,6 +249595,26 @@
       "domain": "192.0.2.0/24",
       "match": "cidr",
       "label": "TEST-NET-1 文档测试保留地址"
+    },
+    {
+      "domain": "this-url-does-not-exist-ffd9e2e6-988d-472e-89ad-aa0ad18df6f1.invalid",
+      "match": "exact",
+      "label": "测试探针 / 无效域名"
+    },
+    {
+      "domain": "lazada.vn",
+      "match": "suffix",
+      "label": "Lazada 越南电商平台"
+    },
+    {
+      "domain": "lazada.com.ph",
+      "match": "suffix",
+      "label": "Lazada 菲律宾电商平台"
+    },
+    {
+      "domain": "100.32.145.0/24",
+      "match": "cidr",
+      "label": "Verizon Business 宽带 US"
     }
   ]
 }
